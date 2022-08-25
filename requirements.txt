@@ -1,2 +1,4 @@
 eca
 numpy
+scipy
+sympy
