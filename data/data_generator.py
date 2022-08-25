@@ -1,5 +1,4 @@
-from matplotlib.pyplot import imshow, savefig
-from numpy import fliplr, rot90, roll
+from numpy import fliplr, rot90, roll, save
 from eca import OneDimensionalElementaryCellularAutomata 
 
 def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
@@ -18,8 +17,7 @@ def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
         for _ in range(depth):
             ca.transition(rule)
         for symmetry,transform in symmetry_transformations.items():
-            imshow(transform(image=ca.evolution()),cmap='gray')
-            savefig(f"{path}/rule{rule}_ic{initial_condition}_{symmetry}.png")
-
+            with open(f"{path}/rule{rule}_ic{initial_condition}_{symmetry}.npy", 'wb') as spacetime_file:
+                save(spacetime_file, transform(image=ca.evolution()), allow_pickle=False)
 
 generate(path="data",width=100,depth=100,initial_condition=8932)
