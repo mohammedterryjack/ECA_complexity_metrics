@@ -3,7 +3,7 @@ from typing import Optional
 from scipy.fft import fft2, ifft2
 from numpy import array, count_nonzero, argwhere
 
-from metrics.lossless_fourier_compression_metric.utils import S,R,Z,𝝋
+from metrics.lossless_fourier_compression_metric.utils import S,R,C,𝝋
 
 class LosslessFourierCompression:
     def __init__(
@@ -17,12 +17,12 @@ class LosslessFourierCompression:
         self.𝝋_star = self.findNearOptimalFilterFast(spacetime_evolution) if optimal_lossless_filter is None else optimal_lossless_filter
         self.complexity = self.K(spacetime_evolution)
 
-    def C(self,s:S) -> Z:
+    def C(self,s:S) -> C:
         """lossless compression"""
         self.z = self.F(s)
         return self.𝝋_star(self.z)
 
-    def inverse_C(self, z_hat:Z) -> S:
+    def inverse_C(self, z_hat:C) -> S:
         """lossless decompression"""
         self.r_hat = self.inverse_F(z_hat)
         return self.Q(r=self.r_hat,θ=self.θ)
@@ -36,7 +36,7 @@ class LosslessFourierCompression:
         return 1/self.CR(self.z,self.z_hat)
 
     @staticmethod
-    def CR(z:Z, z_hat:Z) -> float:
+    def CR(z:C, z_hat:C) -> float:
         """Compression Ratio"""
         return LosslessFourierCompression.l(z)/LosslessFourierCompression.l(z_hat) 
 
@@ -46,17 +46,17 @@ class LosslessFourierCompression:
         return abs(array(s) - array(s_hat)).sum()
 
     @staticmethod
-    def l(z:Z) -> int:
+    def l(z:C) -> int:
         """compression length"""
         return count_nonzero(z)
 
     @staticmethod
-    def F(r:R) -> Z:
+    def F(r:R) -> C:
         """2D-Fast Fourier Transform"""
         return fft2(r)
 
     @staticmethod
-    def inverse_F(z:Z) -> R:
+    def inverse_F(z:C) -> R:
         """inverse 2D-Fast Fourier Transform"""
         return ifft2(z)
 

@@ -2,7 +2,7 @@ from typing import List
 
 R = List[List[float]]
 S = List[List[int]]
-Z = List[List[complex]]
+C = List[List[complex]]
 class 𝝋:
     def __init__(self, mask:S) -> None:
         self.m = mask
