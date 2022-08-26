@@ -2019,6 +2019,10 @@
       "Test": 0.3,
       "RunLengthEncoding": 0.7924752475247524
    },
+   "data/minimum_complexity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004
+   },
    "data/rule26_ic8932_identity.npy": {
       "Test": 0.3,
       "RunLengthEncoding": 0.3087128712871287
@@ -4174,6 +4178,10 @@
    "data/rule228_ic8932_shift.npy": {
       "Test": 0.3,
       "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/maximum_complexity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5017
    },
    "data/rule211_ic8932_rotation.npy": {
       "Test": 0.3,

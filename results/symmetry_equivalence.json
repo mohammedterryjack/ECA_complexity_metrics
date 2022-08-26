@@ -4606,5 +4606,23 @@
          "data/rule255_ic8932_rotation.npy": -0.01386138613861386,
          "total": 0.013960396039603959
       }
+   },
+   "averages": {
+      "Test": {
+         "identity": 0.0,
+         "inversion": 0.0,
+         "shift": 0.0,
+         "rotation": 0.0,
+         "reflection": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "identity": 0.0,
+         "inversion": 0.0,
+         "shift": 0.000968053836633665,
+         "rotation": 0.22738938737623784,
+         "reflection": 0.000770420792079206,
+         "total": 0.22912786200495042
+      }
    }
 }

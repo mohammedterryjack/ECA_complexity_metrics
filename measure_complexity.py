@@ -1,9 +1,8 @@
 from typing import Dict
 from glob import glob 
 from json import dump
-from numpy import load 
-from metrics.lossless_fourier_compression_metric import LosslessFourierCompression
-from metrics.run_length_encoding import RunLengthEncoding
+from numpy import load
+from metrics import METRICS 
 
 def measure_dataset(data_path:str, complexity_metrics:Dict[str,callable]) -> None:
     data_results = dict()
@@ -21,11 +20,4 @@ def measure_dataset(data_path:str, complexity_metrics:Dict[str,callable]) -> Non
     with open("results/complexities.json","w") as results_file:
         dump(data_results, results_file, indent = 3)
 
-measure_dataset(
-    data_path="data",
-    complexity_metrics = dict(
-        #LosslessFourierCompression =lambda s:LosslessFourierCompression(spacetime_evolution=s).complexity,
-        Test=lambda s:0.3,
-        RunLengthEncoding=lambda s:1/RunLengthEncoding.compression_ratio(image=s),
-  )
-)
+measure_dataset(data_path="data",complexity_metrics = METRICS)
