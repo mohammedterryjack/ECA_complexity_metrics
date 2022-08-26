@@ -1,0 +1,4610 @@
+{
+   "rule0_": {
+      "Test": {
+         "data/rule0_ic8932_rotation.npy": 0.0,
+         "data/rule0_ic8932_shift.npy": 0.0,
+         "data/rule0_ic8932_identity.npy": 0.0,
+         "data/rule0_ic8932_reflection.npy": 0.0,
+         "data/rule0_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule0_ic8932_rotation.npy": -9.90099009900991e-05,
+         "data/rule0_ic8932_shift.npy": 9.900990099009823e-05,
+         "data/rule0_ic8932_identity.npy": 0.0,
+         "data/rule0_ic8932_reflection.npy": 0.0,
+         "data/rule0_ic8932_inversion.npy": 0.0,
+         "total": 0.00019801980198019733
+      }
+   },
+   "rule1_": {
+      "Test": {
+         "data/rule1_ic8932_shift.npy": 0.0,
+         "data/rule1_ic8932_rotation.npy": 0.0,
+         "data/rule1_ic8932_reflection.npy": 0.0,
+         "data/rule1_ic8932_identity.npy": 0.0,
+         "data/rule1_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule1_ic8932_shift.npy": 0.010000000000000002,
+         "data/rule1_ic8932_rotation.npy": -0.9005940594059405,
+         "data/rule1_ic8932_reflection.npy": 0.0,
+         "data/rule1_ic8932_identity.npy": 0.0,
+         "data/rule1_ic8932_inversion.npy": 0.0,
+         "total": 0.9105940594059405
+      }
+   },
+   "rule2_": {
+      "Test": {
+         "data/rule2_ic8932_rotation.npy": 0.0,
+         "data/rule2_ic8932_inversion.npy": 0.0,
+         "data/rule2_ic8932_identity.npy": 0.0,
+         "data/rule2_ic8932_shift.npy": 0.0,
+         "data/rule2_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule2_ic8932_rotation.npy": -0.0003960396039603964,
+         "data/rule2_ic8932_inversion.npy": 0.0,
+         "data/rule2_ic8932_identity.npy": 0.0,
+         "data/rule2_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule2_ic8932_reflection.npy": 0.0005940594059405946,
+         "total": 0.00108910891089109
+      }
+   },
+   "rule3_": {
+      "Test": {
+         "data/rule3_ic8932_rotation.npy": 0.0,
+         "data/rule3_ic8932_inversion.npy": 0.0,
+         "data/rule3_ic8932_reflection.npy": 0.0,
+         "data/rule3_ic8932_shift.npy": 0.0,
+         "data/rule3_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule3_ic8932_rotation.npy": -0.8932673267326732,
+         "data/rule3_ic8932_inversion.npy": 0.0,
+         "data/rule3_ic8932_reflection.npy": 0.0011881188118811892,
+         "data/rule3_ic8932_shift.npy": -0.000891089108910878,
+         "data/rule3_ic8932_identity.npy": 0.0,
+         "total": 0.8953465346534653
+      }
+   },
+   "rule4_": {
+      "Test": {
+         "data/rule4_ic8932_rotation.npy": 0.0,
+         "data/rule4_ic8932_shift.npy": 0.0,
+         "data/rule4_ic8932_inversion.npy": 0.0,
+         "data/rule4_ic8932_reflection.npy": 0.0,
+         "data/rule4_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule4_ic8932_rotation.npy": 0.05564356435643564,
+         "data/rule4_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule4_ic8932_inversion.npy": 0.0,
+         "data/rule4_ic8932_reflection.npy": 0.0,
+         "data/rule4_ic8932_identity.npy": 0.0,
+         "total": 0.05574257425742574
+      }
+   },
+   "rule5_": {
+      "Test": {
+         "data/rule5_ic8932_reflection.npy": 0.0,
+         "data/rule5_ic8932_shift.npy": 0.0,
+         "data/rule5_ic8932_rotation.npy": 0.0,
+         "data/rule5_ic8932_identity.npy": 0.0,
+         "data/rule5_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule5_ic8932_reflection.npy": 0.0,
+         "data/rule5_ic8932_shift.npy": 0.010000000000000009,
+         "data/rule5_ic8932_rotation.npy": -0.7821782178217822,
+         "data/rule5_ic8932_identity.npy": 0.0,
+         "data/rule5_ic8932_inversion.npy": 0.0,
+         "total": 0.7921782178217822
+      }
+   },
+   "rule6_": {
+      "Test": {
+         "data/rule6_ic8932_inversion.npy": 0.0,
+         "data/rule6_ic8932_rotation.npy": 0.0,
+         "data/rule6_ic8932_identity.npy": 0.0,
+         "data/rule6_ic8932_reflection.npy": 0.0,
+         "data/rule6_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule6_ic8932_inversion.npy": 0.0,
+         "data/rule6_ic8932_rotation.npy": 0.0,
+         "data/rule6_ic8932_identity.npy": 0.0,
+         "data/rule6_ic8932_reflection.npy": 0.0005940594059405876,
+         "data/rule6_ic8932_shift.npy": 9.900990099010604e-05,
+         "total": 0.0006930693069306937
+      }
+   },
+   "rule7_": {
+      "Test": {
+         "data/rule7_ic8932_rotation.npy": 0.0,
+         "data/rule7_ic8932_reflection.npy": 0.0,
+         "data/rule7_ic8932_inversion.npy": 0.0,
+         "data/rule7_ic8932_identity.npy": 0.0,
+         "data/rule7_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule7_ic8932_rotation.npy": -0.95009900990099,
+         "data/rule7_ic8932_reflection.npy": 0.0003960396039603964,
+         "data/rule7_ic8932_inversion.npy": 0.0,
+         "data/rule7_ic8932_identity.npy": 0.0,
+         "data/rule7_ic8932_shift.npy": -0.000495049504950499,
+         "total": 0.950990099009901
+      }
+   },
+   "rule8_": {
+      "Test": {
+         "data/rule8_ic8932_rotation.npy": 0.0,
+         "data/rule8_ic8932_inversion.npy": 0.0,
+         "data/rule8_ic8932_shift.npy": 0.0,
+         "data/rule8_ic8932_reflection.npy": 0.0,
+         "data/rule8_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule8_ic8932_rotation.npy": 0.0,
+         "data/rule8_ic8932_inversion.npy": 0.0,
+         "data/rule8_ic8932_shift.npy": 0.0,
+         "data/rule8_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule8_ic8932_identity.npy": 0.0,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule9_": {
+      "Test": {
+         "data/rule9_ic8932_inversion.npy": 0.0,
+         "data/rule9_ic8932_rotation.npy": 0.0,
+         "data/rule9_ic8932_reflection.npy": 0.0,
+         "data/rule9_ic8932_identity.npy": 0.0,
+         "data/rule9_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule9_ic8932_inversion.npy": 0.0,
+         "data/rule9_ic8932_rotation.npy": -0.7524752475247525,
+         "data/rule9_ic8932_reflection.npy": 0.00019801980198018432,
+         "data/rule9_ic8932_identity.npy": 0.0,
+         "data/rule9_ic8932_shift.npy": 0.0004950495049504677,
+         "total": 0.7531683168316832
+      }
+   },
+   "rule10_": {
+      "Test": {
+         "data/rule10_ic8932_shift.npy": 0.0,
+         "data/rule10_ic8932_rotation.npy": 0.0,
+         "data/rule10_ic8932_reflection.npy": 0.0,
+         "data/rule10_ic8932_inversion.npy": 0.0,
+         "data/rule10_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule10_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule10_ic8932_rotation.npy": 0.0,
+         "data/rule10_ic8932_reflection.npy": 0.0007920792079207928,
+         "data/rule10_ic8932_inversion.npy": 0.0,
+         "data/rule10_ic8932_identity.npy": 0.0,
+         "total": 0.0008910891089108919
+      }
+   },
+   "rule11_": {
+      "Test": {
+         "data/rule11_ic8932_rotation.npy": 0.0,
+         "data/rule11_ic8932_shift.npy": 0.0,
+         "data/rule11_ic8932_reflection.npy": 0.0,
+         "data/rule11_ic8932_identity.npy": 0.0,
+         "data/rule11_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule11_ic8932_rotation.npy": -0.8237623762376237,
+         "data/rule11_ic8932_shift.npy": 0.0003960396039603825,
+         "data/rule11_ic8932_reflection.npy": 0.0015841584158415717,
+         "data/rule11_ic8932_identity.npy": 0.0,
+         "data/rule11_ic8932_inversion.npy": 0.0,
+         "total": 0.8257425742574257
+      }
+   },
+   "rule12_": {
+      "Test": {
+         "data/rule12_ic8932_reflection.npy": 0.0,
+         "data/rule12_ic8932_inversion.npy": 0.0,
+         "data/rule12_ic8932_rotation.npy": 0.0,
+         "data/rule12_ic8932_shift.npy": 0.0,
+         "data/rule12_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule12_ic8932_reflection.npy": 0.0,
+         "data/rule12_ic8932_inversion.npy": 0.0,
+         "data/rule12_ic8932_rotation.npy": 0.07544554455445544,
+         "data/rule12_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule12_ic8932_identity.npy": 0.0,
+         "total": 0.07554455445544554
+      }
+   },
+   "rule13_": {
+      "Test": {
+         "data/rule13_ic8932_rotation.npy": 0.0,
+         "data/rule13_ic8932_inversion.npy": 0.0,
+         "data/rule13_ic8932_reflection.npy": 0.0,
+         "data/rule13_ic8932_identity.npy": 0.0,
+         "data/rule13_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule13_ic8932_rotation.npy": 0.23712871287128712,
+         "data/rule13_ic8932_inversion.npy": 0.0,
+         "data/rule13_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule13_ic8932_identity.npy": 0.0,
+         "data/rule13_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.23742574257425741
+      }
+   },
+   "rule14_": {
+      "Test": {
+         "data/rule14_ic8932_rotation.npy": 0.0,
+         "data/rule14_ic8932_shift.npy": 0.0,
+         "data/rule14_ic8932_reflection.npy": 0.0,
+         "data/rule14_ic8932_identity.npy": 0.0,
+         "data/rule14_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule14_ic8932_rotation.npy": 0.0018811881188118829,
+         "data/rule14_ic8932_shift.npy": 0.0,
+         "data/rule14_ic8932_reflection.npy": 0.0014851485148514865,
+         "data/rule14_ic8932_identity.npy": 0.0,
+         "data/rule14_ic8932_inversion.npy": 0.0,
+         "total": 0.0033663366336633693
+      }
+   },
+   "rule15_": {
+      "Test": {
+         "data/rule15_ic8932_rotation.npy": 0.0,
+         "data/rule15_ic8932_shift.npy": 0.0,
+         "data/rule15_ic8932_inversion.npy": 0.0,
+         "data/rule15_ic8932_identity.npy": 0.0,
+         "data/rule15_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule15_ic8932_rotation.npy": -0.8225742574257426,
+         "data/rule15_ic8932_shift.npy": 9.900990099008522e-05,
+         "data/rule15_ic8932_inversion.npy": 0.0,
+         "data/rule15_ic8932_identity.npy": 0.0,
+         "data/rule15_ic8932_reflection.npy": 0.0007920792079207789,
+         "total": 0.8234653465346535
+      }
+   },
+   "rule16_": {
+      "Test": {
+         "data/rule16_ic8932_rotation.npy": 0.0,
+         "data/rule16_ic8932_reflection.npy": 0.0,
+         "data/rule16_ic8932_inversion.npy": 0.0,
+         "data/rule16_ic8932_identity.npy": 0.0,
+         "data/rule16_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule16_ic8932_rotation.npy": -0.0007920792079207997,
+         "data/rule16_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule16_ic8932_inversion.npy": 0.0,
+         "data/rule16_ic8932_identity.npy": 0.0,
+         "data/rule16_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.0014851485148514934
+      }
+   },
+   "rule17_": {
+      "Test": {
+         "data/rule17_ic8932_rotation.npy": 0.0,
+         "data/rule17_ic8932_inversion.npy": 0.0,
+         "data/rule17_ic8932_identity.npy": 0.0,
+         "data/rule17_ic8932_reflection.npy": 0.0,
+         "data/rule17_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule17_ic8932_rotation.npy": -0.8914851485148515,
+         "data/rule17_ic8932_inversion.npy": 0.0,
+         "data/rule17_ic8932_identity.npy": 0.0,
+         "data/rule17_ic8932_reflection.npy": 0.0,
+         "data/rule17_ic8932_shift.npy": 0.0016831683168316708,
+         "total": 0.8931683168316832
+      }
+   },
+   "rule18_": {
+      "Test": {
+         "data/rule18_ic8932_reflection.npy": 0.0,
+         "data/rule18_ic8932_inversion.npy": 0.0,
+         "data/rule18_ic8932_rotation.npy": 0.0,
+         "data/rule18_ic8932_shift.npy": 0.0,
+         "data/rule18_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule18_ic8932_reflection.npy": 0.0,
+         "data/rule18_ic8932_inversion.npy": 0.0,
+         "data/rule18_ic8932_rotation.npy": -0.006534653465346485,
+         "data/rule18_ic8932_shift.npy": 0.0006930693069307492,
+         "data/rule18_ic8932_identity.npy": 0.0,
+         "total": 0.007227722772277234
+      }
+   },
+   "rule19_": {
+      "Test": {
+         "data/rule19_ic8932_rotation.npy": 0.0,
+         "data/rule19_ic8932_inversion.npy": 0.0,
+         "data/rule19_ic8932_shift.npy": 0.0,
+         "data/rule19_ic8932_reflection.npy": 0.0,
+         "data/rule19_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule19_ic8932_rotation.npy": -0.9594059405940595,
+         "data/rule19_ic8932_inversion.npy": 0.0,
+         "data/rule19_ic8932_shift.npy": 0.019900990099009898,
+         "data/rule19_ic8932_reflection.npy": 0.0,
+         "data/rule19_ic8932_identity.npy": 0.0,
+         "total": 0.9793069306930694
+      }
+   },
+   "rule20_": {
+      "Test": {
+         "data/rule20_ic8932_reflection.npy": 0.0,
+         "data/rule20_ic8932_inversion.npy": 0.0,
+         "data/rule20_ic8932_identity.npy": 0.0,
+         "data/rule20_ic8932_shift.npy": 0.0,
+         "data/rule20_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule20_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule20_ic8932_inversion.npy": 0.0,
+         "data/rule20_ic8932_identity.npy": 0.0,
+         "data/rule20_ic8932_shift.npy": 0.0,
+         "data/rule20_ic8932_rotation.npy": 0.0,
+         "total": 0.0007920792079207928
+      }
+   },
+   "rule21_": {
+      "Test": {
+         "data/rule21_ic8932_shift.npy": 0.0,
+         "data/rule21_ic8932_identity.npy": 0.0,
+         "data/rule21_ic8932_inversion.npy": 0.0,
+         "data/rule21_ic8932_reflection.npy": 0.0,
+         "data/rule21_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule21_ic8932_shift.npy": 0.0008910891089108884,
+         "data/rule21_ic8932_identity.npy": 0.0,
+         "data/rule21_ic8932_inversion.npy": 0.0,
+         "data/rule21_ic8932_reflection.npy": 0.0,
+         "data/rule21_ic8932_rotation.npy": -0.9487128712871286,
+         "total": 0.9496039603960394
+      }
+   },
+   "rule22_": {
+      "Test": {
+         "data/rule22_ic8932_reflection.npy": 0.0,
+         "data/rule22_ic8932_identity.npy": 0.0,
+         "data/rule22_ic8932_inversion.npy": 0.0,
+         "data/rule22_ic8932_rotation.npy": 0.0,
+         "data/rule22_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule22_ic8932_reflection.npy": 0.0007920792079207928,
+         "data/rule22_ic8932_identity.npy": 0.0,
+         "data/rule22_ic8932_inversion.npy": 0.0,
+         "data/rule22_ic8932_rotation.npy": -0.14970297029702972,
+         "data/rule22_ic8932_shift.npy": 0.00158415841584153,
+         "total": 0.15207920792079205
+      }
+   },
+   "rule23_": {
+      "Test": {
+         "data/rule23_ic8932_identity.npy": 0.0,
+         "data/rule23_ic8932_reflection.npy": 0.0,
+         "data/rule23_ic8932_shift.npy": 0.0,
+         "data/rule23_ic8932_inversion.npy": 0.0,
+         "data/rule23_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule23_ic8932_identity.npy": 0.0,
+         "data/rule23_ic8932_reflection.npy": 0.0,
+         "data/rule23_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule23_ic8932_inversion.npy": 0.0,
+         "data/rule23_ic8932_rotation.npy": -0.9596039603960395,
+         "total": 0.9597029702970296
+      }
+   },
+   "rule24_": {
+      "Test": {
+         "data/rule24_ic8932_shift.npy": 0.0,
+         "data/rule24_ic8932_reflection.npy": 0.0,
+         "data/rule24_ic8932_inversion.npy": 0.0,
+         "data/rule24_ic8932_identity.npy": 0.0,
+         "data/rule24_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule24_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule24_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule24_ic8932_inversion.npy": 0.0,
+         "data/rule24_ic8932_identity.npy": 0.0,
+         "data/rule24_ic8932_rotation.npy": -0.0005940594059405946,
+         "total": 0.0014851485148514865
+      }
+   },
+   "rule25_": {
+      "Test": {
+         "data/rule25_ic8932_shift.npy": 0.0,
+         "data/rule25_ic8932_inversion.npy": 0.0,
+         "data/rule25_ic8932_identity.npy": 0.0,
+         "data/rule25_ic8932_reflection.npy": 0.0,
+         "data/rule25_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule25_ic8932_shift.npy": -0.0012871287128712883,
+         "data/rule25_ic8932_inversion.npy": 0.0,
+         "data/rule25_ic8932_identity.npy": 0.0,
+         "data/rule25_ic8932_reflection.npy": 0.0,
+         "data/rule25_ic8932_rotation.npy": -0.8431683168316833,
+         "total": 0.8444554455445545
+      }
+   },
+   "rule26_": {
+      "Test": {
+         "data/rule26_ic8932_identity.npy": 0.0,
+         "data/rule26_ic8932_reflection.npy": 0.0,
+         "data/rule26_ic8932_inversion.npy": 0.0,
+         "data/rule26_ic8932_shift.npy": 0.0,
+         "data/rule26_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule26_ic8932_identity.npy": 0.0,
+         "data/rule26_ic8932_reflection.npy": 0.00108910891089109,
+         "data/rule26_ic8932_inversion.npy": 0.0,
+         "data/rule26_ic8932_shift.npy": -0.0003960396039603964,
+         "data/rule26_ic8932_rotation.npy": -0.0016831683168316847,
+         "total": 0.003168316831683171
+      }
+   },
+   "rule27_": {
+      "Test": {
+         "data/rule27_ic8932_identity.npy": 0.0,
+         "data/rule27_ic8932_shift.npy": 0.0,
+         "data/rule27_ic8932_inversion.npy": 0.0,
+         "data/rule27_ic8932_reflection.npy": 0.0,
+         "data/rule27_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule27_ic8932_identity.npy": 0.0,
+         "data/rule27_ic8932_shift.npy": -0.0012871287128712883,
+         "data/rule27_ic8932_inversion.npy": 0.0,
+         "data/rule27_ic8932_reflection.npy": 0.000990099009900991,
+         "data/rule27_ic8932_rotation.npy": -0.8643564356435643,
+         "total": 0.8666336633663366
+      }
+   },
+   "rule28_": {
+      "Test": {
+         "data/rule28_ic8932_identity.npy": 0.0,
+         "data/rule28_ic8932_reflection.npy": 0.0,
+         "data/rule28_ic8932_inversion.npy": 0.0,
+         "data/rule28_ic8932_rotation.npy": 0.0,
+         "data/rule28_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule28_ic8932_identity.npy": 0.0,
+         "data/rule28_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule28_ic8932_inversion.npy": 0.0,
+         "data/rule28_ic8932_rotation.npy": 0.5749504950495049,
+         "data/rule28_ic8932_shift.npy": 0.0,
+         "total": 0.575049504950495
+      }
+   },
+   "rule29_": {
+      "Test": {
+         "data/rule29_ic8932_identity.npy": 0.0,
+         "data/rule29_ic8932_reflection.npy": 0.0,
+         "data/rule29_ic8932_rotation.npy": 0.0,
+         "data/rule29_ic8932_inversion.npy": 0.0,
+         "data/rule29_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule29_ic8932_identity.npy": 0.0,
+         "data/rule29_ic8932_reflection.npy": 0.0,
+         "data/rule29_ic8932_rotation.npy": -0.7823762376237623,
+         "data/rule29_ic8932_inversion.npy": 0.0,
+         "data/rule29_ic8932_shift.npy": 0.010000000000000009,
+         "total": 0.7923762376237623
+      }
+   },
+   "rule30_": {
+      "Test": {
+         "data/rule30_ic8932_identity.npy": 0.0,
+         "data/rule30_ic8932_shift.npy": 0.0,
+         "data/rule30_ic8932_reflection.npy": 0.0,
+         "data/rule30_ic8932_rotation.npy": 0.0,
+         "data/rule30_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule30_ic8932_identity.npy": 0.0,
+         "data/rule30_ic8932_shift.npy": -0.0004950495049504955,
+         "data/rule30_ic8932_reflection.npy": 0.0017821782178217282,
+         "data/rule30_ic8932_rotation.npy": -0.016237623762376252,
+         "data/rule30_ic8932_inversion.npy": 0.0,
+         "total": 0.018514851485148476
+      }
+   },
+   "rule31_": {
+      "Test": {
+         "data/rule31_ic8932_identity.npy": 0.0,
+         "data/rule31_ic8932_shift.npy": 0.0,
+         "data/rule31_ic8932_rotation.npy": 0.0,
+         "data/rule31_ic8932_reflection.npy": 0.0,
+         "data/rule31_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule31_ic8932_identity.npy": 0.0,
+         "data/rule31_ic8932_shift.npy": -0.000495049504950499,
+         "data/rule31_ic8932_rotation.npy": -0.9504950495049503,
+         "data/rule31_ic8932_reflection.npy": 0.0003960396039603964,
+         "data/rule31_ic8932_inversion.npy": 0.0,
+         "total": 0.9513861386138612
+      }
+   },
+   "rule32_": {
+      "Test": {
+         "data/rule32_ic8932_inversion.npy": 0.0,
+         "data/rule32_ic8932_identity.npy": 0.0,
+         "data/rule32_ic8932_reflection.npy": 0.0,
+         "data/rule32_ic8932_rotation.npy": 0.0,
+         "data/rule32_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule32_ic8932_inversion.npy": 0.0,
+         "data/rule32_ic8932_identity.npy": 0.0,
+         "data/rule32_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule32_ic8932_rotation.npy": -0.0001980198019801982,
+         "data/rule32_ic8932_shift.npy": 0.0,
+         "total": 0.0002970297029702973
+      }
+   },
+   "rule33_": {
+      "Test": {
+         "data/rule33_ic8932_identity.npy": 0.0,
+         "data/rule33_ic8932_inversion.npy": 0.0,
+         "data/rule33_ic8932_rotation.npy": 0.0,
+         "data/rule33_ic8932_shift.npy": 0.0,
+         "data/rule33_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule33_ic8932_identity.npy": 0.0,
+         "data/rule33_ic8932_inversion.npy": 0.0,
+         "data/rule33_ic8932_rotation.npy": -0.9001980198019802,
+         "data/rule33_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule33_ic8932_reflection.npy": 0.0,
+         "total": 0.9004950495049505
+      }
+   },
+   "rule34_": {
+      "Test": {
+         "data/rule34_ic8932_identity.npy": 0.0,
+         "data/rule34_ic8932_reflection.npy": 0.0,
+         "data/rule34_ic8932_shift.npy": 0.0,
+         "data/rule34_ic8932_rotation.npy": 0.0,
+         "data/rule34_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule34_ic8932_identity.npy": 0.0,
+         "data/rule34_ic8932_reflection.npy": 0.0005940594059405946,
+         "data/rule34_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule34_ic8932_rotation.npy": -0.0005940594059405946,
+         "data/rule34_ic8932_inversion.npy": 0.0,
+         "total": 0.0012871287128712883
+      }
+   },
+   "rule35_": {
+      "Test": {
+         "data/rule35_ic8932_identity.npy": 0.0,
+         "data/rule35_ic8932_shift.npy": 0.0,
+         "data/rule35_ic8932_inversion.npy": 0.0,
+         "data/rule35_ic8932_rotation.npy": 0.0,
+         "data/rule35_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule35_ic8932_identity.npy": 0.0,
+         "data/rule35_ic8932_shift.npy": -0.0010891089108910762,
+         "data/rule35_ic8932_inversion.npy": 0.0,
+         "data/rule35_ic8932_rotation.npy": -0.8643564356435643,
+         "data/rule35_ic8932_reflection.npy": 0.0015841584158415994,
+         "total": 0.867029702970297
+      }
+   },
+   "rule36_": {
+      "Test": {
+         "data/rule36_ic8932_reflection.npy": 0.0,
+         "data/rule36_ic8932_identity.npy": 0.0,
+         "data/rule36_ic8932_inversion.npy": 0.0,
+         "data/rule36_ic8932_rotation.npy": 0.0,
+         "data/rule36_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule36_ic8932_reflection.npy": 0.0,
+         "data/rule36_ic8932_identity.npy": 0.0,
+         "data/rule36_ic8932_inversion.npy": 0.0,
+         "data/rule36_ic8932_rotation.npy": 0.035841584158415846,
+         "data/rule36_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.035940594059405945
+      }
+   },
+   "rule37_": {
+      "Test": {
+         "data/rule37_ic8932_inversion.npy": 0.0,
+         "data/rule37_ic8932_identity.npy": 0.0,
+         "data/rule37_ic8932_reflection.npy": 0.0,
+         "data/rule37_ic8932_shift.npy": 0.0,
+         "data/rule37_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule37_ic8932_inversion.npy": 0.0,
+         "data/rule37_ic8932_identity.npy": 0.0,
+         "data/rule37_ic8932_reflection.npy": 0.0,
+         "data/rule37_ic8932_shift.npy": 0.009504950495049506,
+         "data/rule37_ic8932_rotation.npy": -0.8986138613861386,
+         "total": 0.9081188118811881
+      }
+   },
+   "rule38_": {
+      "Test": {
+         "data/rule38_ic8932_inversion.npy": 0.0,
+         "data/rule38_ic8932_identity.npy": 0.0,
+         "data/rule38_ic8932_reflection.npy": 0.0,
+         "data/rule38_ic8932_shift.npy": 0.0,
+         "data/rule38_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule38_ic8932_inversion.npy": 0.0,
+         "data/rule38_ic8932_identity.npy": 0.0,
+         "data/rule38_ic8932_reflection.npy": 0.0005940594059405876,
+         "data/rule38_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule38_ic8932_rotation.npy": -0.00019801980198020513,
+         "total": 0.0008910891089108988
+      }
+   },
+   "rule39_": {
+      "Test": {
+         "data/rule39_ic8932_inversion.npy": 0.0,
+         "data/rule39_ic8932_identity.npy": 0.0,
+         "data/rule39_ic8932_shift.npy": 0.0,
+         "data/rule39_ic8932_rotation.npy": 0.0,
+         "data/rule39_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule39_ic8932_inversion.npy": 0.0,
+         "data/rule39_ic8932_identity.npy": 0.0,
+         "data/rule39_ic8932_shift.npy": -0.00108910891089109,
+         "data/rule39_ic8932_rotation.npy": -0.893069306930693,
+         "data/rule39_ic8932_reflection.npy": 0.0007920792079207928,
+         "total": 0.8949504950495049
+      }
+   },
+   "rule40_": {
+      "Test": {
+         "data/rule40_ic8932_shift.npy": 0.0,
+         "data/rule40_ic8932_rotation.npy": 0.0,
+         "data/rule40_ic8932_inversion.npy": 0.0,
+         "data/rule40_ic8932_reflection.npy": 0.0,
+         "data/rule40_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule40_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule40_ic8932_rotation.npy": 0.0,
+         "data/rule40_ic8932_inversion.npy": 0.0,
+         "data/rule40_ic8932_reflection.npy": 0.0,
+         "data/rule40_ic8932_identity.npy": 0.0,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule41_": {
+      "Test": {
+         "data/rule41_ic8932_inversion.npy": 0.0,
+         "data/rule41_ic8932_rotation.npy": 0.0,
+         "data/rule41_ic8932_shift.npy": 0.0,
+         "data/rule41_ic8932_identity.npy": 0.0,
+         "data/rule41_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule41_ic8932_inversion.npy": 0.0,
+         "data/rule41_ic8932_rotation.npy": -0.7362376237623762,
+         "data/rule41_ic8932_shift.npy": 0.0004950495049504955,
+         "data/rule41_ic8932_identity.npy": 0.0,
+         "data/rule41_ic8932_reflection.npy": 0.000990099009900991,
+         "total": 0.7377227722772277
+      }
+   },
+   "rule42_": {
+      "Test": {
+         "data/rule42_ic8932_rotation.npy": 0.0,
+         "data/rule42_ic8932_reflection.npy": 0.0,
+         "data/rule42_ic8932_shift.npy": 0.0,
+         "data/rule42_ic8932_identity.npy": 0.0,
+         "data/rule42_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule42_ic8932_rotation.npy": -0.0001980198019801982,
+         "data/rule42_ic8932_reflection.npy": 0.0007920792079207928,
+         "data/rule42_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule42_ic8932_identity.npy": 0.0,
+         "data/rule42_ic8932_inversion.npy": 0.0,
+         "total": 0.00108910891089109
+      }
+   },
+   "rule43_": {
+      "Test": {
+         "data/rule43_ic8932_rotation.npy": 0.0,
+         "data/rule43_ic8932_identity.npy": 0.0,
+         "data/rule43_ic8932_inversion.npy": 0.0,
+         "data/rule43_ic8932_shift.npy": 0.0,
+         "data/rule43_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule43_ic8932_rotation.npy": -0.8237623762376237,
+         "data/rule43_ic8932_identity.npy": 0.0,
+         "data/rule43_ic8932_inversion.npy": 0.0,
+         "data/rule43_ic8932_shift.npy": 0.0003960396039603825,
+         "data/rule43_ic8932_reflection.npy": 0.0015841584158415717,
+         "total": 0.8257425742574257
+      }
+   },
+   "rule44_": {
+      "Test": {
+         "data/rule44_ic8932_inversion.npy": 0.0,
+         "data/rule44_ic8932_rotation.npy": 0.0,
+         "data/rule44_ic8932_shift.npy": 0.0,
+         "data/rule44_ic8932_reflection.npy": 0.0,
+         "data/rule44_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule44_ic8932_inversion.npy": 0.0,
+         "data/rule44_ic8932_rotation.npy": 0.055445544554455446,
+         "data/rule44_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule44_ic8932_reflection.npy": 0.0,
+         "data/rule44_ic8932_identity.npy": 0.0,
+         "total": 0.055544554455445545
+      }
+   },
+   "rule45_": {
+      "Test": {
+         "data/rule45_ic8932_rotation.npy": 0.0,
+         "data/rule45_ic8932_inversion.npy": 0.0,
+         "data/rule45_ic8932_shift.npy": 0.0,
+         "data/rule45_ic8932_identity.npy": 0.0,
+         "data/rule45_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule45_ic8932_rotation.npy": -0.24,
+         "data/rule45_ic8932_inversion.npy": 0.0,
+         "data/rule45_ic8932_shift.npy": 0.0004950495049504955,
+         "data/rule45_ic8932_identity.npy": 0.0,
+         "data/rule45_ic8932_reflection.npy": 0.0025742574257425765,
+         "total": 0.24306930693069306
+      }
+   },
+   "rule46_": {
+      "Test": {
+         "data/rule46_ic8932_rotation.npy": 0.0,
+         "data/rule46_ic8932_reflection.npy": 0.0,
+         "data/rule46_ic8932_identity.npy": 0.0,
+         "data/rule46_ic8932_shift.npy": 0.0,
+         "data/rule46_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule46_ic8932_rotation.npy": 0.0005940594059406015,
+         "data/rule46_ic8932_reflection.npy": 0.0011881188118811961,
+         "data/rule46_ic8932_identity.npy": 0.0,
+         "data/rule46_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule46_ic8932_inversion.npy": 0.0,
+         "total": 0.0018811881188119037
+      }
+   },
+   "rule47_": {
+      "Test": {
+         "data/rule47_ic8932_rotation.npy": 0.0,
+         "data/rule47_ic8932_reflection.npy": 0.0,
+         "data/rule47_ic8932_identity.npy": 0.0,
+         "data/rule47_ic8932_inversion.npy": 0.0,
+         "data/rule47_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule47_ic8932_rotation.npy": -0.8623762376237623,
+         "data/rule47_ic8932_reflection.npy": 0.0011881188118811892,
+         "data/rule47_ic8932_identity.npy": 0.0,
+         "data/rule47_ic8932_inversion.npy": 0.0,
+         "data/rule47_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.8636633663366335
+      }
+   },
+   "rule48_": {
+      "Test": {
+         "data/rule48_ic8932_rotation.npy": 0.0,
+         "data/rule48_ic8932_reflection.npy": 0.0,
+         "data/rule48_ic8932_shift.npy": 0.0,
+         "data/rule48_ic8932_inversion.npy": 0.0,
+         "data/rule48_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule48_ic8932_rotation.npy": -0.000990099009900991,
+         "data/rule48_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule48_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule48_ic8932_inversion.npy": 0.0,
+         "data/rule48_ic8932_identity.npy": 0.0,
+         "total": 0.0018811881188118829
+      }
+   },
+   "rule49_": {
+      "Test": {
+         "data/rule49_ic8932_rotation.npy": 0.0,
+         "data/rule49_ic8932_shift.npy": 0.0,
+         "data/rule49_ic8932_inversion.npy": 0.0,
+         "data/rule49_ic8932_reflection.npy": 0.0,
+         "data/rule49_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule49_ic8932_rotation.npy": -0.8617821782178218,
+         "data/rule49_ic8932_shift.npy": 0.0026732673267326756,
+         "data/rule49_ic8932_inversion.npy": 0.0,
+         "data/rule49_ic8932_reflection.npy": 0.0,
+         "data/rule49_ic8932_identity.npy": 0.0,
+         "total": 0.8644554455445544
+      }
+   },
+   "rule50_": {
+      "Test": {
+         "data/rule50_ic8932_reflection.npy": 0.0,
+         "data/rule50_ic8932_shift.npy": 0.0,
+         "data/rule50_ic8932_rotation.npy": 0.0,
+         "data/rule50_ic8932_inversion.npy": 0.0,
+         "data/rule50_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule50_ic8932_reflection.npy": -9.900990098998808e-05,
+         "data/rule50_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule50_ic8932_rotation.npy": -0.025643564356435555,
+         "data/rule50_ic8932_inversion.npy": 0.0,
+         "data/rule50_ic8932_identity.npy": 0.0,
+         "total": 0.02594059405940574
+      }
+   },
+   "rule51_": {
+      "Test": {
+         "data/rule51_ic8932_rotation.npy": 0.0,
+         "data/rule51_ic8932_shift.npy": 0.0,
+         "data/rule51_ic8932_reflection.npy": 0.0,
+         "data/rule51_ic8932_inversion.npy": 0.0,
+         "data/rule51_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule51_ic8932_rotation.npy": -0.9009900990099009,
+         "data/rule51_ic8932_shift.npy": 0.019900990099009905,
+         "data/rule51_ic8932_reflection.npy": 0.0,
+         "data/rule51_ic8932_inversion.npy": 0.0,
+         "data/rule51_ic8932_identity.npy": 0.0,
+         "total": 0.9208910891089108
+      }
+   },
+   "rule52_": {
+      "Test": {
+         "data/rule52_ic8932_reflection.npy": 0.0,
+         "data/rule52_ic8932_inversion.npy": 0.0,
+         "data/rule52_ic8932_rotation.npy": 0.0,
+         "data/rule52_ic8932_shift.npy": 0.0,
+         "data/rule52_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule52_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule52_ic8932_inversion.npy": 0.0,
+         "data/rule52_ic8932_rotation.npy": -0.0003960396039603964,
+         "data/rule52_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule52_ic8932_identity.npy": 0.0,
+         "total": 0.0012871287128712883
+      }
+   },
+   "rule53_": {
+      "Test": {
+         "data/rule53_ic8932_inversion.npy": 0.0,
+         "data/rule53_ic8932_rotation.npy": 0.0,
+         "data/rule53_ic8932_reflection.npy": 0.0,
+         "data/rule53_ic8932_identity.npy": 0.0,
+         "data/rule53_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule53_ic8932_inversion.npy": 0.0,
+         "data/rule53_ic8932_rotation.npy": -0.8617821782178218,
+         "data/rule53_ic8932_reflection.npy": 0.0,
+         "data/rule53_ic8932_identity.npy": 0.0,
+         "data/rule53_ic8932_shift.npy": 0.0022772277227722654,
+         "total": 0.864059405940594
+      }
+   },
+   "rule54_": {
+      "Test": {
+         "data/rule54_ic8932_shift.npy": 0.0,
+         "data/rule54_ic8932_rotation.npy": 0.0,
+         "data/rule54_ic8932_reflection.npy": 0.0,
+         "data/rule54_ic8932_inversion.npy": 0.0,
+         "data/rule54_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule54_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule54_ic8932_rotation.npy": -0.207029702970297,
+         "data/rule54_ic8932_reflection.npy": -9.900990099004359e-05,
+         "data/rule54_ic8932_inversion.npy": 0.0,
+         "data/rule54_ic8932_identity.npy": 0.0,
+         "total": 0.20732673267326723
+      }
+   },
+   "rule55_": {
+      "Test": {
+         "data/rule55_ic8932_rotation.npy": 0.0,
+         "data/rule55_ic8932_shift.npy": 0.0,
+         "data/rule55_ic8932_inversion.npy": 0.0,
+         "data/rule55_ic8932_reflection.npy": 0.0,
+         "data/rule55_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule55_ic8932_rotation.npy": -0.9598019801980199,
+         "data/rule55_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule55_ic8932_inversion.npy": 0.0,
+         "data/rule55_ic8932_reflection.npy": 0.0,
+         "data/rule55_ic8932_identity.npy": 0.0,
+         "total": 0.95990099009901
+      }
+   },
+   "rule56_": {
+      "Test": {
+         "data/rule56_ic8932_inversion.npy": 0.0,
+         "data/rule56_ic8932_rotation.npy": 0.0,
+         "data/rule56_ic8932_reflection.npy": 0.0,
+         "data/rule56_ic8932_shift.npy": 0.0,
+         "data/rule56_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule56_ic8932_inversion.npy": 0.0,
+         "data/rule56_ic8932_rotation.npy": -0.0007920792079207789,
+         "data/rule56_ic8932_reflection.npy": -0.0007920792079207789,
+         "data/rule56_ic8932_shift.npy": 0.0,
+         "data/rule56_ic8932_identity.npy": 0.0,
+         "total": 0.0015841584158415578
+      }
+   },
+   "rule57_": {
+      "Test": {
+         "data/rule57_ic8932_rotation.npy": 0.0,
+         "data/rule57_ic8932_inversion.npy": 0.0,
+         "data/rule57_ic8932_identity.npy": 0.0,
+         "data/rule57_ic8932_shift.npy": 0.0,
+         "data/rule57_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule57_ic8932_rotation.npy": -0.36742574257425736,
+         "data/rule57_ic8932_inversion.npy": 0.0,
+         "data/rule57_ic8932_identity.npy": 0.0,
+         "data/rule57_ic8932_shift.npy": 0.0071287128712870795,
+         "data/rule57_ic8932_reflection.npy": 0.006435643564356441,
+         "total": 0.3809900990099009
+      }
+   },
+   "rule58_": {
+      "Test": {
+         "data/rule58_ic8932_reflection.npy": 0.0,
+         "data/rule58_ic8932_rotation.npy": 0.0,
+         "data/rule58_ic8932_inversion.npy": 0.0,
+         "data/rule58_ic8932_identity.npy": 0.0,
+         "data/rule58_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule58_ic8932_reflection.npy": 0.0006930693069306937,
+         "data/rule58_ic8932_rotation.npy": -0.009207920792079216,
+         "data/rule58_ic8932_inversion.npy": 0.0,
+         "data/rule58_ic8932_identity.npy": 0.0,
+         "data/rule58_ic8932_shift.npy": 0.00019801980198030922,
+         "total": 0.010099009900990219
+      }
+   },
+   "rule59_": {
+      "Test": {
+         "data/rule59_ic8932_inversion.npy": 0.0,
+         "data/rule59_ic8932_rotation.npy": 0.0,
+         "data/rule59_ic8932_reflection.npy": 0.0,
+         "data/rule59_ic8932_identity.npy": 0.0,
+         "data/rule59_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule59_ic8932_inversion.npy": 0.0,
+         "data/rule59_ic8932_rotation.npy": -0.8647524752475247,
+         "data/rule59_ic8932_reflection.npy": 0.0015841584158415994,
+         "data/rule59_ic8932_identity.npy": 0.0,
+         "data/rule59_ic8932_shift.npy": -0.0012871287128712883,
+         "total": 0.8676237623762376
+      }
+   },
+   "rule60_": {
+      "Test": {
+         "data/rule60_ic8932_identity.npy": 0.0,
+         "data/rule60_ic8932_reflection.npy": 0.0,
+         "data/rule60_ic8932_shift.npy": 0.0,
+         "data/rule60_ic8932_inversion.npy": 0.0,
+         "data/rule60_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule60_ic8932_identity.npy": 0.0,
+         "data/rule60_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule60_ic8932_shift.npy": 0.0,
+         "data/rule60_ic8932_inversion.npy": 0.0,
+         "data/rule60_ic8932_rotation.npy": 0.0025742574257425765,
+         "total": 0.0027722772277227747
+      }
+   },
+   "rule61_": {
+      "Test": {
+         "data/rule61_ic8932_identity.npy": 0.0,
+         "data/rule61_ic8932_shift.npy": 0.0,
+         "data/rule61_ic8932_inversion.npy": 0.0,
+         "data/rule61_ic8932_rotation.npy": 0.0,
+         "data/rule61_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule61_ic8932_identity.npy": 0.0,
+         "data/rule61_ic8932_shift.npy": 0.0010891089108910831,
+         "data/rule61_ic8932_inversion.npy": 0.0,
+         "data/rule61_ic8932_rotation.npy": -0.907128712871287,
+         "data/rule61_ic8932_reflection.npy": 0.0,
+         "total": 0.9082178217821781
+      }
+   },
+   "rule62_": {
+      "Test": {
+         "data/rule62_ic8932_reflection.npy": 0.0,
+         "data/rule62_ic8932_identity.npy": 0.0,
+         "data/rule62_ic8932_rotation.npy": 0.0,
+         "data/rule62_ic8932_shift.npy": 0.0,
+         "data/rule62_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule62_ic8932_reflection.npy": 0.0060396039603961005,
+         "data/rule62_ic8932_identity.npy": 0.0,
+         "data/rule62_ic8932_rotation.npy": -0.09435643564356438,
+         "data/rule62_ic8932_shift.npy": 0.0,
+         "data/rule62_ic8932_inversion.npy": 0.0,
+         "total": 0.10039603960396049
+      }
+   },
+   "rule63_": {
+      "Test": {
+         "data/rule63_ic8932_identity.npy": 0.0,
+         "data/rule63_ic8932_rotation.npy": 0.0,
+         "data/rule63_ic8932_shift.npy": 0.0,
+         "data/rule63_ic8932_inversion.npy": 0.0,
+         "data/rule63_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule63_ic8932_identity.npy": 0.0,
+         "data/rule63_ic8932_rotation.npy": -0.950891089108911,
+         "data/rule63_ic8932_shift.npy": -0.000495049504950499,
+         "data/rule63_ic8932_inversion.npy": 0.0,
+         "data/rule63_ic8932_reflection.npy": 0.0003960396039603964,
+         "total": 0.9517821782178219
+      }
+   },
+   "rule64_": {
+      "Test": {
+         "data/rule64_ic8932_identity.npy": 0.0,
+         "data/rule64_ic8932_inversion.npy": 0.0,
+         "data/rule64_ic8932_shift.npy": 0.0,
+         "data/rule64_ic8932_reflection.npy": 0.0,
+         "data/rule64_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule64_ic8932_identity.npy": 0.0,
+         "data/rule64_ic8932_inversion.npy": 0.0,
+         "data/rule64_ic8932_shift.npy": 0.0,
+         "data/rule64_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule64_ic8932_rotation.npy": 0.0,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule65_": {
+      "Test": {
+         "data/rule65_ic8932_identity.npy": 0.0,
+         "data/rule65_ic8932_shift.npy": 0.0,
+         "data/rule65_ic8932_inversion.npy": 0.0,
+         "data/rule65_ic8932_rotation.npy": 0.0,
+         "data/rule65_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule65_ic8932_identity.npy": 0.0,
+         "data/rule65_ic8932_shift.npy": 0.0004950495049504955,
+         "data/rule65_ic8932_inversion.npy": 0.0,
+         "data/rule65_ic8932_rotation.npy": -0.8253465346534653,
+         "data/rule65_ic8932_reflection.npy": -0.0005940594059406085,
+         "total": 0.8264356435643564
+      }
+   },
+   "rule66_": {
+      "Test": {
+         "data/rule66_ic8932_identity.npy": 0.0,
+         "data/rule66_ic8932_reflection.npy": 0.0,
+         "data/rule66_ic8932_inversion.npy": 0.0,
+         "data/rule66_ic8932_rotation.npy": 0.0,
+         "data/rule66_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule66_ic8932_identity.npy": 0.0,
+         "data/rule66_ic8932_reflection.npy": 0.0005940594059406015,
+         "data/rule66_ic8932_inversion.npy": 0.0,
+         "data/rule66_ic8932_rotation.npy": 0.0,
+         "data/rule66_ic8932_shift.npy": 9.900990099010604e-05,
+         "total": 0.0006930693069307076
+      }
+   },
+   "rule67_": {
+      "Test": {
+         "data/rule67_ic8932_identity.npy": 0.0,
+         "data/rule67_ic8932_rotation.npy": 0.0,
+         "data/rule67_ic8932_shift.npy": 0.0,
+         "data/rule67_ic8932_inversion.npy": 0.0,
+         "data/rule67_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule67_ic8932_identity.npy": 0.0,
+         "data/rule67_ic8932_rotation.npy": -0.8441584158415841,
+         "data/rule67_ic8932_shift.npy": 0.0014851485148515003,
+         "data/rule67_ic8932_inversion.npy": 0.0,
+         "data/rule67_ic8932_reflection.npy": 0.00019801980198021207,
+         "total": 0.8458415841584158
+      }
+   },
+   "rule68_": {
+      "Test": {
+         "data/rule68_ic8932_reflection.npy": 0.0,
+         "data/rule68_ic8932_identity.npy": 0.0,
+         "data/rule68_ic8932_shift.npy": 0.0,
+         "data/rule68_ic8932_rotation.npy": 0.0,
+         "data/rule68_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule68_ic8932_reflection.npy": 0.0,
+         "data/rule68_ic8932_identity.npy": 0.0,
+         "data/rule68_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule68_ic8932_rotation.npy": 0.07564356435643564,
+         "data/rule68_ic8932_inversion.npy": 0.0,
+         "total": 0.07574257425742574
+      }
+   },
+   "rule69_": {
+      "Test": {
+         "data/rule69_ic8932_identity.npy": 0.0,
+         "data/rule69_ic8932_inversion.npy": 0.0,
+         "data/rule69_ic8932_reflection.npy": 0.0,
+         "data/rule69_ic8932_rotation.npy": 0.0,
+         "data/rule69_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule69_ic8932_identity.npy": 0.0,
+         "data/rule69_ic8932_inversion.npy": 0.0,
+         "data/rule69_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule69_ic8932_rotation.npy": 0.24564356435643564,
+         "data/rule69_ic8932_shift.npy": 0.008415841584158423,
+         "total": 0.25415841584158416
+      }
+   },
+   "rule70_": {
+      "Test": {
+         "data/rule70_ic8932_identity.npy": 0.0,
+         "data/rule70_ic8932_reflection.npy": 0.0,
+         "data/rule70_ic8932_shift.npy": 0.0,
+         "data/rule70_ic8932_rotation.npy": 0.0,
+         "data/rule70_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule70_ic8932_identity.npy": 0.0,
+         "data/rule70_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule70_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule70_ic8932_rotation.npy": 0.5743564356435643,
+         "data/rule70_ic8932_inversion.npy": 0.0,
+         "total": 0.5745544554455445
+      }
+   },
+   "rule71_": {
+      "Test": {
+         "data/rule71_ic8932_shift.npy": 0.0,
+         "data/rule71_ic8932_identity.npy": 0.0,
+         "data/rule71_ic8932_inversion.npy": 0.0,
+         "data/rule71_ic8932_rotation.npy": 0.0,
+         "data/rule71_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule71_ic8932_shift.npy": 0.009999999999999995,
+         "data/rule71_ic8932_identity.npy": 0.0,
+         "data/rule71_ic8932_inversion.npy": 0.0,
+         "data/rule71_ic8932_rotation.npy": -0.8217821782178218,
+         "data/rule71_ic8932_reflection.npy": 0.0,
+         "total": 0.8317821782178219
+      }
+   },
+   "rule72_": {
+      "Test": {
+         "data/rule72_ic8932_identity.npy": 0.0,
+         "data/rule72_ic8932_inversion.npy": 0.0,
+         "data/rule72_ic8932_reflection.npy": 0.0,
+         "data/rule72_ic8932_rotation.npy": 0.0,
+         "data/rule72_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule72_ic8932_identity.npy": 0.0,
+         "data/rule72_ic8932_inversion.npy": 0.0,
+         "data/rule72_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule72_ic8932_rotation.npy": 0.0001980198019801982,
+         "data/rule72_ic8932_shift.npy": 0.0,
+         "total": 0.0002970297029702973
+      }
+   },
+   "rule73_": {
+      "Test": {
+         "data/rule73_ic8932_inversion.npy": 0.0,
+         "data/rule73_ic8932_identity.npy": 0.0,
+         "data/rule73_ic8932_shift.npy": 0.0,
+         "data/rule73_ic8932_rotation.npy": 0.0,
+         "data/rule73_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule73_ic8932_inversion.npy": 0.0,
+         "data/rule73_ic8932_identity.npy": 0.0,
+         "data/rule73_ic8932_shift.npy": 0.005346534653465351,
+         "data/rule73_ic8932_rotation.npy": -0.20168316831683164,
+         "data/rule73_ic8932_reflection.npy": 0.0060396039603961005,
+         "total": 0.2130693069306931
+      }
+   },
+   "rule74_": {
+      "Test": {
+         "data/rule74_ic8932_reflection.npy": 0.0,
+         "data/rule74_ic8932_shift.npy": 0.0,
+         "data/rule74_ic8932_identity.npy": 0.0,
+         "data/rule74_ic8932_inversion.npy": 0.0,
+         "data/rule74_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule74_ic8932_reflection.npy": 0.0005940594059405876,
+         "data/rule74_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule74_ic8932_identity.npy": 0.0,
+         "data/rule74_ic8932_inversion.npy": 0.0,
+         "data/rule74_ic8932_rotation.npy": 0.00019801980198019126,
+         "total": 0.0008910891089108849
+      }
+   },
+   "rule75_": {
+      "Test": {
+         "data/rule75_ic8932_shift.npy": 0.0,
+         "data/rule75_ic8932_identity.npy": 0.0,
+         "data/rule75_ic8932_reflection.npy": 0.0,
+         "data/rule75_ic8932_rotation.npy": 0.0,
+         "data/rule75_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule75_ic8932_shift.npy": -0.0001980198019801982,
+         "data/rule75_ic8932_identity.npy": 0.0,
+         "data/rule75_ic8932_reflection.npy": 0.0017821782178217838,
+         "data/rule75_ic8932_rotation.npy": -0.21980198019801983,
+         "data/rule75_ic8932_inversion.npy": 0.0,
+         "total": 0.2217821782178218
+      }
+   },
+   "rule76_": {
+      "Test": {
+         "data/rule76_ic8932_inversion.npy": 0.0,
+         "data/rule76_ic8932_reflection.npy": 0.0,
+         "data/rule76_ic8932_identity.npy": 0.0,
+         "data/rule76_ic8932_shift.npy": 0.0,
+         "data/rule76_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule76_ic8932_inversion.npy": 0.0,
+         "data/rule76_ic8932_reflection.npy": 0.0,
+         "data/rule76_ic8932_identity.npy": 0.0,
+         "data/rule76_ic8932_shift.npy": 9.900990099011298e-05,
+         "data/rule76_ic8932_rotation.npy": 0.09544554455445545,
+         "total": 0.09554455445544556
+      }
+   },
+   "rule77_": {
+      "Test": {
+         "data/rule77_ic8932_inversion.npy": 0.0,
+         "data/rule77_ic8932_identity.npy": 0.0,
+         "data/rule77_ic8932_shift.npy": 0.0,
+         "data/rule77_ic8932_reflection.npy": 0.0,
+         "data/rule77_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule77_ic8932_inversion.npy": 0.0,
+         "data/rule77_ic8932_identity.npy": 0.0,
+         "data/rule77_ic8932_shift.npy": 0.00019801980198008717,
+         "data/rule77_ic8932_reflection.npy": 9.900990098998808e-05,
+         "data/rule77_ic8932_rotation.npy": 0.5995049504950494,
+         "total": 0.5998019801980194
+      }
+   },
+   "rule78_": {
+      "Test": {
+         "data/rule78_ic8932_identity.npy": 0.0,
+         "data/rule78_ic8932_inversion.npy": 0.0,
+         "data/rule78_ic8932_reflection.npy": 0.0,
+         "data/rule78_ic8932_rotation.npy": 0.0,
+         "data/rule78_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule78_ic8932_identity.npy": 0.0,
+         "data/rule78_ic8932_inversion.npy": 0.0,
+         "data/rule78_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule78_ic8932_rotation.npy": 0.5774257425742574,
+         "data/rule78_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.5778217821782178
+      }
+   },
+   "rule79_": {
+      "Test": {
+         "data/rule79_ic8932_identity.npy": 0.0,
+         "data/rule79_ic8932_inversion.npy": 0.0,
+         "data/rule79_ic8932_rotation.npy": 0.0,
+         "data/rule79_ic8932_reflection.npy": 0.0,
+         "data/rule79_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule79_ic8932_identity.npy": 0.0,
+         "data/rule79_ic8932_inversion.npy": 0.0,
+         "data/rule79_ic8932_rotation.npy": 0.21990099009900987,
+         "data/rule79_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule79_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.22019801980198017
+      }
+   },
+   "rule80_": {
+      "Test": {
+         "data/rule80_ic8932_reflection.npy": 0.0,
+         "data/rule80_ic8932_inversion.npy": 0.0,
+         "data/rule80_ic8932_identity.npy": 0.0,
+         "data/rule80_ic8932_rotation.npy": 0.0,
+         "data/rule80_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule80_ic8932_reflection.npy": -0.0007920792079207997,
+         "data/rule80_ic8932_inversion.npy": 0.0,
+         "data/rule80_ic8932_identity.npy": 0.0,
+         "data/rule80_ic8932_rotation.npy": -0.0005940594059405946,
+         "data/rule80_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.0014851485148514934
+      }
+   },
+   "rule81_": {
+      "Test": {
+         "data/rule81_ic8932_identity.npy": 0.0,
+         "data/rule81_ic8932_inversion.npy": 0.0,
+         "data/rule81_ic8932_reflection.npy": 0.0,
+         "data/rule81_ic8932_shift.npy": 0.0,
+         "data/rule81_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule81_ic8932_identity.npy": 0.0,
+         "data/rule81_ic8932_inversion.npy": 0.0,
+         "data/rule81_ic8932_reflection.npy": -0.0011881188118811892,
+         "data/rule81_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule81_ic8932_rotation.npy": -0.8629702970297028,
+         "total": 0.8642574257425741
+      }
+   },
+   "rule82_": {
+      "Test": {
+         "data/rule82_ic8932_reflection.npy": 0.0,
+         "data/rule82_ic8932_identity.npy": 0.0,
+         "data/rule82_ic8932_shift.npy": 0.0,
+         "data/rule82_ic8932_inversion.npy": 0.0,
+         "data/rule82_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule82_ic8932_reflection.npy": 0.0,
+         "data/rule82_ic8932_identity.npy": 0.0,
+         "data/rule82_ic8932_shift.npy": 0.0006930693069306937,
+         "data/rule82_ic8932_inversion.npy": 0.0,
+         "data/rule82_ic8932_rotation.npy": -0.0007920792079207928,
+         "total": 0.0014851485148514865
+      }
+   },
+   "rule83_": {
+      "Test": {
+         "data/rule83_ic8932_shift.npy": 0.0,
+         "data/rule83_ic8932_identity.npy": 0.0,
+         "data/rule83_ic8932_reflection.npy": 0.0,
+         "data/rule83_ic8932_rotation.npy": 0.0,
+         "data/rule83_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule83_ic8932_shift.npy": 0.0016831683168316708,
+         "data/rule83_ic8932_identity.npy": 0.0,
+         "data/rule83_ic8932_reflection.npy": 0.0,
+         "data/rule83_ic8932_rotation.npy": -0.8914851485148515,
+         "data/rule83_ic8932_inversion.npy": 0.0,
+         "total": 0.8931683168316832
+      }
+   },
+   "rule84_": {
+      "Test": {
+         "data/rule84_ic8932_reflection.npy": 0.0,
+         "data/rule84_ic8932_inversion.npy": 0.0,
+         "data/rule84_ic8932_identity.npy": 0.0,
+         "data/rule84_ic8932_shift.npy": 0.0,
+         "data/rule84_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule84_ic8932_reflection.npy": -0.0015841584158415856,
+         "data/rule84_ic8932_inversion.npy": 0.0,
+         "data/rule84_ic8932_identity.npy": 0.0,
+         "data/rule84_ic8932_shift.npy": 0.0,
+         "data/rule84_ic8932_rotation.npy": -0.0003960396039603964,
+         "total": 0.001980198019801982
+      }
+   },
+   "rule85_": {
+      "Test": {
+         "data/rule85_ic8932_inversion.npy": 0.0,
+         "data/rule85_ic8932_identity.npy": 0.0,
+         "data/rule85_ic8932_shift.npy": 0.0,
+         "data/rule85_ic8932_reflection.npy": 0.0,
+         "data/rule85_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule85_ic8932_inversion.npy": 0.0,
+         "data/rule85_ic8932_identity.npy": 0.0,
+         "data/rule85_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule85_ic8932_reflection.npy": -0.0007920792079207789,
+         "data/rule85_ic8932_rotation.npy": -0.8233663366336634,
+         "total": 0.8242574257425743
+      }
+   },
+   "rule86_": {
+      "Test": {
+         "data/rule86_ic8932_shift.npy": 0.0,
+         "data/rule86_ic8932_identity.npy": 0.0,
+         "data/rule86_ic8932_reflection.npy": 0.0,
+         "data/rule86_ic8932_rotation.npy": 0.0,
+         "data/rule86_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule86_ic8932_shift.npy": -0.0005940594059405391,
+         "data/rule86_ic8932_identity.npy": 0.0,
+         "data/rule86_ic8932_reflection.npy": -0.0028712871287128183,
+         "data/rule86_ic8932_rotation.npy": -0.006435643564356386,
+         "data/rule86_ic8932_inversion.npy": 0.0,
+         "total": 0.009900990099009743
+      }
+   },
+   "rule87_": {
+      "Test": {
+         "data/rule87_ic8932_shift.npy": 0.0,
+         "data/rule87_ic8932_identity.npy": 0.0,
+         "data/rule87_ic8932_inversion.npy": 0.0,
+         "data/rule87_ic8932_reflection.npy": 0.0,
+         "data/rule87_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule87_ic8932_shift.npy": 0.00108910891089109,
+         "data/rule87_ic8932_identity.npy": 0.0,
+         "data/rule87_ic8932_inversion.npy": 0.0,
+         "data/rule87_ic8932_reflection.npy": 0.0,
+         "data/rule87_ic8932_rotation.npy": -0.9502970297029704,
+         "total": 0.9513861386138615
+      }
+   },
+   "rule88_": {
+      "Test": {
+         "data/rule88_ic8932_identity.npy": 0.0,
+         "data/rule88_ic8932_reflection.npy": 0.0,
+         "data/rule88_ic8932_shift.npy": 0.0,
+         "data/rule88_ic8932_rotation.npy": 0.0,
+         "data/rule88_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule88_ic8932_identity.npy": 0.0,
+         "data/rule88_ic8932_reflection.npy": -0.0007920792079207789,
+         "data/rule88_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule88_ic8932_rotation.npy": 0.009306930693069315,
+         "data/rule88_ic8932_inversion.npy": 0.0,
+         "total": 0.010198019801980193
+      }
+   },
+   "rule89_": {
+      "Test": {
+         "data/rule89_ic8932_identity.npy": 0.0,
+         "data/rule89_ic8932_shift.npy": 0.0,
+         "data/rule89_ic8932_reflection.npy": 0.0,
+         "data/rule89_ic8932_rotation.npy": 0.0,
+         "data/rule89_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule89_ic8932_identity.npy": 0.0,
+         "data/rule89_ic8932_shift.npy": 0.000990099009900991,
+         "data/rule89_ic8932_reflection.npy": -0.0015841584158415856,
+         "data/rule89_ic8932_rotation.npy": -0.24693069306930693,
+         "data/rule89_ic8932_inversion.npy": 0.0,
+         "total": 0.2495049504950495
+      }
+   },
+   "rule90_": {
+      "Test": {
+         "data/rule90_ic8932_identity.npy": 0.0,
+         "data/rule90_ic8932_reflection.npy": 0.0,
+         "data/rule90_ic8932_rotation.npy": 0.0,
+         "data/rule90_ic8932_inversion.npy": 0.0,
+         "data/rule90_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule90_ic8932_identity.npy": 0.0,
+         "data/rule90_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule90_ic8932_rotation.npy": 0.018118811881188135,
+         "data/rule90_ic8932_inversion.npy": 0.0,
+         "data/rule90_ic8932_shift.npy": 0.0009900990099010465,
+         "total": 0.01920792079207928
+      }
+   },
+   "rule91_": {
+      "Test": {
+         "data/rule91_ic8932_identity.npy": 0.0,
+         "data/rule91_ic8932_rotation.npy": 0.0,
+         "data/rule91_ic8932_shift.npy": 0.0,
+         "data/rule91_ic8932_inversion.npy": 0.0,
+         "data/rule91_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule91_ic8932_identity.npy": 0.0,
+         "data/rule91_ic8932_rotation.npy": -0.9068316831683169,
+         "data/rule91_ic8932_shift.npy": -0.008712871287128707,
+         "data/rule91_ic8932_inversion.npy": 0.0,
+         "data/rule91_ic8932_reflection.npy": 9.90099009900991e-05,
+         "total": 0.9156435643564357
+      }
+   },
+   "rule92_": {
+      "Test": {
+         "data/rule92_ic8932_identity.npy": 0.0,
+         "data/rule92_ic8932_inversion.npy": 0.0,
+         "data/rule92_ic8932_shift.npy": 0.0,
+         "data/rule92_ic8932_reflection.npy": 0.0,
+         "data/rule92_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule92_ic8932_identity.npy": 0.0,
+         "data/rule92_ic8932_inversion.npy": 0.0,
+         "data/rule92_ic8932_shift.npy": 0.0,
+         "data/rule92_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule92_ic8932_rotation.npy": 0.5773267326732673,
+         "total": 0.5774257425742574
+      }
+   },
+   "rule93_": {
+      "Test": {
+         "data/rule93_ic8932_identity.npy": 0.0,
+         "data/rule93_ic8932_shift.npy": 0.0,
+         "data/rule93_ic8932_inversion.npy": 0.0,
+         "data/rule93_ic8932_rotation.npy": 0.0,
+         "data/rule93_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule93_ic8932_identity.npy": 0.0,
+         "data/rule93_ic8932_shift.npy": 0.008415841584158423,
+         "data/rule93_ic8932_inversion.npy": 0.0,
+         "data/rule93_ic8932_rotation.npy": 0.2286138613861386,
+         "data/rule93_ic8932_reflection.npy": -9.90099009900991e-05,
+         "total": 0.23712871287128712
+      }
+   },
+   "rule94_": {
+      "Test": {
+         "data/rule94_ic8932_reflection.npy": 0.0,
+         "data/rule94_ic8932_identity.npy": 0.0,
+         "data/rule94_ic8932_rotation.npy": 0.0,
+         "data/rule94_ic8932_inversion.npy": 0.0,
+         "data/rule94_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule94_ic8932_reflection.npy": -9.900990098998808e-05,
+         "data/rule94_ic8932_identity.npy": 0.0,
+         "data/rule94_ic8932_rotation.npy": 0.5486138613861387,
+         "data/rule94_ic8932_inversion.npy": 0.0,
+         "data/rule94_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.5489108910891088
+      }
+   },
+   "rule95_": {
+      "Test": {
+         "data/rule95_ic8932_identity.npy": 0.0,
+         "data/rule95_ic8932_inversion.npy": 0.0,
+         "data/rule95_ic8932_shift.npy": 0.0,
+         "data/rule95_ic8932_rotation.npy": 0.0,
+         "data/rule95_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule95_ic8932_identity.npy": 0.0,
+         "data/rule95_ic8932_inversion.npy": 0.0,
+         "data/rule95_ic8932_shift.npy": 0.009999999999999995,
+         "data/rule95_ic8932_rotation.npy": -0.8809900990099009,
+         "data/rule95_ic8932_reflection.npy": 0.0,
+         "total": 0.8909900990099009
+      }
+   },
+   "rule96_": {
+      "Test": {
+         "data/rule96_ic8932_reflection.npy": 0.0,
+         "data/rule96_ic8932_identity.npy": 0.0,
+         "data/rule96_ic8932_inversion.npy": 0.0,
+         "data/rule96_ic8932_shift.npy": 0.0,
+         "data/rule96_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule96_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule96_ic8932_identity.npy": 0.0,
+         "data/rule96_ic8932_inversion.npy": 0.0,
+         "data/rule96_ic8932_shift.npy": 0.0,
+         "data/rule96_ic8932_rotation.npy": 0.0,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule97_": {
+      "Test": {
+         "data/rule97_ic8932_identity.npy": 0.0,
+         "data/rule97_ic8932_shift.npy": 0.0,
+         "data/rule97_ic8932_inversion.npy": 0.0,
+         "data/rule97_ic8932_reflection.npy": 0.0,
+         "data/rule97_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule97_ic8932_identity.npy": 0.0,
+         "data/rule97_ic8932_shift.npy": 9.900990099011298e-05,
+         "data/rule97_ic8932_inversion.npy": 0.0,
+         "data/rule97_ic8932_reflection.npy": -0.0003960396039603825,
+         "data/rule97_ic8932_rotation.npy": -0.8061386138613861,
+         "total": 0.8066336633663366
+      }
+   },
+   "rule98_": {
+      "Test": {
+         "data/rule98_ic8932_shift.npy": 0.0,
+         "data/rule98_ic8932_inversion.npy": 0.0,
+         "data/rule98_ic8932_identity.npy": 0.0,
+         "data/rule98_ic8932_reflection.npy": 0.0,
+         "data/rule98_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule98_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule98_ic8932_inversion.npy": 0.0,
+         "data/rule98_ic8932_identity.npy": 0.0,
+         "data/rule98_ic8932_reflection.npy": 0.0005940594059405807,
+         "data/rule98_ic8932_rotation.npy": -0.00039603960396041027,
+         "total": 0.00108910891089109
+      }
+   },
+   "rule99_": {
+      "Test": {
+         "data/rule99_ic8932_identity.npy": 0.0,
+         "data/rule99_ic8932_shift.npy": 0.0,
+         "data/rule99_ic8932_inversion.npy": 0.0,
+         "data/rule99_ic8932_rotation.npy": 0.0,
+         "data/rule99_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule99_ic8932_identity.npy": 0.0,
+         "data/rule99_ic8932_shift.npy": 0.006930693069306881,
+         "data/rule99_ic8932_inversion.npy": 0.0,
+         "data/rule99_ic8932_rotation.npy": -0.36801980198019796,
+         "data/rule99_ic8932_reflection.npy": 0.006435643564356441,
+         "total": 0.3813861386138613
+      }
+   },
+   "rule100_": {
+      "Test": {
+         "data/rule100_ic8932_rotation.npy": 0.0,
+         "data/rule100_ic8932_shift.npy": 0.0,
+         "data/rule100_ic8932_reflection.npy": 0.0,
+         "data/rule100_ic8932_identity.npy": 0.0,
+         "data/rule100_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule100_ic8932_rotation.npy": 0.07564356435643564,
+         "data/rule100_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule100_ic8932_reflection.npy": 0.0,
+         "data/rule100_ic8932_identity.npy": 0.0,
+         "data/rule100_ic8932_inversion.npy": 0.0,
+         "total": 0.07574257425742574
+      }
+   },
+   "rule101_": {
+      "Test": {
+         "data/rule101_ic8932_reflection.npy": 0.0,
+         "data/rule101_ic8932_rotation.npy": 0.0,
+         "data/rule101_ic8932_shift.npy": 0.0,
+         "data/rule101_ic8932_identity.npy": 0.0,
+         "data/rule101_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule101_ic8932_reflection.npy": -0.0014851485148514865,
+         "data/rule101_ic8932_rotation.npy": -0.21415841584158413,
+         "data/rule101_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule101_ic8932_identity.npy": 0.0,
+         "data/rule101_ic8932_inversion.npy": 0.0,
+         "total": 0.2157425742574257
+      }
+   },
+   "rule102_": {
+      "Test": {
+         "data/rule102_ic8932_rotation.npy": 0.0,
+         "data/rule102_ic8932_inversion.npy": 0.0,
+         "data/rule102_ic8932_reflection.npy": 0.0,
+         "data/rule102_ic8932_identity.npy": 0.0,
+         "data/rule102_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule102_ic8932_rotation.npy": 0.0027722772277227747,
+         "data/rule102_ic8932_inversion.npy": 0.0,
+         "data/rule102_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule102_ic8932_identity.npy": 0.0,
+         "data/rule102_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.003168316831683171
+      }
+   },
+   "rule103_": {
+      "Test": {
+         "data/rule103_ic8932_inversion.npy": 0.0,
+         "data/rule103_ic8932_reflection.npy": 0.0,
+         "data/rule103_ic8932_rotation.npy": 0.0,
+         "data/rule103_ic8932_shift.npy": 0.0,
+         "data/rule103_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule103_ic8932_inversion.npy": 0.0,
+         "data/rule103_ic8932_reflection.npy": 0.0,
+         "data/rule103_ic8932_rotation.npy": -0.8449504950495049,
+         "data/rule103_ic8932_shift.npy": -0.0012871287128712883,
+         "data/rule103_ic8932_identity.npy": 0.0,
+         "total": 0.8462376237623762
+      }
+   },
+   "rule104_": {
+      "Test": {
+         "data/rule104_ic8932_rotation.npy": 0.0,
+         "data/rule104_ic8932_shift.npy": 0.0,
+         "data/rule104_ic8932_identity.npy": 0.0,
+         "data/rule104_ic8932_inversion.npy": 0.0,
+         "data/rule104_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule104_ic8932_rotation.npy": 0.0002970297029702964,
+         "data/rule104_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule104_ic8932_identity.npy": 0.0,
+         "data/rule104_ic8932_inversion.npy": 0.0,
+         "data/rule104_ic8932_reflection.npy": 0.0,
+         "total": 0.0003960396039603955
+      }
+   },
+   "rule105_": {
+      "Test": {
+         "data/rule105_ic8932_shift.npy": 0.0,
+         "data/rule105_ic8932_rotation.npy": 0.0,
+         "data/rule105_ic8932_reflection.npy": 0.0,
+         "data/rule105_ic8932_identity.npy": 0.0,
+         "data/rule105_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule105_ic8932_shift.npy": 0.004158415841584162,
+         "data/rule105_ic8932_rotation.npy": -0.23297029702970296,
+         "data/rule105_ic8932_reflection.npy": 0.00108910891089109,
+         "data/rule105_ic8932_identity.npy": 0.0,
+         "data/rule105_ic8932_inversion.npy": 0.0,
+         "total": 0.2382178217821782
+      }
+   },
+   "rule106_": {
+      "Test": {
+         "data/rule106_ic8932_rotation.npy": 0.0,
+         "data/rule106_ic8932_inversion.npy": 0.0,
+         "data/rule106_ic8932_identity.npy": 0.0,
+         "data/rule106_ic8932_shift.npy": 0.0,
+         "data/rule106_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule106_ic8932_rotation.npy": 0.0009900990099009632,
+         "data/rule106_ic8932_inversion.npy": 0.0,
+         "data/rule106_ic8932_identity.npy": 0.0,
+         "data/rule106_ic8932_shift.npy": 9.900990099007134e-05,
+         "data/rule106_ic8932_reflection.npy": 0.0005940594059405668,
+         "total": 0.0016831683168316014
+      }
+   },
+   "rule107_": {
+      "Test": {
+         "data/rule107_ic8932_rotation.npy": 0.0,
+         "data/rule107_ic8932_reflection.npy": 0.0,
+         "data/rule107_ic8932_inversion.npy": 0.0,
+         "data/rule107_ic8932_identity.npy": 0.0,
+         "data/rule107_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule107_ic8932_rotation.npy": -0.5530693069306931,
+         "data/rule107_ic8932_reflection.npy": 0.0013861386138613874,
+         "data/rule107_ic8932_inversion.npy": 0.0,
+         "data/rule107_ic8932_identity.npy": 0.0,
+         "data/rule107_ic8932_shift.npy": 0.0010891089108911178,
+         "total": 0.5555445544554456
+      }
+   },
+   "rule108_": {
+      "Test": {
+         "data/rule108_ic8932_inversion.npy": 0.0,
+         "data/rule108_ic8932_rotation.npy": 0.0,
+         "data/rule108_ic8932_reflection.npy": 0.0,
+         "data/rule108_ic8932_shift.npy": 0.0,
+         "data/rule108_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule108_ic8932_inversion.npy": 0.0,
+         "data/rule108_ic8932_rotation.npy": 0.05603960396039604,
+         "data/rule108_ic8932_reflection.npy": 0.0,
+         "data/rule108_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule108_ic8932_identity.npy": 0.0,
+         "total": 0.05613861386138614
+      }
+   },
+   "rule109_": {
+      "Test": {
+         "data/rule109_ic8932_inversion.npy": 0.0,
+         "data/rule109_ic8932_reflection.npy": 0.0,
+         "data/rule109_ic8932_rotation.npy": 0.0,
+         "data/rule109_ic8932_identity.npy": 0.0,
+         "data/rule109_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule109_ic8932_inversion.npy": 0.0,
+         "data/rule109_ic8932_reflection.npy": -0.005940594059405946,
+         "data/rule109_ic8932_rotation.npy": -0.218019801980198,
+         "data/rule109_ic8932_identity.npy": 0.0,
+         "data/rule109_ic8932_shift.npy": -0.003069306930693072,
+         "total": 0.227029702970297
+      }
+   },
+   "rule110_": {
+      "Test": {
+         "data/rule110_ic8932_shift.npy": 0.0,
+         "data/rule110_ic8932_rotation.npy": 0.0,
+         "data/rule110_ic8932_inversion.npy": 0.0,
+         "data/rule110_ic8932_reflection.npy": 0.0,
+         "data/rule110_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule110_ic8932_shift.npy": -0.002079207920792081,
+         "data/rule110_ic8932_rotation.npy": 0.0036633663366336666,
+         "data/rule110_ic8932_inversion.npy": 0.0,
+         "data/rule110_ic8932_reflection.npy": 0.0004950495049504955,
+         "data/rule110_ic8932_identity.npy": 0.0,
+         "total": 0.006237623762376243
+      }
+   },
+   "rule111_": {
+      "Test": {
+         "data/rule111_ic8932_shift.npy": 0.0,
+         "data/rule111_ic8932_inversion.npy": 0.0,
+         "data/rule111_ic8932_reflection.npy": 0.0,
+         "data/rule111_ic8932_rotation.npy": 0.0,
+         "data/rule111_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule111_ic8932_shift.npy": 9.900990099008522e-05,
+         "data/rule111_ic8932_inversion.npy": 0.0,
+         "data/rule111_ic8932_reflection.npy": 0.0005940594059405807,
+         "data/rule111_ic8932_rotation.npy": -0.8253465346534654,
+         "data/rule111_ic8932_identity.npy": 0.0,
+         "total": 0.8260396039603961
+      }
+   },
+   "rule112_": {
+      "Test": {
+         "data/rule112_ic8932_rotation.npy": 0.0,
+         "data/rule112_ic8932_shift.npy": 0.0,
+         "data/rule112_ic8932_inversion.npy": 0.0,
+         "data/rule112_ic8932_identity.npy": 0.0,
+         "data/rule112_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule112_ic8932_rotation.npy": -0.0007920792079207928,
+         "data/rule112_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule112_ic8932_inversion.npy": 0.0,
+         "data/rule112_ic8932_identity.npy": 0.0,
+         "data/rule112_ic8932_reflection.npy": -0.000990099009900991,
+         "total": 0.0018811881188118829
+      }
+   },
+   "rule113_": {
+      "Test": {
+         "data/rule113_ic8932_reflection.npy": 0.0,
+         "data/rule113_ic8932_rotation.npy": 0.0,
+         "data/rule113_ic8932_shift.npy": 0.0,
+         "data/rule113_ic8932_inversion.npy": 0.0,
+         "data/rule113_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule113_ic8932_reflection.npy": -0.0014851485148514726,
+         "data/rule113_ic8932_rotation.npy": -0.8244554455445545,
+         "data/rule113_ic8932_shift.npy": 0.00019801980198021207,
+         "data/rule113_ic8932_inversion.npy": 0.0,
+         "data/rule113_ic8932_identity.npy": 0.0,
+         "total": 0.8261386138613862
+      }
+   },
+   "rule114_": {
+      "Test": {
+         "data/rule114_ic8932_inversion.npy": 0.0,
+         "data/rule114_ic8932_rotation.npy": 0.0,
+         "data/rule114_ic8932_shift.npy": 0.0,
+         "data/rule114_ic8932_reflection.npy": 0.0,
+         "data/rule114_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule114_ic8932_inversion.npy": 0.0,
+         "data/rule114_ic8932_rotation.npy": -0.009999999999999898,
+         "data/rule114_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule114_ic8932_reflection.npy": -0.0006930693069305827,
+         "data/rule114_ic8932_identity.npy": 0.0,
+         "total": 0.010891089108910679
+      }
+   },
+   "rule115_": {
+      "Test": {
+         "data/rule115_ic8932_reflection.npy": 0.0,
+         "data/rule115_ic8932_shift.npy": 0.0,
+         "data/rule115_ic8932_rotation.npy": 0.0,
+         "data/rule115_ic8932_inversion.npy": 0.0,
+         "data/rule115_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule115_ic8932_reflection.npy": 0.0,
+         "data/rule115_ic8932_shift.npy": 0.00287128712871286,
+         "data/rule115_ic8932_rotation.npy": -0.8623762376237624,
+         "data/rule115_ic8932_inversion.npy": 0.0,
+         "data/rule115_ic8932_identity.npy": 0.0,
+         "total": 0.8652475247524752
+      }
+   },
+   "rule116_": {
+      "Test": {
+         "data/rule116_ic8932_rotation.npy": 0.0,
+         "data/rule116_ic8932_inversion.npy": 0.0,
+         "data/rule116_ic8932_reflection.npy": 0.0,
+         "data/rule116_ic8932_identity.npy": 0.0,
+         "data/rule116_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule116_ic8932_rotation.npy": -0.0007920792079207928,
+         "data/rule116_ic8932_inversion.npy": 0.0,
+         "data/rule116_ic8932_reflection.npy": -0.0013861386138613874,
+         "data/rule116_ic8932_identity.npy": 0.0,
+         "data/rule116_ic8932_shift.npy": 0.0,
+         "total": 0.00217821782178218
+      }
+   },
+   "rule117_": {
+      "Test": {
+         "data/rule117_ic8932_reflection.npy": 0.0,
+         "data/rule117_ic8932_rotation.npy": 0.0,
+         "data/rule117_ic8932_shift.npy": 0.0,
+         "data/rule117_ic8932_identity.npy": 0.0,
+         "data/rule117_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule117_ic8932_reflection.npy": -0.0014851485148514726,
+         "data/rule117_ic8932_rotation.npy": -0.8244554455445545,
+         "data/rule117_ic8932_shift.npy": 0.00019801980198021207,
+         "data/rule117_ic8932_identity.npy": 0.0,
+         "data/rule117_ic8932_inversion.npy": 0.0,
+         "total": 0.8261386138613862
+      }
+   },
+   "rule118_": {
+      "Test": {
+         "data/rule118_ic8932_rotation.npy": 0.0,
+         "data/rule118_ic8932_shift.npy": 0.0,
+         "data/rule118_ic8932_identity.npy": 0.0,
+         "data/rule118_ic8932_inversion.npy": 0.0,
+         "data/rule118_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule118_ic8932_rotation.npy": -0.08980198019801988,
+         "data/rule118_ic8932_shift.npy": -0.0005940594059406501,
+         "data/rule118_ic8932_identity.npy": 0.0,
+         "data/rule118_ic8932_inversion.npy": 0.0,
+         "data/rule118_ic8932_reflection.npy": -0.006633663366336695,
+         "total": 0.09702970297029723
+      }
+   },
+   "rule119_": {
+      "Test": {
+         "data/rule119_ic8932_rotation.npy": 0.0,
+         "data/rule119_ic8932_reflection.npy": 0.0,
+         "data/rule119_ic8932_inversion.npy": 0.0,
+         "data/rule119_ic8932_identity.npy": 0.0,
+         "data/rule119_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule119_ic8932_rotation.npy": -0.9502970297029704,
+         "data/rule119_ic8932_reflection.npy": 0.0,
+         "data/rule119_ic8932_inversion.npy": 0.0,
+         "data/rule119_ic8932_identity.npy": 0.0,
+         "data/rule119_ic8932_shift.npy": 0.00108910891089109,
+         "total": 0.9513861386138615
+      }
+   },
+   "rule120_": {
+      "Test": {
+         "data/rule120_ic8932_identity.npy": 0.0,
+         "data/rule120_ic8932_shift.npy": 0.0,
+         "data/rule120_ic8932_rotation.npy": 0.0,
+         "data/rule120_ic8932_inversion.npy": 0.0,
+         "data/rule120_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule120_ic8932_identity.npy": 0.0,
+         "data/rule120_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule120_ic8932_rotation.npy": 0.0007920792079207928,
+         "data/rule120_ic8932_inversion.npy": 0.0,
+         "data/rule120_ic8932_reflection.npy": -0.000792079207920765,
+         "total": 0.001683168316831657
+      }
+   },
+   "rule121_": {
+      "Test": {
+         "data/rule121_ic8932_identity.npy": 0.0,
+         "data/rule121_ic8932_reflection.npy": 0.0,
+         "data/rule121_ic8932_shift.npy": 0.0,
+         "data/rule121_ic8932_rotation.npy": 0.0,
+         "data/rule121_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule121_ic8932_identity.npy": 0.0,
+         "data/rule121_ic8932_reflection.npy": 0.0005940594059405668,
+         "data/rule121_ic8932_shift.npy": 0.001980198019801982,
+         "data/rule121_ic8932_rotation.npy": -0.6368316831683167,
+         "data/rule121_ic8932_inversion.npy": 0.0,
+         "total": 0.6394059405940593
+      }
+   },
+   "rule122_": {
+      "Test": {
+         "data/rule122_ic8932_identity.npy": 0.0,
+         "data/rule122_ic8932_inversion.npy": 0.0,
+         "data/rule122_ic8932_rotation.npy": 0.0,
+         "data/rule122_ic8932_shift.npy": 0.0,
+         "data/rule122_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule122_ic8932_identity.npy": 0.0,
+         "data/rule122_ic8932_inversion.npy": 0.0,
+         "data/rule122_ic8932_rotation.npy": -0.18227722772277224,
+         "data/rule122_ic8932_shift.npy": 0.00029702970297032505,
+         "data/rule122_ic8932_reflection.npy": -0.00108910891089109,
+         "total": 0.18366336633663366
+      }
+   },
+   "rule123_": {
+      "Test": {
+         "data/rule123_ic8932_identity.npy": 0.0,
+         "data/rule123_ic8932_inversion.npy": 0.0,
+         "data/rule123_ic8932_reflection.npy": 0.0,
+         "data/rule123_ic8932_rotation.npy": 0.0,
+         "data/rule123_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule123_ic8932_identity.npy": 0.0,
+         "data/rule123_ic8932_inversion.npy": 0.0,
+         "data/rule123_ic8932_reflection.npy": 0.0,
+         "data/rule123_ic8932_rotation.npy": -0.8613861386138615,
+         "data/rule123_ic8932_shift.npy": 0.010099009900990094,
+         "total": 0.8714851485148516
+      }
+   },
+   "rule124_": {
+      "Test": {
+         "data/rule124_ic8932_shift.npy": 0.0,
+         "data/rule124_ic8932_identity.npy": 0.0,
+         "data/rule124_ic8932_inversion.npy": 0.0,
+         "data/rule124_ic8932_rotation.npy": 0.0,
+         "data/rule124_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule124_ic8932_shift.npy": 0.0,
+         "data/rule124_ic8932_identity.npy": 0.0,
+         "data/rule124_ic8932_inversion.npy": 0.0,
+         "data/rule124_ic8932_rotation.npy": 0.0026732673267326756,
+         "data/rule124_ic8932_reflection.npy": -0.002871287128712874,
+         "total": 0.0055445544554455495
+      }
+   },
+   "rule125_": {
+      "Test": {
+         "data/rule125_ic8932_reflection.npy": 0.0,
+         "data/rule125_ic8932_identity.npy": 0.0,
+         "data/rule125_ic8932_shift.npy": 0.0,
+         "data/rule125_ic8932_rotation.npy": 0.0,
+         "data/rule125_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule125_ic8932_reflection.npy": 0.0,
+         "data/rule125_ic8932_identity.npy": 0.0,
+         "data/rule125_ic8932_shift.npy": 0.0006930693069306937,
+         "data/rule125_ic8932_rotation.npy": -0.8241584158415842,
+         "data/rule125_ic8932_inversion.npy": 0.0,
+         "total": 0.8248514851485149
+      }
+   },
+   "rule126_": {
+      "Test": {
+         "data/rule126_ic8932_inversion.npy": 0.0,
+         "data/rule126_ic8932_identity.npy": 0.0,
+         "data/rule126_ic8932_shift.npy": 0.0,
+         "data/rule126_ic8932_reflection.npy": 0.0,
+         "data/rule126_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule126_ic8932_inversion.npy": 0.0,
+         "data/rule126_ic8932_identity.npy": 0.0,
+         "data/rule126_ic8932_shift.npy": 0.0007920792079207928,
+         "data/rule126_ic8932_reflection.npy": 0.0016831683168316847,
+         "data/rule126_ic8932_rotation.npy": -0.18386138613861386,
+         "total": 0.18633663366336634
+      }
+   },
+   "rule127_": {
+      "Test": {
+         "data/rule127_ic8932_reflection.npy": 0.0,
+         "data/rule127_ic8932_identity.npy": 0.0,
+         "data/rule127_ic8932_inversion.npy": 0.0,
+         "data/rule127_ic8932_rotation.npy": 0.0,
+         "data/rule127_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule127_ic8932_reflection.npy": 0.0,
+         "data/rule127_ic8932_identity.npy": 0.0,
+         "data/rule127_ic8932_inversion.npy": 0.0,
+         "data/rule127_ic8932_rotation.npy": -0.9400000000000001,
+         "data/rule127_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.9400990099009902
+      }
+   },
+   "rule128_": {
+      "Test": {
+         "data/rule128_ic8932_identity.npy": 0.0,
+         "data/rule128_ic8932_inversion.npy": 0.0,
+         "data/rule128_ic8932_rotation.npy": 0.0,
+         "data/rule128_ic8932_shift.npy": 0.0,
+         "data/rule128_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule128_ic8932_identity.npy": 0.0,
+         "data/rule128_ic8932_inversion.npy": 0.0,
+         "data/rule128_ic8932_rotation.npy": 0.0,
+         "data/rule128_ic8932_shift.npy": 0.0,
+         "data/rule128_ic8932_reflection.npy": -9.90099009900991e-05,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule129_": {
+      "Test": {
+         "data/rule129_ic8932_inversion.npy": 0.0,
+         "data/rule129_ic8932_identity.npy": 0.0,
+         "data/rule129_ic8932_reflection.npy": 0.0,
+         "data/rule129_ic8932_shift.npy": 0.0,
+         "data/rule129_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule129_ic8932_inversion.npy": 0.0,
+         "data/rule129_ic8932_identity.npy": 0.0,
+         "data/rule129_ic8932_reflection.npy": 0.001683168316831657,
+         "data/rule129_ic8932_shift.npy": 0.000990099009900991,
+         "data/rule129_ic8932_rotation.npy": -0.1921782178217822,
+         "total": 0.19485148514851486
+      }
+   },
+   "rule130_": {
+      "Test": {
+         "data/rule130_ic8932_shift.npy": 0.0,
+         "data/rule130_ic8932_inversion.npy": 0.0,
+         "data/rule130_ic8932_identity.npy": 0.0,
+         "data/rule130_ic8932_reflection.npy": 0.0,
+         "data/rule130_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule130_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule130_ic8932_inversion.npy": 0.0,
+         "data/rule130_ic8932_identity.npy": 0.0,
+         "data/rule130_ic8932_reflection.npy": 0.0007920792079207928,
+         "data/rule130_ic8932_rotation.npy": 0.0,
+         "total": 0.0008910891089108919
+      }
+   },
+   "rule131_": {
+      "Test": {
+         "data/rule131_ic8932_inversion.npy": 0.0,
+         "data/rule131_ic8932_reflection.npy": 0.0,
+         "data/rule131_ic8932_identity.npy": 0.0,
+         "data/rule131_ic8932_shift.npy": 0.0,
+         "data/rule131_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule131_ic8932_inversion.npy": 0.0,
+         "data/rule131_ic8932_reflection.npy": 0.005247524752475252,
+         "data/rule131_ic8932_identity.npy": 0.0,
+         "data/rule131_ic8932_shift.npy": 0.0002970297029703528,
+         "data/rule131_ic8932_rotation.npy": -0.07415841584158417,
+         "total": 0.07970297029702977
+      }
+   },
+   "rule132_": {
+      "Test": {
+         "data/rule132_ic8932_identity.npy": 0.0,
+         "data/rule132_ic8932_shift.npy": 0.0,
+         "data/rule132_ic8932_reflection.npy": 0.0,
+         "data/rule132_ic8932_rotation.npy": 0.0,
+         "data/rule132_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule132_ic8932_identity.npy": 0.0,
+         "data/rule132_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule132_ic8932_reflection.npy": 0.0,
+         "data/rule132_ic8932_rotation.npy": 0.07564356435643564,
+         "data/rule132_ic8932_inversion.npy": 0.0,
+         "total": 0.07574257425742574
+      }
+   },
+   "rule133_": {
+      "Test": {
+         "data/rule133_ic8932_reflection.npy": 0.0,
+         "data/rule133_ic8932_identity.npy": 0.0,
+         "data/rule133_ic8932_inversion.npy": 0.0,
+         "data/rule133_ic8932_shift.npy": 0.0,
+         "data/rule133_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule133_ic8932_reflection.npy": -0.0002970297029702973,
+         "data/rule133_ic8932_identity.npy": 0.0,
+         "data/rule133_ic8932_inversion.npy": 0.0,
+         "data/rule133_ic8932_shift.npy": 0.0,
+         "data/rule133_ic8932_rotation.npy": 0.7361386138613861,
+         "total": 0.7364356435643564
+      }
+   },
+   "rule134_": {
+      "Test": {
+         "data/rule134_ic8932_inversion.npy": 0.0,
+         "data/rule134_ic8932_shift.npy": 0.0,
+         "data/rule134_ic8932_identity.npy": 0.0,
+         "data/rule134_ic8932_reflection.npy": 0.0,
+         "data/rule134_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule134_ic8932_inversion.npy": 0.0,
+         "data/rule134_ic8932_shift.npy": 0.0,
+         "data/rule134_ic8932_identity.npy": 0.0,
+         "data/rule134_ic8932_reflection.npy": 0.0006930693069306937,
+         "data/rule134_ic8932_rotation.npy": 0.0008910891089108919,
+         "total": 0.0015841584158415856
+      }
+   },
+   "rule135_": {
+      "Test": {
+         "data/rule135_ic8932_reflection.npy": 0.0,
+         "data/rule135_ic8932_inversion.npy": 0.0,
+         "data/rule135_ic8932_shift.npy": 0.0,
+         "data/rule135_ic8932_identity.npy": 0.0,
+         "data/rule135_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule135_ic8932_reflection.npy": 0.0018811881188118829,
+         "data/rule135_ic8932_inversion.npy": 0.0,
+         "data/rule135_ic8932_shift.npy": 0.0003960396039603964,
+         "data/rule135_ic8932_identity.npy": 0.0,
+         "data/rule135_ic8932_rotation.npy": -0.010990099009901,
+         "total": 0.013267326732673279
+      }
+   },
+   "rule136_": {
+      "Test": {
+         "data/rule136_ic8932_identity.npy": 0.0,
+         "data/rule136_ic8932_inversion.npy": 0.0,
+         "data/rule136_ic8932_shift.npy": 0.0,
+         "data/rule136_ic8932_reflection.npy": 0.0,
+         "data/rule136_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule136_ic8932_identity.npy": 0.0,
+         "data/rule136_ic8932_inversion.npy": 0.0,
+         "data/rule136_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule136_ic8932_reflection.npy": 0.0,
+         "data/rule136_ic8932_rotation.npy": 0.0001980198019801982,
+         "total": 0.0002970297029702973
+      }
+   },
+   "rule137_": {
+      "Test": {
+         "data/rule137_ic8932_identity.npy": 0.0,
+         "data/rule137_ic8932_reflection.npy": 0.0,
+         "data/rule137_ic8932_inversion.npy": 0.0,
+         "data/rule137_ic8932_rotation.npy": 0.0,
+         "data/rule137_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule137_ic8932_identity.npy": 0.0,
+         "data/rule137_ic8932_reflection.npy": 0.0005940594059405946,
+         "data/rule137_ic8932_inversion.npy": 0.0,
+         "data/rule137_ic8932_rotation.npy": -0.005148514851485153,
+         "data/rule137_ic8932_shift.npy": -0.0016831683168316847,
+         "total": 0.007425742574257432
+      }
+   },
+   "rule138_": {
+      "Test": {
+         "data/rule138_ic8932_identity.npy": 0.0,
+         "data/rule138_ic8932_reflection.npy": 0.0,
+         "data/rule138_ic8932_rotation.npy": 0.0,
+         "data/rule138_ic8932_shift.npy": 0.0,
+         "data/rule138_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule138_ic8932_identity.npy": 0.0,
+         "data/rule138_ic8932_reflection.npy": 0.000990099009900991,
+         "data/rule138_ic8932_rotation.npy": 0.0003960396039603964,
+         "data/rule138_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule138_ic8932_inversion.npy": 0.0,
+         "total": 0.0014851485148514865
+      }
+   },
+   "rule139_": {
+      "Test": {
+         "data/rule139_ic8932_identity.npy": 0.0,
+         "data/rule139_ic8932_reflection.npy": 0.0,
+         "data/rule139_ic8932_rotation.npy": 0.0,
+         "data/rule139_ic8932_shift.npy": 0.0,
+         "data/rule139_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule139_ic8932_identity.npy": 0.0,
+         "data/rule139_ic8932_reflection.npy": 0.0012871287128712883,
+         "data/rule139_ic8932_rotation.npy": -0.016336633663366337,
+         "data/rule139_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule139_ic8932_inversion.npy": 0.0,
+         "total": 0.017821782178217824
+      }
+   },
+   "rule140_": {
+      "Test": {
+         "data/rule140_ic8932_shift.npy": 0.0,
+         "data/rule140_ic8932_rotation.npy": 0.0,
+         "data/rule140_ic8932_reflection.npy": 0.0,
+         "data/rule140_ic8932_inversion.npy": 0.0,
+         "data/rule140_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule140_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule140_ic8932_rotation.npy": 0.07544554455445544,
+         "data/rule140_ic8932_reflection.npy": 0.0,
+         "data/rule140_ic8932_inversion.npy": 0.0,
+         "data/rule140_ic8932_identity.npy": 0.0,
+         "total": 0.07554455445544554
+      }
+   },
+   "rule141_": {
+      "Test": {
+         "data/rule141_ic8932_shift.npy": 0.0,
+         "data/rule141_ic8932_reflection.npy": 0.0,
+         "data/rule141_ic8932_rotation.npy": 0.0,
+         "data/rule141_ic8932_inversion.npy": 0.0,
+         "data/rule141_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule141_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule141_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule141_ic8932_rotation.npy": 0.5783168316831683,
+         "data/rule141_ic8932_inversion.npy": 0.0,
+         "data/rule141_ic8932_identity.npy": 0.0,
+         "total": 0.5786138613861386
+      }
+   },
+   "rule142_": {
+      "Test": {
+         "data/rule142_ic8932_inversion.npy": 0.0,
+         "data/rule142_ic8932_rotation.npy": 0.0,
+         "data/rule142_ic8932_reflection.npy": 0.0,
+         "data/rule142_ic8932_shift.npy": 0.0,
+         "data/rule142_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule142_ic8932_inversion.npy": 0.0,
+         "data/rule142_ic8932_rotation.npy": 0.0018811881188118829,
+         "data/rule142_ic8932_reflection.npy": 0.0014851485148514865,
+         "data/rule142_ic8932_shift.npy": 0.0,
+         "data/rule142_ic8932_identity.npy": 0.0,
+         "total": 0.0033663366336633693
+      }
+   },
+   "rule143_": {
+      "Test": {
+         "data/rule143_ic8932_reflection.npy": 0.0,
+         "data/rule143_ic8932_inversion.npy": 0.0,
+         "data/rule143_ic8932_rotation.npy": 0.0,
+         "data/rule143_ic8932_shift.npy": 0.0,
+         "data/rule143_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule143_ic8932_reflection.npy": 0.0012871287128712883,
+         "data/rule143_ic8932_inversion.npy": 0.0,
+         "data/rule143_ic8932_rotation.npy": -0.014752475247524752,
+         "data/rule143_ic8932_shift.npy": 0.0,
+         "data/rule143_ic8932_identity.npy": 0.0,
+         "total": 0.01603960396039604
+      }
+   },
+   "rule144_": {
+      "Test": {
+         "data/rule144_ic8932_rotation.npy": 0.0,
+         "data/rule144_ic8932_shift.npy": 0.0,
+         "data/rule144_ic8932_reflection.npy": 0.0,
+         "data/rule144_ic8932_identity.npy": 0.0,
+         "data/rule144_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule144_ic8932_rotation.npy": -0.0005940594059406015,
+         "data/rule144_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule144_ic8932_reflection.npy": -0.0005940594059406015,
+         "data/rule144_ic8932_identity.npy": 0.0,
+         "data/rule144_ic8932_inversion.npy": 0.0,
+         "total": 0.0012871287128713021
+      }
+   },
+   "rule145_": {
+      "Test": {
+         "data/rule145_ic8932_shift.npy": 0.0,
+         "data/rule145_ic8932_reflection.npy": 0.0,
+         "data/rule145_ic8932_rotation.npy": 0.0,
+         "data/rule145_ic8932_inversion.npy": 0.0,
+         "data/rule145_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule145_ic8932_shift.npy": -0.006237623762376243,
+         "data/rule145_ic8932_reflection.npy": -0.006534653465346485,
+         "data/rule145_ic8932_rotation.npy": -0.09643564356435647,
+         "data/rule145_ic8932_inversion.npy": 0.0,
+         "data/rule145_ic8932_identity.npy": 0.0,
+         "total": 0.1092079207920792
+      }
+   },
+   "rule146_": {
+      "Test": {
+         "data/rule146_ic8932_inversion.npy": 0.0,
+         "data/rule146_ic8932_rotation.npy": 0.0,
+         "data/rule146_ic8932_identity.npy": 0.0,
+         "data/rule146_ic8932_shift.npy": 0.0,
+         "data/rule146_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule146_ic8932_inversion.npy": 0.0,
+         "data/rule146_ic8932_rotation.npy": -0.007623762376237686,
+         "data/rule146_ic8932_identity.npy": 0.0,
+         "data/rule146_ic8932_shift.npy": -0.0003960396039604519,
+         "data/rule146_ic8932_reflection.npy": 0.0004950495049504955,
+         "total": 0.008514851485148633
+      }
+   },
+   "rule147_": {
+      "Test": {
+         "data/rule147_ic8932_inversion.npy": 0.0,
+         "data/rule147_ic8932_rotation.npy": 0.0,
+         "data/rule147_ic8932_reflection.npy": 0.0,
+         "data/rule147_ic8932_shift.npy": 0.0,
+         "data/rule147_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule147_ic8932_inversion.npy": 0.0,
+         "data/rule147_ic8932_rotation.npy": -0.2156435643564356,
+         "data/rule147_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule147_ic8932_shift.npy": 0.000495049504950551,
+         "data/rule147_ic8932_identity.npy": 0.0,
+         "total": 0.21633663366336636
+      }
+   },
+   "rule148_": {
+      "Test": {
+         "data/rule148_ic8932_inversion.npy": 0.0,
+         "data/rule148_ic8932_rotation.npy": 0.0,
+         "data/rule148_ic8932_shift.npy": 0.0,
+         "data/rule148_ic8932_reflection.npy": 0.0,
+         "data/rule148_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule148_ic8932_inversion.npy": 0.0,
+         "data/rule148_ic8932_rotation.npy": 0.000990099009900991,
+         "data/rule148_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule148_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule148_ic8932_identity.npy": 0.0,
+         "total": 0.001980198019801982
+      }
+   },
+   "rule149_": {
+      "Test": {
+         "data/rule149_ic8932_reflection.npy": 0.0,
+         "data/rule149_ic8932_rotation.npy": 0.0,
+         "data/rule149_ic8932_inversion.npy": 0.0,
+         "data/rule149_ic8932_identity.npy": 0.0,
+         "data/rule149_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule149_ic8932_reflection.npy": -0.003069306930693072,
+         "data/rule149_ic8932_rotation.npy": -0.04643564356435648,
+         "data/rule149_ic8932_inversion.npy": 0.0,
+         "data/rule149_ic8932_identity.npy": 0.0,
+         "data/rule149_ic8932_shift.npy": -0.0005940594059406501,
+         "total": 0.0500990099009902
+      }
+   },
+   "rule150_": {
+      "Test": {
+         "data/rule150_ic8932_inversion.npy": 0.0,
+         "data/rule150_ic8932_rotation.npy": 0.0,
+         "data/rule150_ic8932_shift.npy": 0.0,
+         "data/rule150_ic8932_identity.npy": 0.0,
+         "data/rule150_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule150_ic8932_inversion.npy": 0.0,
+         "data/rule150_ic8932_rotation.npy": -0.030000000000000027,
+         "data/rule150_ic8932_shift.npy": -0.0023762376237623783,
+         "data/rule150_ic8932_identity.npy": 0.0,
+         "data/rule150_ic8932_reflection.npy": -0.00108910891089109,
+         "total": 0.033465346534653495
+      }
+   },
+   "rule151_": {
+      "Test": {
+         "data/rule151_ic8932_shift.npy": 0.0,
+         "data/rule151_ic8932_rotation.npy": 0.0,
+         "data/rule151_ic8932_reflection.npy": 0.0,
+         "data/rule151_ic8932_inversion.npy": 0.0,
+         "data/rule151_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule151_ic8932_shift.npy": -0.0001980198019801982,
+         "data/rule151_ic8932_rotation.npy": -0.13465346534653463,
+         "data/rule151_ic8932_reflection.npy": 0.0005940594059406223,
+         "data/rule151_ic8932_inversion.npy": 0.0,
+         "data/rule151_ic8932_identity.npy": 0.0,
+         "total": 0.13544554455445545
+      }
+   },
+   "rule152_": {
+      "Test": {
+         "data/rule152_ic8932_rotation.npy": 0.0,
+         "data/rule152_ic8932_inversion.npy": 0.0,
+         "data/rule152_ic8932_identity.npy": 0.0,
+         "data/rule152_ic8932_reflection.npy": 0.0,
+         "data/rule152_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule152_ic8932_rotation.npy": -0.0005940594059405946,
+         "data/rule152_ic8932_inversion.npy": 0.0,
+         "data/rule152_ic8932_identity.npy": 0.0,
+         "data/rule152_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule152_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.0014851485148514865
+      }
+   },
+   "rule153_": {
+      "Test": {
+         "data/rule153_ic8932_rotation.npy": 0.0,
+         "data/rule153_ic8932_reflection.npy": 0.0,
+         "data/rule153_ic8932_identity.npy": 0.0,
+         "data/rule153_ic8932_shift.npy": 0.0,
+         "data/rule153_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule153_ic8932_rotation.npy": -0.01128712871287127,
+         "data/rule153_ic8932_reflection.npy": 0.00019801980198022595,
+         "data/rule153_ic8932_identity.npy": 0.0,
+         "data/rule153_ic8932_shift.npy": 0.0003960396039604519,
+         "data/rule153_ic8932_inversion.npy": 0.0,
+         "total": 0.011881188118811947
+      }
+   },
+   "rule154_": {
+      "Test": {
+         "data/rule154_ic8932_rotation.npy": 0.0,
+         "data/rule154_ic8932_shift.npy": 0.0,
+         "data/rule154_ic8932_inversion.npy": 0.0,
+         "data/rule154_ic8932_identity.npy": 0.0,
+         "data/rule154_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule154_ic8932_rotation.npy": -0.000792079207920765,
+         "data/rule154_ic8932_shift.npy": -9.900990099007134e-05,
+         "data/rule154_ic8932_inversion.npy": 0.0,
+         "data/rule154_ic8932_identity.npy": 0.0,
+         "data/rule154_ic8932_reflection.npy": 0.0003960396039603964,
+         "total": 0.0012871287128712328
+      }
+   },
+   "rule155_": {
+      "Test": {
+         "data/rule155_ic8932_shift.npy": 0.0,
+         "data/rule155_ic8932_rotation.npy": 0.0,
+         "data/rule155_ic8932_inversion.npy": 0.0,
+         "data/rule155_ic8932_reflection.npy": 0.0,
+         "data/rule155_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule155_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule155_ic8932_rotation.npy": -0.016732673267326734,
+         "data/rule155_ic8932_inversion.npy": 0.0,
+         "data/rule155_ic8932_reflection.npy": 0.0006930693069306937,
+         "data/rule155_ic8932_identity.npy": 0.0,
+         "total": 0.017623762376237626
+      }
+   },
+   "rule156_": {
+      "Test": {
+         "data/rule156_ic8932_rotation.npy": 0.0,
+         "data/rule156_ic8932_reflection.npy": 0.0,
+         "data/rule156_ic8932_identity.npy": 0.0,
+         "data/rule156_ic8932_shift.npy": 0.0,
+         "data/rule156_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule156_ic8932_rotation.npy": 0.5749504950495049,
+         "data/rule156_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule156_ic8932_identity.npy": 0.0,
+         "data/rule156_ic8932_shift.npy": 0.0,
+         "data/rule156_ic8932_inversion.npy": 0.0,
+         "total": 0.575049504950495
+      }
+   },
+   "rule157_": {
+      "Test": {
+         "data/rule157_ic8932_rotation.npy": 0.0,
+         "data/rule157_ic8932_reflection.npy": 0.0,
+         "data/rule157_ic8932_inversion.npy": 0.0,
+         "data/rule157_ic8932_shift.npy": 0.0,
+         "data/rule157_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule157_ic8932_rotation.npy": 0.5577227722772277,
+         "data/rule157_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule157_ic8932_inversion.npy": 0.0,
+         "data/rule157_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule157_ic8932_identity.npy": 0.0,
+         "total": 0.5579207920792079
+      }
+   },
+   "rule158_": {
+      "Test": {
+         "data/rule158_ic8932_rotation.npy": 0.0,
+         "data/rule158_ic8932_inversion.npy": 0.0,
+         "data/rule158_ic8932_shift.npy": 0.0,
+         "data/rule158_ic8932_reflection.npy": 0.0,
+         "data/rule158_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule158_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule158_ic8932_inversion.npy": 0.0,
+         "data/rule158_ic8932_shift.npy": -0.0001980198019801982,
+         "data/rule158_ic8932_reflection.npy": 0.004257425742574261,
+         "data/rule158_ic8932_identity.npy": 0.0,
+         "total": 0.0045544554455445585
+      }
+   },
+   "rule159_": {
+      "Test": {
+         "data/rule159_ic8932_rotation.npy": 0.0,
+         "data/rule159_ic8932_reflection.npy": 0.0,
+         "data/rule159_ic8932_inversion.npy": 0.0,
+         "data/rule159_ic8932_shift.npy": 0.0,
+         "data/rule159_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule159_ic8932_rotation.npy": -0.017227722772277226,
+         "data/rule159_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule159_ic8932_inversion.npy": 0.0,
+         "data/rule159_ic8932_shift.npy": 9.900990099010257e-05,
+         "data/rule159_ic8932_identity.npy": 0.0,
+         "total": 0.017524752475247526
+      }
+   },
+   "rule160_": {
+      "Test": {
+         "data/rule160_ic8932_shift.npy": 0.0,
+         "data/rule160_ic8932_identity.npy": 0.0,
+         "data/rule160_ic8932_inversion.npy": 0.0,
+         "data/rule160_ic8932_rotation.npy": 0.0,
+         "data/rule160_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule160_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule160_ic8932_identity.npy": 0.0,
+         "data/rule160_ic8932_inversion.npy": 0.0,
+         "data/rule160_ic8932_rotation.npy": 0.0,
+         "data/rule160_ic8932_reflection.npy": 0.0,
+         "total": 9.90099009900991e-05
+      }
+   },
+   "rule161_": {
+      "Test": {
+         "data/rule161_ic8932_shift.npy": 0.0,
+         "data/rule161_ic8932_reflection.npy": 0.0,
+         "data/rule161_ic8932_identity.npy": 0.0,
+         "data/rule161_ic8932_inversion.npy": 0.0,
+         "data/rule161_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule161_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule161_ic8932_reflection.npy": 0.0013861386138613596,
+         "data/rule161_ic8932_identity.npy": 0.0,
+         "data/rule161_ic8932_inversion.npy": 0.0,
+         "data/rule161_ic8932_rotation.npy": -0.20198019801980202,
+         "total": 0.20366336633663368
+      }
+   },
+   "rule162_": {
+      "Test": {
+         "data/rule162_ic8932_inversion.npy": 0.0,
+         "data/rule162_ic8932_identity.npy": 0.0,
+         "data/rule162_ic8932_shift.npy": 0.0,
+         "data/rule162_ic8932_rotation.npy": 0.0,
+         "data/rule162_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule162_ic8932_inversion.npy": 0.0,
+         "data/rule162_ic8932_identity.npy": 0.0,
+         "data/rule162_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule162_ic8932_rotation.npy": -0.00039603960396041027,
+         "data/rule162_ic8932_reflection.npy": 0.0005940594059405807,
+         "total": 0.00108910891089109
+      }
+   },
+   "rule163_": {
+      "Test": {
+         "data/rule163_ic8932_identity.npy": 0.0,
+         "data/rule163_ic8932_inversion.npy": 0.0,
+         "data/rule163_ic8932_reflection.npy": 0.0,
+         "data/rule163_ic8932_shift.npy": 0.0,
+         "data/rule163_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule163_ic8932_identity.npy": 0.0,
+         "data/rule163_ic8932_inversion.npy": 0.0,
+         "data/rule163_ic8932_reflection.npy": 0.0006930693069306937,
+         "data/rule163_ic8932_shift.npy": 0.0005940594059405946,
+         "data/rule163_ic8932_rotation.npy": -0.017128712871287033,
+         "total": 0.01841584158415832
+      }
+   },
+   "rule164_": {
+      "Test": {
+         "data/rule164_ic8932_shift.npy": 0.0,
+         "data/rule164_ic8932_identity.npy": 0.0,
+         "data/rule164_ic8932_reflection.npy": 0.0,
+         "data/rule164_ic8932_inversion.npy": 0.0,
+         "data/rule164_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule164_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule164_ic8932_identity.npy": 0.0,
+         "data/rule164_ic8932_reflection.npy": 0.0,
+         "data/rule164_ic8932_inversion.npy": 0.0,
+         "data/rule164_ic8932_rotation.npy": 0.036039603960396044,
+         "total": 0.03613861386138614
+      }
+   },
+   "rule165_": {
+      "Test": {
+         "data/rule165_ic8932_reflection.npy": 0.0,
+         "data/rule165_ic8932_identity.npy": 0.0,
+         "data/rule165_ic8932_shift.npy": 0.0,
+         "data/rule165_ic8932_inversion.npy": 0.0,
+         "data/rule165_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule165_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule165_ic8932_identity.npy": 0.0,
+         "data/rule165_ic8932_shift.npy": 0.0009900990099010465,
+         "data/rule165_ic8932_inversion.npy": 0.0,
+         "data/rule165_ic8932_rotation.npy": 0.007029702970297036,
+         "total": 0.008118811881188182
+      }
+   },
+   "rule166_": {
+      "Test": {
+         "data/rule166_ic8932_inversion.npy": 0.0,
+         "data/rule166_ic8932_identity.npy": 0.0,
+         "data/rule166_ic8932_shift.npy": 0.0,
+         "data/rule166_ic8932_reflection.npy": 0.0,
+         "data/rule166_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule166_ic8932_inversion.npy": 0.0,
+         "data/rule166_ic8932_identity.npy": 0.0,
+         "data/rule166_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule166_ic8932_reflection.npy": 0.0005940594059405946,
+         "data/rule166_ic8932_rotation.npy": 0.0,
+         "total": 0.0006930693069306937
+      }
+   },
+   "rule167_": {
+      "Test": {
+         "data/rule167_ic8932_reflection.npy": 0.0,
+         "data/rule167_ic8932_inversion.npy": 0.0,
+         "data/rule167_ic8932_identity.npy": 0.0,
+         "data/rule167_ic8932_shift.npy": 0.0,
+         "data/rule167_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule167_ic8932_reflection.npy": 0.0008910891089108641,
+         "data/rule167_ic8932_inversion.npy": 0.0,
+         "data/rule167_ic8932_identity.npy": 0.0,
+         "data/rule167_ic8932_shift.npy": 0.0,
+         "data/rule167_ic8932_rotation.npy": -0.015940594059405955,
+         "total": 0.01683168316831682
+      }
+   },
+   "rule168_": {
+      "Test": {
+         "data/rule168_ic8932_identity.npy": 0.0,
+         "data/rule168_ic8932_inversion.npy": 0.0,
+         "data/rule168_ic8932_rotation.npy": 0.0,
+         "data/rule168_ic8932_shift.npy": 0.0,
+         "data/rule168_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule168_ic8932_identity.npy": 0.0,
+         "data/rule168_ic8932_inversion.npy": 0.0,
+         "data/rule168_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule168_ic8932_shift.npy": 0.0,
+         "data/rule168_ic8932_reflection.npy": -9.90099009900991e-05,
+         "total": 0.0001980198019801982
+      }
+   },
+   "rule169_": {
+      "Test": {
+         "data/rule169_ic8932_identity.npy": 0.0,
+         "data/rule169_ic8932_reflection.npy": 0.0,
+         "data/rule169_ic8932_inversion.npy": 0.0,
+         "data/rule169_ic8932_shift.npy": 0.0,
+         "data/rule169_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule169_ic8932_identity.npy": 0.0,
+         "data/rule169_ic8932_reflection.npy": 0.0003960396039603964,
+         "data/rule169_ic8932_inversion.npy": 0.0,
+         "data/rule169_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule169_ic8932_rotation.npy": -0.014257425742574242,
+         "total": 0.014950495049504936
+      }
+   },
+   "rule170_": {
+      "Test": {
+         "data/rule170_ic8932_identity.npy": 0.0,
+         "data/rule170_ic8932_inversion.npy": 0.0,
+         "data/rule170_ic8932_shift.npy": 0.0,
+         "data/rule170_ic8932_rotation.npy": 0.0,
+         "data/rule170_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule170_ic8932_identity.npy": 0.0,
+         "data/rule170_ic8932_inversion.npy": 0.0,
+         "data/rule170_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule170_ic8932_rotation.npy": 0.0,
+         "data/rule170_ic8932_reflection.npy": 0.0007920792079207928,
+         "total": 0.0008910891089108919
+      }
+   },
+   "rule171_": {
+      "Test": {
+         "data/rule171_ic8932_identity.npy": 0.0,
+         "data/rule171_ic8932_reflection.npy": 0.0,
+         "data/rule171_ic8932_inversion.npy": 0.0,
+         "data/rule171_ic8932_shift.npy": 0.0,
+         "data/rule171_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule171_ic8932_identity.npy": 0.0,
+         "data/rule171_ic8932_reflection.npy": 0.00108910891089109,
+         "data/rule171_ic8932_inversion.npy": 0.0,
+         "data/rule171_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule171_ic8932_rotation.npy": -0.016732673267326734,
+         "total": 0.018019801980198022
+      }
+   },
+   "rule172_": {
+      "Test": {
+         "data/rule172_ic8932_identity.npy": 0.0,
+         "data/rule172_ic8932_rotation.npy": 0.0,
+         "data/rule172_ic8932_reflection.npy": 0.0,
+         "data/rule172_ic8932_inversion.npy": 0.0,
+         "data/rule172_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule172_ic8932_identity.npy": 0.0,
+         "data/rule172_ic8932_rotation.npy": 0.055445544554455446,
+         "data/rule172_ic8932_reflection.npy": 0.0,
+         "data/rule172_ic8932_inversion.npy": 0.0,
+         "data/rule172_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.055544554455445545
+      }
+   },
+   "rule173_": {
+      "Test": {
+         "data/rule173_ic8932_reflection.npy": 0.0,
+         "data/rule173_ic8932_identity.npy": 0.0,
+         "data/rule173_ic8932_rotation.npy": 0.0,
+         "data/rule173_ic8932_shift.npy": 0.0,
+         "data/rule173_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule173_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule173_ic8932_identity.npy": 0.0,
+         "data/rule173_ic8932_rotation.npy": -0.0065346534653465405,
+         "data/rule173_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule173_ic8932_inversion.npy": 0.0,
+         "total": 0.006831683168316838
+      }
+   },
+   "rule174_": {
+      "Test": {
+         "data/rule174_ic8932_shift.npy": 0.0,
+         "data/rule174_ic8932_identity.npy": 0.0,
+         "data/rule174_ic8932_inversion.npy": 0.0,
+         "data/rule174_ic8932_rotation.npy": 0.0,
+         "data/rule174_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule174_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule174_ic8932_identity.npy": 0.0,
+         "data/rule174_ic8932_inversion.npy": 0.0,
+         "data/rule174_ic8932_rotation.npy": 0.000990099009900998,
+         "data/rule174_ic8932_reflection.npy": 0.0011881188118811961,
+         "total": 0.0022772277227723
+      }
+   },
+   "rule175_": {
+      "Test": {
+         "data/rule175_ic8932_inversion.npy": 0.0,
+         "data/rule175_ic8932_identity.npy": 0.0,
+         "data/rule175_ic8932_shift.npy": 0.0,
+         "data/rule175_ic8932_reflection.npy": 0.0,
+         "data/rule175_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule175_ic8932_inversion.npy": 0.0,
+         "data/rule175_ic8932_identity.npy": 0.0,
+         "data/rule175_ic8932_shift.npy": 0.0,
+         "data/rule175_ic8932_reflection.npy": 0.0006930693069307006,
+         "data/rule175_ic8932_rotation.npy": -0.01653465346534653,
+         "total": 0.01722772277227723
+      }
+   },
+   "rule176_": {
+      "Test": {
+         "data/rule176_ic8932_identity.npy": 0.0,
+         "data/rule176_ic8932_shift.npy": 0.0,
+         "data/rule176_ic8932_rotation.npy": 0.0,
+         "data/rule176_ic8932_reflection.npy": 0.0,
+         "data/rule176_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule176_ic8932_identity.npy": 0.0,
+         "data/rule176_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule176_ic8932_rotation.npy": -0.000990099009900991,
+         "data/rule176_ic8932_reflection.npy": -0.0005940594059405807,
+         "data/rule176_ic8932_inversion.npy": 0.0,
+         "total": 0.0016831683168316708
+      }
+   },
+   "rule177_": {
+      "Test": {
+         "data/rule177_ic8932_identity.npy": 0.0,
+         "data/rule177_ic8932_reflection.npy": 0.0,
+         "data/rule177_ic8932_inversion.npy": 0.0,
+         "data/rule177_ic8932_rotation.npy": 0.0,
+         "data/rule177_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule177_ic8932_identity.npy": 0.0,
+         "data/rule177_ic8932_reflection.npy": -0.0008910891089108919,
+         "data/rule177_ic8932_inversion.npy": 0.0,
+         "data/rule177_ic8932_rotation.npy": -0.017920792079207826,
+         "data/rule177_ic8932_shift.npy": 0.0003960396039603964,
+         "total": 0.019207920792079114
+      }
+   },
+   "rule178_": {
+      "Test": {
+         "data/rule178_ic8932_identity.npy": 0.0,
+         "data/rule178_ic8932_reflection.npy": 0.0,
+         "data/rule178_ic8932_inversion.npy": 0.0,
+         "data/rule178_ic8932_rotation.npy": 0.0,
+         "data/rule178_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule178_ic8932_identity.npy": 0.0,
+         "data/rule178_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule178_ic8932_inversion.npy": 0.0,
+         "data/rule178_ic8932_rotation.npy": -0.025445544554455357,
+         "data/rule178_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.025742574257425654
+      }
+   },
+   "rule179_": {
+      "Test": {
+         "data/rule179_ic8932_reflection.npy": 0.0,
+         "data/rule179_ic8932_identity.npy": 0.0,
+         "data/rule179_ic8932_shift.npy": 0.0,
+         "data/rule179_ic8932_rotation.npy": 0.0,
+         "data/rule179_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule179_ic8932_reflection.npy": -9.900990099021012e-05,
+         "data/rule179_ic8932_identity.npy": 0.0,
+         "data/rule179_ic8932_shift.npy": 0.0003960396039603964,
+         "data/rule179_ic8932_rotation.npy": -0.03396039603960399,
+         "data/rule179_ic8932_inversion.npy": 0.0,
+         "total": 0.0344554455445546
+      }
+   },
+   "rule180_": {
+      "Test": {
+         "data/rule180_ic8932_identity.npy": 0.0,
+         "data/rule180_ic8932_rotation.npy": 0.0,
+         "data/rule180_ic8932_shift.npy": 0.0,
+         "data/rule180_ic8932_reflection.npy": 0.0,
+         "data/rule180_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule180_ic8932_identity.npy": 0.0,
+         "data/rule180_ic8932_rotation.npy": -0.0005940594059405946,
+         "data/rule180_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule180_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule180_ic8932_inversion.npy": 0.0,
+         "total": 0.0012871287128712883
+      }
+   },
+   "rule181_": {
+      "Test": {
+         "data/rule181_ic8932_identity.npy": 0.0,
+         "data/rule181_ic8932_reflection.npy": 0.0,
+         "data/rule181_ic8932_rotation.npy": 0.0,
+         "data/rule181_ic8932_inversion.npy": 0.0,
+         "data/rule181_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule181_ic8932_identity.npy": 0.0,
+         "data/rule181_ic8932_reflection.npy": -0.0007920792079208205,
+         "data/rule181_ic8932_rotation.npy": -0.01683168316831682,
+         "data/rule181_ic8932_inversion.npy": 0.0,
+         "data/rule181_ic8932_shift.npy": 0.0,
+         "total": 0.01762376237623764
+      }
+   },
+   "rule182_": {
+      "Test": {
+         "data/rule182_ic8932_identity.npy": 0.0,
+         "data/rule182_ic8932_shift.npy": 0.0,
+         "data/rule182_ic8932_inversion.npy": 0.0,
+         "data/rule182_ic8932_rotation.npy": 0.0,
+         "data/rule182_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule182_ic8932_identity.npy": 0.0,
+         "data/rule182_ic8932_shift.npy": -0.0011881188118811892,
+         "data/rule182_ic8932_inversion.npy": 0.0,
+         "data/rule182_ic8932_rotation.npy": -0.012871287128712883,
+         "data/rule182_ic8932_reflection.npy": -0.0007920792079207928,
+         "total": 0.014851485148514865
+      }
+   },
+   "rule183_": {
+      "Test": {
+         "data/rule183_ic8932_identity.npy": 0.0,
+         "data/rule183_ic8932_inversion.npy": 0.0,
+         "data/rule183_ic8932_reflection.npy": 0.0,
+         "data/rule183_ic8932_shift.npy": 0.0,
+         "data/rule183_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule183_ic8932_identity.npy": 0.0,
+         "data/rule183_ic8932_inversion.npy": 0.0,
+         "data/rule183_ic8932_reflection.npy": -0.0009900990099009632,
+         "data/rule183_ic8932_shift.npy": -0.0006930693069306659,
+         "data/rule183_ic8932_rotation.npy": -0.018217821782178206,
+         "total": 0.019900990099009835
+      }
+   },
+   "rule184_": {
+      "Test": {
+         "data/rule184_ic8932_identity.npy": 0.0,
+         "data/rule184_ic8932_shift.npy": 0.0,
+         "data/rule184_ic8932_inversion.npy": 0.0,
+         "data/rule184_ic8932_rotation.npy": 0.0,
+         "data/rule184_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule184_ic8932_identity.npy": 0.0,
+         "data/rule184_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule184_ic8932_inversion.npy": 0.0,
+         "data/rule184_ic8932_rotation.npy": -0.000990099009900977,
+         "data/rule184_ic8932_reflection.npy": -0.0003960396039603825,
+         "total": 0.0014851485148514587
+      }
+   },
+   "rule185_": {
+      "Test": {
+         "data/rule185_ic8932_reflection.npy": 0.0,
+         "data/rule185_ic8932_identity.npy": 0.0,
+         "data/rule185_ic8932_rotation.npy": 0.0,
+         "data/rule185_ic8932_shift.npy": 0.0,
+         "data/rule185_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule185_ic8932_reflection.npy": 0.0002970297029702973,
+         "data/rule185_ic8932_identity.npy": 0.0,
+         "data/rule185_ic8932_rotation.npy": -0.016930693069306918,
+         "data/rule185_ic8932_shift.npy": 0.0,
+         "data/rule185_ic8932_inversion.npy": 0.0,
+         "total": 0.017227722772277215
+      }
+   },
+   "rule186_": {
+      "Test": {
+         "data/rule186_ic8932_shift.npy": 0.0,
+         "data/rule186_ic8932_inversion.npy": 0.0,
+         "data/rule186_ic8932_identity.npy": 0.0,
+         "data/rule186_ic8932_reflection.npy": 0.0,
+         "data/rule186_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule186_ic8932_shift.npy": 0.00019801980198008717,
+         "data/rule186_ic8932_inversion.npy": 0.0,
+         "data/rule186_ic8932_identity.npy": 0.0,
+         "data/rule186_ic8932_reflection.npy": 0.0004950495049503845,
+         "data/rule186_ic8932_rotation.npy": -0.009207920792079327,
+         "total": 0.009900990099009799
+      }
+   },
+   "rule187_": {
+      "Test": {
+         "data/rule187_ic8932_reflection.npy": 0.0,
+         "data/rule187_ic8932_identity.npy": 0.0,
+         "data/rule187_ic8932_shift.npy": 0.0,
+         "data/rule187_ic8932_inversion.npy": 0.0,
+         "data/rule187_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule187_ic8932_reflection.npy": 0.0007920792079207928,
+         "data/rule187_ic8932_identity.npy": 0.0,
+         "data/rule187_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule187_ic8932_inversion.npy": 0.0,
+         "data/rule187_ic8932_rotation.npy": -0.017623762376237626,
+         "total": 0.018712871287128716
+      }
+   },
+   "rule188_": {
+      "Test": {
+         "data/rule188_ic8932_identity.npy": 0.0,
+         "data/rule188_ic8932_inversion.npy": 0.0,
+         "data/rule188_ic8932_shift.npy": 0.0,
+         "data/rule188_ic8932_rotation.npy": 0.0,
+         "data/rule188_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule188_ic8932_identity.npy": 0.0,
+         "data/rule188_ic8932_inversion.npy": 0.0,
+         "data/rule188_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule188_ic8932_rotation.npy": 0.004851485148514856,
+         "data/rule188_ic8932_reflection.npy": 0.004653465346534658,
+         "total": 0.009603960396039612
+      }
+   },
+   "rule189_": {
+      "Test": {
+         "data/rule189_ic8932_inversion.npy": 0.0,
+         "data/rule189_ic8932_shift.npy": 0.0,
+         "data/rule189_ic8932_identity.npy": 0.0,
+         "data/rule189_ic8932_reflection.npy": 0.0,
+         "data/rule189_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule189_ic8932_inversion.npy": 0.0,
+         "data/rule189_ic8932_shift.npy": 9.900990099008522e-05,
+         "data/rule189_ic8932_identity.npy": 0.0,
+         "data/rule189_ic8932_reflection.npy": 0.0005940594059405876,
+         "data/rule189_ic8932_rotation.npy": -0.01663366336633664,
+         "total": 0.017326732673267314
+      }
+   },
+   "rule190_": {
+      "Test": {
+         "data/rule190_ic8932_identity.npy": 0.0,
+         "data/rule190_ic8932_inversion.npy": 0.0,
+         "data/rule190_ic8932_shift.npy": 0.0,
+         "data/rule190_ic8932_reflection.npy": 0.0,
+         "data/rule190_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule190_ic8932_identity.npy": 0.0,
+         "data/rule190_ic8932_inversion.npy": 0.0,
+         "data/rule190_ic8932_shift.npy": 0.0,
+         "data/rule190_ic8932_reflection.npy": 0.004455445544554459,
+         "data/rule190_ic8932_rotation.npy": -0.004653465346534658,
+         "total": 0.009108910891089117
+      }
+   },
+   "rule191_": {
+      "Test": {
+         "data/rule191_ic8932_reflection.npy": 0.0,
+         "data/rule191_ic8932_inversion.npy": 0.0,
+         "data/rule191_ic8932_identity.npy": 0.0,
+         "data/rule191_ic8932_shift.npy": 0.0,
+         "data/rule191_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule191_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule191_ic8932_inversion.npy": 0.0,
+         "data/rule191_ic8932_identity.npy": 0.0,
+         "data/rule191_ic8932_shift.npy": 9.900990099010257e-05,
+         "data/rule191_ic8932_rotation.npy": -0.017623762376237622,
+         "total": 0.017920792079207923
+      }
+   },
+   "rule192_": {
+      "Test": {
+         "data/rule192_ic8932_shift.npy": 0.0,
+         "data/rule192_ic8932_identity.npy": 0.0,
+         "data/rule192_ic8932_reflection.npy": 0.0,
+         "data/rule192_ic8932_inversion.npy": 0.0,
+         "data/rule192_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule192_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule192_ic8932_identity.npy": 0.0,
+         "data/rule192_ic8932_reflection.npy": 0.0,
+         "data/rule192_ic8932_inversion.npy": 0.0,
+         "data/rule192_ic8932_rotation.npy": 0.0001980198019801982,
+         "total": 0.0002970297029702973
+      }
+   },
+   "rule193_": {
+      "Test": {
+         "data/rule193_ic8932_reflection.npy": 0.0,
+         "data/rule193_ic8932_identity.npy": 0.0,
+         "data/rule193_ic8932_shift.npy": 0.0,
+         "data/rule193_ic8932_inversion.npy": 0.0,
+         "data/rule193_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule193_ic8932_reflection.npy": -0.0015841584158415856,
+         "data/rule193_ic8932_identity.npy": 0.0,
+         "data/rule193_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule193_ic8932_inversion.npy": 0.0,
+         "data/rule193_ic8932_rotation.npy": -0.0055445544554455495,
+         "total": 0.007326732673267333
+      }
+   },
+   "rule194_": {
+      "Test": {
+         "data/rule194_ic8932_inversion.npy": 0.0,
+         "data/rule194_ic8932_identity.npy": 0.0,
+         "data/rule194_ic8932_shift.npy": 0.0,
+         "data/rule194_ic8932_reflection.npy": 0.0,
+         "data/rule194_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule194_ic8932_inversion.npy": 0.0,
+         "data/rule194_ic8932_identity.npy": 0.0,
+         "data/rule194_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule194_ic8932_reflection.npy": 0.0005940594059405876,
+         "data/rule194_ic8932_rotation.npy": 0.00019801980198019126,
+         "total": 0.0008910891089108849
+      }
+   },
+   "rule195_": {
+      "Test": {
+         "data/rule195_ic8932_reflection.npy": 0.0,
+         "data/rule195_ic8932_inversion.npy": 0.0,
+         "data/rule195_ic8932_identity.npy": 0.0,
+         "data/rule195_ic8932_shift.npy": 0.0,
+         "data/rule195_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule195_ic8932_reflection.npy": -0.00019801980198022595,
+         "data/rule195_ic8932_inversion.npy": 0.0,
+         "data/rule195_ic8932_identity.npy": 0.0,
+         "data/rule195_ic8932_shift.npy": 0.00019801980198022595,
+         "data/rule195_ic8932_rotation.npy": -0.011485148514851495,
+         "total": 0.011881188118811947
+      }
+   },
+   "rule196_": {
+      "Test": {
+         "data/rule196_ic8932_shift.npy": 0.0,
+         "data/rule196_ic8932_identity.npy": 0.0,
+         "data/rule196_ic8932_inversion.npy": 0.0,
+         "data/rule196_ic8932_rotation.npy": 0.0,
+         "data/rule196_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule196_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule196_ic8932_identity.npy": 0.0,
+         "data/rule196_ic8932_inversion.npy": 0.0,
+         "data/rule196_ic8932_rotation.npy": 0.07564356435643564,
+         "data/rule196_ic8932_reflection.npy": 0.0,
+         "total": 0.07574257425742574
+      }
+   },
+   "rule197_": {
+      "Test": {
+         "data/rule197_ic8932_shift.npy": 0.0,
+         "data/rule197_ic8932_identity.npy": 0.0,
+         "data/rule197_ic8932_reflection.npy": 0.0,
+         "data/rule197_ic8932_inversion.npy": 0.0,
+         "data/rule197_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule197_ic8932_shift.npy": 0.0,
+         "data/rule197_ic8932_identity.npy": 0.0,
+         "data/rule197_ic8932_reflection.npy": -0.0002970297029702973,
+         "data/rule197_ic8932_inversion.npy": 0.0,
+         "data/rule197_ic8932_rotation.npy": 0.5779207920792079,
+         "total": 0.5782178217821782
+      }
+   },
+   "rule198_": {
+      "Test": {
+         "data/rule198_ic8932_identity.npy": 0.0,
+         "data/rule198_ic8932_shift.npy": 0.0,
+         "data/rule198_ic8932_reflection.npy": 0.0,
+         "data/rule198_ic8932_rotation.npy": 0.0,
+         "data/rule198_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule198_ic8932_identity.npy": 0.0,
+         "data/rule198_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule198_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule198_ic8932_rotation.npy": 0.5747524752475247,
+         "data/rule198_ic8932_inversion.npy": 0.0,
+         "total": 0.5749504950495049
+      }
+   },
+   "rule199_": {
+      "Test": {
+         "data/rule199_ic8932_shift.npy": 0.0,
+         "data/rule199_ic8932_reflection.npy": 0.0,
+         "data/rule199_ic8932_identity.npy": 0.0,
+         "data/rule199_ic8932_inversion.npy": 0.0,
+         "data/rule199_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule199_ic8932_shift.npy": 0.0,
+         "data/rule199_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule199_ic8932_identity.npy": 0.0,
+         "data/rule199_ic8932_inversion.npy": 0.0,
+         "data/rule199_ic8932_rotation.npy": 0.5571287128712871,
+         "total": 0.5572277227722772
+      }
+   },
+   "rule200_": {
+      "Test": {
+         "data/rule200_ic8932_identity.npy": 0.0,
+         "data/rule200_ic8932_shift.npy": 0.0,
+         "data/rule200_ic8932_rotation.npy": 0.0,
+         "data/rule200_ic8932_reflection.npy": 0.0,
+         "data/rule200_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule200_ic8932_identity.npy": 0.0,
+         "data/rule200_ic8932_shift.npy": 9.900990099009563e-05,
+         "data/rule200_ic8932_rotation.npy": 0.016138613861386136,
+         "data/rule200_ic8932_reflection.npy": 0.0,
+         "data/rule200_ic8932_inversion.npy": 0.0,
+         "total": 0.01623762376237623
+      }
+   },
+   "rule201_": {
+      "Test": {
+         "data/rule201_ic8932_shift.npy": 0.0,
+         "data/rule201_ic8932_identity.npy": 0.0,
+         "data/rule201_ic8932_reflection.npy": 0.0,
+         "data/rule201_ic8932_rotation.npy": 0.0,
+         "data/rule201_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule201_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule201_ic8932_identity.npy": 0.0,
+         "data/rule201_ic8932_reflection.npy": 0.0,
+         "data/rule201_ic8932_rotation.npy": 0.04188118811881188,
+         "data/rule201_ic8932_inversion.npy": 0.0,
+         "total": 0.042079207920792075
+      }
+   },
+   "rule202_": {
+      "Test": {
+         "data/rule202_ic8932_identity.npy": 0.0,
+         "data/rule202_ic8932_inversion.npy": 0.0,
+         "data/rule202_ic8932_rotation.npy": 0.0,
+         "data/rule202_ic8932_shift.npy": 0.0,
+         "data/rule202_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule202_ic8932_identity.npy": 0.0,
+         "data/rule202_ic8932_inversion.npy": 0.0,
+         "data/rule202_ic8932_rotation.npy": 0.0014851485148514795,
+         "data/rule202_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule202_ic8932_reflection.npy": 0.0005940594059405946,
+         "total": 0.002178217821782173
+      }
+   },
+   "rule203_": {
+      "Test": {
+         "data/rule203_ic8932_identity.npy": 0.0,
+         "data/rule203_ic8932_inversion.npy": 0.0,
+         "data/rule203_ic8932_reflection.npy": 0.0,
+         "data/rule203_ic8932_rotation.npy": 0.0,
+         "data/rule203_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule203_ic8932_identity.npy": 0.0,
+         "data/rule203_ic8932_inversion.npy": 0.0,
+         "data/rule203_ic8932_reflection.npy": 0.0,
+         "data/rule203_ic8932_rotation.npy": 0.04148514851485148,
+         "data/rule203_ic8932_shift.npy": 0.00029702970297029035,
+         "total": 0.04178217821782177
+      }
+   },
+   "rule204_": {
+      "Test": {
+         "data/rule204_ic8932_identity.npy": 0.0,
+         "data/rule204_ic8932_shift.npy": 0.0,
+         "data/rule204_ic8932_inversion.npy": 0.0,
+         "data/rule204_ic8932_reflection.npy": 0.0,
+         "data/rule204_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule204_ic8932_identity.npy": 0.0,
+         "data/rule204_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule204_ic8932_inversion.npy": 0.0,
+         "data/rule204_ic8932_reflection.npy": 0.0,
+         "data/rule204_ic8932_rotation.npy": 0.07574257425742574,
+         "total": 0.07584158415841584
+      }
+   },
+   "rule205_": {
+      "Test": {
+         "data/rule205_ic8932_reflection.npy": 0.0,
+         "data/rule205_ic8932_shift.npy": 0.0,
+         "data/rule205_ic8932_identity.npy": 0.0,
+         "data/rule205_ic8932_rotation.npy": 0.0,
+         "data/rule205_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule205_ic8932_reflection.npy": 0.0,
+         "data/rule205_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule205_ic8932_identity.npy": 0.0,
+         "data/rule205_ic8932_rotation.npy": 0.10168316831683168,
+         "data/rule205_ic8932_inversion.npy": 0.0,
+         "total": 0.10188118811881187
+      }
+   },
+   "rule206_": {
+      "Test": {
+         "data/rule206_ic8932_identity.npy": 0.0,
+         "data/rule206_ic8932_inversion.npy": 0.0,
+         "data/rule206_ic8932_reflection.npy": 0.0,
+         "data/rule206_ic8932_rotation.npy": 0.0,
+         "data/rule206_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule206_ic8932_identity.npy": 0.0,
+         "data/rule206_ic8932_inversion.npy": 0.0,
+         "data/rule206_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule206_ic8932_rotation.npy": 0.061485148514851484,
+         "data/rule206_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.06178217821782178
+      }
+   },
+   "rule207_": {
+      "Test": {
+         "data/rule207_ic8932_identity.npy": 0.0,
+         "data/rule207_ic8932_reflection.npy": 0.0,
+         "data/rule207_ic8932_inversion.npy": 0.0,
+         "data/rule207_ic8932_shift.npy": 0.0,
+         "data/rule207_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule207_ic8932_identity.npy": 0.0,
+         "data/rule207_ic8932_reflection.npy": 0.0,
+         "data/rule207_ic8932_inversion.npy": 0.0,
+         "data/rule207_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule207_ic8932_rotation.npy": 0.061485148514851484,
+         "total": 0.06158415841584158
+      }
+   },
+   "rule208_": {
+      "Test": {
+         "data/rule208_ic8932_identity.npy": 0.0,
+         "data/rule208_ic8932_inversion.npy": 0.0,
+         "data/rule208_ic8932_shift.npy": 0.0,
+         "data/rule208_ic8932_reflection.npy": 0.0,
+         "data/rule208_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule208_ic8932_identity.npy": 0.0,
+         "data/rule208_ic8932_inversion.npy": 0.0,
+         "data/rule208_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule208_ic8932_reflection.npy": -0.0007920792079207997,
+         "data/rule208_ic8932_rotation.npy": -0.0005940594059405946,
+         "total": 0.0014851485148514934
+      }
+   },
+   "rule209_": {
+      "Test": {
+         "data/rule209_ic8932_inversion.npy": 0.0,
+         "data/rule209_ic8932_identity.npy": 0.0,
+         "data/rule209_ic8932_reflection.npy": 0.0,
+         "data/rule209_ic8932_shift.npy": 0.0,
+         "data/rule209_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule209_ic8932_inversion.npy": 0.0,
+         "data/rule209_ic8932_identity.npy": 0.0,
+         "data/rule209_ic8932_reflection.npy": -0.0011881188118811961,
+         "data/rule209_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule209_ic8932_rotation.npy": -0.017623762376237626,
+         "total": 0.01891089108910892
+      }
+   },
+   "rule210_": {
+      "Test": {
+         "data/rule210_ic8932_inversion.npy": 0.0,
+         "data/rule210_ic8932_identity.npy": 0.0,
+         "data/rule210_ic8932_shift.npy": 0.0,
+         "data/rule210_ic8932_reflection.npy": 0.0,
+         "data/rule210_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule210_ic8932_inversion.npy": 0.0,
+         "data/rule210_ic8932_identity.npy": 0.0,
+         "data/rule210_ic8932_shift.npy": 0.000495049504950551,
+         "data/rule210_ic8932_reflection.npy": 0.0,
+         "data/rule210_ic8932_rotation.npy": -0.00019801980198014268,
+         "total": 0.0006930693069306937
+      }
+   },
+   "rule211_": {
+      "Test": {
+         "data/rule211_ic8932_inversion.npy": 0.0,
+         "data/rule211_ic8932_shift.npy": 0.0,
+         "data/rule211_ic8932_reflection.npy": 0.0,
+         "data/rule211_ic8932_identity.npy": 0.0,
+         "data/rule211_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule211_ic8932_inversion.npy": 0.0,
+         "data/rule211_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule211_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule211_ic8932_identity.npy": 0.0,
+         "data/rule211_ic8932_rotation.npy": -0.017425742574257427,
+         "total": 0.01831683168316832
+      }
+   },
+   "rule212_": {
+      "Test": {
+         "data/rule212_ic8932_identity.npy": 0.0,
+         "data/rule212_ic8932_reflection.npy": 0.0,
+         "data/rule212_ic8932_rotation.npy": 0.0,
+         "data/rule212_ic8932_inversion.npy": 0.0,
+         "data/rule212_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule212_ic8932_identity.npy": 0.0,
+         "data/rule212_ic8932_reflection.npy": -0.0015841584158415856,
+         "data/rule212_ic8932_rotation.npy": -0.0003960396039603964,
+         "data/rule212_ic8932_inversion.npy": 0.0,
+         "data/rule212_ic8932_shift.npy": 0.0,
+         "total": 0.001980198019801982
+      }
+   },
+   "rule213_": {
+      "Test": {
+         "data/rule213_ic8932_reflection.npy": 0.0,
+         "data/rule213_ic8932_identity.npy": 0.0,
+         "data/rule213_ic8932_inversion.npy": 0.0,
+         "data/rule213_ic8932_shift.npy": 0.0,
+         "data/rule213_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule213_ic8932_reflection.npy": -0.0015841584158415856,
+         "data/rule213_ic8932_identity.npy": 0.0,
+         "data/rule213_ic8932_inversion.npy": 0.0,
+         "data/rule213_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule213_ic8932_rotation.npy": -0.016633663366336635,
+         "total": 0.01831683168316832
+      }
+   },
+   "rule214_": {
+      "Test": {
+         "data/rule214_ic8932_inversion.npy": 0.0,
+         "data/rule214_ic8932_shift.npy": 0.0,
+         "data/rule214_ic8932_identity.npy": 0.0,
+         "data/rule214_ic8932_rotation.npy": 0.0,
+         "data/rule214_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule214_ic8932_inversion.npy": 0.0,
+         "data/rule214_ic8932_shift.npy": -0.0001980198019801982,
+         "data/rule214_ic8932_identity.npy": 0.0,
+         "data/rule214_ic8932_rotation.npy": -0.004851485148514856,
+         "data/rule214_ic8932_reflection.npy": -0.004851485148514856,
+         "total": 0.00990099009900991
+      }
+   },
+   "rule215_": {
+      "Test": {
+         "data/rule215_ic8932_shift.npy": 0.0,
+         "data/rule215_ic8932_inversion.npy": 0.0,
+         "data/rule215_ic8932_identity.npy": 0.0,
+         "data/rule215_ic8932_reflection.npy": 0.0,
+         "data/rule215_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule215_ic8932_shift.npy": 9.900990099010257e-05,
+         "data/rule215_ic8932_inversion.npy": 0.0,
+         "data/rule215_ic8932_identity.npy": 0.0,
+         "data/rule215_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule215_ic8932_rotation.npy": -0.017623762376237622,
+         "total": 0.017920792079207923
+      }
+   },
+   "rule216_": {
+      "Test": {
+         "data/rule216_ic8932_identity.npy": 0.0,
+         "data/rule216_ic8932_inversion.npy": 0.0,
+         "data/rule216_ic8932_shift.npy": 0.0,
+         "data/rule216_ic8932_reflection.npy": 0.0,
+         "data/rule216_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule216_ic8932_identity.npy": 0.0,
+         "data/rule216_ic8932_inversion.npy": 0.0,
+         "data/rule216_ic8932_shift.npy": 0.0002970297029702973,
+         "data/rule216_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule216_ic8932_rotation.npy": 0.00108910891089109,
+         "total": 0.0017821782178217838
+      }
+   },
+   "rule217_": {
+      "Test": {
+         "data/rule217_ic8932_reflection.npy": 0.0,
+         "data/rule217_ic8932_identity.npy": 0.0,
+         "data/rule217_ic8932_shift.npy": 0.0,
+         "data/rule217_ic8932_rotation.npy": 0.0,
+         "data/rule217_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule217_ic8932_reflection.npy": 0.0,
+         "data/rule217_ic8932_identity.npy": 0.0,
+         "data/rule217_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule217_ic8932_rotation.npy": 0.04148514851485148,
+         "data/rule217_ic8932_inversion.npy": 0.0,
+         "total": 0.04158415841584158
+      }
+   },
+   "rule218_": {
+      "Test": {
+         "data/rule218_ic8932_identity.npy": 0.0,
+         "data/rule218_ic8932_rotation.npy": 0.0,
+         "data/rule218_ic8932_shift.npy": 0.0,
+         "data/rule218_ic8932_reflection.npy": 0.0,
+         "data/rule218_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule218_ic8932_identity.npy": 0.0,
+         "data/rule218_ic8932_rotation.npy": -0.007128712871287128,
+         "data/rule218_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule218_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule218_ic8932_inversion.npy": 0.0,
+         "total": 0.007425742574257425
+      }
+   },
+   "rule219_": {
+      "Test": {
+         "data/rule219_ic8932_identity.npy": 0.0,
+         "data/rule219_ic8932_reflection.npy": 0.0,
+         "data/rule219_ic8932_rotation.npy": 0.0,
+         "data/rule219_ic8932_inversion.npy": 0.0,
+         "data/rule219_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule219_ic8932_identity.npy": 0.0,
+         "data/rule219_ic8932_reflection.npy": 0.0,
+         "data/rule219_ic8932_rotation.npy": 0.021881188118811883,
+         "data/rule219_ic8932_inversion.npy": 0.0,
+         "data/rule219_ic8932_shift.npy": 0.0002970297029702973,
+         "total": 0.02217821782178218
+      }
+   },
+   "rule220_": {
+      "Test": {
+         "data/rule220_ic8932_shift.npy": 0.0,
+         "data/rule220_ic8932_rotation.npy": 0.0,
+         "data/rule220_ic8932_reflection.npy": 0.0,
+         "data/rule220_ic8932_identity.npy": 0.0,
+         "data/rule220_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule220_ic8932_shift.npy": 0.0,
+         "data/rule220_ic8932_rotation.npy": 0.06188118811881188,
+         "data/rule220_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule220_ic8932_identity.npy": 0.0,
+         "data/rule220_ic8932_inversion.npy": 0.0,
+         "total": 0.06207920792079208
+      }
+   },
+   "rule221_": {
+      "Test": {
+         "data/rule221_ic8932_reflection.npy": 0.0,
+         "data/rule221_ic8932_rotation.npy": 0.0,
+         "data/rule221_ic8932_shift.npy": 0.0,
+         "data/rule221_ic8932_inversion.npy": 0.0,
+         "data/rule221_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule221_ic8932_reflection.npy": 0.0,
+         "data/rule221_ic8932_rotation.npy": 0.06207920792079208,
+         "data/rule221_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule221_ic8932_inversion.npy": 0.0,
+         "data/rule221_ic8932_identity.npy": 0.0,
+         "total": 0.06227722772277228
+      }
+   },
+   "rule222_": {
+      "Test": {
+         "data/rule222_ic8932_rotation.npy": 0.0,
+         "data/rule222_ic8932_inversion.npy": 0.0,
+         "data/rule222_ic8932_shift.npy": 0.0,
+         "data/rule222_ic8932_identity.npy": 0.0,
+         "data/rule222_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule222_ic8932_rotation.npy": 0.030396039603960395,
+         "data/rule222_ic8932_inversion.npy": 0.0,
+         "data/rule222_ic8932_shift.npy": -9.900990099009216e-05,
+         "data/rule222_ic8932_identity.npy": 0.0,
+         "data/rule222_ic8932_reflection.npy": -0.0001980198019801982,
+         "total": 0.030693069306930686
+      }
+   },
+   "rule223_": {
+      "Test": {
+         "data/rule223_ic8932_inversion.npy": 0.0,
+         "data/rule223_ic8932_reflection.npy": 0.0,
+         "data/rule223_ic8932_rotation.npy": 0.0,
+         "data/rule223_ic8932_identity.npy": 0.0,
+         "data/rule223_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule223_ic8932_inversion.npy": 0.0,
+         "data/rule223_ic8932_reflection.npy": 0.0,
+         "data/rule223_ic8932_rotation.npy": 0.002079207920792081,
+         "data/rule223_ic8932_identity.npy": 0.0,
+         "data/rule223_ic8932_shift.npy": 9.900990099010257e-05,
+         "total": 0.0021782178217821836
+      }
+   },
+   "rule224_": {
+      "Test": {
+         "data/rule224_ic8932_rotation.npy": 0.0,
+         "data/rule224_ic8932_shift.npy": 0.0,
+         "data/rule224_ic8932_identity.npy": 0.0,
+         "data/rule224_ic8932_inversion.npy": 0.0,
+         "data/rule224_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule224_ic8932_rotation.npy": 9.900990099009823e-05,
+         "data/rule224_ic8932_shift.npy": 0.0,
+         "data/rule224_ic8932_identity.npy": 0.0,
+         "data/rule224_ic8932_inversion.npy": 0.0,
+         "data/rule224_ic8932_reflection.npy": -9.90099009900991e-05,
+         "total": 0.00019801980198019733
+      }
+   },
+   "rule225_": {
+      "Test": {
+         "data/rule225_ic8932_rotation.npy": 0.0,
+         "data/rule225_ic8932_reflection.npy": 0.0,
+         "data/rule225_ic8932_shift.npy": 0.0,
+         "data/rule225_ic8932_identity.npy": 0.0,
+         "data/rule225_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule225_ic8932_rotation.npy": -0.013663366336633676,
+         "data/rule225_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule225_ic8932_shift.npy": 0.0005940594059405668,
+         "data/rule225_ic8932_identity.npy": 0.0,
+         "data/rule225_ic8932_inversion.npy": 0.0,
+         "total": 0.014851485148514837
+      }
+   },
+   "rule226_": {
+      "Test": {
+         "data/rule226_ic8932_inversion.npy": 0.0,
+         "data/rule226_ic8932_rotation.npy": 0.0,
+         "data/rule226_ic8932_identity.npy": 0.0,
+         "data/rule226_ic8932_shift.npy": 0.0,
+         "data/rule226_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule226_ic8932_inversion.npy": 0.0,
+         "data/rule226_ic8932_rotation.npy": -0.0003960396039603825,
+         "data/rule226_ic8932_identity.npy": 0.0,
+         "data/rule226_ic8932_shift.npy": 9.900990099011298e-05,
+         "data/rule226_ic8932_reflection.npy": 0.0003960396039603964,
+         "total": 0.0008910891089108919
+      }
+   },
+   "rule227_": {
+      "Test": {
+         "data/rule227_ic8932_rotation.npy": 0.0,
+         "data/rule227_ic8932_inversion.npy": 0.0,
+         "data/rule227_ic8932_reflection.npy": 0.0,
+         "data/rule227_ic8932_identity.npy": 0.0,
+         "data/rule227_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule227_ic8932_rotation.npy": -0.01762376237623761,
+         "data/rule227_ic8932_inversion.npy": 0.0,
+         "data/rule227_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule227_ic8932_identity.npy": 0.0,
+         "data/rule227_ic8932_shift.npy": 0.00019801980198022595,
+         "total": 0.018217821782178234
+      }
+   },
+   "rule228_": {
+      "Test": {
+         "data/rule228_ic8932_inversion.npy": 0.0,
+         "data/rule228_ic8932_rotation.npy": 0.0,
+         "data/rule228_ic8932_reflection.npy": 0.0,
+         "data/rule228_ic8932_shift.npy": 0.0,
+         "data/rule228_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule228_ic8932_inversion.npy": 0.0,
+         "data/rule228_ic8932_rotation.npy": 0.055643564356435644,
+         "data/rule228_ic8932_reflection.npy": 0.0,
+         "data/rule228_ic8932_shift.npy": 9.900990099010604e-05,
+         "data/rule228_ic8932_identity.npy": 0.0,
+         "total": 0.05574257425742575
+      }
+   },
+   "rule229_": {
+      "Test": {
+         "data/rule229_ic8932_inversion.npy": 0.0,
+         "data/rule229_ic8932_reflection.npy": 0.0,
+         "data/rule229_ic8932_rotation.npy": 0.0,
+         "data/rule229_ic8932_shift.npy": 0.0,
+         "data/rule229_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule229_ic8932_inversion.npy": 0.0,
+         "data/rule229_ic8932_reflection.npy": -0.00039603960396041027,
+         "data/rule229_ic8932_rotation.npy": -0.006732673267326739,
+         "data/rule229_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule229_ic8932_identity.npy": 0.0,
+         "total": 0.007227722772277248
+      }
+   },
+   "rule230_": {
+      "Test": {
+         "data/rule230_ic8932_shift.npy": 0.0,
+         "data/rule230_ic8932_inversion.npy": 0.0,
+         "data/rule230_ic8932_rotation.npy": 0.0,
+         "data/rule230_ic8932_reflection.npy": 0.0,
+         "data/rule230_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule230_ic8932_shift.npy": 0.004158415841584162,
+         "data/rule230_ic8932_inversion.npy": 0.0,
+         "data/rule230_ic8932_rotation.npy": 0.003861386138613865,
+         "data/rule230_ic8932_reflection.npy": -0.0004950495049504955,
+         "data/rule230_ic8932_identity.npy": 0.0,
+         "total": 0.008514851485148522
+      }
+   },
+   "rule231_": {
+      "Test": {
+         "data/rule231_ic8932_inversion.npy": 0.0,
+         "data/rule231_ic8932_shift.npy": 0.0,
+         "data/rule231_ic8932_reflection.npy": 0.0,
+         "data/rule231_ic8932_rotation.npy": 0.0,
+         "data/rule231_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule231_ic8932_inversion.npy": 0.0,
+         "data/rule231_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule231_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule231_ic8932_rotation.npy": -0.017425742574257427,
+         "data/rule231_ic8932_identity.npy": 0.0,
+         "total": 0.01831683168316832
+      }
+   },
+   "rule232_": {
+      "Test": {
+         "data/rule232_ic8932_rotation.npy": 0.0,
+         "data/rule232_ic8932_shift.npy": 0.0,
+         "data/rule232_ic8932_reflection.npy": 0.0,
+         "data/rule232_ic8932_inversion.npy": 0.0,
+         "data/rule232_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule232_ic8932_rotation.npy": 0.016138613861386136,
+         "data/rule232_ic8932_shift.npy": 9.900990099009563e-05,
+         "data/rule232_ic8932_reflection.npy": 0.0,
+         "data/rule232_ic8932_inversion.npy": 0.0,
+         "data/rule232_ic8932_identity.npy": 0.0,
+         "total": 0.01623762376237623
+      }
+   },
+   "rule233_": {
+      "Test": {
+         "data/rule233_ic8932_reflection.npy": 0.0,
+         "data/rule233_ic8932_rotation.npy": 0.0,
+         "data/rule233_ic8932_inversion.npy": 0.0,
+         "data/rule233_ic8932_shift.npy": 0.0,
+         "data/rule233_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule233_ic8932_reflection.npy": 0.0,
+         "data/rule233_ic8932_rotation.npy": 0.002475247524752474,
+         "data/rule233_ic8932_inversion.npy": 0.0,
+         "data/rule233_ic8932_shift.npy": 0.0002970297029702938,
+         "data/rule233_ic8932_identity.npy": 0.0,
+         "total": 0.002772277227722768
+      }
+   },
+   "rule234_": {
+      "Test": {
+         "data/rule234_ic8932_shift.npy": 0.0,
+         "data/rule234_ic8932_inversion.npy": 0.0,
+         "data/rule234_ic8932_rotation.npy": 0.0,
+         "data/rule234_ic8932_reflection.npy": 0.0,
+         "data/rule234_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule234_ic8932_shift.npy": 0.0,
+         "data/rule234_ic8932_inversion.npy": 0.0,
+         "data/rule234_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule234_ic8932_reflection.npy": 0.00029702970297029035,
+         "data/rule234_ic8932_identity.npy": 0.0,
+         "total": 0.00039603960396038945
+      }
+   },
+   "rule235_": {
+      "Test": {
+         "data/rule235_ic8932_reflection.npy": 0.0,
+         "data/rule235_ic8932_rotation.npy": 0.0,
+         "data/rule235_ic8932_shift.npy": 0.0,
+         "data/rule235_ic8932_inversion.npy": 0.0,
+         "data/rule235_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule235_ic8932_reflection.npy": -9.900990099009997e-05,
+         "data/rule235_ic8932_rotation.npy": -0.013465346534653467,
+         "data/rule235_ic8932_shift.npy": 0.00019801980198019733,
+         "data/rule235_ic8932_inversion.npy": 0.0,
+         "data/rule235_ic8932_identity.npy": 0.0,
+         "total": 0.013762376237623764
+      }
+   },
+   "rule236_": {
+      "Test": {
+         "data/rule236_ic8932_rotation.npy": 0.0,
+         "data/rule236_ic8932_shift.npy": 0.0,
+         "data/rule236_ic8932_inversion.npy": 0.0,
+         "data/rule236_ic8932_reflection.npy": 0.0,
+         "data/rule236_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule236_ic8932_rotation.npy": 0.055940594059405935,
+         "data/rule236_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule236_ic8932_inversion.npy": 0.0,
+         "data/rule236_ic8932_reflection.npy": 0.0,
+         "data/rule236_ic8932_identity.npy": 0.0,
+         "total": 0.056039603960396034
+      }
+   },
+   "rule237_": {
+      "Test": {
+         "data/rule237_ic8932_reflection.npy": 0.0,
+         "data/rule237_ic8932_rotation.npy": 0.0,
+         "data/rule237_ic8932_shift.npy": 0.0,
+         "data/rule237_ic8932_inversion.npy": 0.0,
+         "data/rule237_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule237_ic8932_reflection.npy": 0.0,
+         "data/rule237_ic8932_rotation.npy": 0.0030693069306930686,
+         "data/rule237_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule237_ic8932_inversion.npy": 0.0,
+         "data/rule237_ic8932_identity.npy": 0.0,
+         "total": 0.0031683168316831677
+      }
+   },
+   "rule238_": {
+      "Test": {
+         "data/rule238_ic8932_rotation.npy": 0.0,
+         "data/rule238_ic8932_identity.npy": 0.0,
+         "data/rule238_ic8932_inversion.npy": 0.0,
+         "data/rule238_ic8932_shift.npy": 0.0,
+         "data/rule238_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule238_ic8932_rotation.npy": 0.0005940594059405946,
+         "data/rule238_ic8932_identity.npy": 0.0,
+         "data/rule238_ic8932_inversion.npy": 0.0,
+         "data/rule238_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule238_ic8932_reflection.npy": 0.0001980198019801982,
+         "total": 0.0008910891089108919
+      }
+   },
+   "rule239_": {
+      "Test": {
+         "data/rule239_ic8932_rotation.npy": 0.0,
+         "data/rule239_ic8932_reflection.npy": 0.0,
+         "data/rule239_ic8932_inversion.npy": 0.0,
+         "data/rule239_ic8932_shift.npy": 0.0,
+         "data/rule239_ic8932_identity.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule239_ic8932_rotation.npy": -0.013366336633663366,
+         "data/rule239_ic8932_reflection.npy": -9.900990099009997e-05,
+         "data/rule239_ic8932_inversion.npy": 0.0,
+         "data/rule239_ic8932_shift.npy": 9.900990099009823e-05,
+         "data/rule239_ic8932_identity.npy": 0.0,
+         "total": 0.013564356435643566
+      }
+   },
+   "rule240_": {
+      "Test": {
+         "data/rule240_ic8932_identity.npy": 0.0,
+         "data/rule240_ic8932_shift.npy": 0.0,
+         "data/rule240_ic8932_inversion.npy": 0.0,
+         "data/rule240_ic8932_rotation.npy": 0.0,
+         "data/rule240_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule240_ic8932_identity.npy": 0.0,
+         "data/rule240_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule240_ic8932_inversion.npy": 0.0,
+         "data/rule240_ic8932_rotation.npy": -0.0007920792079207928,
+         "data/rule240_ic8932_reflection.npy": -0.0007920792079207928,
+         "total": 0.0016831683168316847
+      }
+   },
+   "rule241_": {
+      "Test": {
+         "data/rule241_ic8932_shift.npy": 0.0,
+         "data/rule241_ic8932_identity.npy": 0.0,
+         "data/rule241_ic8932_reflection.npy": 0.0,
+         "data/rule241_ic8932_inversion.npy": 0.0,
+         "data/rule241_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule241_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule241_ic8932_identity.npy": 0.0,
+         "data/rule241_ic8932_reflection.npy": -0.0011881188118811892,
+         "data/rule241_ic8932_inversion.npy": 0.0,
+         "data/rule241_ic8932_rotation.npy": -0.017425742574257427,
+         "total": 0.018811881188118815
+      }
+   },
+   "rule242_": {
+      "Test": {
+         "data/rule242_ic8932_inversion.npy": 0.0,
+         "data/rule242_ic8932_identity.npy": 0.0,
+         "data/rule242_ic8932_rotation.npy": 0.0,
+         "data/rule242_ic8932_reflection.npy": 0.0,
+         "data/rule242_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule242_ic8932_inversion.npy": 0.0,
+         "data/rule242_ic8932_identity.npy": 0.0,
+         "data/rule242_ic8932_rotation.npy": -0.009405940594059414,
+         "data/rule242_ic8932_reflection.npy": -0.0002970297029702973,
+         "data/rule242_ic8932_shift.npy": 9.900990099021012e-05,
+         "total": 0.009801980198019922
+      }
+   },
+   "rule243_": {
+      "Test": {
+         "data/rule243_ic8932_reflection.npy": 0.0,
+         "data/rule243_ic8932_identity.npy": 0.0,
+         "data/rule243_ic8932_inversion.npy": 0.0,
+         "data/rule243_ic8932_shift.npy": 0.0,
+         "data/rule243_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule243_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule243_ic8932_identity.npy": 0.0,
+         "data/rule243_ic8932_inversion.npy": 0.0,
+         "data/rule243_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule243_ic8932_rotation.npy": -0.017821782178217824,
+         "total": 0.018613861386138617
+      }
+   },
+   "rule244_": {
+      "Test": {
+         "data/rule244_ic8932_shift.npy": 0.0,
+         "data/rule244_ic8932_identity.npy": 0.0,
+         "data/rule244_ic8932_reflection.npy": 0.0,
+         "data/rule244_ic8932_inversion.npy": 0.0,
+         "data/rule244_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule244_ic8932_shift.npy": 0.0,
+         "data/rule244_ic8932_identity.npy": 0.0,
+         "data/rule244_ic8932_reflection.npy": -0.0011881188118811892,
+         "data/rule244_ic8932_inversion.npy": 0.0,
+         "data/rule244_ic8932_rotation.npy": -0.0007920792079207928,
+         "total": 0.001980198019801982
+      }
+   },
+   "rule245_": {
+      "Test": {
+         "data/rule245_ic8932_shift.npy": 0.0,
+         "data/rule245_ic8932_reflection.npy": 0.0,
+         "data/rule245_ic8932_identity.npy": 0.0,
+         "data/rule245_ic8932_inversion.npy": 0.0,
+         "data/rule245_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule245_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule245_ic8932_reflection.npy": -0.0007920792079207928,
+         "data/rule245_ic8932_identity.npy": 0.0,
+         "data/rule245_ic8932_inversion.npy": 0.0,
+         "data/rule245_ic8932_rotation.npy": -0.017425742574257427,
+         "total": 0.01831683168316832
+      }
+   },
+   "rule246_": {
+      "Test": {
+         "data/rule246_ic8932_inversion.npy": 0.0,
+         "data/rule246_ic8932_identity.npy": 0.0,
+         "data/rule246_ic8932_reflection.npy": 0.0,
+         "data/rule246_ic8932_shift.npy": 0.0,
+         "data/rule246_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule246_ic8932_inversion.npy": 0.0,
+         "data/rule246_ic8932_identity.npy": 0.0,
+         "data/rule246_ic8932_reflection.npy": -0.004851485148514911,
+         "data/rule246_ic8932_shift.npy": 0.0,
+         "data/rule246_ic8932_rotation.npy": -0.009405940594059414,
+         "total": 0.014257425742574326
+      }
+   },
+   "rule247_": {
+      "Test": {
+         "data/rule247_ic8932_reflection.npy": 0.0,
+         "data/rule247_ic8932_inversion.npy": 0.0,
+         "data/rule247_ic8932_identity.npy": 0.0,
+         "data/rule247_ic8932_shift.npy": 0.0,
+         "data/rule247_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule247_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule247_ic8932_inversion.npy": 0.0,
+         "data/rule247_ic8932_identity.npy": 0.0,
+         "data/rule247_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule247_ic8932_rotation.npy": -0.01782178217821782,
+         "total": 0.018118811881188118
+      }
+   },
+   "rule248_": {
+      "Test": {
+         "data/rule248_ic8932_identity.npy": 0.0,
+         "data/rule248_ic8932_inversion.npy": 0.0,
+         "data/rule248_ic8932_rotation.npy": 0.0,
+         "data/rule248_ic8932_shift.npy": 0.0,
+         "data/rule248_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule248_ic8932_identity.npy": 0.0,
+         "data/rule248_ic8932_inversion.npy": 0.0,
+         "data/rule248_ic8932_rotation.npy": -9.90099009900991e-05,
+         "data/rule248_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule248_ic8932_reflection.npy": -0.0004950495049504955,
+         "total": 0.0006930693069306937
+      }
+   },
+   "rule249_": {
+      "Test": {
+         "data/rule249_ic8932_identity.npy": 0.0,
+         "data/rule249_ic8932_inversion.npy": 0.0,
+         "data/rule249_ic8932_reflection.npy": 0.0,
+         "data/rule249_ic8932_rotation.npy": 0.0,
+         "data/rule249_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule249_ic8932_identity.npy": 0.0,
+         "data/rule249_ic8932_inversion.npy": 0.0,
+         "data/rule249_ic8932_reflection.npy": 0.0,
+         "data/rule249_ic8932_rotation.npy": -0.013366336633663366,
+         "data/rule249_ic8932_shift.npy": 0.0002970297029702973,
+         "total": 0.013663366336633663
+      }
+   },
+   "rule250_": {
+      "Test": {
+         "data/rule250_ic8932_identity.npy": 0.0,
+         "data/rule250_ic8932_inversion.npy": 0.0,
+         "data/rule250_ic8932_shift.npy": 0.0,
+         "data/rule250_ic8932_rotation.npy": 0.0,
+         "data/rule250_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule250_ic8932_identity.npy": 0.0,
+         "data/rule250_ic8932_inversion.npy": 0.0,
+         "data/rule250_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule250_ic8932_rotation.npy": -0.007326732673267319,
+         "data/rule250_ic8932_reflection.npy": -0.0001980198019801982,
+         "total": 0.007623762376237617
+      }
+   },
+   "rule251_": {
+      "Test": {
+         "data/rule251_ic8932_shift.npy": 0.0,
+         "data/rule251_ic8932_reflection.npy": 0.0,
+         "data/rule251_ic8932_identity.npy": 0.0,
+         "data/rule251_ic8932_inversion.npy": 0.0,
+         "data/rule251_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule251_ic8932_shift.npy": 0.0002970297029702964,
+         "data/rule251_ic8932_reflection.npy": -9.900990099009997e-05,
+         "data/rule251_ic8932_identity.npy": 0.0,
+         "data/rule251_ic8932_inversion.npy": 0.0,
+         "data/rule251_ic8932_rotation.npy": -0.01396039603960396,
+         "total": 0.014356435643564357
+      }
+   },
+   "rule252_": {
+      "Test": {
+         "data/rule252_ic8932_identity.npy": 0.0,
+         "data/rule252_ic8932_rotation.npy": 0.0,
+         "data/rule252_ic8932_reflection.npy": 0.0,
+         "data/rule252_ic8932_inversion.npy": 0.0,
+         "data/rule252_ic8932_shift.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule252_ic8932_identity.npy": 0.0,
+         "data/rule252_ic8932_rotation.npy": 0.0003960396039603964,
+         "data/rule252_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule252_ic8932_inversion.npy": 0.0,
+         "data/rule252_ic8932_shift.npy": -9.90099009900991e-05,
+         "total": 0.0006930693069306937
+      }
+   },
+   "rule253_": {
+      "Test": {
+         "data/rule253_ic8932_identity.npy": 0.0,
+         "data/rule253_ic8932_reflection.npy": 0.0,
+         "data/rule253_ic8932_shift.npy": 0.0,
+         "data/rule253_ic8932_rotation.npy": 0.0,
+         "data/rule253_ic8932_inversion.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule253_ic8932_identity.npy": 0.0,
+         "data/rule253_ic8932_reflection.npy": -9.900990099009997e-05,
+         "data/rule253_ic8932_shift.npy": 9.900990099009823e-05,
+         "data/rule253_ic8932_rotation.npy": -0.013366336633663366,
+         "data/rule253_ic8932_inversion.npy": 0.0,
+         "total": 0.013564356435643564
+      }
+   },
+   "rule254_": {
+      "Test": {
+         "data/rule254_ic8932_identity.npy": 0.0,
+         "data/rule254_ic8932_inversion.npy": 0.0,
+         "data/rule254_ic8932_shift.npy": 0.0,
+         "data/rule254_ic8932_rotation.npy": 0.0,
+         "data/rule254_ic8932_reflection.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule254_ic8932_identity.npy": 0.0,
+         "data/rule254_ic8932_inversion.npy": 0.0,
+         "data/rule254_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule254_ic8932_rotation.npy": -0.007029702970297029,
+         "data/rule254_ic8932_reflection.npy": -0.0001980198019801982,
+         "total": 0.007326732673267326
+      }
+   },
+   "rule255_": {
+      "Test": {
+         "data/rule255_ic8932_inversion.npy": 0.0,
+         "data/rule255_ic8932_shift.npy": 0.0,
+         "data/rule255_ic8932_identity.npy": 0.0,
+         "data/rule255_ic8932_reflection.npy": 0.0,
+         "data/rule255_ic8932_rotation.npy": 0.0,
+         "total": 0.0
+      },
+      "RunLengthEncoding": {
+         "data/rule255_ic8932_inversion.npy": 0.0,
+         "data/rule255_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule255_ic8932_identity.npy": 0.0,
+         "data/rule255_ic8932_reflection.npy": 0.0,
+         "data/rule255_ic8932_rotation.npy": -0.01386138613861386,
+         "total": 0.013960396039603959
+      }
+   }
+}

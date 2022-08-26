@@ -1,0 +1,5122 @@
+{
+   "data/rule46_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule186_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7635643564356436
+   },
+   "data/rule160_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule17_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9616831683168316
+   },
+   "data/rule191_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020594059405940595
+   },
+   "data/rule149_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.39227722772277224
+   },
+   "data/rule107_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7808910891089109
+   },
+   "data/rule148_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule127_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule131_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.473960396039604
+   },
+   "data/rule5_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule156_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0298019801980198
+   },
+   "data/rule2_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule54_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3912871287128713
+   },
+   "data/rule183_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2134653465346535
+   },
+   "data/rule60_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24069306930693068
+   },
+   "data/rule58_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7632673267326733
+   },
+   "data/rule31_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030198019801980197
+   },
+   "data/rule85_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08841584158415842
+   },
+   "data/rule76_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule36_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040693069306930695
+   },
+   "data/rule121_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.18475247524752475
+   },
+   "data/rule80_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule93_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6131683168316832
+   },
+   "data/rule170_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule31_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030693069306930696
+   },
+   "data/rule96_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule138_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule225_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.15623762376237624
+   },
+   "data/rule169_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12653465346534654
+   },
+   "data/rule109_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.382970297029703
+   },
+   "data/rule20_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule79_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6049504950495049
+   },
+   "data/rule28_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule170_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule183_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2134653465346535
+   },
+   "data/rule252_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01910891089108911
+   },
+   "data/rule226_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11851485148514852
+   },
+   "data/rule131_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.46871287128712874
+   },
+   "data/rule203_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule105_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.36405940594059405
+   },
+   "data/rule37_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05168316831683168
+   },
+   "data/rule187_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule201_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0897029702970297
+   },
+   "data/rule120_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13356435643564357
+   },
+   "data/rule221_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule220_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule171_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule92_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule61_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05297029702970297
+   },
+   "data/rule80_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule182_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.356039603960396
+   },
+   "data/rule173_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05089108910891089
+   },
+   "data/rule73_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3932673267326733
+   },
+   "data/rule3_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9616831683168316
+   },
+   "data/rule124_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.258019801980198
+   },
+   "data/rule30_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4075247524752475
+   },
+   "data/rule62_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4467326732673267
+   },
+   "data/rule106_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13415841584158417
+   },
+   "data/rule134_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0803960396039604
+   },
+   "data/rule157_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038415841584158415
+   },
+   "data/rule10_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule47_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9319801980198019
+   },
+   "data/rule16_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule32_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule75_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3872277227722772
+   },
+   "data/rule253_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule223_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule93_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule202_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05742574257425742
+   },
+   "data/rule74_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060099009900990104
+   },
+   "data/rule175_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule186_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7637623762376237
+   },
+   "data/rule245_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule78_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5962376237623762
+   },
+   "data/rule165_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3294059405940594
+   },
+   "data/rule29_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule139_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0806930693069307
+   },
+   "data/rule199_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5958415841584158
+   },
+   "data/rule168_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule141_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6049504950495049
+   },
+   "data/rule237_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021584158415841586
+   },
+   "data/rule224_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005445544554455446
+   },
+   "data/rule201_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0899009900990099
+   },
+   "data/rule205_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1198019801980198
+   },
+   "data/rule250_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04663366336633663
+   },
+   "data/rule139_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule255_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule157_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule44_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule88_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06960396039603961
+   },
+   "data/rule227_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.15524752475247525
+   },
+   "data/rule189_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule28_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6048514851485148
+   },
+   "data/rule130_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule103_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08742574257425742
+   },
+   "data/rule46_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule234_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.055445544554455446
+   },
+   "data/rule198_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6046534653465346
+   },
+   "data/rule33_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0505940594059406
+   },
+   "data/rule155_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule0_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule88_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07039603960396039
+   },
+   "data/rule181_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2198019801980198
+   },
+   "data/rule62_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4527722772277228
+   },
+   "data/rule50_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7824752475247524
+   },
+   "data/rule91_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04336633663366337
+   },
+   "data/rule172_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule214_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38841584158415843
+   },
+   "data/rule123_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07039603960396039
+   },
+   "data/rule251_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule87_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.029504950495049507
+   },
+   "data/rule15_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9117821782178218
+   },
+   "data/rule141_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.605049504950495
+   },
+   "data/rule142_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule61_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.051881188118811886
+   },
+   "data/rule44_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule213_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08099009900990099
+   },
+   "data/rule154_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23732673267326732
+   },
+   "data/rule218_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03811881188118812
+   },
+   "data/rule105_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6011881188118812
+   },
+   "data/rule199_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5959405940594059
+   },
+   "data/rule249_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005940594059405941
+   },
+   "data/rule251_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005445544554455446
+   },
+   "data/rule199_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5958415841584158
+   },
+   "data/rule98_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0994059405940594
+   },
+   "data/rule226_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1189108910891089
+   },
+   "data/rule103_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08742574257425742
+   },
+   "data/rule89_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3787128712871287
+   },
+   "data/rule106_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13514851485148513
+   },
+   "data/rule40_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule12_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule229_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07049504950495049
+   },
+   "data/rule41_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13455445544554456
+   },
+   "data/rule38_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule250_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04663366336633663
+   },
+   "data/rule1_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0403960396039604
+   },
+   "data/rule200_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule174_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06079207920792079
+   },
+   "data/rule192_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule251_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule219_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040792079207920794
+   },
+   "data/rule155_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09722772277227723
+   },
+   "data/rule215_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule248_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03782178217821782
+   },
+   "data/rule104_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005445544554455446
+   },
+   "data/rule147_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38752475247524754
+   },
+   "data/rule14_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07891089108910891
+   },
+   "data/rule111_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule45_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6234653465346535
+   },
+   "data/rule173_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.051089108910891086
+   },
+   "data/rule90_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3294059405940594
+   },
+   "data/rule211_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule115_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule79_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6049504950495049
+   },
+   "data/rule122_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22643564356435644
+   },
+   "data/rule32_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule229_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0708910891089109
+   },
+   "data/rule63_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03
+   },
+   "data/rule180_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0795049504950495
+   },
+   "data/rule1_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.950990099009901
+   },
+   "data/rule25_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0899009900990099
+   },
+   "data/rule247_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule242_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7630693069306931
+   },
+   "data/rule206_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule170_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule196_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule53_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule171_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule223_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule5_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0998019801980198
+   },
+   "data/rule220_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01811881188118812
+   },
+   "data/rule44_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule60_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24089108910891088
+   },
+   "data/rule114_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7630693069306931
+   },
+   "data/rule203_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule34_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule76_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule98_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule12_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule21_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030495049504950498
+   },
+   "data/rule7_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9804950495049505
+   },
+   "data/rule18_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3448514851485149
+   },
+   "data/rule65_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08752475247524752
+   },
+   "data/rule186_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7637623762376237
+   },
+   "data/rule175_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule96_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule239_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule3_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule124_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.258019801980198
+   },
+   "data/rule115_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08712871287128714
+   },
+   "data/rule235_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.006138613861386139
+   },
+   "data/rule12_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004653465346534654
+   },
+   "data/rule43_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9129702970297029
+   },
+   "data/rule153_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2522772277227723
+   },
+   "data/rule167_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24495049504950497
+   },
+   "data/rule102_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2381188118811881
+   },
+   "data/rule155_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule211_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0599009900990099
+   },
+   "data/rule109_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3889108910891089
+   },
+   "data/rule125_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08851485148514851
+   },
+   "data/rule111_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08782178217821782
+   },
+   "data/rule7_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03
+   },
+   "data/rule230_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3105940594059406
+   },
+   "data/rule168_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule221_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01811881188118812
+   },
+   "data/rule193_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2603960396039604
+   },
+   "data/rule134_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0803960396039604
+   },
+   "data/rule219_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040792079207920794
+   },
+   "data/rule82_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2959405940594059
+   },
+   "data/rule56_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09871287128712872
+   },
+   "data/rule207_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule34_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule247_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020594059405940595
+   },
+   "data/rule152_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule150_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.36524752475247524
+   },
+   "data/rule129_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19425742574257424
+   },
+   "data/rule22_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.267029702970297
+   },
+   "data/rule103_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9323762376237623
+   },
+   "data/rule83_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06851485148514852
+   },
+   "data/rule13_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37633663366336634
+   },
+   "data/rule42_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule65_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08702970297029702
+   },
+   "data/rule94_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6477227722772276
+   },
+   "data/rule238_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule97_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09673267326732674
+   },
+   "data/rule174_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0608910891089109
+   },
+   "data/rule185_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13762376237623763
+   },
+   "data/rule6_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule255_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004752475247524752
+   },
+   "data/rule125_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08851485148514851
+   },
+   "data/rule35_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule151_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2187128712871287
+   },
+   "data/rule17_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule187_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule64_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule6_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule189_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule133_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7741584158415842
+   },
+   "data/rule206_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule14_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule41_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.8707920792079208
+   },
+   "data/rule10_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule126_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19415841584158416
+   },
+   "data/rule101_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.391980198019802
+   },
+   "data/rule100_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004455445544554455
+   },
+   "data/rule253_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005445544554455446
+   },
+   "data/rule151_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.35316831683168315
+   },
+   "data/rule5_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.891980198019802
+   },
+   "data/rule67_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08881188118811882
+   },
+   "data/rule184_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11792079207920793
+   },
+   "data/rule36_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040693069306930695
+   },
+   "data/rule120_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13346534653465347
+   },
+   "data/rule9_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12405940594059404
+   },
+   "data/rule18_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3448514851485149
+   },
+   "data/rule224_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005544554455445544
+   },
+   "data/rule126_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19415841584158416
+   },
+   "data/rule10_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule209_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0598019801980198
+   },
+   "data/rule61_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05297029702970297
+   },
+   "data/rule92_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule177_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7548514851485149
+   },
+   "data/rule94_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6476237623762376
+   },
+   "data/rule194_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule145_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.45663366336633665
+   },
+   "data/rule222_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018514851485148517
+   },
+   "data/rule167_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24584158415841584
+   },
+   "data/rule68_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule241_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule71_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule255_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule119_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.980891089108911
+   },
+   "data/rule245_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule204_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule97_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09663366336633662
+   },
+   "data/rule148_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule58_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7731683168316832
+   },
+   "data/rule231_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule117_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule59_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule179_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7741584158415842
+   },
+   "data/rule20_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule248_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03782178217821782
+   },
+   "data/rule155_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0798019801980198
+   },
+   "data/rule64_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule127_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule97_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09673267326732674
+   },
+   "data/rule95_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule176_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09891089108910892
+   },
+   "data/rule50_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7821782178217822
+   },
+   "data/rule185_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13792079207920793
+   },
+   "data/rule66_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule4_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004653465346534654
+   },
+   "data/rule207_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule88_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06950495049504951
+   },
+   "data/rule37_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05168316831683168
+   },
+   "data/rule101_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6046534653465346
+   },
+   "data/rule150_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.39524752475247527
+   },
+   "data/rule123_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07039603960396039
+   },
+   "data/rule40_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule44_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule182_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3572277227722772
+   },
+   "data/rule164_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04099009900990099
+   },
+   "data/rule11_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9129702970297029
+   },
+   "data/rule59_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9523762376237623
+   },
+   "data/rule25_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08861386138613861
+   },
+   "data/rule205_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1196039603960396
+   },
+   "data/rule52_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule234_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.055445544554455446
+   },
+   "data/rule118_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.545940594059406
+   },
+   "data/rule254_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.011683168316831683
+   },
+   "data/rule101_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3903960396039604
+   },
+   "data/rule149_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.43564356435643564
+   },
+   "data/rule205_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1198019801980198
+   },
+   "data/rule211_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06079207920792079
+   },
+   "data/rule35_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08871287128712871
+   },
+   "data/rule191_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule162_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule143_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0795049504950495
+   },
+   "data/rule223_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule144_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule208_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule244_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule115_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9523762376237623
+   },
+   "data/rule140_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule42_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule198_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6045544554455445
+   },
+   "data/rule54_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5985148514851485
+   },
+   "data/rule143_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule162_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule81_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule215_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule133_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7738613861386139
+   },
+   "data/rule153_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24079207920792078
+   },
+   "data/rule92_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule23_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule201_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0899009900990099
+   },
+   "data/rule72_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule191_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule74_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule217_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060396039603960394
+   },
+   "data/rule188_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31643564356435644
+   },
+   "data/rule9_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.8765346534653465
+   },
+   "data/rule98_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule145_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4569306930693069
+   },
+   "data/rule237_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018514851485148517
+   },
+   "data/rule188_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31643564356435644
+   },
+   "data/rule102_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24089108910891088
+   },
+   "data/rule11_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08881188118811882
+   },
+   "data/rule9_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12386138613861386
+   },
+   "data/rule254_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.011683168316831683
+   },
+   "data/rule54_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.39158415841584154
+   },
+   "data/rule45_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3834653465346535
+   },
+   "data/rule221_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule125_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08782178217821782
+   },
+   "data/rule211_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule240_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule22_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2678217821782178
+   },
+   "data/rule104_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005643564356435643
+   },
+   "data/rule190_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3887128712871287
+   },
+   "data/rule73_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3932673267326733
+   },
+   "data/rule16_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule80_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule163_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7555445544554455
+   },
+   "data/rule200_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020594059405940595
+   },
+   "data/rule210_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2814851485148515
+   },
+   "data/rule132_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule78_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5962376237623762
+   },
+   "data/rule78_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule107_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22643564356435644
+   },
+   "data/rule146_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3384158415841584
+   },
+   "data/rule169_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12613861386138614
+   },
+   "data/rule55_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9903960396039605
+   },
+   "data/rule30_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.408019801980198
+   },
+   "data/rule209_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0598019801980198
+   },
+   "data/rule255_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule145_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5468316831683169
+   },
+   "data/rule114_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.773069306930693
+   },
+   "data/rule210_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2814851485148515
+   },
+   "data/rule241_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule243_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule55_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030495049504950498
+   },
+   "data/rule228_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule40_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule39_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule251_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule111_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08722772277227724
+   },
+   "data/rule236_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004356435643564357
+   },
+   "data/rule107_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22782178217821783
+   },
+   "data/rule161_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.20584158415841583
+   },
+   "data/rule99_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4275247524752475
+   },
+   "data/rule187_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule8_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule189_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule84_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0808910891089109
+   },
+   "data/rule242_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7630693069306931
+   },
+   "data/rule24_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule227_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13762376237623763
+   },
+   "data/rule32_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule213_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule36_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040693069306930695
+   },
+   "data/rule69_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6216831683168317
+   },
+   "data/rule108_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule214_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3886138613861386
+   },
+   "data/rule1_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0503960396039604
+   },
+   "data/rule38_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule182_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.356039603960396
+   },
+   "data/rule123_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07039603960396039
+   },
+   "data/rule171_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule128_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule110_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2608910891089109
+   },
+   "data/rule235_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019504950495049505
+   },
+   "data/rule195_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.240990099009901
+   },
+   "data/rule179_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.774059405940594
+   },
+   "data/rule0_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004653465346534654
+   },
+   "data/rule183_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.21445544554455445
+   },
+   "data/rule131_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.473960396039604
+   },
+   "data/rule209_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060990099009900996
+   },
+   "data/rule160_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule83_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule70_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6044554455445544
+   },
+   "data/rule193_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2588118811881188
+   },
+   "data/rule135_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.40396039603960393
+   },
+   "data/rule193_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2586138613861386
+   },
+   "data/rule175_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule77_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7924752475247524
+   },
+   "data/rule84_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule21_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.031386138613861386
+   },
+   "data/rule149_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38920792079207917
+   },
+   "data/rule24_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule117_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9121782178217822
+   },
+   "data/rule130_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule146_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.34603960396039607
+   },
+   "data/rule41_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13405940594059407
+   },
+   "data/rule92_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5961386138613861
+   },
+   "data/rule56_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule99_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.42059405940594063
+   },
+   "data/rule129_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19425742574257424
+   },
+   "data/rule60_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24069306930693068
+   },
+   "data/rule178_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7825742574257426
+   },
+   "data/rule234_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05534653465346535
+   },
+   "data/rule86_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.41059405940594057
+   },
+   "data/rule187_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule174_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0608910891089109
+   },
+   "data/rule68_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule66_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0599009900990099
+   },
+   "data/rule39_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule177_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7557425742574257
+   },
+   "data/rule33_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0505940594059406
+   },
+   "data/rule243_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule119_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule222_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04891089108910891
+   },
+   "data/rule154_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23663366336633662
+   },
+   "data/rule212_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule250_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04673267326732673
+   },
+   "data/rule225_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.14316831683168316
+   },
+   "data/rule57_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7959405940594059
+   },
+   "data/rule131_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.47366336633663364
+   },
+   "data/rule233_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02198019801980198
+   },
+   "data/rule116_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule135_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4058415841584158
+   },
+   "data/rule235_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005841584158415842
+   },
+   "data/rule147_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6031683168316831
+   },
+   "data/rule161_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.20475247524752477
+   },
+   "data/rule72_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule81_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule192_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule71_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule70_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6043564356435643
+   },
+   "data/rule20_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule130_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule82_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2959405940594059
+   },
+   "data/rule161_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.20613861386138613
+   },
+   "data/rule230_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31475247524752475
+   },
+   "data/rule48_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule58_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.763960396039604
+   },
+   "data/rule254_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.011782178217821782
+   },
+   "data/rule21_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.031386138613861386
+   },
+   "data/rule19_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9903960396039605
+   },
+   "data/rule14_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule249_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005940594059405941
+   },
+   "data/rule245_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule188_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31653465346534654
+   },
+   "data/rule109_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.600990099009901
+   },
+   "data/rule150_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3676237623762376
+   },
+   "data/rule214_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38841584158415843
+   },
+   "data/rule158_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37396039603960396
+   },
+   "data/rule239_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005445544554455446
+   },
+   "data/rule64_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule166_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule105_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3671287128712871
+   },
+   "data/rule232_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004554455445544554
+   },
+   "data/rule195_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24079207920792078
+   },
+   "data/rule82_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.29524752475247523
+   },
+   "data/rule19_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030990099009900986
+   },
+   "data/rule136_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule113_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule208_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule84_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule167_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24584158415841584
+   },
+   "data/rule93_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6131683168316832
+   },
+   "data/rule60_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24069306930693068
+   },
+   "data/rule241_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0805940594059406
+   },
+   "data/rule194_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule77_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7924752475247524
+   },
+   "data/rule26_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3087128712871287
+   },
+   "data/rule8_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule231_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule110_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.25514851485148515
+   },
+   "data/rule141_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02683168316831683
+   },
+   "data/rule51_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9909900990099009
+   },
+   "data/rule135_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4054455445544554
+   },
+   "data/rule127_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule40_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule163_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7555445544554455
+   },
+   "data/rule190_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3887128712871287
+   },
+   "data/rule114_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7628712871287129
+   },
+   "data/rule233_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019504950495049505
+   },
+   "data/rule210_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.28099009900990096
+   },
+   "data/rule98_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09891089108910892
+   },
+   "data/rule20_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule108_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02405940594059406
+   },
+   "data/rule203_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule244_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule189_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06
+   },
+   "data/rule159_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038415841584158415
+   },
+   "data/rule215_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule151_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2179207920792079
+   },
+   "data/rule24_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule49_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9517821782178217
+   },
+   "data/rule18_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.35138613861386137
+   },
+   "data/rule235_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.006039603960396039
+   },
+   "data/rule129_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19257425742574258
+   },
+   "data/rule45_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.382970297029703
+   },
+   "data/rule122_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22643564356435644
+   },
+   "data/rule50_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.808019801980198
+   },
+   "data/rule147_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38772277227722773
+   },
+   "data/rule111_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9131683168316832
+   },
+   "data/rule140_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004653465346534654
+   },
+   "data/rule215_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02099009900990099
+   },
+   "data/rule76_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule195_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24079207920792078
+   },
+   "data/rule197_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule171_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule27_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule96_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule137_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.262970297029703
+   },
+   "data/rule4_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule65_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08752475247524752
+   },
+   "data/rule38_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060099009900990104
+   },
+   "data/rule166_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule85_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08841584158415842
+   },
+   "data/rule56_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule143_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09554455445544555
+   },
+   "data/rule154_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23653465346534655
+   },
+   "data/rule112_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule64_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule34_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0798019801980198
+   },
+   "data/rule53_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9517821782178217
+   },
+   "data/rule86_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.41000000000000003
+   },
+   "data/rule165_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3295049504950495
+   },
+   "data/rule2_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule249_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005940594059405941
+   },
+   "data/rule229_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07722772277227723
+   },
+   "data/rule134_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0803960396039604
+   },
+   "data/rule204_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule227_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13801980198019803
+   },
+   "data/rule202_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05742574257425742
+   },
+   "data/rule100_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule99_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4275247524752475
+   },
+   "data/rule24_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule13_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6134653465346535
+   },
+   "data/rule175_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0598019801980198
+   },
+   "data/rule196_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule75_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.387029702970297
+   },
+   "data/rule163_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7548514851485149
+   },
+   "data/rule115_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule231_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule230_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3108910891089109
+   },
+   "data/rule165_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3285148514851485
+   },
+   "data/rule183_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.21415841584158415
+   },
+   "data/rule89_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3777227722772277
+   },
+   "data/rule72_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule216_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.039603960396039604
+   },
+   "data/rule243_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule247_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020594059405940595
+   },
+   "data/rule51_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07009900990099009
+   },
+   "data/rule52_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule25_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08861386138613861
+   },
+   "data/rule96_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule30_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.40574257425742577
+   },
+   "data/rule16_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule74_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule197_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule70_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6043564356435643
+   },
+   "data/rule207_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule228_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule164_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04108910891089109
+   },
+   "data/rule86_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.41287128712871285
+   },
+   "data/rule87_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule7_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030396039603960395
+   },
+   "data/rule135_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4058415841584158
+   },
+   "data/rule197_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.605049504950495
+   },
+   "data/rule144_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0598019801980198
+   },
+   "data/rule52_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule3_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06722772277227723
+   },
+   "data/rule121_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.18415841584158418
+   },
+   "data/rule151_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.21851485148514851
+   },
+   "data/rule142_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07891089108910891
+   },
+   "data/rule128_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule240_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule113_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9121782178217822
+   },
+   "data/rule217_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060396039603960394
+   },
+   "data/rule159_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02099009900990099
+   },
+   "data/rule57_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4285148514851485
+   },
+   "data/rule121_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.18277227722772277
+   },
+   "data/rule137_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2623762376237624
+   },
+   "data/rule246_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.384059405940594
+   },
+   "data/rule246_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.384059405940594
+   },
+   "data/rule225_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.141980198019802
+   },
+   "data/rule181_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22059405940594062
+   },
+   "data/rule231_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09683168316831683
+   },
+   "data/rule90_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3293069306930693
+   },
+   "data/rule15_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08910891089108912
+   },
+   "data/rule110_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2588118811881188
+   },
+   "data/rule48_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule169_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12653465346534654
+   },
+   "data/rule26_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3076237623762376
+   },
+   "data/rule89_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3802970297029703
+   },
+   "data/rule154_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23653465346534655
+   },
+   "data/rule218_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.045247524752475246
+   },
+   "data/rule105_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3682178217821782
+   },
+   "data/rule4_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule249_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019306930693069307
+   },
+   "data/rule113_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08752475247524752
+   },
+   "data/rule217_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule15_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule229_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07039603960396039
+   },
+   "data/rule15_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule204_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule51_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule44_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule152_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule91_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9501980198019803
+   },
+   "data/rule172_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule19_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.011089108910891089
+   },
+   "data/rule27_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08891089108910892
+   },
+   "data/rule123_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9317821782178218
+   },
+   "data/rule140_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule33_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9507920792079209
+   },
+   "data/rule198_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6045544554455445
+   },
+   "data/rule0_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004752475247524752
+   },
+   "data/rule212_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0808910891089109
+   },
+   "data/rule181_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23663366336633662
+   },
+   "data/rule62_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5471287128712872
+   },
+   "data/rule204_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule42_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule198_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0299009900990099
+   },
+   "data/rule88_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule227_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13762376237623763
+   },
+   "data/rule54_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3914851485148515
+   },
+   "data/rule156_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6048514851485148
+   },
+   "data/rule245_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule138_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule190_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3887128712871287
+   },
+   "data/rule47_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule113_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule199_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5958415841584158
+   },
+   "data/rule29_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule176_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09881188118811882
+   },
+   "data/rule148_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule201_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04801980198019802
+   },
+   "data/rule3_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0693069306930693
+   },
+   "data/rule250_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05396039603960395
+   },
+   "data/rule253_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule32_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule63_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.980891089108911
+   },
+   "data/rule180_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule1_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0503960396039604
+   },
+   "data/rule173_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.057623762376237626
+   },
+   "data/rule90_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3112871287128713
+   },
+   "data/rule169_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12623762376237624
+   },
+   "data/rule157_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5961386138613861
+   },
+   "data/rule157_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule122_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4087128712871287
+   },
+   "data/rule69_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6216831683168317
+   },
+   "data/rule14_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule201_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0899009900990099
+   },
+   "data/rule114_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7637623762376237
+   },
+   "data/rule45_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3834653465346535
+   },
+   "data/rule10_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule1_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0503960396039604
+   },
+   "data/rule219_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01891089108910891
+   },
+   "data/rule246_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3889108910891089
+   },
+   "data/rule155_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule63_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030495049504950498
+   },
+   "data/rule248_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03792079207920792
+   },
+   "data/rule85_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08831683168316833
+   },
+   "data/rule228_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule104_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0057425742574257425
+   },
+   "data/rule200_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004554455445544554
+   },
+   "data/rule251_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019306930693069307
+   },
+   "data/rule250_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04683168316831683
+   },
+   "data/rule38_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule102_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24069306930693068
+   },
+   "data/rule116_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule208_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0596039603960396
+   },
+   "data/rule236_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule226_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11851485148514852
+   },
+   "data/rule240_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule89_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6256435643564356
+   },
+   "data/rule28_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule51_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule13_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6133663366336634
+   },
+   "data/rule239_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule199_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03871287128712871
+   },
+   "data/rule132_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule91_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05207920792079208
+   },
+   "data/rule49_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08732673267326732
+   },
+   "data/rule97_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09712871287128712
+   },
+   "data/rule77_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7922772277227723
+   },
+   "data/rule160_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule252_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule193_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2588118811881188
+   },
+   "data/rule203_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01910891089108911
+   },
+   "data/rule119_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule21_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.031386138613861386
+   },
+   "data/rule27_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule143_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule79_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38504950495049506
+   },
+   "data/rule28_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0298019801980198
+   },
+   "data/rule236_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule130_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule138_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule225_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.14257425742574256
+   },
+   "data/rule8_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule247_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020495049504950496
+   },
+   "data/rule186_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7632673267326733
+   },
+   "data/rule169_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.14079207920792078
+   },
+   "data/rule126_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19336633663366337
+   },
+   "data/rule118_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.45673267326732675
+   },
+   "data/rule190_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38425742574257427
+   },
+   "data/rule121_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.8215841584158415
+   },
+   "data/rule93_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38455445544554456
+   },
+   "data/rule170_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule2_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule183_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2316831683168317
+   },
+   "data/rule60_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2381188118811881
+   },
+   "data/rule4_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule126_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19247524752475248
+   },
+   "data/rule121_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.18475247524752475
+   },
+   "data/rule31_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9806930693069306
+   },
+   "data/rule158_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37405940594059406
+   },
+   "data/rule222_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.049009900990099005
+   },
+   "data/rule148_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08108910891089109
+   },
+   "data/rule37_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05168316831683168
+   },
+   "data/rule107_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22782178217821783
+   },
+   "data/rule95_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule66_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule12_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule59_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08603960396039603
+   },
+   "data/rule156_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule46_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0608910891089109
+   },
+   "data/rule81_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06960396039603961
+   },
+   "data/rule17_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule139_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09702970297029703
+   },
+   "data/rule168_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule224_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005544554455445544
+   },
+   "data/rule75_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3852475247524752
+   },
+   "data/rule233_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02198019801980198
+   },
+   "data/rule78_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01881188118811881
+   },
+   "data/rule33_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0502970297029703
+   },
+   "data/rule22_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2678217821782178
+   },
+   "data/rule29_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.8921782178217821
+   },
+   "data/rule253_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule164_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04108910891089109
+   },
+   "data/rule203_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule165_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3295049504950495
+   },
+   "data/rule196_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule202_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05594059405940594
+   },
+   "data/rule139_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule107_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2267326732673267
+   },
+   "data/rule236_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule47_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06960396039603961
+   },
+   "data/rule220_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule16_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule162_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0994059405940594
+   },
+   "data/rule106_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13514851485148513
+   },
+   "data/rule90_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3294059405940594
+   },
+   "data/rule172_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule157_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5961386138613861
+   },
+   "data/rule63_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03
+   },
+   "data/rule184_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11801980198019803
+   },
+   "data/rule61_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9600990099009901
+   },
+   "data/rule182_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3689108910891089
+   },
+   "data/rule3_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06841584158415842
+   },
+   "data/rule124_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.258019801980198
+   },
+   "data/rule63_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.029603960396039602
+   },
+   "data/rule30_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.42376237623762375
+   },
+   "data/rule120_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13277227722772278
+   },
+   "data/rule56_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09871287128712872
+   },
+   "data/rule171_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09722772277227723
+   },
+   "data/rule92_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule68_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule69_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6217821782178218
+   },
+   "data/rule103_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08871287128712871
+   },
+   "data/rule58_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.763960396039604
+   },
+   "data/rule184_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11792079207920793
+   },
+   "data/rule177_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7548514851485149
+   },
+   "data/rule255_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule119_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule204_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004356435643564357
+   },
+   "data/rule239_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule207_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule148_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule37_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.042178217821782174
+   },
+   "data/rule244_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule178_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7826732673267327
+   },
+   "data/rule30_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4075247524752475
+   },
+   "data/rule222_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04891089108910891
+   },
+   "data/rule49_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule221_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule116_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0806930693069307
+   },
+   "data/rule136_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule100_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule126_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.378019801980198
+   },
+   "data/rule52_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0796039603960396
+   },
+   "data/rule177_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7727722772277227
+   },
+   "data/rule94_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09900990099009901
+   },
+   "data/rule5_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule67_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9329702970297029
+   },
+   "data/rule184_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1189108910891089
+   },
+   "data/rule252_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019306930693069307
+   },
+   "data/rule36_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule158_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37425742574257426
+   },
+   "data/rule166_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule100_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule151_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.21851485148514851
+   },
+   "data/rule180_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0796039603960396
+   },
+   "data/rule71_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule41_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13455445544554456
+   },
+   "data/rule82_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2959405940594059
+   },
+   "data/rule11_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule219_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040792079207920794
+   },
+   "data/rule10_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule224_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005544554455445544
+   },
+   "data/rule53_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule35_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule223_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020792079207920793
+   },
+   "data/rule243_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule147_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.387029702970297
+   },
+   "data/rule179_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7736633663366336
+   },
+   "data/rule118_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4561386138613861
+   },
+   "data/rule254_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule210_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2814851485148515
+   },
+   "data/rule149_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38920792079207917
+   },
+   "data/rule205_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01811881188118812
+   },
+   "data/rule142_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule59_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule95_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0502970297029703
+   },
+   "data/rule181_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2198019801980198
+   },
+   "data/rule73_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38792079207920793
+   },
+   "data/rule172_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule40_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule74_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule154_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.23613861386138615
+   },
+   "data/rule11_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule87_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule101_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3904950495049505
+   },
+   "data/rule28_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule150_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.36524752475247524
+   },
+   "data/rule206_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule16_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0596039603960396
+   },
+   "data/rule185_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.15485148514851485
+   },
+   "data/rule66_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule4_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule226_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11841584158415841
+   },
+   "data/rule37_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9502970297029704
+   },
+   "data/rule218_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03801980198019802
+   },
+   "data/rule127_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9705940594059407
+   },
+   "data/rule122_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22613861386138612
+   },
+   "data/rule95_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9412871287128712
+   },
+   "data/rule176_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule45_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3808910891089109
+   },
+   "data/rule133_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7738613861386139
+   },
+   "data/rule19_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030990099009900986
+   },
+   "data/rule153_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.240990099009901
+   },
+   "data/rule67_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08732673267326732
+   },
+   "data/rule59_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08891089108910892
+   },
+   "data/rule77_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7923762376237624
+   },
+   "data/rule88_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06960396039603961
+   },
+   "data/rule102_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24089108910891088
+   },
+   "data/rule81_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06831683168316832
+   },
+   "data/rule213_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule12_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule43_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule175_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07702970297029703
+   },
+   "data/rule96_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule239_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule124_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.25534653465346535
+   },
+   "data/rule234_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.055148514851485156
+   },
+   "data/rule153_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24059405940594056
+   },
+   "data/rule34_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0804950495049505
+   },
+   "data/rule108_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule145_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4503960396039604
+   },
+   "data/rule7_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030396039603960395
+   },
+   "data/rule65_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9128712871287128
+   },
+   "data/rule186_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.772970297029703
+   },
+   "data/rule166_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0795049504950495
+   },
+   "data/rule43_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule170_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule252_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01910891089108911
+   },
+   "data/rule108_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule136_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule232_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.020594059405940595
+   },
+   "data/rule222_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04910891089108911
+   },
+   "data/rule220_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule104_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0057425742574257425
+   },
+   "data/rule61_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05297029702970297
+   },
+   "data/rule206_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule35_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9519801980198019
+   },
+   "data/rule139_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0806930693069307
+   },
+   "data/rule23_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule187_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09782178217821783
+   },
+   "data/rule64_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule6_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule140_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule95_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule238_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019306930693069307
+   },
+   "data/rule97_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9028712871287128
+   },
+   "data/rule174_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0599009900990099
+   },
+   "data/rule23_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030495049504950498
+   },
+   "data/rule125_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9126732673267327
+   },
+   "data/rule213_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule13_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6134653465346535
+   },
+   "data/rule184_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11831683168316831
+   },
+   "data/rule42_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule132_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule216_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.039603960396039604
+   },
+   "data/rule152_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule117_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08752475247524752
+   },
+   "data/rule129_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19326732673267324
+   },
+   "data/rule103_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08742574257425742
+   },
+   "data/rule178_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7825742574257426
+   },
+   "data/rule248_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03792079207920792
+   },
+   "data/rule207_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.018712871287128712
+   },
+   "data/rule7_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030891089108910894
+   },
+   "data/rule6_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060099009900990104
+   },
+   "data/rule124_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2608910891089109
+   },
+   "data/rule101_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3904950495049505
+   },
+   "data/rule194_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule218_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038316831683168316
+   },
+   "data/rule192_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule172_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule221_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule83_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule78_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.596039603960396
+   },
+   "data/rule46_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06079207920792079
+   },
+   "data/rule35_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08603960396039603
+   },
+   "data/rule46_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0608910891089109
+   },
+   "data/rule56_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09871287128712872
+   },
+   "data/rule208_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule182_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3568316831683168
+   },
+   "data/rule209_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule237_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021485148514851487
+   },
+   "data/rule133_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7738613861386139
+   },
+   "data/rule67_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08881188118811882
+   },
+   "data/rule94_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6476237623762376
+   },
+   "data/rule117_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule146_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3384158415841584
+   },
+   "data/rule134_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule70_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030099009900990098
+   },
+   "data/rule193_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.26435643564356437
+   },
+   "data/rule120_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13356435643564357
+   },
+   "data/rule159_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02118811881188119
+   },
+   "data/rule25_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08861386138613861
+   },
+   "data/rule21_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.98009900990099
+   },
+   "data/rule131_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5481188118811882
+   },
+   "data/rule39_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06950495049504951
+   },
+   "data/rule93_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6132673267326733
+   },
+   "data/rule160_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule83_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9616831683168316
+   },
+   "data/rule85_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule128_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule235_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.006039603960396039
+   },
+   "data/rule179_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.808019801980198
+   },
+   "data/rule69_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37603960396039604
+   },
+   "data/rule26_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3087128712871287
+   },
+   "data/rule33_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0505940594059406
+   },
+   "data/rule84_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule237_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021584158415841586
+   },
+   "data/rule62_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4527722772277228
+   },
+   "data/rule38_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0608910891089109
+   },
+   "data/rule192_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule242_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7724752475247525
+   },
+   "data/rule122_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.22752475247524753
+   },
+   "data/rule161_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.20613861386138613
+   },
+   "data/rule0_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004752475247524752
+   },
+   "data/rule213_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09603960396039604
+   },
+   "data/rule252_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019207920792079208
+   },
+   "data/rule118_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4561386138613861
+   },
+   "data/rule168_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005148514851485149
+   },
+   "data/rule156_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule194_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060099009900990104
+   },
+   "data/rule177_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7544554455445545
+   },
+   "data/rule130_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule149_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3898019801980198
+   },
+   "data/rule232_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule82_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2967326732673267
+   },
+   "data/rule161_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.40811881188118815
+   },
+   "data/rule191_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule160_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule192_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule71_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9117821782178218
+   },
+   "data/rule125_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08851485148514851
+   },
+   "data/rule2_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060198019801980196
+   },
+   "data/rule20_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule116_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule71_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule62_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4527722772277228
+   },
+   "data/rule43_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08881188118811882
+   },
+   "data/rule147_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38752475247524754
+   },
+   "data/rule91_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04336633663366337
+   },
+   "data/rule57_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4285148514851485
+   },
+   "data/rule18_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.34415841584158413
+   },
+   "data/rule26_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3091089108910891
+   },
+   "data/rule243_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09722772277227723
+   },
+   "data/rule67_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08861386138613861
+   },
+   "data/rule212_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule197_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule164_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04108910891089109
+   },
+   "data/rule112_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule118_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4627722772277228
+   },
+   "data/rule68_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004455445544554455
+   },
+   "data/rule232_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule39_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9614851485148515
+   },
+   "data/rule176_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0995049504950495
+   },
+   "data/rule23_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule129_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38643564356435645
+   },
+   "data/rule224_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005643564356435643
+   },
+   "data/rule178_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.808019801980198
+   },
+   "data/rule234_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.055445544554455446
+   },
+   "data/rule216_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03930693069306931
+   },
+   "data/rule228_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule211_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07762376237623762
+   },
+   "data/rule216_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04
+   },
+   "data/rule240_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule8_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule112_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule57_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4213861386138614
+   },
+   "data/rule69_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6132673267326733
+   },
+   "data/rule198_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6046534653465346
+   },
+   "data/rule144_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule98_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule55_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule237_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021584158415841586
+   },
+   "data/rule55_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule244_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule185_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13792079207920793
+   },
+   "data/rule163_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.754950495049505
+   },
+   "data/rule188_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3115841584158416
+   },
+   "data/rule9_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12405940594059404
+   },
+   "data/rule202_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05732673267326732
+   },
+   "data/rule23_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9901980198019801
+   },
+   "data/rule72_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule191_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038415841584158415
+   },
+   "data/rule162_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0999009900990099
+   },
+   "data/rule81_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9313861386138613
+   },
+   "data/rule153_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.240990099009901
+   },
+   "data/rule43_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08762376237623763
+   },
+   "data/rule133_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03772277227722772
+   },
+   "data/rule138_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0801980198019802
+   },
+   "data/rule106_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13504950495049506
+   },
+   "data/rule14_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule152_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule205_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1198019801980198
+   },
+   "data/rule54_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3914851485148515
+   },
+   "data/rule144_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0599009900990099
+   },
+   "data/rule200_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule208_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule32_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule115_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule5_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule13_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6132673267326733
+   },
+   "data/rule242_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7633663366336634
+   },
+   "data/rule8_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule189_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07722772277227723
+   },
+   "data/rule241_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule110_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2583168316831683
+   },
+   "data/rule236_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule29_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1098019801980198
+   },
+   "data/rule99_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7955445544554455
+   },
+   "data/rule50_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7823762376237624
+   },
+   "data/rule238_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019306930693069307
+   },
+   "data/rule117_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule127_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030495049504950498
+   },
+   "data/rule119_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.029504950495049507
+   },
+   "data/rule210_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.28168316831683166
+   },
+   "data/rule223_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule241_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09683168316831683
+   },
+   "data/rule209_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07742574257425743
+   },
+   "data/rule0_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004752475247524752
+   },
+   "data/rule145_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4503960396039604
+   },
+   "data/rule114_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7630693069306931
+   },
+   "data/rule142_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule246_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.384059405940594
+   },
+   "data/rule68_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule79_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6048514851485148
+   },
+   "data/rule9_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.12356435643564358
+   },
+   "data/rule200_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule55_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule17_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule11_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0892079207920792
+   },
+   "data/rule48_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule168_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005247524752475248
+   },
+   "data/rule80_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule163_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7726732673267326
+   },
+   "data/rule76_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0998019801980198
+   },
+   "data/rule90_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3284158415841584
+   },
+   "data/rule132_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004455445544554455
+   },
+   "data/rule106_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13455445544554456
+   },
+   "data/rule156_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule22_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4175247524752475
+   },
+   "data/rule254_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.011881188118811881
+   },
+   "data/rule190_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3933663366336634
+   },
+   "data/rule73_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.5949504950495049
+   },
+   "data/rule227_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.1374257425742574
+   },
+   "data/rule219_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040495049504950496
+   },
+   "data/rule105_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3682178217821782
+   },
+   "data/rule216_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038514851485148514
+   },
+   "data/rule162_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09891089108910892
+   },
+   "data/rule247_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038415841584158415
+   },
+   "data/rule230_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31524752475247525
+   },
+   "data/rule123_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060297029702970295
+   },
+   "data/rule230_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.31475247524752475
+   },
+   "data/rule42_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule29_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0998019801980198
+   },
+   "data/rule17_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06851485148514852
+   },
+   "data/rule253_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005346534653465346
+   },
+   "data/rule73_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3872277227722772
+   },
+   "data/rule65_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08811881188118813
+   },
+   "data/rule144_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0599009900990099
+   },
+   "data/rule24_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule196_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004455445544554455
+   },
+   "data/rule75_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6068316831683168
+   },
+   "data/rule86_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4164356435643564
+   },
+   "data/rule165_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3224752475247525
+   },
+   "data/rule72_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule229_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07049504950495049
+   },
+   "data/rule94_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6474257425742574
+   },
+   "data/rule134_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0795049504950495
+   },
+   "data/rule226_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.11811881188118813
+   },
+   "data/rule242_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7629702970297029
+   },
+   "data/rule248_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038316831683168316
+   },
+   "data/rule53_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule143_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule174_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule89_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3787128712871287
+   },
+   "data/rule112_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule146_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.33881188118811884
+   },
+   "data/rule212_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule178_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7823762376237624
+   },
+   "data/rule181_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2198019801980198
+   },
+   "data/rule136_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule158_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3698019801980198
+   },
+   "data/rule159_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021089108910891087
+   },
+   "data/rule167_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24584158415841584
+   },
+   "data/rule47_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06960396039603961
+   },
+   "data/rule180_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule231_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07940594059405941
+   },
+   "data/rule91_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.04326732673267327
+   },
+   "data/rule53_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule217_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01891089108910891
+   },
+   "data/rule179_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.774059405940594
+   },
+   "data/rule27_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08663366336633664
+   },
+   "data/rule49_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule246_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3934653465346534
+   },
+   "data/rule100_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule217_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060396039603960394
+   },
+   "data/rule36_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.040594059405940595
+   },
+   "data/rule142_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0807920792079208
+   },
+   "data/rule113_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08772277227722773
+   },
+   "data/rule31_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0298019801980198
+   },
+   "data/rule52_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule87_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030594059405940597
+   },
+   "data/rule228_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06069306930693069
+   },
+   "data/rule164_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.00504950495049505
+   },
+   "data/rule87_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.980891089108911
+   },
+   "data/rule102_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24069306930693068
+   },
+   "data/rule135_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4168316831683168
+   },
+   "data/rule196_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule25_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9317821782178218
+   },
+   "data/rule238_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.019207920792079208
+   },
+   "data/rule206_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule138_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule120_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13435643564356434
+   },
+   "data/rule141_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6051485148514851
+   },
+   "data/rule74_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule197_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02683168316831683
+   },
+   "data/rule2_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0597029702970297
+   },
+   "data/rule83_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07019801980198019
+   },
+   "data/rule51_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule70_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6044554455445544
+   },
+   "data/rule218_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.03811881188118812
+   },
+   "data/rule112_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0802970297029703
+   },
+   "data/rule110_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2588118811881188
+   },
+   "data/rule79_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6047524752475247
+   },
+   "data/rule47_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06950495049504951
+   },
+   "data/rule141_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.6051485148514851
+   },
+   "data/rule240_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule194_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0604950495049505
+   },
+   "data/rule77_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.19297029702970298
+   },
+   "data/rule6_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060594059405940585
+   },
+   "data/rule26_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3103960396039604
+   },
+   "data/rule249_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.005643564356435643
+   },
+   "data/rule173_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05099009900990099
+   },
+   "data/rule137_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.262970297029703
+   },
+   "data/rule136_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule84_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0797029702970297
+   },
+   "data/rule167_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2617821782178218
+   },
+   "data/rule195_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.24059405940594056
+   },
+   "data/rule15_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08841584158415842
+   },
+   "data/rule31_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030198019801980197
+   },
+   "data/rule48_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule232_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02069306930693069
+   },
+   "data/rule220_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08
+   },
+   "data/rule212_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule116_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule128_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0048514851485148515
+   },
+   "data/rule245_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09683168316831683
+   },
+   "data/rule109_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.382970297029703
+   },
+   "data/rule238_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.01910891089108911
+   },
+   "data/rule214_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3932673267326733
+   },
+   "data/rule158_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.37405940594059406
+   },
+   "data/rule48_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07930693069306931
+   },
+   "data/rule176_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09891089108910892
+   },
+   "data/rule185_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13792079207920793
+   },
+   "data/rule104_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0057425742574257425
+   },
+   "data/rule22_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.26623762376237625
+   },
+   "data/rule19_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.030990099009900986
+   },
+   "data/rule137_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.26811881188118813
+   },
+   "data/rule146_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3379207920792079
+   },
+   "data/rule166_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule85_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9117821782178218
+   },
+   "data/rule128_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0049504950495049506
+   },
+   "data/rule132_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule214_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3932673267326733
+   },
+   "data/rule76_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.004455445544554455
+   },
+   "data/rule195_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.2522772277227723
+   },
+   "data/rule27_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.9519801980198019
+   },
+   "data/rule111_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.08782178217821782
+   },
+   "data/rule109_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.38603960396039605
+   },
+   "data/rule137_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.26465346534653467
+   },
+   "data/rule140_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule57_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.42207920792079207
+   },
+   "data/rule50_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7823762376237624
+   },
+   "data/rule39_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.06762376237623763
+   },
+   "data/rule233_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.021683168316831685
+   },
+   "data/rule86_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.41000000000000003
+   },
+   "data/rule75_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.387029702970297
+   },
+   "data/rule152_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.07920792079207921
+   },
+   "data/rule49_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.09
+   },
+   "data/rule173_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.051089108910891086
+   },
+   "data/rule180_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0795049504950495
+   },
+   "data/rule18_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3448514851485149
+   },
+   "data/rule41_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.13356435643564357
+   },
+   "data/rule108_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule99_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.4210891089108911
+   },
+   "data/rule244_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0800990099009901
+   },
+   "data/rule159_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02118811881188119
+   },
+   "data/rule215_ic8932_rotation.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.038415841584158415
+   },
+   "data/rule80_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0596039603960396
+   },
+   "data/rule188_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.3117821782178218
+   },
+   "data/rule66_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.060396039603960394
+   },
+   "data/rule58_ic8932_shift.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.7637623762376237
+   },
+   "data/rule202_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.05683168316831683
+   },
+   "data/rule225_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.14257425742574256
+   },
+   "data/rule34_ic8932_inversion.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.0799009900990099
+   },
+   "data/rule150_ic8932_reflection.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.36633663366336633
+   },
+   "data/rule233_ic8932_identity.npy": {
+      "Test": 0.3,
+      "RunLengthEncoding": 0.02198019801980198
+   }
+}
