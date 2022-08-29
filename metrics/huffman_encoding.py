@@ -6,31 +6,29 @@ class HuffmanEncoding:
     @staticmethod
     def encode(image:ndarray) -> Tuple[str,Dict[str,str]]:
         huffman_code_to_original = HuffmanEncoding.huffman_table(image=image)
-        original_to_huffman_code = dict((value,key) for key,value in huffman_code_to_original.items())
 
         encoded = '' 
         text = ''.join(map(str,image.flatten()))
         pattern = ''
         for character in text:
             pattern += character
-            if pattern in original_to_huffman_code:
-                encoded += original_to_huffman_code[pattern]
+            if pattern in huffman_code_to_original:
+                encoded += huffman_code_to_original[pattern]
                 pattern = ''
 
         return encoded, huffman_code_to_original
 
     @staticmethod
     def decode(code:str, image_shape:Tuple[int,int], huffman_table:Dict[str,str]) -> ndarray:
-        text = code
-        decoded = '' 
-        pattern = ''
-        for character in text:
-            pattern += character
-            if pattern in huffman_table:
-                decoded += huffman_table[pattern]
-                pattern = ''
-        decoded += "0"
-        return array(list(map(int,decoded))).reshape(image_shape)
+        table = dict((value,key) for key,value in huffman_table.items())
+        result = ''
+        while any(code):
+            for pattern,decoded in table.items():
+                if code.startswith(pattern):
+                    result += decoded 
+                    code = code[len(pattern):]
+                    break
+        return array(list(map(int,result))).reshape(image_shape)
 
     @staticmethod
     def huffman_table(image:ndarray) -> Dict[str,str]:
@@ -59,7 +57,7 @@ class HuffmanEncoding:
         return table
 
     @staticmethod
-    def frequency_table(image:ndarray,pixel_stride:int=4) -> List[Tuple[str,int]]:
+    def frequency_table(image:ndarray,pixel_stride:int=3) -> List[Tuple[str,int]]:
         table = dict()
         x,y = image.shape
         image_flat = image.flatten()
