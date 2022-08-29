@@ -4,6 +4,12 @@ from numpy import ndarray, array
 
 class HuffmanEncoding:
     @staticmethod
+    def compression_ratio(image:ndarray) -> float:
+        x,y = image.shape
+        code,_ = HuffmanEncoding.encode(image)
+        return (x*y)/len(code)
+
+    @staticmethod
     def encode(image:ndarray) -> Tuple[str,Dict[str,str]]:
         huffman_code_to_original = HuffmanEncoding.huffman_table(image=image)
 
