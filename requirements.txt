@@ -2,3 +2,4 @@ eca
 numpy
 scipy
 pandas
+pybdm

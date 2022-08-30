@@ -1,5 +1,9 @@
 {
-   "RunLengthEncoding": 948,
-   "Test": 334,
-   "Winner": "RunLengthEncoding"
+   "LZMA": 458,
+   "BZ2": 439,
+   "ZLIB": 249,
+   "HuffmanEncoding": 88,
+   "RunLengthEncoding": 42,
+   "LosslessFourierCompression": 6,
+   "Winner": "ZLIB"
 }

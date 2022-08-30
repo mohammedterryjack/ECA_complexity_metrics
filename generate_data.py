@@ -2,7 +2,7 @@ from numpy import fliplr, rot90, roll, save, zeros, random
 from eca import OneDimensionalElementaryCellularAutomata 
 
 def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
-    nothingness = zeros(shape=(width,depth))
+    nothingness = zeros(shape=(width,depth),dtype=int)
     with open(f"{path}/minimum_complexity.npy", 'wb') as spacetime_file:
         save(spacetime_file, nothingness, allow_pickle=False)
 

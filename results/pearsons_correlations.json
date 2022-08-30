@@ -1,4 +1,10 @@
 {
-   "Test": 0.9999999999999998,
-   "RunLengthEncoding": 1.6273928491330353e-16
+   "LosslessFourierCompression": 1.0,
+   "RunLengthEncoding": 0.2561652462316156,
+   "HuffmanEncoding": -0.06257052624002098,
+   "ZLIB": 0.6845672175212166,
+   "GZIP": 0.6845666130296052,
+   "BZ2": 0.6673515167287057,
+   "LZMA": 0.6829807576177218,
+   "BlockDecompositionMethod": 0.7092927917088082
 }

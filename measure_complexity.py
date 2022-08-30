@@ -7,6 +7,7 @@ from metrics import METRICS
 def measure_dataset(data_path:str, complexity_metrics:Dict[str,callable]) -> None:
     data_results = dict()
     for filename in glob(f"{data_path}/*.npy"):
+        print(filename)
         with open(filename, 'rb') as spacetime_file:
             spacetime_evolution = load(spacetime_file)
         data_results[filename] = dict(map(

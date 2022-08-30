@@ -87,6 +87,7 @@ class QualityEvaluations:
 
     @staticmethod
     def highest_compression_ratio(complexities:DataFrame) -> Dict[str,str]:
+        complexities = complexities.loc[:, complexities.columns != 'BlockDecompositionMethod']
         results = complexities.idxmin(axis=1).value_counts().to_dict()
         results["Winner"] = complexities.sum().idxmin()
         return results

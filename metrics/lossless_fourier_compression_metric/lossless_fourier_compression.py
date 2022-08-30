@@ -1,7 +1,7 @@
 from typing import Optional, List
 
 from scipy.fft import fft2, ifft2
-from numpy import array, count_nonzero, flatnonzero, zeros, ones
+from numpy import array, count_nonzero, flatnonzero, zeros, ones, inf
 from matplotlib.pyplot import figure, show
 
 from metrics.lossless_fourier_compression_metric.utils import S,R,C,𝝋
@@ -99,7 +99,10 @@ class LosslessFourierCompression:
     @staticmethod
     def CR(z:C, z_hat:C) -> float:
         """Compression Ratio"""
-        return LosslessFourierCompression.l(z)/LosslessFourierCompression.l(z_hat) 
+        L = LosslessFourierCompression.l(z_hat)
+        return (
+            LosslessFourierCompression.l(z)/L 
+        ) if L else inf
 
     @staticmethod
     def ɛ(s:S,s_hat:S) -> float:
