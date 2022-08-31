@@ -17,12 +17,12 @@
          "total": 0.00019801980198019733
       },
       "HuffmanEncoding": {
-         "data/rule0_ic8932_rotation.npy": -1.4863366336633663,
-         "data/rule0_ic8932_shift.npy": -1.486930693069307,
+         "data/rule0_ic8932_rotation.npy": -0.0001980198019802537,
+         "data/rule0_ic8932_shift.npy": 0.0,
          "data/rule0_ic8932_identity.npy": 0.0,
-         "data/rule0_ic8932_reflection.npy": 0.011980198019801979,
+         "data/rule0_ic8932_reflection.npy": -0.0001980198019802537,
          "data/rule0_ic8932_inversion.npy": 0.0,
-         "total": 2.985247524752475
+         "total": 0.0003960396039605074
       },
       "ZLIB": {
          "data/rule0_ic8932_rotation.npy": -9.90099009900991e-05,
@@ -83,12 +83,12 @@
          "total": 0.9105940594059405
       },
       "HuffmanEncoding": {
-         "data/rule1_ic8932_shift.npy": 0.2140594059405938,
-         "data/rule1_ic8932_rotation.npy": -1.2177227722772281,
-         "data/rule1_ic8932_reflection.npy": 0.2395049504950495,
+         "data/rule1_ic8932_shift.npy": 0.015346534653465471,
+         "data/rule1_ic8932_rotation.npy": 0.03871287128712886,
+         "data/rule1_ic8932_reflection.npy": 0.0002970297029704083,
          "data/rule1_ic8932_identity.npy": 0.0,
          "data/rule1_ic8932_inversion.npy": 0.0,
-         "total": 1.6712871287128714
+         "total": 0.05435643564356474
       },
       "ZLIB": {
          "data/rule1_ic8932_shift.npy": 0.0001980198019801982,
@@ -149,12 +149,12 @@
          "total": 0.00108910891089109
       },
       "HuffmanEncoding": {
-         "data/rule2_ic8932_rotation.npy": -2.322871287128713,
+         "data/rule2_ic8932_rotation.npy": 0.0003960396039603964,
          "data/rule2_ic8932_inversion.npy": 0.0,
          "data/rule2_ic8932_identity.npy": 0.0,
-         "data/rule2_ic8932_shift.npy": -2.782970297029703,
-         "data/rule2_ic8932_reflection.npy": 0.025247524752475246,
-         "total": 5.131089108910891
+         "data/rule2_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule2_ic8932_reflection.npy": -0.0013861386138613319,
+         "total": 0.0018811881188118273
       },
       "ZLIB": {
          "data/rule2_ic8932_rotation.npy": 0.0,
@@ -215,12 +215,12 @@
          "total": 0.8953465346534653
       },
       "HuffmanEncoding": {
-         "data/rule3_ic8932_rotation.npy": -0.18009900990099004,
+         "data/rule3_ic8932_rotation.npy": 0.06138613861386133,
          "data/rule3_ic8932_inversion.npy": 0.0,
-         "data/rule3_ic8932_reflection.npy": -0.0023762376237623783,
-         "data/rule3_ic8932_shift.npy": 0.2271287128712871,
+         "data/rule3_ic8932_reflection.npy": -0.005742574257425748,
+         "data/rule3_ic8932_shift.npy": -0.013465346534653477,
          "data/rule3_ic8932_identity.npy": 0.0,
-         "total": 0.4096039603960395
+         "total": 0.08059405940594055
       },
       "ZLIB": {
          "data/rule3_ic8932_rotation.npy": -0.000990099009900991,
@@ -281,12 +281,12 @@
          "total": 0.05574257425742574
       },
       "HuffmanEncoding": {
-         "data/rule4_ic8932_rotation.npy": -2.4224752475247526,
-         "data/rule4_ic8932_shift.npy": -2.3429702970297033,
+         "data/rule4_ic8932_rotation.npy": 0.04831683168316836,
+         "data/rule4_ic8932_shift.npy": 0.0,
          "data/rule4_ic8932_inversion.npy": 0.0,
-         "data/rule4_ic8932_reflection.npy": 0.021188118811881186,
+         "data/rule4_ic8932_reflection.npy": 9.900990099015461e-05,
          "data/rule4_ic8932_identity.npy": 0.0,
-         "total": 4.786633663366337
+         "total": 0.048415841584158514
       },
       "ZLIB": {
          "data/rule4_ic8932_rotation.npy": 0.002574257425742574,
@@ -347,12 +347,12 @@
          "total": 0.7921782178217822
       },
       "HuffmanEncoding": {
-         "data/rule5_ic8932_reflection.npy": 0.0,
-         "data/rule5_ic8932_shift.npy": 1.102178217821782,
-         "data/rule5_ic8932_rotation.npy": -1.796237623762376,
+         "data/rule5_ic8932_reflection.npy": 0.0003960396039603964,
+         "data/rule5_ic8932_shift.npy": 0.01633663366336635,
+         "data/rule5_ic8932_rotation.npy": 0.04148514851485141,
          "data/rule5_ic8932_identity.npy": 0.0,
          "data/rule5_ic8932_inversion.npy": 0.0,
-         "total": 2.898415841584158
+         "total": 0.05821782178217816
       },
       "ZLIB": {
          "data/rule5_ic8932_reflection.npy": -0.0002970297029702973,
@@ -414,11 +414,11 @@
       },
       "HuffmanEncoding": {
          "data/rule6_ic8932_inversion.npy": 0.0,
-         "data/rule6_ic8932_rotation.npy": -2.813168316831683,
+         "data/rule6_ic8932_rotation.npy": -9.90099009900991e-05,
          "data/rule6_ic8932_identity.npy": 0.0,
-         "data/rule6_ic8932_reflection.npy": -2.8185148514851486,
-         "data/rule6_ic8932_shift.npy": -2.8118811881188117,
-         "total": 8.443564356435644
+         "data/rule6_ic8932_reflection.npy": -0.00019801980198014268,
+         "data/rule6_ic8932_shift.npy": 9.900990099015461e-05,
+         "total": 0.0003960396039603964
       },
       "ZLIB": {
          "data/rule6_ic8932_inversion.npy": 0.0,
@@ -479,12 +479,12 @@
          "total": 0.950990099009901
       },
       "HuffmanEncoding": {
-         "data/rule7_ic8932_rotation.npy": -0.9991089108910889,
-         "data/rule7_ic8932_reflection.npy": 0.23693069306930692,
+         "data/rule7_ic8932_rotation.npy": 0.015841584158415745,
+         "data/rule7_ic8932_reflection.npy": -0.011485148514851606,
          "data/rule7_ic8932_inversion.npy": 0.0,
          "data/rule7_ic8932_identity.npy": 0.0,
-         "data/rule7_ic8932_shift.npy": 0.0027722772277227747,
-         "total": 1.2388118811881186
+         "data/rule7_ic8932_shift.npy": -0.01544554455445557,
+         "total": 0.04277227722772292
       },
       "ZLIB": {
          "data/rule7_ic8932_rotation.npy": 0.0022772277227722758,
@@ -545,12 +545,12 @@
          "total": 9.90099009900991e-05
       },
       "HuffmanEncoding": {
-         "data/rule8_ic8932_rotation.npy": -0.12534653465346535,
+         "data/rule8_ic8932_rotation.npy": 0.0,
          "data/rule8_ic8932_inversion.npy": 0.0,
-         "data/rule8_ic8932_shift.npy": -1.9851485148514854,
-         "data/rule8_ic8932_reflection.npy": 0.012673267326732672,
+         "data/rule8_ic8932_shift.npy": 0.00019801980198014268,
+         "data/rule8_ic8932_reflection.npy": 9.90099009900991e-05,
          "data/rule8_ic8932_identity.npy": 0.0,
-         "total": 2.1231683168316833
+         "total": 0.0002970297029702418
       },
       "ZLIB": {
          "data/rule8_ic8932_rotation.npy": 9.900990099009823e-05,
@@ -612,11 +612,11 @@
       },
       "HuffmanEncoding": {
          "data/rule9_ic8932_inversion.npy": 0.0,
-         "data/rule9_ic8932_rotation.npy": 1.7190099009900988,
-         "data/rule9_ic8932_reflection.npy": 0.016534653465346327,
+         "data/rule9_ic8932_rotation.npy": 0.014950495049504964,
+         "data/rule9_ic8932_reflection.npy": 0.025841584158415865,
          "data/rule9_ic8932_identity.npy": 0.0,
-         "data/rule9_ic8932_shift.npy": -0.002079207920792303,
-         "total": 1.7376237623762374
+         "data/rule9_ic8932_shift.npy": 0.0014851485148514865,
+         "total": 0.042277227722772315
       },
       "ZLIB": {
          "data/rule9_ic8932_inversion.npy": 0.0,
@@ -677,12 +677,12 @@
          "total": 0.0008910891089108919
       },
       "HuffmanEncoding": {
-         "data/rule10_ic8932_shift.npy": -2.7160396039603962,
-         "data/rule10_ic8932_rotation.npy": -0.16633663366336632,
-         "data/rule10_ic8932_reflection.npy": 0.025247524752475246,
+         "data/rule10_ic8932_shift.npy": 0.0008910891089109474,
+         "data/rule10_ic8932_rotation.npy": 0.0001980198019801982,
+         "data/rule10_ic8932_reflection.npy": -0.010099009900990108,
          "data/rule10_ic8932_inversion.npy": 0.0,
          "data/rule10_ic8932_identity.npy": 0.0,
-         "total": 2.9076237623762378
+         "total": 0.011188118811881254
       },
       "ZLIB": {
          "data/rule10_ic8932_shift.npy": 0.00039603960396039466,
@@ -743,12 +743,12 @@
          "total": 0.8257425742574257
       },
       "HuffmanEncoding": {
-         "data/rule11_ic8932_rotation.npy": 1.588019801980198,
-         "data/rule11_ic8932_shift.npy": 0.141881188118812,
-         "data/rule11_ic8932_reflection.npy": 0.2067326732673267,
+         "data/rule11_ic8932_rotation.npy": 0.004950495049505066,
+         "data/rule11_ic8932_shift.npy": 0.0006930693069306937,
+         "data/rule11_ic8932_reflection.npy": 0.012772277227722784,
          "data/rule11_ic8932_identity.npy": 0.0,
          "data/rule11_ic8932_inversion.npy": 0.0,
-         "total": 1.9366336633663368
+         "total": 0.018415841584158543
       },
       "ZLIB": {
          "data/rule11_ic8932_rotation.npy": -0.0004950495049504955,
@@ -809,12 +809,12 @@
          "total": 0.07554455445544554
       },
       "HuffmanEncoding": {
-         "data/rule12_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule12_ic8932_reflection.npy": -9.90099009900991e-05,
          "data/rule12_ic8932_inversion.npy": 0.0,
-         "data/rule12_ic8932_rotation.npy": -2.404752475247525,
-         "data/rule12_ic8932_shift.npy": -2.2987128712871288,
+         "data/rule12_ic8932_rotation.npy": 0.061287128712871286,
+         "data/rule12_ic8932_shift.npy": 0.0,
          "data/rule12_ic8932_identity.npy": 0.0,
-         "total": 4.724554455445545
+         "total": 0.061386138613861385
       },
       "ZLIB": {
          "data/rule12_ic8932_reflection.npy": 0.0,
@@ -875,12 +875,12 @@
          "total": 0.23742574257425741
       },
       "HuffmanEncoding": {
-         "data/rule13_ic8932_rotation.npy": 0.8924752475247528,
+         "data/rule13_ic8932_rotation.npy": 0.01772277227722774,
          "data/rule13_ic8932_inversion.npy": 0.0,
-         "data/rule13_ic8932_reflection.npy": 0.01801980198019848,
+         "data/rule13_ic8932_reflection.npy": 0.009009900990099018,
          "data/rule13_ic8932_identity.npy": 0.0,
-         "data/rule13_ic8932_shift.npy": 0.020594059405941056,
-         "total": 0.9310891089108924
+         "data/rule13_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.026930693069306955
       },
       "ZLIB": {
          "data/rule13_ic8932_rotation.npy": 0.0003960396039603964,
@@ -941,12 +941,12 @@
          "total": 0.0033663366336633693
       },
       "HuffmanEncoding": {
-         "data/rule14_ic8932_rotation.npy": -0.019108910891089126,
-         "data/rule14_ic8932_shift.npy": -2.2508910891089107,
-         "data/rule14_ic8932_reflection.npy": 0.4794059405940594,
+         "data/rule14_ic8932_rotation.npy": 0.00108910891089109,
+         "data/rule14_ic8932_shift.npy": 0.016831683168316902,
+         "data/rule14_ic8932_reflection.npy": 0.009207920792079272,
          "data/rule14_ic8932_identity.npy": 0.0,
          "data/rule14_ic8932_inversion.npy": 0.0,
-         "total": 2.749405940594059
+         "total": 0.027128712871287264
       },
       "ZLIB": {
          "data/rule14_ic8932_rotation.npy": -0.0001980198019801982,
@@ -1007,12 +1007,12 @@
          "total": 0.8234653465346535
       },
       "HuffmanEncoding": {
-         "data/rule15_ic8932_rotation.npy": -0.8639603960396038,
-         "data/rule15_ic8932_shift.npy": -0.008316831683168324,
+         "data/rule15_ic8932_rotation.npy": 0.003960396039603853,
+         "data/rule15_ic8932_shift.npy": 9.900990098998808e-05,
          "data/rule15_ic8932_inversion.npy": 0.0,
          "data/rule15_ic8932_identity.npy": 0.0,
-         "data/rule15_ic8932_reflection.npy": -0.01435643564356437,
-         "total": 0.8866336633663365
+         "data/rule15_ic8932_reflection.npy": 0.030099009900990015,
+         "total": 0.034158415841583856
       },
       "ZLIB": {
          "data/rule15_ic8932_rotation.npy": -0.003069306930693065,
@@ -1073,12 +1073,12 @@
          "total": 0.0014851485148514934
       },
       "HuffmanEncoding": {
-         "data/rule16_ic8932_rotation.npy": -0.12029702970297029,
-         "data/rule16_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule16_ic8932_rotation.npy": 0.0001980198019802537,
+         "data/rule16_ic8932_reflection.npy": 0.01742574257425744,
          "data/rule16_ic8932_inversion.npy": 0.0,
          "data/rule16_ic8932_identity.npy": 0.0,
-         "data/rule16_ic8932_shift.npy": -0.07158415841584159,
-         "total": 0.21297029702970297
+         "data/rule16_ic8932_shift.npy": 0.0001980198019802537,
+         "total": 0.01782178217821795
       },
       "ZLIB": {
          "data/rule16_ic8932_rotation.npy": 0.0007920792079207928,
@@ -1139,12 +1139,12 @@
          "total": 0.8931683168316832
       },
       "HuffmanEncoding": {
-         "data/rule17_ic8932_rotation.npy": -0.1770297029702972,
+         "data/rule17_ic8932_rotation.npy": 0.07287128712871282,
          "data/rule17_ic8932_inversion.npy": 0.0,
          "data/rule17_ic8932_identity.npy": 0.0,
-         "data/rule17_ic8932_reflection.npy": 0.2146534653465344,
-         "data/rule17_ic8932_shift.npy": -0.0011881188118816333,
-         "total": 0.3928712871287132
+         "data/rule17_ic8932_reflection.npy": 0.0032673267326732702,
+         "data/rule17_ic8932_shift.npy": 0.0032673267326732702,
+         "total": 0.07940594059405937
       },
       "ZLIB": {
          "data/rule17_ic8932_rotation.npy": -0.0034653465346534684,
@@ -1205,12 +1205,12 @@
          "total": 0.007227722772277234
       },
       "HuffmanEncoding": {
-         "data/rule18_ic8932_reflection.npy": -0.9332673267326733,
+         "data/rule18_ic8932_reflection.npy": 0.0012871287128712883,
          "data/rule18_ic8932_inversion.npy": 0.0,
-         "data/rule18_ic8932_rotation.npy": -0.9886138613861386,
-         "data/rule18_ic8932_shift.npy": 0.025544554455445543,
+         "data/rule18_ic8932_rotation.npy": 0.0011881188118811892,
+         "data/rule18_ic8932_shift.npy": 0.0015841584158415856,
          "data/rule18_ic8932_identity.npy": 0.0,
-         "total": 1.9474257425742576
+         "total": 0.004059405940594063
       },
       "ZLIB": {
          "data/rule18_ic8932_reflection.npy": 0.0007920792079207928,
@@ -1271,12 +1271,12 @@
          "total": 0.9793069306930694
       },
       "HuffmanEncoding": {
-         "data/rule19_ic8932_rotation.npy": 1.9406930693069306,
+         "data/rule19_ic8932_rotation.npy": 0.0441584158415842,
          "data/rule19_ic8932_inversion.npy": 0.0,
-         "data/rule19_ic8932_shift.npy": -0.005544554455445994,
-         "data/rule19_ic8932_reflection.npy": 0.2470297029702968,
+         "data/rule19_ic8932_shift.npy": 0.03643564356435647,
+         "data/rule19_ic8932_reflection.npy": 0.0002970297029702973,
          "data/rule19_ic8932_identity.npy": 0.0,
-         "total": 2.1932673267326734
+         "total": 0.08089108910891096
       },
       "ZLIB": {
          "data/rule19_ic8932_rotation.npy": 0.0012871287128712857,
@@ -1337,12 +1337,12 @@
          "total": 0.0007920792079207928
       },
       "HuffmanEncoding": {
-         "data/rule20_ic8932_reflection.npy": 2.790891089108911,
+         "data/rule20_ic8932_reflection.npy": 0.006435643564356441,
          "data/rule20_ic8932_inversion.npy": 0.0,
          "data/rule20_ic8932_identity.npy": 0.0,
-         "data/rule20_ic8932_shift.npy": 2.317128712871287,
-         "data/rule20_ic8932_rotation.npy": 0.0016831683168319067,
-         "total": 5.109702970297031
+         "data/rule20_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule20_ic8932_rotation.npy": 0.0003960396039603964,
+         "total": 0.007029702970297036
       },
       "ZLIB": {
          "data/rule20_ic8932_reflection.npy": 0.0002970297029702973,
@@ -1403,12 +1403,12 @@
          "total": 0.9496039603960394
       },
       "HuffmanEncoding": {
-         "data/rule21_ic8932_shift.npy": 0.0025742574257425765,
+         "data/rule21_ic8932_shift.npy": 0.0016831683168316847,
          "data/rule21_ic8932_identity.npy": 0.0,
          "data/rule21_ic8932_inversion.npy": 0.0,
-         "data/rule21_ic8932_reflection.npy": 0.0004950495049502734,
-         "data/rule21_ic8932_rotation.npy": 2.0254455445544552,
-         "total": 2.028514851485148
+         "data/rule21_ic8932_reflection.npy": 9.900990099021012e-05,
+         "data/rule21_ic8932_rotation.npy": 0.030396039603960423,
+         "total": 0.03217821782178232
       },
       "ZLIB": {
          "data/rule21_ic8932_shift.npy": 0.0002970297029702973,
@@ -1469,12 +1469,12 @@
          "total": 0.15207920792079205
       },
       "HuffmanEncoding": {
-         "data/rule22_ic8932_reflection.npy": 0.0056435643564354265,
+         "data/rule22_ic8932_reflection.npy": 0.01198019801980199,
          "data/rule22_ic8932_identity.npy": 0.0,
          "data/rule22_ic8932_inversion.npy": 0.0,
-         "data/rule22_ic8932_rotation.npy": 1.1344554455445541,
-         "data/rule22_ic8932_shift.npy": 1.2238613861386136,
-         "total": 2.3639603960396034
+         "data/rule22_ic8932_rotation.npy": -0.053465346534653624,
+         "data/rule22_ic8932_shift.npy": 0.010792079207920802,
+         "total": 0.07623762376237642
       },
       "ZLIB": {
          "data/rule22_ic8932_reflection.npy": -0.0015841584158415856,
@@ -1536,11 +1536,11 @@
       },
       "HuffmanEncoding": {
          "data/rule23_ic8932_identity.npy": 0.0,
-         "data/rule23_ic8932_reflection.npy": 0.24702970297029703,
-         "data/rule23_ic8932_shift.npy": 0.24158415841584135,
+         "data/rule23_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule23_ic8932_shift.npy": 0.00207920792079197,
          "data/rule23_ic8932_inversion.npy": 0.0,
-         "data/rule23_ic8932_rotation.npy": 1.8069306930693068,
-         "total": 2.295544554455445
+         "data/rule23_ic8932_rotation.npy": 0.0426732673267326,
+         "total": 0.04485148514851467
       },
       "ZLIB": {
          "data/rule23_ic8932_identity.npy": 0.0,
@@ -1601,12 +1601,12 @@
          "total": 0.0014851485148514865
       },
       "HuffmanEncoding": {
-         "data/rule24_ic8932_shift.npy": -2.5165346534653468,
-         "data/rule24_ic8932_reflection.npy": 0.025445544554455444,
+         "data/rule24_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule24_ic8932_reflection.npy": 0.02623762376237626,
          "data/rule24_ic8932_inversion.npy": 0.0,
          "data/rule24_ic8932_identity.npy": 0.0,
-         "data/rule24_ic8932_rotation.npy": -0.11237623762376237,
-         "total": 2.6543564356435643
+         "data/rule24_ic8932_rotation.npy": 0.0001980198019801982,
+         "total": 0.026633663366336657
       },
       "ZLIB": {
          "data/rule24_ic8932_shift.npy": 0.0004950495049504938,
@@ -1667,12 +1667,12 @@
          "total": 0.8444554455445545
       },
       "HuffmanEncoding": {
-         "data/rule25_ic8932_shift.npy": 0.004257425742574039,
+         "data/rule25_ic8932_shift.npy": 0.09178217821782186,
          "data/rule25_ic8932_inversion.npy": 0.0,
          "data/rule25_ic8932_identity.npy": 0.0,
-         "data/rule25_ic8932_reflection.npy": 0.23217821782178216,
-         "data/rule25_ic8932_rotation.npy": -0.9119801980198021,
-         "total": 1.1484158415841583
+         "data/rule25_ic8932_reflection.npy": 0.00772277227722773,
+         "data/rule25_ic8932_rotation.npy": 0.09623762376237621,
+         "total": 0.1957425742574258
       },
       "ZLIB": {
          "data/rule25_ic8932_shift.npy": 0.0012871287128712848,
@@ -1734,11 +1734,11 @@
       },
       "HuffmanEncoding": {
          "data/rule26_ic8932_identity.npy": 0.0,
-         "data/rule26_ic8932_reflection.npy": -1.92980198019802,
+         "data/rule26_ic8932_reflection.npy": -0.017029702970297045,
          "data/rule26_ic8932_inversion.npy": 0.0,
-         "data/rule26_ic8932_shift.npy": -1.9187128712871289,
-         "data/rule26_ic8932_rotation.npy": -0.37346534653465346,
-         "total": 4.221980198019803
+         "data/rule26_ic8932_shift.npy": -0.010000000000000009,
+         "data/rule26_ic8932_rotation.npy": 0.005148514851485153,
+         "total": 0.03217821782178221
       },
       "ZLIB": {
          "data/rule26_ic8932_identity.npy": 0.0,
@@ -1800,11 +1800,11 @@
       },
       "HuffmanEncoding": {
          "data/rule27_ic8932_identity.npy": 0.0,
-         "data/rule27_ic8932_shift.npy": 0.23415841584158414,
+         "data/rule27_ic8932_shift.npy": -0.004950495049504955,
          "data/rule27_ic8932_inversion.npy": 0.0,
-         "data/rule27_ic8932_reflection.npy": 0.21297029702970294,
-         "data/rule27_ic8932_rotation.npy": -0.8534653465346533,
-         "total": 1.3005940594059404
+         "data/rule27_ic8932_reflection.npy": 0.0002970297029702973,
+         "data/rule27_ic8932_rotation.npy": 0.07504950495049512,
+         "total": 0.08029702970297037
       },
       "ZLIB": {
          "data/rule27_ic8932_identity.npy": 0.0,
@@ -1866,11 +1866,11 @@
       },
       "HuffmanEncoding": {
          "data/rule28_ic8932_identity.npy": 0.0,
-         "data/rule28_ic8932_reflection.npy": -0.2777227722772275,
+         "data/rule28_ic8932_reflection.npy": 0.010198019801980096,
          "data/rule28_ic8932_inversion.npy": 0.0,
-         "data/rule28_ic8932_rotation.npy": -0.35079207920792066,
-         "data/rule28_ic8932_shift.npy": 1.9073267326732675,
-         "total": 2.5358415841584154
+         "data/rule28_ic8932_rotation.npy": 0.207029702970297,
+         "data/rule28_ic8932_shift.npy": -0.0005940594059407056,
+         "total": 0.2178217821782178
       },
       "ZLIB": {
          "data/rule28_ic8932_identity.npy": 0.0,
@@ -1932,11 +1932,11 @@
       },
       "HuffmanEncoding": {
          "data/rule29_ic8932_identity.npy": 0.0,
-         "data/rule29_ic8932_reflection.npy": 0.009801980198019367,
-         "data/rule29_ic8932_rotation.npy": -1.8165346534653468,
+         "data/rule29_ic8932_reflection.npy": 0.0003960396039603964,
+         "data/rule29_ic8932_rotation.npy": 0.06673267326732679,
          "data/rule29_ic8932_inversion.npy": 0.0,
-         "data/rule29_ic8932_shift.npy": 0.00960396039603939,
-         "total": 1.8359405940594056
+         "data/rule29_ic8932_shift.npy": 0.02524752475247527,
+         "total": 0.09237623762376246
       },
       "ZLIB": {
          "data/rule29_ic8932_identity.npy": 0.0,
@@ -1998,11 +1998,11 @@
       },
       "HuffmanEncoding": {
          "data/rule30_ic8932_identity.npy": 0.0,
-         "data/rule30_ic8932_shift.npy": 0.04990099009900972,
-         "data/rule30_ic8932_reflection.npy": 0.049801980198019846,
-         "data/rule30_ic8932_rotation.npy": 0.04851485148514856,
+         "data/rule30_ic8932_shift.npy": 0.0027722772277227747,
+         "data/rule30_ic8932_reflection.npy": 0.00108910891089109,
+         "data/rule30_ic8932_rotation.npy": 0.0035643564356435675,
          "data/rule30_ic8932_inversion.npy": 0.0,
-         "total": 0.14821782178217813
+         "total": 0.007425742574257432
       },
       "ZLIB": {
          "data/rule30_ic8932_identity.npy": 0.0,
@@ -2064,11 +2064,11 @@
       },
       "HuffmanEncoding": {
          "data/rule31_ic8932_identity.npy": 0.0,
-         "data/rule31_ic8932_shift.npy": -0.3796039603960395,
-         "data/rule31_ic8932_rotation.npy": -1.9161386138613863,
-         "data/rule31_ic8932_reflection.npy": 0.0026732673267324536,
+         "data/rule31_ic8932_shift.npy": 0.014257425742574381,
+         "data/rule31_ic8932_rotation.npy": 0.026633663366336657,
+         "data/rule31_ic8932_reflection.npy": 0.0004950495049506065,
          "data/rule31_ic8932_inversion.npy": 0.0,
-         "total": 2.2984158415841582
+         "total": 0.041386138613861645
       },
       "ZLIB": {
          "data/rule31_ic8932_identity.npy": 0.0,
@@ -2131,10 +2131,10 @@
       "HuffmanEncoding": {
          "data/rule32_ic8932_inversion.npy": 0.0,
          "data/rule32_ic8932_identity.npy": 0.0,
-         "data/rule32_ic8932_reflection.npy": 0.016336633663366337,
-         "data/rule32_ic8932_rotation.npy": -1.9811881188118814,
-         "data/rule32_ic8932_shift.npy": -1.4825742574257426,
-         "total": 3.4800990099009903
+         "data/rule32_ic8932_reflection.npy": -0.00019801980198014268,
+         "data/rule32_ic8932_rotation.npy": -0.00019801980198014268,
+         "data/rule32_ic8932_shift.npy": -0.00019801980198014268,
+         "total": 0.000594059405940428
       },
       "ZLIB": {
          "data/rule32_ic8932_inversion.npy": 0.0,
@@ -2197,10 +2197,10 @@
       "HuffmanEncoding": {
          "data/rule33_ic8932_identity.npy": 0.0,
          "data/rule33_ic8932_inversion.npy": 0.0,
-         "data/rule33_ic8932_rotation.npy": -1.2088118811881188,
-         "data/rule33_ic8932_shift.npy": -0.02534653465346537,
-         "data/rule33_ic8932_reflection.npy": 0.23950495049504927,
-         "total": 1.4736633663366334
+         "data/rule33_ic8932_rotation.npy": 0.043366336633663294,
+         "data/rule33_ic8932_shift.npy": -0.0007920792079207928,
+         "data/rule33_ic8932_reflection.npy": 0.0008910891089108919,
+         "total": 0.04504950495049498
       },
       "ZLIB": {
          "data/rule33_ic8932_identity.npy": 0.0,
@@ -2262,11 +2262,11 @@
       },
       "HuffmanEncoding": {
          "data/rule34_ic8932_identity.npy": 0.0,
-         "data/rule34_ic8932_reflection.npy": 0.025346534653465345,
-         "data/rule34_ic8932_shift.npy": -2.8104950495049508,
-         "data/rule34_ic8932_rotation.npy": -2.340891089108911,
+         "data/rule34_ic8932_reflection.npy": -0.01257425742574253,
+         "data/rule34_ic8932_shift.npy": -0.006039603960396045,
+         "data/rule34_ic8932_rotation.npy": 0.001485148514851542,
          "data/rule34_ic8932_inversion.npy": 0.0,
-         "total": 5.1767326732673276
+         "total": 0.020099009900990117
       },
       "ZLIB": {
          "data/rule34_ic8932_identity.npy": 0.0,
@@ -2328,11 +2328,11 @@
       },
       "HuffmanEncoding": {
          "data/rule35_ic8932_identity.npy": 0.0,
-         "data/rule35_ic8932_shift.npy": -0.2998019801980196,
+         "data/rule35_ic8932_shift.npy": 0.008514851485148522,
          "data/rule35_ic8932_inversion.npy": 0.0,
-         "data/rule35_ic8932_rotation.npy": 0.27950495049505,
-         "data/rule35_ic8932_reflection.npy": 0.00782178217821805,
-         "total": 0.5871287128712877
+         "data/rule35_ic8932_rotation.npy": 0.10029702970297028,
+         "data/rule35_ic8932_reflection.npy": 0.004455445544554459,
+         "total": 0.11326732673267326
       },
       "ZLIB": {
          "data/rule35_ic8932_identity.npy": 0.0,
@@ -2393,12 +2393,12 @@
          "total": 0.035940594059405945
       },
       "HuffmanEncoding": {
-         "data/rule36_ic8932_reflection.npy": 0.021188118811881186,
+         "data/rule36_ic8932_reflection.npy": 0.0002970297029702973,
          "data/rule36_ic8932_identity.npy": 0.0,
          "data/rule36_ic8932_inversion.npy": 0.0,
-         "data/rule36_ic8932_rotation.npy": -2.4400990099009903,
-         "data/rule36_ic8932_shift.npy": -2.387128712871287,
-         "total": 4.848415841584158
+         "data/rule36_ic8932_rotation.npy": 0.03198019801980195,
+         "data/rule36_ic8932_shift.npy": 0.0,
+         "total": 0.03227722772277225
       },
       "ZLIB": {
          "data/rule36_ic8932_reflection.npy": 0.0,
@@ -2461,10 +2461,10 @@
       "HuffmanEncoding": {
          "data/rule37_ic8932_inversion.npy": 0.0,
          "data/rule37_ic8932_identity.npy": 0.0,
-         "data/rule37_ic8932_reflection.npy": 1.2431683168316834,
-         "data/rule37_ic8932_shift.npy": 1.2211881188118814,
-         "data/rule37_ic8932_rotation.npy": -1.9758415841584158,
-         "total": 4.440198019801981
+         "data/rule37_ic8932_reflection.npy": 0.0008910891089108919,
+         "data/rule37_ic8932_shift.npy": 0.01960396039603962,
+         "data/rule37_ic8932_rotation.npy": 0.04356435643564349,
+         "total": 0.064059405940594
       },
       "ZLIB": {
          "data/rule37_ic8932_inversion.npy": 0.0,
@@ -2527,10 +2527,10 @@
       "HuffmanEncoding": {
          "data/rule38_ic8932_inversion.npy": 0.0,
          "data/rule38_ic8932_identity.npy": 0.0,
-         "data/rule38_ic8932_reflection.npy": 0.4577227722772279,
-         "data/rule38_ic8932_shift.npy": 0.4598019801980193,
-         "data/rule38_ic8932_rotation.npy": 0.4585148514851487,
-         "total": 1.376039603960396
+         "data/rule38_ic8932_reflection.npy": 0.0,
+         "data/rule38_ic8932_shift.npy": 0.0002970297029702418,
+         "data/rule38_ic8932_rotation.npy": 0.0,
+         "total": 0.0002970297029702418
       },
       "ZLIB": {
          "data/rule38_ic8932_inversion.npy": 0.0,
@@ -2593,10 +2593,10 @@
       "HuffmanEncoding": {
          "data/rule39_ic8932_inversion.npy": 0.0,
          "data/rule39_ic8932_identity.npy": 0.0,
-         "data/rule39_ic8932_shift.npy": -0.03980198019801984,
-         "data/rule39_ic8932_rotation.npy": -0.7012871287128717,
-         "data/rule39_ic8932_reflection.npy": -0.03089108910891092,
-         "total": 0.7719801980198024
+         "data/rule39_ic8932_shift.npy": -0.008019801980198027,
+         "data/rule39_ic8932_rotation.npy": 0.05168316831683162,
+         "data/rule39_ic8932_reflection.npy": -0.005940594059405946,
+         "total": 0.06564356435643559
       },
       "ZLIB": {
          "data/rule39_ic8932_inversion.npy": 0.0,
@@ -2657,12 +2657,12 @@
          "total": 9.90099009900991e-05
       },
       "HuffmanEncoding": {
-         "data/rule40_ic8932_shift.npy": -0.001584158415841582,
-         "data/rule40_ic8932_rotation.npy": -0.1210891089108911,
+         "data/rule40_ic8932_shift.npy": 0.0,
+         "data/rule40_ic8932_rotation.npy": 9.900990099015461e-05,
          "data/rule40_ic8932_inversion.npy": 0.0,
-         "data/rule40_ic8932_reflection.npy": 0.01702970297029703,
+         "data/rule40_ic8932_reflection.npy": 0.0,
          "data/rule40_ic8932_identity.npy": 0.0,
-         "total": 0.13970297029702972
+         "total": 9.900990099015461e-05
       },
       "ZLIB": {
          "data/rule40_ic8932_shift.npy": 9.90099009900991e-05,
@@ -2724,11 +2724,11 @@
       },
       "HuffmanEncoding": {
          "data/rule41_ic8932_inversion.npy": 0.0,
-         "data/rule41_ic8932_rotation.npy": -0.38475247524752465,
-         "data/rule41_ic8932_shift.npy": -0.00306930693069285,
+         "data/rule41_ic8932_rotation.npy": 0.02405940594059397,
+         "data/rule41_ic8932_shift.npy": 9.900990098998808e-05,
          "data/rule41_ic8932_identity.npy": 0.0,
-         "data/rule41_ic8932_reflection.npy": -0.008118811881188126,
-         "total": 0.3959405940594056
+         "data/rule41_ic8932_reflection.npy": 0.011089108910891099,
+         "total": 0.03524752475247506
       },
       "ZLIB": {
          "data/rule41_ic8932_inversion.npy": 0.0,
@@ -2789,12 +2789,12 @@
          "total": 0.00108910891089109
       },
       "HuffmanEncoding": {
-         "data/rule42_ic8932_rotation.npy": -0.19574257425742575,
-         "data/rule42_ic8932_reflection.npy": -2.757029702970297,
-         "data/rule42_ic8932_shift.npy": -0.02930693069306931,
+         "data/rule42_ic8932_rotation.npy": 0.0010891089108910346,
+         "data/rule42_ic8932_reflection.npy": -0.00881188118811882,
+         "data/rule42_ic8932_shift.npy": 0.0010891089108910346,
          "data/rule42_ic8932_identity.npy": 0.0,
          "data/rule42_ic8932_inversion.npy": 0.0,
-         "total": 2.982079207920792
+         "total": 0.010990099009900889
       },
       "ZLIB": {
          "data/rule42_ic8932_rotation.npy": 0.0002970297029702973,
@@ -2855,12 +2855,12 @@
          "total": 0.8257425742574257
       },
       "HuffmanEncoding": {
-         "data/rule43_ic8932_rotation.npy": 1.590693069306931,
+         "data/rule43_ic8932_rotation.npy": 0.006930693069306937,
          "data/rule43_ic8932_identity.npy": 0.0,
          "data/rule43_ic8932_inversion.npy": 0.0,
-         "data/rule43_ic8932_shift.npy": 0.1450495049504954,
-         "data/rule43_ic8932_reflection.npy": -0.017425742574256997,
-         "total": 1.7531683168316834
+         "data/rule43_ic8932_shift.npy": 0.0015841584158416966,
+         "data/rule43_ic8932_reflection.npy": 0.013366336633663378,
+         "total": 0.02188118811881201
       },
       "ZLIB": {
          "data/rule43_ic8932_rotation.npy": -0.0004950495049505024,
@@ -2922,11 +2922,11 @@
       },
       "HuffmanEncoding": {
          "data/rule44_ic8932_inversion.npy": 0.0,
-         "data/rule44_ic8932_rotation.npy": -2.4223762376237628,
-         "data/rule44_ic8932_shift.npy": -0.0014851485148514865,
-         "data/rule44_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule44_ic8932_rotation.npy": 0.04821782178217815,
+         "data/rule44_ic8932_shift.npy": 0.0,
+         "data/rule44_ic8932_reflection.npy": 0.0002970297029702418,
          "data/rule44_ic8932_identity.npy": 0.0,
-         "total": 2.444950495049505
+         "total": 0.04851485148514839
       },
       "ZLIB": {
          "data/rule44_ic8932_inversion.npy": 0.0,
@@ -2987,12 +2987,12 @@
          "total": 0.24306930693069306
       },
       "HuffmanEncoding": {
-         "data/rule45_ic8932_rotation.npy": -0.165841584158416,
+         "data/rule45_ic8932_rotation.npy": -0.008118811881188126,
          "data/rule45_ic8932_inversion.npy": 0.0,
-         "data/rule45_ic8932_shift.npy": 0.23653465346534652,
+         "data/rule45_ic8932_shift.npy": -0.002079207920792081,
          "data/rule45_ic8932_identity.npy": 0.0,
-         "data/rule45_ic8932_reflection.npy": -0.004455445544554459,
-         "total": 0.40683168316831697
+         "data/rule45_ic8932_reflection.npy": -0.004653465346534658,
+         "total": 0.014851485148514865
       },
       "ZLIB": {
          "data/rule45_ic8932_rotation.npy": -0.0034653465346534407,
@@ -3053,12 +3053,12 @@
          "total": 0.0018811881188119037
       },
       "HuffmanEncoding": {
-         "data/rule46_ic8932_rotation.npy": -2.7950495049504953,
-         "data/rule46_ic8932_reflection.npy": -2.3613861386138613,
+         "data/rule46_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule46_ic8932_reflection.npy": -0.0020792079207921366,
          "data/rule46_ic8932_identity.npy": 0.0,
-         "data/rule46_ic8932_shift.npy": 0.45069306930693065,
+         "data/rule46_ic8932_shift.npy": -0.00108910891089109,
          "data/rule46_ic8932_inversion.npy": 0.0,
-         "total": 5.607128712871287
+         "total": 0.0032673267326733257
       },
       "ZLIB": {
          "data/rule46_ic8932_rotation.npy": -0.0008910891089108919,
@@ -3119,12 +3119,12 @@
          "total": 0.8636633663366335
       },
       "HuffmanEncoding": {
-         "data/rule47_ic8932_rotation.npy": -0.9989108910891091,
-         "data/rule47_ic8932_reflection.npy": -0.009108910891089117,
+         "data/rule47_ic8932_rotation.npy": 0.003960396039603964,
+         "data/rule47_ic8932_reflection.npy": 0.004158415841584162,
          "data/rule47_ic8932_identity.npy": 0.0,
          "data/rule47_ic8932_inversion.npy": 0.0,
-         "data/rule47_ic8932_shift.npy": 0.010495049504950504,
-         "total": 1.0185148514851488
+         "data/rule47_ic8932_shift.npy": 0.0001980198019801982,
+         "total": 0.008316831683168324
       },
       "ZLIB": {
          "data/rule47_ic8932_rotation.npy": -0.0012871287128712883,
@@ -3185,12 +3185,12 @@
          "total": 0.0018811881188118829
       },
       "HuffmanEncoding": {
-         "data/rule48_ic8932_rotation.npy": -0.08623762376237623,
-         "data/rule48_ic8932_reflection.npy": 0.025346534653465345,
-         "data/rule48_ic8932_shift.npy": -2.110891089108911,
+         "data/rule48_ic8932_rotation.npy": 0.00019801980198014268,
+         "data/rule48_ic8932_reflection.npy": 0.01039603960396035,
+         "data/rule48_ic8932_shift.npy": 0.0002970297029702418,
          "data/rule48_ic8932_inversion.npy": 0.0,
          "data/rule48_ic8932_identity.npy": 0.0,
-         "total": 2.2224752475247525
+         "total": 0.010891089108910734
       },
       "ZLIB": {
          "data/rule48_ic8932_rotation.npy": 0.001683168316831682,
@@ -3251,12 +3251,12 @@
          "total": 0.8644554455445544
       },
       "HuffmanEncoding": {
-         "data/rule49_ic8932_rotation.npy": -0.11663366336633674,
-         "data/rule49_ic8932_shift.npy": -0.0011881188118811892,
+         "data/rule49_ic8932_rotation.npy": 0.08930693069306939,
+         "data/rule49_ic8932_shift.npy": 0.005148514851485153,
          "data/rule49_ic8932_inversion.npy": 0.0,
-         "data/rule49_ic8932_reflection.npy": 0.228019801980198,
+         "data/rule49_ic8932_reflection.npy": 0.0033663366336633693,
          "data/rule49_ic8932_identity.npy": 0.0,
-         "total": 0.3458415841584159
+         "total": 0.09782178217821791
       },
       "ZLIB": {
          "data/rule49_ic8932_rotation.npy": -0.0037623762376237588,
@@ -3317,12 +3317,12 @@
          "total": 0.02594059405940574
       },
       "HuffmanEncoding": {
-         "data/rule50_ic8932_reflection.npy": 0.3476237623762377,
-         "data/rule50_ic8932_shift.npy": 2.807128712871287,
-         "data/rule50_ic8932_rotation.npy": 2.6596039603960393,
+         "data/rule50_ic8932_reflection.npy": 0.008811881188118709,
+         "data/rule50_ic8932_shift.npy": 0.009405940594059303,
+         "data/rule50_ic8932_rotation.npy": 0.06257425742574252,
          "data/rule50_ic8932_inversion.npy": 0.0,
          "data/rule50_ic8932_identity.npy": 0.0,
-         "total": 5.814356435643564
+         "total": 0.08079207920792053
       },
       "ZLIB": {
          "data/rule50_ic8932_reflection.npy": 0.0,
@@ -3383,12 +3383,12 @@
          "total": 0.9208910891089108
       },
       "HuffmanEncoding": {
-         "data/rule51_ic8932_rotation.npy": 1.6819801980198021,
-         "data/rule51_ic8932_shift.npy": 0.002079207920792303,
-         "data/rule51_ic8932_reflection.npy": 0.0,
+         "data/rule51_ic8932_rotation.npy": 0.1410891089108911,
+         "data/rule51_ic8932_shift.npy": 0.032970297029703,
+         "data/rule51_ic8932_reflection.npy": -0.00019801980198008717,
          "data/rule51_ic8932_inversion.npy": 0.0,
          "data/rule51_ic8932_identity.npy": 0.0,
-         "total": 1.6840594059405944
+         "total": 0.1742574257425742
       },
       "ZLIB": {
          "data/rule51_ic8932_rotation.npy": 0.0006930693069306928,
@@ -3449,12 +3449,12 @@
          "total": 0.0012871287128712883
       },
       "HuffmanEncoding": {
-         "data/rule52_ic8932_reflection.npy": 2.7910891089108913,
+         "data/rule52_ic8932_reflection.npy": 0.0076237623762376305,
          "data/rule52_ic8932_inversion.npy": 0.0,
-         "data/rule52_ic8932_rotation.npy": 0.00683168316831706,
-         "data/rule52_ic8932_shift.npy": 0.46425742574257445,
+         "data/rule52_ic8932_rotation.npy": -0.0003960396039603964,
+         "data/rule52_ic8932_shift.npy": 0.0,
          "data/rule52_ic8932_identity.npy": 0.0,
-         "total": 3.262178217821783
+         "total": 0.008019801980198027
       },
       "ZLIB": {
          "data/rule52_ic8932_reflection.npy": 0.0003960396039603964,
@@ -3516,11 +3516,11 @@
       },
       "HuffmanEncoding": {
          "data/rule53_ic8932_inversion.npy": 0.0,
-         "data/rule53_ic8932_rotation.npy": -1.2773267326732671,
-         "data/rule53_ic8932_reflection.npy": -0.012178217821782189,
+         "data/rule53_ic8932_rotation.npy": 0.07435643564356442,
+         "data/rule53_ic8932_reflection.npy": 0.012772277227722784,
          "data/rule53_ic8932_identity.npy": 0.0,
-         "data/rule53_ic8932_shift.npy": 9.900990099032114e-05,
-         "total": 1.2896039603960396
+         "data/rule53_ic8932_shift.npy": 0.004752475247524868,
+         "total": 0.09188118811881207
       },
       "ZLIB": {
          "data/rule53_ic8932_inversion.npy": 0.0,
@@ -3581,12 +3581,12 @@
          "total": 0.20732673267326723
       },
       "HuffmanEncoding": {
-         "data/rule54_ic8932_shift.npy": -0.42861386138613855,
-         "data/rule54_ic8932_rotation.npy": -0.2484158415841582,
-         "data/rule54_ic8932_reflection.npy": 0.0004950495049507175,
+         "data/rule54_ic8932_shift.npy": 0.0015841584158414745,
+         "data/rule54_ic8932_rotation.npy": 0.025445544554455357,
+         "data/rule54_ic8932_reflection.npy": 0.0008910891089107809,
          "data/rule54_ic8932_inversion.npy": 0.0,
          "data/rule54_ic8932_identity.npy": 0.0,
-         "total": 0.6775247524752475
+         "total": 0.027920792079207613
       },
       "ZLIB": {
          "data/rule54_ic8932_shift.npy": -0.0044554455445544525,
@@ -3647,12 +3647,12 @@
          "total": 0.95990099009901
       },
       "HuffmanEncoding": {
-         "data/rule55_ic8932_rotation.npy": -0.8387128712871288,
-         "data/rule55_ic8932_shift.npy": -0.0003960396039603964,
+         "data/rule55_ic8932_rotation.npy": 0.04267326732673271,
+         "data/rule55_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule55_ic8932_inversion.npy": 0.0,
-         "data/rule55_ic8932_reflection.npy": 0.24653465346534675,
+         "data/rule55_ic8932_reflection.npy": 9.90099009900991e-05,
          "data/rule55_ic8932_identity.npy": 0.0,
-         "total": 1.085643564356436
+         "total": 0.04287128712871291
       },
       "ZLIB": {
          "data/rule55_ic8932_rotation.npy": 0.0004950495049504946,
@@ -3714,11 +3714,11 @@
       },
       "HuffmanEncoding": {
          "data/rule56_ic8932_inversion.npy": 0.0,
-         "data/rule56_ic8932_rotation.npy": -0.08683168316831685,
-         "data/rule56_ic8932_reflection.npy": 0.025346534653465345,
-         "data/rule56_ic8932_shift.npy": -0.4300990099009901,
+         "data/rule56_ic8932_rotation.npy": 0.0003960396039603409,
+         "data/rule56_ic8932_reflection.npy": 0.020495049504950402,
+         "data/rule56_ic8932_shift.npy": 0.0003960396039603409,
          "data/rule56_ic8932_identity.npy": 0.0,
-         "total": 0.5422772277227723
+         "total": 0.021287128712871084
       },
       "ZLIB": {
          "data/rule56_ic8932_inversion.npy": 0.0,
@@ -3779,12 +3779,12 @@
          "total": 0.3809900990099009
       },
       "HuffmanEncoding": {
-         "data/rule57_ic8932_rotation.npy": -0.5375247524752476,
+         "data/rule57_ic8932_rotation.npy": 0.22702970297029712,
          "data/rule57_ic8932_inversion.npy": 0.0,
          "data/rule57_ic8932_identity.npy": 0.0,
-         "data/rule57_ic8932_shift.npy": 0.007128712871287135,
-         "data/rule57_ic8932_reflection.npy": 0.39445544554455436,
-         "total": 0.939108910891089
+         "data/rule57_ic8932_shift.npy": 0.039900990099009825,
+         "data/rule57_ic8932_reflection.npy": 0.05366336633663371,
+         "total": 0.32059405940594066
       },
       "ZLIB": {
          "data/rule57_ic8932_rotation.npy": 0.014059405940594058,
@@ -3845,12 +3845,12 @@
          "total": 0.010099009900990219
       },
       "HuffmanEncoding": {
-         "data/rule58_ic8932_reflection.npy": -2.3787128712871284,
-         "data/rule58_ic8932_rotation.npy": -2.4995049504950497,
+         "data/rule58_ic8932_reflection.npy": -0.053168316831683105,
+         "data/rule58_ic8932_rotation.npy": 0.015544554455445558,
          "data/rule58_ic8932_inversion.npy": 0.0,
          "data/rule58_ic8932_identity.npy": 0.0,
-         "data/rule58_ic8932_shift.npy": -2.34950495049505,
-         "total": 7.227722772277227
+         "data/rule58_ic8932_shift.npy": -0.05277227722772271,
+         "total": 0.12148514851485137
       },
       "ZLIB": {
          "data/rule58_ic8932_reflection.npy": -0.0008910891089108954,
@@ -3912,11 +3912,11 @@
       },
       "HuffmanEncoding": {
          "data/rule59_ic8932_inversion.npy": 0.0,
-         "data/rule59_ic8932_rotation.npy": -0.8950495049504952,
-         "data/rule59_ic8932_reflection.npy": -0.004851485148514634,
+         "data/rule59_ic8932_rotation.npy": 0.0865346534653465,
+         "data/rule59_ic8932_reflection.npy": 0.0036633663366336666,
          "data/rule59_ic8932_identity.npy": 0.0,
-         "data/rule59_ic8932_shift.npy": -0.004653465346534658,
-         "total": 0.9045544554455445
+         "data/rule59_ic8932_shift.npy": -0.002079207920792081,
+         "total": 0.09227722772277225
       },
       "ZLIB": {
          "data/rule59_ic8932_inversion.npy": 0.0,
@@ -3978,11 +3978,11 @@
       },
       "HuffmanEncoding": {
          "data/rule60_ic8932_identity.npy": 0.0,
-         "data/rule60_ic8932_reflection.npy": -0.007029702970297036,
-         "data/rule60_ic8932_shift.npy": 0.03920792079207924,
+         "data/rule60_ic8932_reflection.npy": 0.00980198019801981,
+         "data/rule60_ic8932_shift.npy": -0.0002970297029702973,
          "data/rule60_ic8932_inversion.npy": 0.0,
-         "data/rule60_ic8932_rotation.npy": 0.036930693069306963,
-         "total": 0.08316831683168324
+         "data/rule60_ic8932_rotation.npy": 0.0023762376237623783,
+         "total": 0.012475247524752486
       },
       "ZLIB": {
          "data/rule60_ic8932_identity.npy": 0.0,
@@ -4044,11 +4044,11 @@
       },
       "HuffmanEncoding": {
          "data/rule61_ic8932_identity.npy": 0.0,
-         "data/rule61_ic8932_shift.npy": -0.003861386138613865,
+         "data/rule61_ic8932_shift.npy": 0.0022772277227722793,
          "data/rule61_ic8932_inversion.npy": 0.0,
-         "data/rule61_ic8932_rotation.npy": -1.6736633663366334,
-         "data/rule61_ic8932_reflection.npy": -0.3949504950495051,
-         "total": 2.0724752475247525
+         "data/rule61_ic8932_rotation.npy": 0.02396039603960398,
+         "data/rule61_ic8932_reflection.npy": -0.006237623762376243,
+         "total": 0.032475247524752504
       },
       "ZLIB": {
          "data/rule61_ic8932_identity.npy": 0.0,
@@ -4109,12 +4109,12 @@
          "total": 0.10039603960396049
       },
       "HuffmanEncoding": {
-         "data/rule62_ic8932_reflection.npy": 0.10039603960396049,
+         "data/rule62_ic8932_reflection.npy": -0.07762376237623769,
          "data/rule62_ic8932_identity.npy": 0.0,
-         "data/rule62_ic8932_rotation.npy": 0.41722772277227727,
-         "data/rule62_ic8932_shift.npy": -0.1508910891089108,
+         "data/rule62_ic8932_rotation.npy": 0.07287128712871294,
+         "data/rule62_ic8932_shift.npy": -0.01316831683168318,
          "data/rule62_ic8932_inversion.npy": 0.0,
-         "total": 0.6685148514851486
+         "total": 0.1636633663366338
       },
       "ZLIB": {
          "data/rule62_ic8932_reflection.npy": -0.00693069306930693,
@@ -4176,11 +4176,11 @@
       },
       "HuffmanEncoding": {
          "data/rule63_ic8932_identity.npy": 0.0,
-         "data/rule63_ic8932_rotation.npy": -1.0056435643564356,
-         "data/rule63_ic8932_shift.npy": -0.0015841584158413635,
+         "data/rule63_ic8932_rotation.npy": 0.02970297029702973,
+         "data/rule63_ic8932_shift.npy": -0.0004950495049503845,
          "data/rule63_ic8932_inversion.npy": 0.0,
-         "data/rule63_ic8932_reflection.npy": -0.0025742574257425765,
-         "total": 1.0098019801980196
+         "data/rule63_ic8932_reflection.npy": 0.0015841584158415856,
+         "total": 0.0317821782178217
       },
       "ZLIB": {
          "data/rule63_ic8932_identity.npy": 0.0,
@@ -4243,10 +4243,10 @@
       "HuffmanEncoding": {
          "data/rule64_ic8932_identity.npy": 0.0,
          "data/rule64_ic8932_inversion.npy": 0.0,
-         "data/rule64_ic8932_shift.npy": -1.4825742574257426,
-         "data/rule64_ic8932_reflection.npy": 0.016336633663366337,
-         "data/rule64_ic8932_rotation.npy": -0.08267326732673266,
-         "total": 1.5815841584158417
+         "data/rule64_ic8932_shift.npy": -0.00019801980198014268,
+         "data/rule64_ic8932_reflection.npy": -0.00019801980198014268,
+         "data/rule64_ic8932_rotation.npy": -0.00019801980198014268,
+         "total": 0.000594059405940428
       },
       "ZLIB": {
          "data/rule64_ic8932_identity.npy": 0.0,
@@ -4308,11 +4308,11 @@
       },
       "HuffmanEncoding": {
          "data/rule65_ic8932_identity.npy": 0.0,
-         "data/rule65_ic8932_shift.npy": 0.016138613861386153,
+         "data/rule65_ic8932_shift.npy": 0.02396039603960398,
          "data/rule65_ic8932_inversion.npy": 0.0,
-         "data/rule65_ic8932_rotation.npy": -1.111386138613861,
-         "data/rule65_ic8932_reflection.npy": 0.9616831683168318,
-         "total": 2.089207920792079
+         "data/rule65_ic8932_rotation.npy": 0.009504950495049513,
+         "data/rule65_ic8932_reflection.npy": 0.006435643564356441,
+         "total": 0.039900990099009936
       },
       "ZLIB": {
          "data/rule65_ic8932_identity.npy": 0.0,
@@ -4374,11 +4374,11 @@
       },
       "HuffmanEncoding": {
          "data/rule66_ic8932_identity.npy": 0.0,
-         "data/rule66_ic8932_reflection.npy": 0.025445544554455444,
+         "data/rule66_ic8932_reflection.npy": -0.016237623762376252,
          "data/rule66_ic8932_inversion.npy": 0.0,
-         "data/rule66_ic8932_rotation.npy": -2.8090099009900995,
-         "data/rule66_ic8932_shift.npy": -2.774950495049505,
-         "total": 5.60940594059406
+         "data/rule66_ic8932_rotation.npy": -9.900990099015461e-05,
+         "data/rule66_ic8932_shift.npy": 0.0016831683168316292,
+         "total": 0.018019801980198036
       },
       "ZLIB": {
          "data/rule66_ic8932_identity.npy": 0.0,
@@ -4440,11 +4440,11 @@
       },
       "HuffmanEncoding": {
          "data/rule67_ic8932_identity.npy": 0.0,
-         "data/rule67_ic8932_rotation.npy": -0.7309900990099012,
-         "data/rule67_ic8932_shift.npy": 0.008118811881188126,
+         "data/rule67_ic8932_rotation.npy": 0.03267326732673259,
+         "data/rule67_ic8932_shift.npy": 0.0024752475247523664,
          "data/rule67_ic8932_inversion.npy": 0.0,
-         "data/rule67_ic8932_reflection.npy": -0.23584158415841583,
-         "total": 0.9749504950495052
+         "data/rule67_ic8932_reflection.npy": 0.0005940594059404836,
+         "total": 0.03574257425742544
       },
       "ZLIB": {
          "data/rule67_ic8932_identity.npy": 0.0,
@@ -4505,12 +4505,12 @@
          "total": 0.07574257425742574
       },
       "HuffmanEncoding": {
-         "data/rule68_ic8932_reflection.npy": 0.021188118811881186,
+         "data/rule68_ic8932_reflection.npy": 9.90099009900991e-05,
          "data/rule68_ic8932_identity.npy": 0.0,
-         "data/rule68_ic8932_shift.npy": -2.2984158415841587,
-         "data/rule68_ic8932_rotation.npy": -2.4042574257425744,
+         "data/rule68_ic8932_shift.npy": 0.0,
+         "data/rule68_ic8932_rotation.npy": 0.06504950495049511,
          "data/rule68_ic8932_inversion.npy": 0.0,
-         "total": 4.723861386138614
+         "total": 0.0651485148514852
       },
       "ZLIB": {
          "data/rule68_ic8932_reflection.npy": -0.00029702970297029816,
@@ -4573,10 +4573,10 @@
       "HuffmanEncoding": {
          "data/rule69_ic8932_identity.npy": 0.0,
          "data/rule69_ic8932_inversion.npy": 0.0,
-         "data/rule69_ic8932_reflection.npy": -1.1289108910891086,
-         "data/rule69_ic8932_rotation.npy": -0.28752475247524756,
-         "data/rule69_ic8932_shift.npy": -1.0695049504950496,
-         "total": 2.4859405940594055
+         "data/rule69_ic8932_reflection.npy": 0.014950495049504964,
+         "data/rule69_ic8932_rotation.npy": 0.023663366336633684,
+         "data/rule69_ic8932_shift.npy": 0.030099009900990126,
+         "total": 0.06871287128712877
       },
       "ZLIB": {
          "data/rule69_ic8932_identity.npy": 0.0,
@@ -4638,11 +4638,11 @@
       },
       "HuffmanEncoding": {
          "data/rule70_ic8932_identity.npy": 0.0,
-         "data/rule70_ic8932_reflection.npy": -1.8796039603960395,
-         "data/rule70_ic8932_shift.npy": 0.029801980198019804,
-         "data/rule70_ic8932_rotation.npy": -1.2900990099009901,
+         "data/rule70_ic8932_reflection.npy": 0.0033663366336632583,
+         "data/rule70_ic8932_shift.npy": 0.01524752475247515,
+         "data/rule70_ic8932_rotation.npy": 0.21633663366336625,
          "data/rule70_ic8932_inversion.npy": 0.0,
-         "total": 3.1995049504950495
+         "total": 0.23495049504950466
       },
       "ZLIB": {
          "data/rule70_ic8932_identity.npy": 0.0,
@@ -4703,12 +4703,12 @@
          "total": 0.8317821782178219
       },
       "HuffmanEncoding": {
-         "data/rule71_ic8932_shift.npy": -0.04990099009900972,
+         "data/rule71_ic8932_shift.npy": 0.015148514851485162,
          "data/rule71_ic8932_identity.npy": 0.0,
          "data/rule71_ic8932_inversion.npy": 0.0,
-         "data/rule71_ic8932_rotation.npy": -1.9088118811881187,
-         "data/rule71_ic8932_reflection.npy": -0.049801980198019846,
-         "total": 2.008514851485148
+         "data/rule71_ic8932_rotation.npy": 0.06950495049504946,
+         "data/rule71_ic8932_reflection.npy": 0.0001980198019801982,
+         "total": 0.08485148514851482
       },
       "ZLIB": {
          "data/rule71_ic8932_shift.npy": 9.90099009900991e-05,
@@ -4771,10 +4771,10 @@
       "HuffmanEncoding": {
          "data/rule72_ic8932_identity.npy": 0.0,
          "data/rule72_ic8932_inversion.npy": 0.0,
-         "data/rule72_ic8932_reflection.npy": 0.016237623762376238,
-         "data/rule72_ic8932_rotation.npy": -0.10742574257425742,
-         "data/rule72_ic8932_shift.npy": -1.9813861386138614,
-         "total": 2.105049504950495
+         "data/rule72_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule72_ic8932_rotation.npy": -0.0003960396039603964,
+         "data/rule72_ic8932_shift.npy": 0.0,
+         "total": 0.0007920792079207928
       },
       "ZLIB": {
          "data/rule72_ic8932_identity.npy": 0.0,
@@ -4837,10 +4837,10 @@
       "HuffmanEncoding": {
          "data/rule73_ic8932_inversion.npy": 0.0,
          "data/rule73_ic8932_identity.npy": 0.0,
-         "data/rule73_ic8932_shift.npy": -0.29900990099009905,
-         "data/rule73_ic8932_rotation.npy": -0.22346534653465344,
-         "data/rule73_ic8932_reflection.npy": 0.012277227722772288,
-         "total": 0.5347524752475248
+         "data/rule73_ic8932_shift.npy": 0.008910891089108808,
+         "data/rule73_ic8932_rotation.npy": 0.024455445544554477,
+         "data/rule73_ic8932_reflection.npy": 0.008118811881188015,
+         "total": 0.0414851485148513
       },
       "ZLIB": {
          "data/rule73_ic8932_inversion.npy": 0.0,
@@ -4901,12 +4901,12 @@
          "total": 0.0008910891089108849
       },
       "HuffmanEncoding": {
-         "data/rule74_ic8932_reflection.npy": 0.025346534653465345,
-         "data/rule74_ic8932_shift.npy": -2.3279207920792078,
+         "data/rule74_ic8932_reflection.npy": -0.017029702970297045,
+         "data/rule74_ic8932_shift.npy": 0.002970297029702973,
          "data/rule74_ic8932_identity.npy": 0.0,
          "data/rule74_ic8932_inversion.npy": 0.0,
-         "data/rule74_ic8932_rotation.npy": -0.11366336633663368,
-         "total": 2.466930693069307
+         "data/rule74_ic8932_rotation.npy": 9.90099009900991e-05,
+         "total": 0.020099009900990117
       },
       "ZLIB": {
          "data/rule74_ic8932_reflection.npy": 0.00039603960396039466,
@@ -4967,12 +4967,12 @@
          "total": 0.2217821782178218
       },
       "HuffmanEncoding": {
-         "data/rule75_ic8932_shift.npy": -0.2742574257425743,
+         "data/rule75_ic8932_shift.npy": -0.008613861386138622,
          "data/rule75_ic8932_identity.npy": 0.0,
-         "data/rule75_ic8932_reflection.npy": -0.27386138613861366,
-         "data/rule75_ic8932_rotation.npy": -0.4802970297029703,
+         "data/rule75_ic8932_reflection.npy": -0.004752475247524757,
+         "data/rule75_ic8932_rotation.npy": -0.00990099009900991,
          "data/rule75_ic8932_inversion.npy": 0.0,
-         "total": 1.0284158415841582
+         "total": 0.023267326732673288
       },
       "ZLIB": {
          "data/rule75_ic8932_shift.npy": 0.0015841584158415856,
@@ -5034,11 +5034,11 @@
       },
       "HuffmanEncoding": {
          "data/rule76_ic8932_inversion.npy": 0.0,
-         "data/rule76_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule76_ic8932_reflection.npy": -9.900990099004359e-05,
          "data/rule76_ic8932_identity.npy": 0.0,
-         "data/rule76_ic8932_shift.npy": -2.3083168316831686,
-         "data/rule76_ic8932_rotation.npy": -2.3863366336633667,
-         "total": 4.715742574257426
+         "data/rule76_ic8932_shift.npy": 0.0,
+         "data/rule76_ic8932_rotation.npy": 0.07465346534653472,
+         "total": 0.07475247524752476
       },
       "ZLIB": {
          "data/rule76_ic8932_inversion.npy": 0.0,
@@ -5101,10 +5101,10 @@
       "HuffmanEncoding": {
          "data/rule77_ic8932_inversion.npy": 0.0,
          "data/rule77_ic8932_identity.npy": 0.0,
-         "data/rule77_ic8932_shift.npy": 0.023564356435643585,
-         "data/rule77_ic8932_reflection.npy": 0.022475247524752273,
-         "data/rule77_ic8932_rotation.npy": 1.0094059405940596,
-         "total": 1.0554455445544555
+         "data/rule77_ic8932_shift.npy": 0.014158415841584171,
+         "data/rule77_ic8932_reflection.npy": 0.013465346534653477,
+         "data/rule77_ic8932_rotation.npy": 0.03405940594059398,
+         "total": 0.06168316831683163
       },
       "ZLIB": {
          "data/rule77_ic8932_inversion.npy": 9.90099009900991e-05,
@@ -5167,10 +5167,10 @@
       "HuffmanEncoding": {
          "data/rule78_ic8932_identity.npy": 0.0,
          "data/rule78_ic8932_inversion.npy": 0.0,
-         "data/rule78_ic8932_reflection.npy": 0.30039603960396066,
-         "data/rule78_ic8932_rotation.npy": 1.1224752475247526,
-         "data/rule78_ic8932_shift.npy": 2.4674257425742576,
-         "total": 3.890297029702971
+         "data/rule78_ic8932_reflection.npy": 0.005247524752475252,
+         "data/rule78_ic8932_rotation.npy": 0.23108910891089118,
+         "data/rule78_ic8932_shift.npy": 0.01653465346534666,
+         "total": 0.2528712871287131
       },
       "ZLIB": {
          "data/rule78_ic8932_identity.npy": 0.0,
@@ -5233,10 +5233,10 @@
       "HuffmanEncoding": {
          "data/rule79_ic8932_identity.npy": 0.0,
          "data/rule79_ic8932_inversion.npy": 0.0,
-         "data/rule79_ic8932_rotation.npy": 0.8980198019801979,
-         "data/rule79_ic8932_reflection.npy": -0.03435643564356461,
-         "data/rule79_ic8932_shift.npy": -0.021683168316831924,
-         "total": 0.9540594059405945
+         "data/rule79_ic8932_rotation.npy": 0.016831683168316736,
+         "data/rule79_ic8932_reflection.npy": 0.008514851485148411,
+         "data/rule79_ic8932_shift.npy": -0.0005940594059405946,
+         "total": 0.02594059405940574
       },
       "ZLIB": {
          "data/rule79_ic8932_identity.npy": 0.0,
@@ -5297,12 +5297,12 @@
          "total": 0.0014851485148514934
       },
       "HuffmanEncoding": {
-         "data/rule80_ic8932_reflection.npy": 3.285841584158416,
+         "data/rule80_ic8932_reflection.npy": 0.01435643564356437,
          "data/rule80_ic8932_inversion.npy": 0.0,
          "data/rule80_ic8932_identity.npy": 0.0,
-         "data/rule80_ic8932_rotation.npy": 0.45316831683168335,
-         "data/rule80_ic8932_shift.npy": -0.000990099009900991,
-         "total": 3.74
+         "data/rule80_ic8932_rotation.npy": 0.0001980198019801982,
+         "data/rule80_ic8932_shift.npy": 0.0,
+         "total": 0.014554455445544567
       },
       "ZLIB": {
          "data/rule80_ic8932_reflection.npy": -9.90099009900991e-05,
@@ -5365,10 +5365,10 @@
       "HuffmanEncoding": {
          "data/rule81_ic8932_identity.npy": 0.0,
          "data/rule81_ic8932_inversion.npy": 0.0,
-         "data/rule81_ic8932_reflection.npy": -1.3812871287128714,
-         "data/rule81_ic8932_shift.npy": -1.3953465346534655,
-         "data/rule81_ic8932_rotation.npy": -1.917029702970297,
-         "total": 4.693663366336634
+         "data/rule81_ic8932_reflection.npy": -0.004653465346534658,
+         "data/rule81_ic8932_shift.npy": -0.0018811881188118829,
+         "data/rule81_ic8932_rotation.npy": 0.0007920792079207928,
+         "total": 0.007326732673267333
       },
       "ZLIB": {
          "data/rule81_ic8932_identity.npy": 0.0,
@@ -5429,12 +5429,12 @@
          "total": 0.0014851485148514865
       },
       "HuffmanEncoding": {
-         "data/rule82_ic8932_reflection.npy": -2.5443564356435644,
+         "data/rule82_ic8932_reflection.npy": 0.03534653465346538,
          "data/rule82_ic8932_identity.npy": 0.0,
-         "data/rule82_ic8932_shift.npy": 0.025544554455445543,
+         "data/rule82_ic8932_shift.npy": 0.004257425742574261,
          "data/rule82_ic8932_inversion.npy": 0.0,
-         "data/rule82_ic8932_rotation.npy": -2.273267326732673,
-         "total": 4.843168316831683
+         "data/rule82_ic8932_rotation.npy": 0.0004950495049504955,
+         "total": 0.040099009900990135
       },
       "ZLIB": {
          "data/rule82_ic8932_reflection.npy": 0.0011881188118811961,
@@ -5495,12 +5495,12 @@
          "total": 0.8931683168316832
       },
       "HuffmanEncoding": {
-         "data/rule83_ic8932_shift.npy": 0.0024752475247529215,
+         "data/rule83_ic8932_shift.npy": 0.003168316831683171,
          "data/rule83_ic8932_identity.npy": 0.0,
-         "data/rule83_ic8932_reflection.npy": 0.2533663366336636,
-         "data/rule83_ic8932_rotation.npy": -0.858118811881188,
+         "data/rule83_ic8932_reflection.npy": -0.004752475247524757,
+         "data/rule83_ic8932_rotation.npy": 0.05584158415841578,
          "data/rule83_ic8932_inversion.npy": 0.0,
-         "total": 1.1139603960396045
+         "total": 0.06376237623762371
       },
       "ZLIB": {
          "data/rule83_ic8932_shift.npy": 9.900990099010257e-05,
@@ -5561,12 +5561,12 @@
          "total": 0.001980198019801982
       },
       "HuffmanEncoding": {
-         "data/rule84_ic8932_reflection.npy": 3.21970297029703,
+         "data/rule84_ic8932_reflection.npy": 0.00881188118811882,
          "data/rule84_ic8932_inversion.npy": 0.0,
          "data/rule84_ic8932_identity.npy": 0.0,
-         "data/rule84_ic8932_shift.npy": 2.710594059405941,
-         "data/rule84_ic8932_rotation.npy": 3.054554455445545,
-         "total": 8.984851485148516
+         "data/rule84_ic8932_shift.npy": 0.000990099009900991,
+         "data/rule84_ic8932_rotation.npy": 0.0022772277227723348,
+         "total": 0.012079207920792145
       },
       "ZLIB": {
          "data/rule84_ic8932_reflection.npy": 9.90099009900991e-05,
@@ -5629,10 +5629,10 @@
       "HuffmanEncoding": {
          "data/rule85_ic8932_inversion.npy": 0.0,
          "data/rule85_ic8932_identity.npy": 0.0,
-         "data/rule85_ic8932_shift.npy": 0.2164356435643564,
-         "data/rule85_ic8932_reflection.npy": 0.23366336633663387,
-         "data/rule85_ic8932_rotation.npy": -1.084356435643564,
-         "total": 1.5344554455445543
+         "data/rule85_ic8932_shift.npy": 0.012277227722772288,
+         "data/rule85_ic8932_reflection.npy": -0.018217821782178234,
+         "data/rule85_ic8932_rotation.npy": 0.000990099009900991,
+         "total": 0.03148514851485151
       },
       "ZLIB": {
          "data/rule85_ic8932_inversion.npy": 0.0,
@@ -5693,12 +5693,12 @@
          "total": 0.009900990099009743
       },
       "HuffmanEncoding": {
-         "data/rule86_ic8932_shift.npy": 0.4301980198019799,
+         "data/rule86_ic8932_shift.npy": 0.003069306930693072,
          "data/rule86_ic8932_identity.npy": 0.0,
-         "data/rule86_ic8932_reflection.npy": 0.3789108910891088,
-         "data/rule86_ic8932_rotation.npy": 0.39396039603960387,
+         "data/rule86_ic8932_reflection.npy": 0.012772277227722784,
+         "data/rule86_ic8932_rotation.npy": -0.0007920792079207928,
          "data/rule86_ic8932_inversion.npy": 0.0,
-         "total": 1.2030693069306926
+         "total": 0.01663366336633665
       },
       "ZLIB": {
          "data/rule86_ic8932_shift.npy": -0.0010891089108911178,
@@ -5759,12 +5759,12 @@
          "total": 0.9513861386138615
       },
       "HuffmanEncoding": {
-         "data/rule87_ic8932_shift.npy": -0.0016831683168316847,
+         "data/rule87_ic8932_shift.npy": 0.0014851485148515975,
          "data/rule87_ic8932_identity.npy": 0.0,
          "data/rule87_ic8932_inversion.npy": 0.0,
-         "data/rule87_ic8932_reflection.npy": 0.23069306930693045,
-         "data/rule87_ic8932_rotation.npy": -1.456831683168317,
-         "total": 1.6892079207920792
+         "data/rule87_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule87_ic8932_rotation.npy": 0.021089108910891108,
+         "total": 0.0229702970297031
       },
       "ZLIB": {
          "data/rule87_ic8932_shift.npy": 0.0006930693069306902,
@@ -5826,11 +5826,11 @@
       },
       "HuffmanEncoding": {
          "data/rule88_ic8932_identity.npy": 0.0,
-         "data/rule88_ic8932_reflection.npy": 2.7504950495049507,
-         "data/rule88_ic8932_shift.npy": -0.0004950495049507175,
-         "data/rule88_ic8932_rotation.npy": -0.03386138613861389,
+         "data/rule88_ic8932_reflection.npy": 0.021287128712871195,
+         "data/rule88_ic8932_shift.npy": 0.0,
+         "data/rule88_ic8932_rotation.npy": 0.005148514851485098,
          "data/rule88_ic8932_inversion.npy": 0.0,
-         "total": 2.7848514851485153
+         "total": 0.026435643564356293
       },
       "ZLIB": {
          "data/rule88_ic8932_identity.npy": 0.0,
@@ -5892,11 +5892,11 @@
       },
       "HuffmanEncoding": {
          "data/rule89_ic8932_identity.npy": 0.0,
-         "data/rule89_ic8932_shift.npy": 0.01653465346534655,
-         "data/rule89_ic8932_reflection.npy": 0.2616831683168317,
-         "data/rule89_ic8932_rotation.npy": 0.294158415841584,
+         "data/rule89_ic8932_shift.npy": 0.012178217821782189,
+         "data/rule89_ic8932_reflection.npy": 0.008514851485148522,
+         "data/rule89_ic8932_rotation.npy": 0.0066336633663366396,
          "data/rule89_ic8932_inversion.npy": 0.0,
-         "total": 0.5723762376237622
+         "total": 0.02732673267326735
       },
       "ZLIB": {
          "data/rule89_ic8932_identity.npy": 0.0,
@@ -5958,11 +5958,11 @@
       },
       "HuffmanEncoding": {
          "data/rule90_ic8932_identity.npy": 0.0,
-         "data/rule90_ic8932_reflection.npy": 0.1101980198019803,
-         "data/rule90_ic8932_rotation.npy": 0.03722772277227715,
+         "data/rule90_ic8932_reflection.npy": 0.007821782178217829,
+         "data/rule90_ic8932_rotation.npy": 0.008316831683168324,
          "data/rule90_ic8932_inversion.npy": 0.0,
-         "data/rule90_ic8932_shift.npy": 0.011881188118811892,
-         "total": 0.15930693069306934
+         "data/rule90_ic8932_shift.npy": 0.012475247524752375,
+         "total": 0.028613861386138528
       },
       "ZLIB": {
          "data/rule90_ic8932_identity.npy": 0.0,
@@ -6024,11 +6024,11 @@
       },
       "HuffmanEncoding": {
          "data/rule91_ic8932_identity.npy": 0.0,
-         "data/rule91_ic8932_rotation.npy": -1.6921782178217821,
-         "data/rule91_ic8932_shift.npy": 0.22633663366336632,
+         "data/rule91_ic8932_rotation.npy": 0.026633663366336546,
+         "data/rule91_ic8932_shift.npy": -0.019603960396039732,
          "data/rule91_ic8932_inversion.npy": 0.0,
-         "data/rule91_ic8932_reflection.npy": 0.21554455445544551,
-         "total": 2.1340594059405937
+         "data/rule91_ic8932_reflection.npy": -0.00108910891089109,
+         "total": 0.04732673267326737
       },
       "ZLIB": {
          "data/rule91_ic8932_identity.npy": 0.0,
@@ -6091,10 +6091,10 @@
       "HuffmanEncoding": {
          "data/rule92_ic8932_identity.npy": 0.0,
          "data/rule92_ic8932_inversion.npy": 0.0,
-         "data/rule92_ic8932_shift.npy": 0.00306930693069285,
-         "data/rule92_ic8932_reflection.npy": -0.3028712871287129,
-         "data/rule92_ic8932_rotation.npy": 1.9850495049504948,
-         "total": 2.2909900990099006
+         "data/rule92_ic8932_shift.npy": -0.00108910891089109,
+         "data/rule92_ic8932_reflection.npy": 0.008118811881188237,
+         "data/rule92_ic8932_rotation.npy": 0.2287128712871288,
+         "total": 0.23792079207920813
       },
       "ZLIB": {
          "data/rule92_ic8932_identity.npy": 0.0,
@@ -6156,11 +6156,11 @@
       },
       "HuffmanEncoding": {
          "data/rule93_ic8932_identity.npy": 0.0,
-         "data/rule93_ic8932_shift.npy": 2.370792079207921,
+         "data/rule93_ic8932_shift.npy": 0.04158415841584162,
          "data/rule93_ic8932_inversion.npy": 0.0,
-         "data/rule93_ic8932_rotation.npy": 0.757029702970297,
-         "data/rule93_ic8932_reflection.npy": 0.003960396039603964,
-         "total": 3.131782178217822
+         "data/rule93_ic8932_rotation.npy": 0.03653465346534657,
+         "data/rule93_ic8932_reflection.npy": 0.014752475247524877,
+         "total": 0.09287128712871306
       },
       "ZLIB": {
          "data/rule93_ic8932_identity.npy": 0.0,
@@ -6221,12 +6221,12 @@
          "total": 0.5489108910891088
       },
       "HuffmanEncoding": {
-         "data/rule94_ic8932_reflection.npy": 0.021782178217821357,
+         "data/rule94_ic8932_reflection.npy": 0.01435643564356437,
          "data/rule94_ic8932_identity.npy": 0.0,
-         "data/rule94_ic8932_rotation.npy": 0.6083168316831682,
+         "data/rule94_ic8932_rotation.npy": 0.2054455445544554,
          "data/rule94_ic8932_inversion.npy": 0.0,
-         "data/rule94_ic8932_shift.npy": 0.03178217821782159,
-         "total": 0.6618811881188111
+         "data/rule94_ic8932_shift.npy": 0.010693069306930703,
+         "total": 0.23049504950495048
       },
       "ZLIB": {
          "data/rule94_ic8932_reflection.npy": -0.0014851485148514865,
@@ -6289,10 +6289,10 @@
       "HuffmanEncoding": {
          "data/rule95_ic8932_identity.npy": 0.0,
          "data/rule95_ic8932_inversion.npy": 0.0,
-         "data/rule95_ic8932_shift.npy": 0.024158415841583958,
-         "data/rule95_ic8932_rotation.npy": -2.0950495049504947,
-         "data/rule95_ic8932_reflection.npy": 0.024950495049504973,
-         "total": 2.1441584158415834
+         "data/rule95_ic8932_shift.npy": 0.025346534653465258,
+         "data/rule95_ic8932_rotation.npy": 0.027920792079207946,
+         "data/rule95_ic8932_reflection.npy": 0.0003960396039603964,
+         "total": 0.0536633663366336
       },
       "ZLIB": {
          "data/rule95_ic8932_identity.npy": 0.0,
@@ -6353,12 +6353,12 @@
          "total": 9.90099009900991e-05
       },
       "HuffmanEncoding": {
-         "data/rule96_ic8932_reflection.npy": 0.016336633663366337,
+         "data/rule96_ic8932_reflection.npy": -0.0002970297029703528,
          "data/rule96_ic8932_identity.npy": 0.0,
          "data/rule96_ic8932_inversion.npy": 0.0,
-         "data/rule96_ic8932_shift.npy": -1.9816831683168319,
-         "data/rule96_ic8932_rotation.npy": -0.10752475247524752,
-         "total": 2.1055445544554456
+         "data/rule96_ic8932_shift.npy": -0.0002970297029703528,
+         "data/rule96_ic8932_rotation.npy": -0.0002970297029703528,
+         "total": 0.0008910891089110584
       },
       "ZLIB": {
          "data/rule96_ic8932_reflection.npy": 0.0001980198019801982,
@@ -6420,11 +6420,11 @@
       },
       "HuffmanEncoding": {
          "data/rule97_ic8932_identity.npy": 0.0,
-         "data/rule97_ic8932_shift.npy": -1.4102970297029702,
+         "data/rule97_ic8932_shift.npy": 0.04405940594059399,
          "data/rule97_ic8932_inversion.npy": 0.0,
-         "data/rule97_ic8932_reflection.npy": -1.357227722772277,
-         "data/rule97_ic8932_rotation.npy": 0.693960396039604,
-         "total": 3.4614851485148512
+         "data/rule97_ic8932_reflection.npy": 0.021584158415841492,
+         "data/rule97_ic8932_rotation.npy": 0.02495049504950486,
+         "total": 0.09059405940594034
       },
       "ZLIB": {
          "data/rule97_ic8932_identity.npy": 0.0,
@@ -6485,12 +6485,12 @@
          "total": 0.00108910891089109
       },
       "HuffmanEncoding": {
-         "data/rule98_ic8932_shift.npy": -3.256831683168317,
+         "data/rule98_ic8932_shift.npy": 0.004653465346534658,
          "data/rule98_ic8932_inversion.npy": 0.0,
          "data/rule98_ic8932_identity.npy": 0.0,
-         "data/rule98_ic8932_reflection.npy": 0.029702970297029705,
-         "data/rule98_ic8932_rotation.npy": -2.7803960396039606,
-         "total": 6.066930693069308
+         "data/rule98_ic8932_reflection.npy": -0.016336633663366296,
+         "data/rule98_ic8932_rotation.npy": 0.000990099009900991,
+         "total": 0.021980198019801944
       },
       "ZLIB": {
          "data/rule98_ic8932_shift.npy": 0.0004950495049504955,
@@ -6552,11 +6552,11 @@
       },
       "HuffmanEncoding": {
          "data/rule99_ic8932_identity.npy": 0.0,
-         "data/rule99_ic8932_shift.npy": 0.2057425742574257,
+         "data/rule99_ic8932_shift.npy": 0.08504950495049501,
          "data/rule99_ic8932_inversion.npy": 0.0,
-         "data/rule99_ic8932_rotation.npy": -0.4918811881188119,
-         "data/rule99_ic8932_reflection.npy": 1.172178217821782,
-         "total": 1.8698019801980197
+         "data/rule99_ic8932_rotation.npy": 0.19514851485148532,
+         "data/rule99_ic8932_reflection.npy": 0.0776237623762378,
+         "total": 0.35782178217821814
       },
       "ZLIB": {
          "data/rule99_ic8932_identity.npy": 0.0,
@@ -6617,12 +6617,12 @@
          "total": 0.07574257425742574
       },
       "HuffmanEncoding": {
-         "data/rule100_ic8932_rotation.npy": -2.403762376237624,
-         "data/rule100_ic8932_shift.npy": -2.2987128712871288,
-         "data/rule100_ic8932_reflection.npy": 0.021188118811881186,
+         "data/rule100_ic8932_rotation.npy": 0.06504950495049511,
+         "data/rule100_ic8932_shift.npy": 0.0,
+         "data/rule100_ic8932_reflection.npy": 0.0002970297029702973,
          "data/rule100_ic8932_identity.npy": 0.0,
          "data/rule100_ic8932_inversion.npy": 0.0,
-         "total": 4.723663366336633
+         "total": 0.0653465346534654
       },
       "ZLIB": {
          "data/rule100_ic8932_rotation.npy": 0.002475247524752475,
@@ -6683,12 +6683,12 @@
          "total": 0.2157425742574257
       },
       "HuffmanEncoding": {
-         "data/rule101_ic8932_reflection.npy": 0.0022772277227722793,
-         "data/rule101_ic8932_rotation.npy": -0.10009900990099019,
-         "data/rule101_ic8932_shift.npy": -0.31247524752475253,
+         "data/rule101_ic8932_reflection.npy": 0.010990099009901,
+         "data/rule101_ic8932_rotation.npy": -0.0016831683168316847,
+         "data/rule101_ic8932_shift.npy": 0.01198019801980199,
          "data/rule101_ic8932_identity.npy": 0.0,
          "data/rule101_ic8932_inversion.npy": 0.0,
-         "total": 0.414851485148515
+         "total": 0.024653465346534675
       },
       "ZLIB": {
          "data/rule101_ic8932_reflection.npy": 0.0,
@@ -6749,12 +6749,12 @@
          "total": 0.003168316831683171
       },
       "HuffmanEncoding": {
-         "data/rule102_ic8932_rotation.npy": -0.013762376237623664,
+         "data/rule102_ic8932_rotation.npy": 0.003168316831683171,
          "data/rule102_ic8932_inversion.npy": 0.0,
-         "data/rule102_ic8932_reflection.npy": 0.015049504950495063,
+         "data/rule102_ic8932_reflection.npy": -0.0005940594059405946,
          "data/rule102_ic8932_identity.npy": 0.0,
-         "data/rule102_ic8932_shift.npy": 0.016831683168316847,
-         "total": 0.04564356435643557
+         "data/rule102_ic8932_shift.npy": 0.0065346534653465405,
+         "total": 0.010297029702970306
       },
       "ZLIB": {
          "data/rule102_ic8932_rotation.npy": 0.0017821782178217838,
@@ -6816,11 +6816,11 @@
       },
       "HuffmanEncoding": {
          "data/rule103_ic8932_inversion.npy": 0.0,
-         "data/rule103_ic8932_reflection.npy": -0.02742574257425745,
-         "data/rule103_ic8932_rotation.npy": -1.1923762376237625,
-         "data/rule103_ic8932_shift.npy": -0.4006930693069306,
+         "data/rule103_ic8932_reflection.npy": 0.007326732673267222,
+         "data/rule103_ic8932_rotation.npy": 0.05039603960396033,
+         "data/rule103_ic8932_shift.npy": 0.0205940594059405,
          "data/rule103_ic8932_identity.npy": 0.0,
-         "total": 1.6204950495049506
+         "total": 0.07831683168316805
       },
       "ZLIB": {
          "data/rule103_ic8932_inversion.npy": 0.0,
@@ -6881,12 +6881,12 @@
          "total": 0.0003960396039603955
       },
       "HuffmanEncoding": {
-         "data/rule104_ic8932_rotation.npy": -2.4510891089108915,
-         "data/rule104_ic8932_shift.npy": 0.026435643564356435,
+         "data/rule104_ic8932_rotation.npy": -9.900990099015461e-05,
+         "data/rule104_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule104_ic8932_identity.npy": 0.0,
          "data/rule104_ic8932_inversion.npy": 0.0,
-         "data/rule104_ic8932_reflection.npy": 0.04455445544554455,
-         "total": 2.5220792079207923
+         "data/rule104_ic8932_reflection.npy": 9.90099009900991e-05,
+         "total": 0.0002970297029703528
       },
       "ZLIB": {
          "data/rule104_ic8932_rotation.npy": 0.0,
@@ -6947,12 +6947,12 @@
          "total": 0.2382178217821782
       },
       "HuffmanEncoding": {
-         "data/rule105_ic8932_shift.npy": -0.03801980198019783,
-         "data/rule105_ic8932_rotation.npy": -0.5529702970297028,
-         "data/rule105_ic8932_reflection.npy": -0.3107920792079206,
+         "data/rule105_ic8932_shift.npy": 0.012772277227722784,
+         "data/rule105_ic8932_rotation.npy": -9.90099009900991e-05,
+         "data/rule105_ic8932_reflection.npy": 0.008118811881188126,
          "data/rule105_ic8932_identity.npy": 0.0,
          "data/rule105_ic8932_inversion.npy": 0.0,
-         "total": 0.9017821782178213
+         "total": 0.02099009900990101
       },
       "ZLIB": {
          "data/rule105_ic8932_shift.npy": 0.0012871287128712883,
@@ -7013,12 +7013,12 @@
          "total": 0.0016831683168316014
       },
       "HuffmanEncoding": {
-         "data/rule106_ic8932_rotation.npy": -1.6216831683168316,
+         "data/rule106_ic8932_rotation.npy": 0.0015841584158415856,
          "data/rule106_ic8932_inversion.npy": 0.0,
          "data/rule106_ic8932_identity.npy": 0.0,
-         "data/rule106_ic8932_shift.npy": -2.008217821782178,
-         "data/rule106_ic8932_reflection.npy": 0.01871287128712873,
-         "total": 3.6486138613861385
+         "data/rule106_ic8932_shift.npy": -0.0034653465346534684,
+         "data/rule106_ic8932_reflection.npy": -0.012673267326732574,
+         "total": 0.017722772277227627
       },
       "ZLIB": {
          "data/rule106_ic8932_rotation.npy": -0.00029702970297029035,
@@ -7079,12 +7079,12 @@
          "total": 0.5555445544554456
       },
       "HuffmanEncoding": {
-         "data/rule107_ic8932_rotation.npy": -0.5545544554455444,
-         "data/rule107_ic8932_reflection.npy": -0.01772277227722796,
+         "data/rule107_ic8932_rotation.npy": 0.028613861386138528,
+         "data/rule107_ic8932_reflection.npy": 0.02168316831683159,
          "data/rule107_ic8932_inversion.npy": 0.0,
          "data/rule107_ic8932_identity.npy": 0.0,
-         "data/rule107_ic8932_shift.npy": 0.6687128712871286,
-         "total": 1.240990099009901
+         "data/rule107_ic8932_shift.npy": -0.002970297029703084,
+         "total": 0.053267326732673204
       },
       "ZLIB": {
          "data/rule107_ic8932_rotation.npy": 0.000990099009900991,
@@ -7146,11 +7146,11 @@
       },
       "HuffmanEncoding": {
          "data/rule108_ic8932_inversion.npy": 0.0,
-         "data/rule108_ic8932_rotation.npy": -0.5222772277227716,
-         "data/rule108_ic8932_reflection.npy": -0.005049504950494832,
-         "data/rule108_ic8932_shift.npy": -0.00524752475247503,
+         "data/rule108_ic8932_rotation.npy": 0.08059405940594061,
+         "data/rule108_ic8932_reflection.npy": -0.0001980198019801982,
+         "data/rule108_ic8932_shift.npy": 0.0,
          "data/rule108_ic8932_identity.npy": 0.0,
-         "total": 0.5325742574257415
+         "total": 0.08079207920792081
       },
       "ZLIB": {
          "data/rule108_ic8932_inversion.npy": 0.0,
@@ -7212,11 +7212,11 @@
       },
       "HuffmanEncoding": {
          "data/rule109_ic8932_inversion.npy": 0.0,
-         "data/rule109_ic8932_reflection.npy": -0.4057425742574259,
-         "data/rule109_ic8932_rotation.npy": -0.5093069306930695,
+         "data/rule109_ic8932_reflection.npy": 0.012376237623762276,
+         "data/rule109_ic8932_rotation.npy": 0.023663366336633573,
          "data/rule109_ic8932_identity.npy": 0.0,
-         "data/rule109_ic8932_shift.npy": -0.4056435643564358,
-         "total": 1.3206930693069312
+         "data/rule109_ic8932_shift.npy": 0.0055445544554455495,
+         "total": 0.0415841584158414
       },
       "ZLIB": {
          "data/rule109_ic8932_inversion.npy": 0.0,
@@ -7277,12 +7277,12 @@
          "total": 0.006237623762376243
       },
       "HuffmanEncoding": {
-         "data/rule110_ic8932_shift.npy": -0.18059405940594053,
-         "data/rule110_ic8932_rotation.npy": -0.847128712871287,
+         "data/rule110_ic8932_shift.npy": 0.008415841584158423,
+         "data/rule110_ic8932_rotation.npy": 0.0033663366336633693,
          "data/rule110_ic8932_inversion.npy": 0.0,
-         "data/rule110_ic8932_reflection.npy": 0.050099009900990144,
+         "data/rule110_ic8932_reflection.npy": 0.008910891089108919,
          "data/rule110_ic8932_identity.npy": 0.0,
-         "total": 1.0778217821782177
+         "total": 0.02069306930693071
       },
       "ZLIB": {
          "data/rule110_ic8932_shift.npy": -0.004653465346534658,
@@ -7343,12 +7343,12 @@
          "total": 0.8260396039603961
       },
       "HuffmanEncoding": {
-         "data/rule111_ic8932_shift.npy": 0.9689108910891088,
+         "data/rule111_ic8932_shift.npy": 0.0005940594059405946,
          "data/rule111_ic8932_inversion.npy": 0.0,
-         "data/rule111_ic8932_reflection.npy": 0.01425742574257427,
-         "data/rule111_ic8932_rotation.npy": -1.0601980198019803,
+         "data/rule111_ic8932_reflection.npy": 0.018316831683168333,
+         "data/rule111_ic8932_rotation.npy": 0.013465346534653477,
          "data/rule111_ic8932_identity.npy": 0.0,
-         "total": 2.0433663366336634
+         "total": 0.032376237623762405
       },
       "ZLIB": {
          "data/rule111_ic8932_shift.npy": -0.0022772277227722793,
@@ -7409,12 +7409,12 @@
          "total": 0.0018811881188118829
       },
       "HuffmanEncoding": {
-         "data/rule112_ic8932_rotation.npy": 0.4474257425742576,
-         "data/rule112_ic8932_shift.npy": 0.0004950495049507175,
+         "data/rule112_ic8932_rotation.npy": 0.0001980198019801982,
+         "data/rule112_ic8932_shift.npy": 9.900990099015461e-05,
          "data/rule112_ic8932_inversion.npy": 0.0,
          "data/rule112_ic8932_identity.npy": 0.0,
-         "data/rule112_ic8932_reflection.npy": 3.216831683168317,
-         "total": 3.6647524752475253
+         "data/rule112_ic8932_reflection.npy": 0.006435643564356386,
+         "total": 0.006732673267326739
       },
       "ZLIB": {
          "data/rule112_ic8932_rotation.npy": 0.0017821782178217812,
@@ -7475,12 +7475,12 @@
          "total": 0.8261386138613862
       },
       "HuffmanEncoding": {
-         "data/rule113_ic8932_reflection.npy": -0.1642574257425744,
-         "data/rule113_ic8932_rotation.npy": 1.1432673267326732,
-         "data/rule113_ic8932_shift.npy": -0.18475247524752514,
+         "data/rule113_ic8932_reflection.npy": 0.012376237623762498,
+         "data/rule113_ic8932_rotation.npy": 0.0014851485148514865,
+         "data/rule113_ic8932_shift.npy": 0.025049504950495072,
          "data/rule113_ic8932_inversion.npy": 0.0,
          "data/rule113_ic8932_identity.npy": 0.0,
-         "total": 1.4922772277227727
+         "total": 0.038910891089109056
       },
       "ZLIB": {
          "data/rule113_ic8932_reflection.npy": -0.0022772277227722723,
@@ -7542,11 +7542,11 @@
       },
       "HuffmanEncoding": {
          "data/rule114_ic8932_inversion.npy": 0.0,
-         "data/rule114_ic8932_rotation.npy": 0.04633663366336638,
-         "data/rule114_ic8932_shift.npy": 2.253069306930693,
-         "data/rule114_ic8932_reflection.npy": 0.4301980198019799,
+         "data/rule114_ic8932_rotation.npy": 0.013960396039604084,
+         "data/rule114_ic8932_shift.npy": 0.017326732673267453,
+         "data/rule114_ic8932_reflection.npy": 0.09742574257425751,
          "data/rule114_ic8932_identity.npy": 0.0,
-         "total": 2.729603960396039
+         "total": 0.12871287128712905
       },
       "ZLIB": {
          "data/rule114_ic8932_inversion.npy": 0.0,
@@ -7607,12 +7607,12 @@
          "total": 0.8652475247524752
       },
       "HuffmanEncoding": {
-         "data/rule115_ic8932_reflection.npy": -0.0044554455445546814,
-         "data/rule115_ic8932_shift.npy": -0.00108910891089109,
-         "data/rule115_ic8932_rotation.npy": -0.8890099009900994,
+         "data/rule115_ic8932_reflection.npy": -0.0004950495049504955,
+         "data/rule115_ic8932_shift.npy": 0.005049504950495054,
+         "data/rule115_ic8932_rotation.npy": 0.07871287128712867,
          "data/rule115_ic8932_inversion.npy": 0.0,
          "data/rule115_ic8932_identity.npy": 0.0,
-         "total": 0.8945544554455451
+         "total": 0.08425742574257422
       },
       "ZLIB": {
          "data/rule115_ic8932_reflection.npy": -0.0001980198019801982,
@@ -7673,12 +7673,12 @@
          "total": 0.00217821782178218
       },
       "HuffmanEncoding": {
-         "data/rule116_ic8932_rotation.npy": 0.0004950495049502734,
+         "data/rule116_ic8932_rotation.npy": 0.0,
          "data/rule116_ic8932_inversion.npy": 0.0,
-         "data/rule116_ic8932_reflection.npy": -0.41950495049504966,
+         "data/rule116_ic8932_reflection.npy": 0.00821782178217817,
          "data/rule116_ic8932_identity.npy": 0.0,
-         "data/rule116_ic8932_shift.npy": 2.7198019801980196,
-         "total": 3.1398019801980195
+         "data/rule116_ic8932_shift.npy": 0.0006930693069306382,
+         "total": 0.008910891089108808
       },
       "ZLIB": {
          "data/rule116_ic8932_rotation.npy": 0.0007920792079207928,
@@ -7739,12 +7739,12 @@
          "total": 0.8261386138613862
       },
       "HuffmanEncoding": {
-         "data/rule117_ic8932_reflection.npy": -0.14504950495049518,
-         "data/rule117_ic8932_rotation.npy": 1.166039603960396,
-         "data/rule117_ic8932_shift.npy": -0.14613861386138605,
+         "data/rule117_ic8932_reflection.npy": 0.012178217821782189,
+         "data/rule117_ic8932_rotation.npy": 0.0012871287128711772,
+         "data/rule117_ic8932_shift.npy": 0.024752475247524663,
          "data/rule117_ic8932_identity.npy": 0.0,
          "data/rule117_ic8932_inversion.npy": 0.0,
-         "total": 1.4572277227722772
+         "total": 0.03821782178217803
       },
       "ZLIB": {
          "data/rule117_ic8932_reflection.npy": -0.0014851485148514865,
@@ -7805,12 +7805,12 @@
          "total": 0.09702970297029723
       },
       "HuffmanEncoding": {
-         "data/rule118_ic8932_rotation.npy": 0.3833663366336635,
-         "data/rule118_ic8932_shift.npy": 0.23306930693069305,
+         "data/rule118_ic8932_rotation.npy": 0.017326732673267342,
+         "data/rule118_ic8932_shift.npy": -0.11099009900990109,
          "data/rule118_ic8932_identity.npy": 0.0,
          "data/rule118_ic8932_inversion.npy": 0.0,
-         "data/rule118_ic8932_reflection.npy": -0.046534653465346354,
-         "total": 0.6629702970297029
+         "data/rule118_ic8932_reflection.npy": -0.016237623762376252,
+         "total": 0.14455445544554468
       },
       "ZLIB": {
          "data/rule118_ic8932_rotation.npy": 0.01158415841584158,
@@ -7871,12 +7871,12 @@
          "total": 0.9513861386138615
       },
       "HuffmanEncoding": {
-         "data/rule119_ic8932_rotation.npy": -0.5140594059405943,
-         "data/rule119_ic8932_reflection.npy": 0.23821782178217799,
+         "data/rule119_ic8932_rotation.npy": 0.021188118811881207,
+         "data/rule119_ic8932_reflection.npy": -0.0001980198019801982,
          "data/rule119_ic8932_inversion.npy": 0.0,
          "data/rule119_ic8932_identity.npy": 0.0,
-         "data/rule119_ic8932_shift.npy": 0.0034653465346532464,
-         "total": 0.7557425742574255
+         "data/rule119_ic8932_shift.npy": 0.0018811881188118829,
+         "total": 0.023267326732673288
       },
       "ZLIB": {
          "data/rule119_ic8932_rotation.npy": -0.0010891089108910866,
@@ -7938,11 +7938,11 @@
       },
       "HuffmanEncoding": {
          "data/rule120_ic8932_identity.npy": 0.0,
-         "data/rule120_ic8932_shift.npy": 1.6349504950495048,
-         "data/rule120_ic8932_rotation.npy": 0.015049504950495063,
+         "data/rule120_ic8932_shift.npy": 0.0001980198019801982,
+         "data/rule120_ic8932_rotation.npy": 0.0013861386138612763,
          "data/rule120_ic8932_inversion.npy": 0.0,
-         "data/rule120_ic8932_reflection.npy": -0.381881188118812,
-         "total": 2.031881188118812
+         "data/rule120_ic8932_reflection.npy": 0.019009900990098916,
+         "total": 0.02059405940594039
       },
       "ZLIB": {
          "data/rule120_ic8932_identity.npy": 0.0,
@@ -8004,11 +8004,11 @@
       },
       "HuffmanEncoding": {
          "data/rule121_ic8932_identity.npy": 0.0,
-         "data/rule121_ic8932_reflection.npy": -0.009504950495049513,
-         "data/rule121_ic8932_shift.npy": 1.1975247524752477,
-         "data/rule121_ic8932_rotation.npy": -0.5688118811881187,
+         "data/rule121_ic8932_reflection.npy": -0.011188118811881198,
+         "data/rule121_ic8932_shift.npy": -0.010990099009900889,
+         "data/rule121_ic8932_rotation.npy": 0.016732673267326748,
          "data/rule121_ic8932_inversion.npy": 0.0,
-         "total": 1.7758415841584159
+         "total": 0.038910891089108834
       },
       "ZLIB": {
          "data/rule121_ic8932_identity.npy": 0.0,
@@ -8071,10 +8071,10 @@
       "HuffmanEncoding": {
          "data/rule122_ic8932_identity.npy": 0.0,
          "data/rule122_ic8932_inversion.npy": 0.0,
-         "data/rule122_ic8932_rotation.npy": 0.862079207920792,
-         "data/rule122_ic8932_shift.npy": 0.042079207920791895,
-         "data/rule122_ic8932_reflection.npy": 0.7445544554455443,
-         "total": 1.6487128712871282
+         "data/rule122_ic8932_rotation.npy": -0.12475247524752475,
+         "data/rule122_ic8932_shift.npy": 0.012772277227722673,
+         "data/rule122_ic8932_reflection.npy": 0.006930693069306937,
+         "total": 0.14445544554455436
       },
       "ZLIB": {
          "data/rule122_ic8932_identity.npy": 0.0,
@@ -8137,10 +8137,10 @@
       "HuffmanEncoding": {
          "data/rule123_ic8932_identity.npy": 0.0,
          "data/rule123_ic8932_inversion.npy": 0.0,
-         "data/rule123_ic8932_reflection.npy": -1.1962376237623764,
-         "data/rule123_ic8932_rotation.npy": -2.63980198019802,
-         "data/rule123_ic8932_shift.npy": 0.0003960396039603964,
-         "total": 3.8364356435643567
+         "data/rule123_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule123_ic8932_rotation.npy": 0.0535643564356435,
+         "data/rule123_ic8932_shift.npy": 0.013465346534653477,
+         "total": 0.06742574257425737
       },
       "ZLIB": {
          "data/rule123_ic8932_identity.npy": 0.0,
@@ -8201,12 +8201,12 @@
          "total": 0.0055445544554455495
       },
       "HuffmanEncoding": {
-         "data/rule124_ic8932_shift.npy": -1.1355445544554457,
+         "data/rule124_ic8932_shift.npy": 0.0023762376237623783,
          "data/rule124_ic8932_identity.npy": 0.0,
          "data/rule124_ic8932_inversion.npy": 0.0,
-         "data/rule124_ic8932_rotation.npy": 0.03861386138613854,
-         "data/rule124_ic8932_reflection.npy": -1.1240594059405942,
-         "total": 2.2982178217821785
+         "data/rule124_ic8932_rotation.npy": 0.0026732673267327867,
+         "data/rule124_ic8932_reflection.npy": 0.008415841584158534,
+         "total": 0.0134653465346537
       },
       "ZLIB": {
          "data/rule124_ic8932_shift.npy": -0.0011881188118811892,
@@ -8267,12 +8267,12 @@
          "total": 0.8248514851485149
       },
       "HuffmanEncoding": {
-         "data/rule125_ic8932_reflection.npy": 1.1465346534653464,
+         "data/rule125_ic8932_reflection.npy": 0.006336633663366342,
          "data/rule125_ic8932_identity.npy": 0.0,
-         "data/rule125_ic8932_shift.npy": 0.0007920792079207928,
-         "data/rule125_ic8932_rotation.npy": -0.9129702970297033,
+         "data/rule125_ic8932_shift.npy": 0.024455445544554477,
+         "data/rule125_ic8932_rotation.npy": 0.006336633663366342,
          "data/rule125_ic8932_inversion.npy": 0.0,
-         "total": 2.0602970297029706
+         "total": 0.03712871287128716
       },
       "ZLIB": {
          "data/rule125_ic8932_reflection.npy": -0.004653465346534651,
@@ -8335,10 +8335,10 @@
       "HuffmanEncoding": {
          "data/rule126_ic8932_inversion.npy": 0.0,
          "data/rule126_ic8932_identity.npy": 0.0,
-         "data/rule126_ic8932_shift.npy": 0.9158415841584162,
-         "data/rule126_ic8932_reflection.npy": 0.9190099009900992,
-         "data/rule126_ic8932_rotation.npy": 1.210693069306931,
-         "total": 3.0455445544554465
+         "data/rule126_ic8932_shift.npy": 0.01544554455445557,
+         "data/rule126_ic8932_reflection.npy": 0.02069306930693071,
+         "data/rule126_ic8932_rotation.npy": -0.1636633663366336,
+         "total": 0.19980198019801987
       },
       "ZLIB": {
          "data/rule126_ic8932_inversion.npy": 0.0,
@@ -8399,12 +8399,12 @@
          "total": 0.9400990099009902
       },
       "HuffmanEncoding": {
-         "data/rule127_ic8932_reflection.npy": 0.02425742574257428,
+         "data/rule127_ic8932_reflection.npy": -9.90099009900991e-05,
          "data/rule127_ic8932_identity.npy": 0.0,
          "data/rule127_ic8932_inversion.npy": 0.0,
-         "data/rule127_ic8932_rotation.npy": -1.4710891089108906,
-         "data/rule127_ic8932_shift.npy": -0.0007920792079207928,
-         "total": 1.4961386138613857
+         "data/rule127_ic8932_rotation.npy": 0.02405940594059408,
+         "data/rule127_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.02425742574257428
       },
       "ZLIB": {
          "data/rule127_ic8932_reflection.npy": 0.0,
@@ -8467,10 +8467,10 @@
       "HuffmanEncoding": {
          "data/rule128_ic8932_identity.npy": 0.0,
          "data/rule128_ic8932_inversion.npy": 0.0,
-         "data/rule128_ic8932_rotation.npy": -1.9815841584158418,
-         "data/rule128_ic8932_shift.npy": -1.9811881188118814,
-         "data/rule128_ic8932_reflection.npy": 0.016237623762376238,
-         "total": 3.9790099009900994
+         "data/rule128_ic8932_rotation.npy": -0.00019801980198014268,
+         "data/rule128_ic8932_shift.npy": 0.0,
+         "data/rule128_ic8932_reflection.npy": -0.00019801980198014268,
+         "total": 0.00039603960396028537
       },
       "ZLIB": {
          "data/rule128_ic8932_identity.npy": 0.0,
@@ -8533,10 +8533,10 @@
       "HuffmanEncoding": {
          "data/rule129_ic8932_inversion.npy": 0.0,
          "data/rule129_ic8932_identity.npy": 0.0,
-         "data/rule129_ic8932_reflection.npy": 0.8307920792079206,
-         "data/rule129_ic8932_shift.npy": 0.8235643564356434,
-         "data/rule129_ic8932_rotation.npy": 1.1794059405940593,
-         "total": 2.8337623762376234
+         "data/rule129_ic8932_reflection.npy": 0.022673267326732693,
+         "data/rule129_ic8932_shift.npy": 0.016633663366336537,
+         "data/rule129_ic8932_rotation.npy": -0.1646534653465347,
+         "total": 0.20396039603960392
       },
       "ZLIB": {
          "data/rule129_ic8932_inversion.npy": 0.0,
@@ -8597,12 +8597,12 @@
          "total": 0.0008910891089108919
       },
       "HuffmanEncoding": {
-         "data/rule130_ic8932_shift.npy": -2.755841584158416,
+         "data/rule130_ic8932_shift.npy": -0.0013861386138614429,
          "data/rule130_ic8932_inversion.npy": 0.0,
          "data/rule130_ic8932_identity.npy": 0.0,
-         "data/rule130_ic8932_reflection.npy": 0.025247524752475246,
-         "data/rule130_ic8932_rotation.npy": -0.13940594059405942,
-         "total": 2.9204950495049506
+         "data/rule130_ic8932_reflection.npy": -0.010099009900990163,
+         "data/rule130_ic8932_rotation.npy": 9.900990099004359e-05,
+         "total": 0.01158415841584165
       },
       "ZLIB": {
          "data/rule130_ic8932_shift.npy": 0.00039603960396039466,
@@ -8664,11 +8664,11 @@
       },
       "HuffmanEncoding": {
          "data/rule131_ic8932_inversion.npy": 0.0,
-         "data/rule131_ic8932_reflection.npy": 0.47069306930693067,
+         "data/rule131_ic8932_reflection.npy": -0.20445544554455441,
          "data/rule131_ic8932_identity.npy": 0.0,
-         "data/rule131_ic8932_shift.npy": 0.04445544554455472,
-         "data/rule131_ic8932_rotation.npy": 0.7963366336633664,
-         "total": 1.3114851485148518
+         "data/rule131_ic8932_shift.npy": -0.08029702970297026,
+         "data/rule131_ic8932_rotation.npy": 0.021584158415841603,
+         "total": 0.3063366336633663
       },
       "ZLIB": {
          "data/rule131_ic8932_inversion.npy": 0.0,
@@ -8730,11 +8730,11 @@
       },
       "HuffmanEncoding": {
          "data/rule132_ic8932_identity.npy": 0.0,
-         "data/rule132_ic8932_shift.npy": -2.718613861386139,
-         "data/rule132_ic8932_reflection.npy": 0.021188118811881186,
-         "data/rule132_ic8932_rotation.npy": -1.9251485148514849,
+         "data/rule132_ic8932_shift.npy": 0.0,
+         "data/rule132_ic8932_reflection.npy": 9.90099009900991e-05,
+         "data/rule132_ic8932_rotation.npy": 0.06534653465346535,
          "data/rule132_ic8932_inversion.npy": 0.0,
-         "total": 4.664950495049505
+         "total": 0.06544554455445545
       },
       "ZLIB": {
          "data/rule132_ic8932_identity.npy": 0.0,
@@ -8795,12 +8795,12 @@
          "total": 0.7364356435643564
       },
       "HuffmanEncoding": {
-         "data/rule133_ic8932_reflection.npy": 0.030495049504950522,
+         "data/rule133_ic8932_reflection.npy": 0.007128712871287135,
          "data/rule133_ic8932_identity.npy": 0.0,
          "data/rule133_ic8932_inversion.npy": 0.0,
-         "data/rule133_ic8932_shift.npy": 0.02841584158415822,
-         "data/rule133_ic8932_rotation.npy": 1.3984158415841585,
-         "total": 1.4573267326732673
+         "data/rule133_ic8932_shift.npy": 0.007425742574257432,
+         "data/rule133_ic8932_rotation.npy": 0.14425742574257427,
+         "total": 0.15881188118811884
       },
       "ZLIB": {
          "data/rule133_ic8932_reflection.npy": -0.0002970297029702938,
@@ -8862,11 +8862,11 @@
       },
       "HuffmanEncoding": {
          "data/rule134_ic8932_inversion.npy": 0.0,
-         "data/rule134_ic8932_shift.npy": -2.322970297029703,
+         "data/rule134_ic8932_shift.npy": 0.004851485148514745,
          "data/rule134_ic8932_identity.npy": 0.0,
-         "data/rule134_ic8932_reflection.npy": -2.3257425742574256,
-         "data/rule134_ic8932_rotation.npy": -2.7967326732673268,
-         "total": 7.445445544554455
+         "data/rule134_ic8932_reflection.npy": -0.0012871287128713438,
+         "data/rule134_ic8932_rotation.npy": -0.0002970297029703528,
+         "total": 0.006435643564356441
       },
       "ZLIB": {
          "data/rule134_ic8932_inversion.npy": 0.0,
@@ -8927,12 +8927,12 @@
          "total": 0.013267326732673279
       },
       "HuffmanEncoding": {
-         "data/rule135_ic8932_reflection.npy": 0.012772277227722784,
+         "data/rule135_ic8932_reflection.npy": 0.0012871287128713993,
          "data/rule135_ic8932_inversion.npy": 0.0,
-         "data/rule135_ic8932_shift.npy": -0.3595049504950496,
+         "data/rule135_ic8932_shift.npy": -0.0026732673267326756,
          "data/rule135_ic8932_identity.npy": 0.0,
-         "data/rule135_ic8932_rotation.npy": 0.05920792079207926,
-         "total": 0.43148514851485165
+         "data/rule135_ic8932_rotation.npy": -0.0035643564356435675,
+         "total": 0.0075247524752476425
       },
       "ZLIB": {
          "data/rule135_ic8932_reflection.npy": -0.0013861386138613874,
@@ -8995,10 +8995,10 @@
       "HuffmanEncoding": {
          "data/rule136_ic8932_identity.npy": 0.0,
          "data/rule136_ic8932_inversion.npy": 0.0,
-         "data/rule136_ic8932_shift.npy": -1.9811881188118814,
-         "data/rule136_ic8932_reflection.npy": 0.016336633663366337,
-         "data/rule136_ic8932_rotation.npy": -0.12227722772277229,
-         "total": 2.11980198019802
+         "data/rule136_ic8932_shift.npy": 0.0,
+         "data/rule136_ic8932_reflection.npy": -0.0003960396039604519,
+         "data/rule136_ic8932_rotation.npy": -0.0001980198019802537,
+         "total": 0.0005940594059407056
       },
       "ZLIB": {
          "data/rule136_ic8932_identity.npy": 0.0,
@@ -9060,11 +9060,11 @@
       },
       "HuffmanEncoding": {
          "data/rule137_ic8932_identity.npy": 0.0,
-         "data/rule137_ic8932_reflection.npy": -1.107227722772277,
+         "data/rule137_ic8932_reflection.npy": 0.010693069306930703,
          "data/rule137_ic8932_inversion.npy": 0.0,
-         "data/rule137_ic8932_rotation.npy": 0.006930693069307048,
-         "data/rule137_ic8932_shift.npy": -0.008118811881187904,
-         "total": 1.122277227722772
+         "data/rule137_ic8932_rotation.npy": -0.0066336633663366396,
+         "data/rule137_ic8932_shift.npy": 0.007029702970297036,
+         "total": 0.024356435643564378
       },
       "ZLIB": {
          "data/rule137_ic8932_identity.npy": 0.0,
@@ -9126,11 +9126,11 @@
       },
       "HuffmanEncoding": {
          "data/rule138_ic8932_identity.npy": 0.0,
-         "data/rule138_ic8932_reflection.npy": 0.025346534653465345,
-         "data/rule138_ic8932_rotation.npy": -0.13990099009900991,
-         "data/rule138_ic8932_shift.npy": -2.743861386138614,
+         "data/rule138_ic8932_reflection.npy": -0.00594059405940589,
+         "data/rule138_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule138_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule138_ic8932_inversion.npy": 0.0,
-         "total": 2.909108910891089
+         "total": 0.0061386138613860886
       },
       "ZLIB": {
          "data/rule138_ic8932_identity.npy": 0.0,
@@ -9192,11 +9192,11 @@
       },
       "HuffmanEncoding": {
          "data/rule139_ic8932_identity.npy": 0.0,
-         "data/rule139_ic8932_reflection.npy": -2.228811881188119,
-         "data/rule139_ic8932_rotation.npy": -0.024752475247524663,
-         "data/rule139_ic8932_shift.npy": -0.011683168316831583,
+         "data/rule139_ic8932_reflection.npy": 0.01138613861386134,
+         "data/rule139_ic8932_rotation.npy": -0.011188118811881143,
+         "data/rule139_ic8932_shift.npy": 0.016336633663366296,
          "data/rule139_ic8932_inversion.npy": 0.0,
-         "total": 2.2652475247524753
+         "total": 0.03891089108910878
       },
       "ZLIB": {
          "data/rule139_ic8932_identity.npy": 0.0,
@@ -9257,12 +9257,12 @@
          "total": 0.07554455445544554
       },
       "HuffmanEncoding": {
-         "data/rule140_ic8932_shift.npy": -2.298811881188119,
-         "data/rule140_ic8932_rotation.npy": -2.8842574257425744,
-         "data/rule140_ic8932_reflection.npy": 0.020990099009900988,
+         "data/rule140_ic8932_shift.npy": 0.0,
+         "data/rule140_ic8932_rotation.npy": 0.06138613861386144,
+         "data/rule140_ic8932_reflection.npy": -0.0002970297029702973,
          "data/rule140_ic8932_inversion.npy": 0.0,
          "data/rule140_ic8932_identity.npy": 0.0,
-         "total": 5.204059405940595
+         "total": 0.06168316831683174
       },
       "ZLIB": {
          "data/rule140_ic8932_shift.npy": 9.900990099009997e-05,
@@ -9323,12 +9323,12 @@
          "total": 0.5786138613861386
       },
       "HuffmanEncoding": {
-         "data/rule141_ic8932_shift.npy": -0.37376237623762343,
-         "data/rule141_ic8932_reflection.npy": 1.268712871287129,
-         "data/rule141_ic8932_rotation.npy": 0.4932673267326737,
+         "data/rule141_ic8932_shift.npy": 0.019306930693069324,
+         "data/rule141_ic8932_reflection.npy": 0.005940594059405946,
+         "data/rule141_ic8932_rotation.npy": 0.2325742574257425,
          "data/rule141_ic8932_inversion.npy": 0.0,
          "data/rule141_ic8932_identity.npy": 0.0,
-         "total": 2.135742574257426
+         "total": 0.2578217821782178
       },
       "ZLIB": {
          "data/rule141_ic8932_shift.npy": 0.0001980198019801982,
@@ -9390,11 +9390,11 @@
       },
       "HuffmanEncoding": {
          "data/rule142_ic8932_inversion.npy": 0.0,
-         "data/rule142_ic8932_rotation.npy": -0.019405940594059312,
-         "data/rule142_ic8932_reflection.npy": -2.270891089108911,
-         "data/rule142_ic8932_shift.npy": -2.25059405940594,
+         "data/rule142_ic8932_rotation.npy": 0.00108910891089109,
+         "data/rule142_ic8932_reflection.npy": 0.009207920792079272,
+         "data/rule142_ic8932_shift.npy": 0.016831683168316902,
          "data/rule142_ic8932_identity.npy": 0.0,
-         "total": 4.540891089108911
+         "total": 0.027128712871287264
       },
       "ZLIB": {
          "data/rule142_ic8932_inversion.npy": 0.0,
@@ -9455,12 +9455,12 @@
          "total": 0.01603960396039604
       },
       "HuffmanEncoding": {
-         "data/rule143_ic8932_reflection.npy": 2.656138613861386,
+         "data/rule143_ic8932_reflection.npy": -0.005346534653465351,
          "data/rule143_ic8932_inversion.npy": 0.0,
-         "data/rule143_ic8932_rotation.npy": 2.63049504950495,
-         "data/rule143_ic8932_shift.npy": 2.6537623762376237,
+         "data/rule143_ic8932_rotation.npy": -0.008811881188118764,
+         "data/rule143_ic8932_shift.npy": -0.015841584158415856,
          "data/rule143_ic8932_identity.npy": 0.0,
-         "total": 7.94039603960396
+         "total": 0.02999999999999997
       },
       "ZLIB": {
          "data/rule143_ic8932_reflection.npy": 0.0003960396039603964,
@@ -9521,12 +9521,12 @@
          "total": 0.0012871287128713021
       },
       "HuffmanEncoding": {
-         "data/rule144_ic8932_rotation.npy": -0.1194059405940594,
-         "data/rule144_ic8932_shift.npy": -2.3441584158415845,
-         "data/rule144_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule144_ic8932_rotation.npy": 9.900990099004359e-05,
+         "data/rule144_ic8932_shift.npy": 0.00019801980198014268,
+         "data/rule144_ic8932_reflection.npy": 0.017326732673267287,
          "data/rule144_ic8932_identity.npy": 0.0,
          "data/rule144_ic8932_inversion.npy": 0.0,
-         "total": 2.484653465346535
+         "total": 0.017623762376237473
       },
       "ZLIB": {
          "data/rule144_ic8932_rotation.npy": 0.0005940594059405946,
@@ -9587,12 +9587,12 @@
          "total": 0.1092079207920792
       },
       "HuffmanEncoding": {
-         "data/rule145_ic8932_shift.npy": -0.09316831683168303,
-         "data/rule145_ic8932_reflection.npy": -0.6347524752475249,
-         "data/rule145_ic8932_rotation.npy": 0.15742574257425757,
+         "data/rule145_ic8932_shift.npy": -0.10415841584158425,
+         "data/rule145_ic8932_reflection.npy": 0.029108910891089135,
+         "data/rule145_ic8932_rotation.npy": 0.020198019801980216,
          "data/rule145_ic8932_inversion.npy": 0.0,
          "data/rule145_ic8932_identity.npy": 0.0,
-         "total": 0.8853465346534655
+         "total": 0.1534653465346536
       },
       "ZLIB": {
          "data/rule145_ic8932_shift.npy": 0.0002970297029702973,
@@ -9654,11 +9654,11 @@
       },
       "HuffmanEncoding": {
          "data/rule146_ic8932_inversion.npy": 0.0,
-         "data/rule146_ic8932_rotation.npy": -1.423762376237624,
+         "data/rule146_ic8932_rotation.npy": -0.0005940594059405946,
          "data/rule146_ic8932_identity.npy": 0.0,
-         "data/rule146_ic8932_shift.npy": -1.4106930693069304,
-         "data/rule146_ic8932_reflection.npy": -1.4435643564356437,
-         "total": 4.278019801980198
+         "data/rule146_ic8932_shift.npy": 0.0012871287128712883,
+         "data/rule146_ic8932_reflection.npy": -0.0004950495049504955,
+         "total": 0.0023762376237623783
       },
       "ZLIB": {
          "data/rule146_ic8932_inversion.npy": 0.0,
@@ -9720,11 +9720,11 @@
       },
       "HuffmanEncoding": {
          "data/rule147_ic8932_inversion.npy": 0.0,
-         "data/rule147_ic8932_rotation.npy": -0.30099009900990104,
-         "data/rule147_ic8932_reflection.npy": -0.40891089108910905,
-         "data/rule147_ic8932_shift.npy": -0.40940594059405955,
+         "data/rule147_ic8932_rotation.npy": 0.023168316831683078,
+         "data/rule147_ic8932_reflection.npy": -0.0023762376237624894,
+         "data/rule147_ic8932_shift.npy": -0.0018811881188118829,
          "data/rule147_ic8932_identity.npy": 0.0,
-         "total": 1.1193069306930696
+         "total": 0.02742574257425745
       },
       "ZLIB": {
          "data/rule147_ic8932_inversion.npy": 0.0,
@@ -9786,11 +9786,11 @@
       },
       "HuffmanEncoding": {
          "data/rule148_ic8932_inversion.npy": 0.0,
-         "data/rule148_ic8932_rotation.npy": -2.768019801980198,
-         "data/rule148_ic8932_shift.npy": -0.5044554455445545,
-         "data/rule148_ic8932_reflection.npy": 0.021089108910891087,
+         "data/rule148_ic8932_rotation.npy": 0.0006930693069306937,
+         "data/rule148_ic8932_shift.npy": 0.0,
+         "data/rule148_ic8932_reflection.npy": 0.006336633663366287,
          "data/rule148_ic8932_identity.npy": 0.0,
-         "total": 3.2935643564356436
+         "total": 0.0070297029702969804
       },
       "ZLIB": {
          "data/rule148_ic8932_inversion.npy": 0.0,
@@ -9851,12 +9851,12 @@
          "total": 0.0500990099009902
       },
       "HuffmanEncoding": {
-         "data/rule149_ic8932_reflection.npy": 0.024752475247524774,
-         "data/rule149_ic8932_rotation.npy": -0.32881188118811866,
+         "data/rule149_ic8932_reflection.npy": 0.001980198019801982,
+         "data/rule149_ic8932_rotation.npy": -0.009009900990099018,
          "data/rule149_ic8932_inversion.npy": 0.0,
          "data/rule149_ic8932_identity.npy": 0.0,
-         "data/rule149_ic8932_shift.npy": -0.35267326732673276,
-         "total": 0.7062376237623762
+         "data/rule149_ic8932_shift.npy": 0.006138613861386144,
+         "total": 0.017128712871287144
       },
       "ZLIB": {
          "data/rule149_ic8932_reflection.npy": -0.0015841584158415856,
@@ -9918,11 +9918,11 @@
       },
       "HuffmanEncoding": {
          "data/rule150_ic8932_inversion.npy": 0.0,
-         "data/rule150_ic8932_rotation.npy": 0.020594059405940612,
-         "data/rule150_ic8932_shift.npy": -0.03831683168316835,
+         "data/rule150_ic8932_rotation.npy": -0.008316831683168324,
+         "data/rule150_ic8932_shift.npy": 0.009504950495049513,
          "data/rule150_ic8932_identity.npy": 0.0,
-         "data/rule150_ic8932_reflection.npy": 0.05128712871287133,
-         "total": 0.1101980198019803
+         "data/rule150_ic8932_reflection.npy": 0.005742574257425748,
+         "total": 0.023564356435643585
       },
       "ZLIB": {
          "data/rule150_ic8932_inversion.npy": 0.0,
@@ -9983,12 +9983,12 @@
          "total": 0.13544554455445545
       },
       "HuffmanEncoding": {
-         "data/rule151_ic8932_shift.npy": -1.378316831683168,
-         "data/rule151_ic8932_rotation.npy": -0.2353465346534651,
-         "data/rule151_ic8932_reflection.npy": 0.019009900990099138,
+         "data/rule151_ic8932_shift.npy": 0.007128712871287024,
+         "data/rule151_ic8932_rotation.npy": -0.06594059405940589,
+         "data/rule151_ic8932_reflection.npy": -0.0034653465346534684,
          "data/rule151_ic8932_inversion.npy": 0.0,
          "data/rule151_ic8932_identity.npy": 0.0,
-         "total": 1.6326732673267323
+         "total": 0.07653465346534638
       },
       "ZLIB": {
          "data/rule151_ic8932_shift.npy": 0.0003960396039603825,
@@ -10049,12 +10049,12 @@
          "total": 0.0014851485148514865
       },
       "HuffmanEncoding": {
-         "data/rule152_ic8932_rotation.npy": -0.11247524752475246,
+         "data/rule152_ic8932_rotation.npy": 9.900990099015461e-05,
          "data/rule152_ic8932_inversion.npy": 0.0,
          "data/rule152_ic8932_identity.npy": 0.0,
-         "data/rule152_ic8932_reflection.npy": 0.025247524752475246,
-         "data/rule152_ic8932_shift.npy": -2.110990099009901,
-         "total": 2.2487128712871285
+         "data/rule152_ic8932_reflection.npy": 0.009900990099009965,
+         "data/rule152_ic8932_shift.npy": 0.0002970297029702973,
+         "total": 0.010297029702970417
       },
       "ZLIB": {
          "data/rule152_ic8932_rotation.npy": 0.001584158415841583,
@@ -10115,12 +10115,12 @@
          "total": 0.011881188118811947
       },
       "HuffmanEncoding": {
-         "data/rule153_ic8932_rotation.npy": -0.035841584158415984,
-         "data/rule153_ic8932_reflection.npy": 0.01524752475247515,
+         "data/rule153_ic8932_rotation.npy": -0.007425742574257543,
+         "data/rule153_ic8932_reflection.npy": 0.001089108910890979,
          "data/rule153_ic8932_identity.npy": 0.0,
-         "data/rule153_ic8932_shift.npy": -0.017128712871287255,
+         "data/rule153_ic8932_shift.npy": 0.008514851485148411,
          "data/rule153_ic8932_inversion.npy": 0.0,
-         "total": 0.06821782178217839
+         "total": 0.017029702970296934
       },
       "ZLIB": {
          "data/rule153_ic8932_rotation.npy": -0.010693069306930696,
@@ -10181,12 +10181,12 @@
          "total": 0.0012871287128712328
       },
       "HuffmanEncoding": {
-         "data/rule154_ic8932_rotation.npy": 1.954059405940594,
-         "data/rule154_ic8932_shift.npy": 0.020297029702970537,
+         "data/rule154_ic8932_rotation.npy": -0.001980198019801982,
+         "data/rule154_ic8932_shift.npy": 0.010198019801980096,
          "data/rule154_ic8932_inversion.npy": 0.0,
          "data/rule154_ic8932_identity.npy": 0.0,
-         "data/rule154_ic8932_reflection.npy": 0.027920792079207946,
-         "total": 2.0022772277227725
+         "data/rule154_ic8932_reflection.npy": 0.0003960396039603964,
+         "total": 0.012574257425742474
       },
       "ZLIB": {
          "data/rule154_ic8932_rotation.npy": -0.0025742574257425765,
@@ -10247,12 +10247,12 @@
          "total": 0.017623762376237626
       },
       "HuffmanEncoding": {
-         "data/rule155_ic8932_shift.npy": -0.05405940594059394,
-         "data/rule155_ic8932_rotation.npy": -2.258910891089109,
+         "data/rule155_ic8932_shift.npy": 0.006930693069306992,
+         "data/rule155_ic8932_rotation.npy": -0.0060396039603959895,
          "data/rule155_ic8932_inversion.npy": 0.0,
-         "data/rule155_ic8932_reflection.npy": -2.299504950495049,
+         "data/rule155_ic8932_reflection.npy": 0.002871287128712874,
          "data/rule155_ic8932_identity.npy": 0.0,
-         "total": 4.612475247524753
+         "total": 0.015841584158415856
       },
       "ZLIB": {
          "data/rule155_ic8932_shift.npy": -0.00039603960396039466,
@@ -10313,12 +10313,12 @@
          "total": 0.575049504950495
       },
       "HuffmanEncoding": {
-         "data/rule156_ic8932_rotation.npy": -0.3506930693069308,
-         "data/rule156_ic8932_reflection.npy": -0.2777227722772275,
+         "data/rule156_ic8932_rotation.npy": 0.20653465346534666,
+         "data/rule156_ic8932_reflection.npy": 0.009207920792079216,
          "data/rule156_ic8932_identity.npy": 0.0,
-         "data/rule156_ic8932_shift.npy": 1.9073267326732675,
+         "data/rule156_ic8932_shift.npy": -0.0005940594059404836,
          "data/rule156_ic8932_inversion.npy": 0.0,
-         "total": 2.5357425742574256
+         "total": 0.21633663366336636
       },
       "ZLIB": {
          "data/rule156_ic8932_rotation.npy": 0.008613861386138615,
@@ -10379,12 +10379,12 @@
          "total": 0.5579207920792079
       },
       "HuffmanEncoding": {
-         "data/rule157_ic8932_rotation.npy": -1.841188118811881,
-         "data/rule157_ic8932_reflection.npy": -1.4085148514851484,
+         "data/rule157_ic8932_rotation.npy": 0.21534653465346532,
+         "data/rule157_ic8932_reflection.npy": 0.003069306930693072,
          "data/rule157_ic8932_inversion.npy": 0.0,
-         "data/rule157_ic8932_shift.npy": -1.4050495049504947,
+         "data/rule157_ic8932_shift.npy": 0.015841584158415745,
          "data/rule157_ic8932_identity.npy": 0.0,
-         "total": 4.654752475247524
+         "total": 0.23425742574257413
       },
       "ZLIB": {
          "data/rule157_ic8932_rotation.npy": -0.0003960396039603964,
@@ -10445,12 +10445,12 @@
          "total": 0.0045544554455445585
       },
       "HuffmanEncoding": {
-         "data/rule158_ic8932_rotation.npy": 0.1524752475247524,
+         "data/rule158_ic8932_rotation.npy": -0.0011881188118811892,
          "data/rule158_ic8932_inversion.npy": 0.0,
-         "data/rule158_ic8932_shift.npy": 0.19980198019801976,
-         "data/rule158_ic8932_reflection.npy": 0.18059405940594053,
+         "data/rule158_ic8932_shift.npy": 0.0003960396039605074,
+         "data/rule158_ic8932_reflection.npy": -0.0008910891089106698,
          "data/rule158_ic8932_identity.npy": 0.0,
-         "total": 0.5328712871287127
+         "total": 0.0024752475247523664
       },
       "ZLIB": {
          "data/rule158_ic8932_rotation.npy": 0.0015841584158415856,
@@ -10512,11 +10512,11 @@
       },
       "HuffmanEncoding": {
          "data/rule159_ic8932_rotation.npy": -0.007821782178217829,
-         "data/rule159_ic8932_reflection.npy": -2.8598019801980197,
+         "data/rule159_ic8932_reflection.npy": -0.008415841584158423,
          "data/rule159_ic8932_inversion.npy": 0.0,
-         "data/rule159_ic8932_shift.npy": -3.8007920792079206,
+         "data/rule159_ic8932_shift.npy": 0.004257425742574261,
          "data/rule159_ic8932_identity.npy": 0.0,
-         "total": 6.668415841584158
+         "total": 0.020495049504950513
       },
       "ZLIB": {
          "data/rule159_ic8932_rotation.npy": -0.02396039603960396,
@@ -10577,12 +10577,12 @@
          "total": 9.90099009900991e-05
       },
       "HuffmanEncoding": {
-         "data/rule160_ic8932_shift.npy": -1.9768316831683168,
+         "data/rule160_ic8932_shift.npy": -0.0001980198019801982,
          "data/rule160_ic8932_identity.npy": 0.0,
          "data/rule160_ic8932_inversion.npy": 0.0,
-         "data/rule160_ic8932_rotation.npy": -0.15287128712871287,
-         "data/rule160_ic8932_reflection.npy": 0.020594059405940595,
-         "total": 2.1502970297029704
+         "data/rule160_ic8932_rotation.npy": -0.0001980198019801982,
+         "data/rule160_ic8932_reflection.npy": -0.0001980198019801982,
+         "total": 0.0005940594059405946
       },
       "ZLIB": {
          "data/rule160_ic8932_shift.npy": 0.0001980198019801982,
@@ -10643,12 +10643,12 @@
          "total": 0.20366336633663368
       },
       "HuffmanEncoding": {
-         "data/rule161_ic8932_shift.npy": -0.2922772277227723,
-         "data/rule161_ic8932_reflection.npy": -0.3100000000000003,
+         "data/rule161_ic8932_shift.npy": 0.00871287128712872,
+         "data/rule161_ic8932_reflection.npy": 0.00425742574257415,
          "data/rule161_ic8932_identity.npy": 0.0,
          "data/rule161_ic8932_inversion.npy": 0.0,
-         "data/rule161_ic8932_rotation.npy": 0.6204950495049504,
-         "total": 1.222772277227723
+         "data/rule161_ic8932_rotation.npy": -0.16039603960396043,
+         "total": 0.1733663366336633
       },
       "ZLIB": {
          "data/rule161_ic8932_shift.npy": 0.0006930693069306937,
@@ -10711,10 +10711,10 @@
       "HuffmanEncoding": {
          "data/rule162_ic8932_inversion.npy": 0.0,
          "data/rule162_ic8932_identity.npy": 0.0,
-         "data/rule162_ic8932_shift.npy": -2.729306930693069,
-         "data/rule162_ic8932_rotation.npy": -0.13445544554455446,
-         "data/rule162_ic8932_reflection.npy": 0.029603960396039606,
-         "total": 2.893366336633663
+         "data/rule162_ic8932_shift.npy": -0.016732673267326803,
+         "data/rule162_ic8932_rotation.npy": 0.0022772277227722237,
+         "data/rule162_ic8932_reflection.npy": -0.02019801980198027,
+         "total": 0.0392079207920793
       },
       "ZLIB": {
          "data/rule162_ic8932_inversion.npy": 0.0,
@@ -10777,10 +10777,10 @@
       "HuffmanEncoding": {
          "data/rule163_ic8932_identity.npy": 0.0,
          "data/rule163_ic8932_inversion.npy": 0.0,
-         "data/rule163_ic8932_reflection.npy": -2.2240594059405945,
-         "data/rule163_ic8932_shift.npy": -2.2902970297029697,
-         "data/rule163_ic8932_rotation.npy": -2.313168316831683,
-         "total": 6.827524752475247
+         "data/rule163_ic8932_reflection.npy": -0.03198019801980201,
+         "data/rule163_ic8932_shift.npy": -0.06950495049504957,
+         "data/rule163_ic8932_rotation.npy": 0.0206930693069306,
+         "total": 0.12217821782178218
       },
       "ZLIB": {
          "data/rule163_ic8932_identity.npy": 0.0,
@@ -10841,12 +10841,12 @@
          "total": 0.03613861386138614
       },
       "HuffmanEncoding": {
-         "data/rule164_ic8932_shift.npy": -2.8516831683168316,
+         "data/rule164_ic8932_shift.npy": 0.0,
          "data/rule164_ic8932_identity.npy": 0.0,
-         "data/rule164_ic8932_reflection.npy": 0.025445544554455444,
+         "data/rule164_ic8932_reflection.npy": 0.0002970297029702973,
          "data/rule164_ic8932_inversion.npy": 0.0,
-         "data/rule164_ic8932_rotation.npy": -0.1298019801980198,
-         "total": 3.0069306930693065
+         "data/rule164_ic8932_rotation.npy": 0.032475247524752504,
+         "total": 0.0327722772277228
       },
       "ZLIB": {
          "data/rule164_ic8932_shift.npy": 9.900990099009823e-05,
@@ -10907,12 +10907,12 @@
          "total": 0.008118811881188182
       },
       "HuffmanEncoding": {
-         "data/rule165_ic8932_reflection.npy": 0.09504950495049502,
+         "data/rule165_ic8932_reflection.npy": 0.010495049504950615,
          "data/rule165_ic8932_identity.npy": 0.0,
-         "data/rule165_ic8932_shift.npy": 0.019306930693069324,
+         "data/rule165_ic8932_shift.npy": 0.013762376237623886,
          "data/rule165_ic8932_inversion.npy": 0.0,
-         "data/rule165_ic8932_rotation.npy": 0.024851485148514985,
-         "total": 0.13920792079207933
+         "data/rule165_ic8932_rotation.npy": 0.0024752475247525885,
+         "total": 0.02673267326732709
       },
       "ZLIB": {
          "data/rule165_ic8932_reflection.npy": -0.0001980198019801982,
@@ -10975,10 +10975,10 @@
       "HuffmanEncoding": {
          "data/rule166_ic8932_inversion.npy": 0.0,
          "data/rule166_ic8932_identity.npy": 0.0,
-         "data/rule166_ic8932_shift.npy": 0.005148514851485153,
-         "data/rule166_ic8932_reflection.npy": -0.4453465346534653,
-         "data/rule166_ic8932_rotation.npy": -0.42752475247524746,
-         "total": 0.8780198019801979
+         "data/rule166_ic8932_shift.npy": 0.0,
+         "data/rule166_ic8932_reflection.npy": -0.003861386138613865,
+         "data/rule166_ic8932_rotation.npy": 0.0045544554455445585,
+         "total": 0.008415841584158423
       },
       "ZLIB": {
          "data/rule166_ic8932_inversion.npy": 0.0,
@@ -11039,12 +11039,12 @@
          "total": 0.01683168316831682
       },
       "HuffmanEncoding": {
-         "data/rule167_ic8932_reflection.npy": -0.2850495049504952,
+         "data/rule167_ic8932_reflection.npy": -0.026534653465346558,
          "data/rule167_ic8932_inversion.npy": 0.0,
          "data/rule167_ic8932_identity.npy": 0.0,
-         "data/rule167_ic8932_shift.npy": -0.23574257425742584,
-         "data/rule167_ic8932_rotation.npy": -0.21613861386138622,
-         "total": 0.7369306930693073
+         "data/rule167_ic8932_shift.npy": -0.024950495049504973,
+         "data/rule167_ic8932_rotation.npy": -0.01851485148514853,
+         "total": 0.07000000000000006
       },
       "ZLIB": {
          "data/rule167_ic8932_reflection.npy": 0.0017821782178217838,
@@ -11107,10 +11107,10 @@
       "HuffmanEncoding": {
          "data/rule168_ic8932_identity.npy": 0.0,
          "data/rule168_ic8932_inversion.npy": 0.0,
-         "data/rule168_ic8932_rotation.npy": -0.12227722772277229,
-         "data/rule168_ic8932_shift.npy": -0.0016831683168316812,
-         "data/rule168_ic8932_reflection.npy": 0.016237623762376238,
-         "total": 0.1401980198019802
+         "data/rule168_ic8932_rotation.npy": -0.00019801980198014268,
+         "data/rule168_ic8932_shift.npy": -0.00019801980198014268,
+         "data/rule168_ic8932_reflection.npy": -0.0004950495049504955,
+         "total": 0.0008910891089107809
       },
       "ZLIB": {
          "data/rule168_ic8932_identity.npy": 0.0,
@@ -11172,11 +11172,11 @@
       },
       "HuffmanEncoding": {
          "data/rule169_ic8932_identity.npy": 0.0,
-         "data/rule169_ic8932_reflection.npy": 0.03851485148514855,
+         "data/rule169_ic8932_reflection.npy": 0.003960396039603964,
          "data/rule169_ic8932_inversion.npy": 0.0,
-         "data/rule169_ic8932_shift.npy": -2.0342574257425743,
-         "data/rule169_ic8932_rotation.npy": -1.9914851485148515,
-         "total": 4.064257425742575
+         "data/rule169_ic8932_shift.npy": 0.02970297029702973,
+         "data/rule169_ic8932_rotation.npy": -0.011287128712871297,
+         "total": 0.04495049504950499
       },
       "ZLIB": {
          "data/rule169_ic8932_identity.npy": 0.0,
@@ -11239,10 +11239,10 @@
       "HuffmanEncoding": {
          "data/rule170_ic8932_identity.npy": 0.0,
          "data/rule170_ic8932_inversion.npy": 0.0,
-         "data/rule170_ic8932_shift.npy": 0.016138613861385487,
-         "data/rule170_ic8932_rotation.npy": 3.017326732673267,
-         "data/rule170_ic8932_reflection.npy": 0.445247524752475,
-         "total": 3.4787128712871276
+         "data/rule170_ic8932_shift.npy": 0.0027722772277227747,
+         "data/rule170_ic8932_rotation.npy": 0.0012871287128712328,
+         "data/rule170_ic8932_reflection.npy": -0.0220792079207921,
+         "total": 0.026138613861386106
       },
       "ZLIB": {
          "data/rule170_ic8932_identity.npy": 0.0,
@@ -11304,11 +11304,11 @@
       },
       "HuffmanEncoding": {
          "data/rule171_ic8932_identity.npy": 0.0,
-         "data/rule171_ic8932_reflection.npy": -2.6900990099009903,
+         "data/rule171_ic8932_reflection.npy": 0.005940594059405946,
          "data/rule171_ic8932_inversion.npy": 0.0,
-         "data/rule171_ic8932_shift.npy": 0.08306930693069309,
-         "data/rule171_ic8932_rotation.npy": -0.027128712871287153,
-         "total": 2.8002970297029703
+         "data/rule171_ic8932_shift.npy": 0.05079207920792084,
+         "data/rule171_ic8932_rotation.npy": -0.005841584158415791,
+         "total": 0.06257425742574257
       },
       "ZLIB": {
          "data/rule171_ic8932_identity.npy": 0.0,
@@ -11370,11 +11370,11 @@
       },
       "HuffmanEncoding": {
          "data/rule172_ic8932_identity.npy": 0.0,
-         "data/rule172_ic8932_rotation.npy": -2.9022772277227724,
-         "data/rule172_ic8932_reflection.npy": -2.7933663366336634,
+         "data/rule172_ic8932_rotation.npy": 0.0485148514851485,
+         "data/rule172_ic8932_reflection.npy": 0.0,
          "data/rule172_ic8932_inversion.npy": 0.0,
-         "data/rule172_ic8932_shift.npy": -0.0014851485148514865,
-         "total": 5.6971287128712875
+         "data/rule172_ic8932_shift.npy": 0.0,
+         "total": 0.0485148514851485
       },
       "ZLIB": {
          "data/rule172_ic8932_identity.npy": 0.0,
@@ -11435,12 +11435,12 @@
          "total": 0.006831683168316838
       },
       "HuffmanEncoding": {
-         "data/rule173_ic8932_reflection.npy": -2.8033663366336636,
+         "data/rule173_ic8932_reflection.npy": -0.023465346534653486,
          "data/rule173_ic8932_identity.npy": 0.0,
-         "data/rule173_ic8932_rotation.npy": -0.03900990099009901,
-         "data/rule173_ic8932_shift.npy": -3.3039603960396042,
+         "data/rule173_ic8932_rotation.npy": -0.004257425742574206,
+         "data/rule173_ic8932_shift.npy": 0.011386138613861396,
          "data/rule173_ic8932_inversion.npy": 0.0,
-         "total": 6.146336633663367
+         "total": 0.03910891089108909
       },
       "ZLIB": {
          "data/rule173_ic8932_reflection.npy": 9.900990099009736e-05,
@@ -11501,12 +11501,12 @@
          "total": 0.0022772277227723
       },
       "HuffmanEncoding": {
-         "data/rule174_ic8932_shift.npy": -2.2577227722772277,
+         "data/rule174_ic8932_shift.npy": -0.0024752475247524774,
          "data/rule174_ic8932_identity.npy": 0.0,
          "data/rule174_ic8932_inversion.npy": 0.0,
-         "data/rule174_ic8932_rotation.npy": -2.6897029702970294,
-         "data/rule174_ic8932_reflection.npy": -1.8374257425742577,
-         "total": 6.784851485148515
+         "data/rule174_ic8932_rotation.npy": 0.0003960396039603409,
+         "data/rule174_ic8932_reflection.npy": -0.003861386138613865,
+         "total": 0.006732673267326683
       },
       "ZLIB": {
          "data/rule174_ic8932_shift.npy": 0.0002970297029702973,
@@ -11569,10 +11569,10 @@
       "HuffmanEncoding": {
          "data/rule175_ic8932_inversion.npy": 0.0,
          "data/rule175_ic8932_identity.npy": 0.0,
-         "data/rule175_ic8932_shift.npy": 0.06257425742574263,
-         "data/rule175_ic8932_reflection.npy": -2.3565346534653466,
-         "data/rule175_ic8932_rotation.npy": -0.015346534653465305,
-         "total": 2.4344554455445544
+         "data/rule175_ic8932_shift.npy": 0.007623762376237686,
+         "data/rule175_ic8932_reflection.npy": -0.009900990099009854,
+         "data/rule175_ic8932_rotation.npy": -0.0055445544554455495,
+         "total": 0.02306930693069309
       },
       "ZLIB": {
          "data/rule175_ic8932_inversion.npy": 0.0,
@@ -11634,11 +11634,11 @@
       },
       "HuffmanEncoding": {
          "data/rule176_ic8932_identity.npy": 0.0,
-         "data/rule176_ic8932_shift.npy": -2.7436633663366337,
-         "data/rule176_ic8932_rotation.npy": -0.11306930693069309,
-         "data/rule176_ic8932_reflection.npy": 0.025346534653465345,
+         "data/rule176_ic8932_shift.npy": 9.900990099015461e-05,
+         "data/rule176_ic8932_rotation.npy": 0.0003960396039604519,
+         "data/rule176_ic8932_reflection.npy": 0.0032673267326732702,
          "data/rule176_ic8932_inversion.npy": 0.0,
-         "total": 2.882079207920792
+         "total": 0.0037623762376238767
       },
       "ZLIB": {
          "data/rule176_ic8932_identity.npy": 0.0,
@@ -11700,11 +11700,11 @@
       },
       "HuffmanEncoding": {
          "data/rule177_ic8932_identity.npy": 0.0,
-         "data/rule177_ic8932_reflection.npy": 0.41207920792079156,
+         "data/rule177_ic8932_reflection.npy": 0.07326732673267333,
          "data/rule177_ic8932_inversion.npy": 0.0,
-         "data/rule177_ic8932_rotation.npy": 0.021188118811880763,
-         "data/rule177_ic8932_shift.npy": 2.1766336633663363,
-         "total": 2.6099009900990087
+         "data/rule177_ic8932_rotation.npy": 0.024554455445544576,
+         "data/rule177_ic8932_shift.npy": 0.018910891089108928,
+         "total": 0.11673267326732684
       },
       "ZLIB": {
          "data/rule177_ic8932_identity.npy": 0.0,
@@ -11766,11 +11766,11 @@
       },
       "HuffmanEncoding": {
          "data/rule178_ic8932_identity.npy": 0.0,
-         "data/rule178_ic8932_reflection.npy": 0.3473267326732672,
+         "data/rule178_ic8932_reflection.npy": 0.00871287128712872,
          "data/rule178_ic8932_inversion.npy": 0.0,
-         "data/rule178_ic8932_rotation.npy": 2.6308910891089106,
-         "data/rule178_ic8932_shift.npy": 2.8079207920792078,
-         "total": 5.786138613861386
+         "data/rule178_ic8932_rotation.npy": 0.06217821782178223,
+         "data/rule178_ic8932_shift.npy": 0.009306930693069315,
+         "total": 0.08019801980198027
       },
       "ZLIB": {
          "data/rule178_ic8932_identity.npy": 0.0,
@@ -11831,12 +11831,12 @@
          "total": 0.0344554455445546
       },
       "HuffmanEncoding": {
-         "data/rule179_ic8932_reflection.npy": -0.0045544554455445585,
+         "data/rule179_ic8932_reflection.npy": 0.00207920792079197,
          "data/rule179_ic8932_identity.npy": 0.0,
-         "data/rule179_ic8932_shift.npy": -0.0014851485148517085,
-         "data/rule179_ic8932_rotation.npy": -0.16772277227722832,
+         "data/rule179_ic8932_shift.npy": 0.0025742574257424655,
+         "data/rule179_ic8932_rotation.npy": 0.06217821782178212,
          "data/rule179_ic8932_inversion.npy": 0.0,
-         "total": 0.17376237623762458
+         "total": 0.06683168316831656
       },
       "ZLIB": {
          "data/rule179_ic8932_reflection.npy": 0.0003960396039603964,
@@ -11898,11 +11898,11 @@
       },
       "HuffmanEncoding": {
          "data/rule180_ic8932_identity.npy": 0.0,
-         "data/rule180_ic8932_rotation.npy": 0.0044554455445546814,
-         "data/rule180_ic8932_shift.npy": -0.0005940594059405946,
-         "data/rule180_ic8932_reflection.npy": -0.4493069306930688,
+         "data/rule180_ic8932_rotation.npy": -0.0014851485148514865,
+         "data/rule180_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule180_ic8932_reflection.npy": 0.008910891089108974,
          "data/rule180_ic8932_inversion.npy": 0.0,
-         "total": 0.4543564356435641
+         "total": 0.01049504950495056
       },
       "ZLIB": {
          "data/rule180_ic8932_identity.npy": 0.0,
@@ -11964,11 +11964,11 @@
       },
       "HuffmanEncoding": {
          "data/rule181_ic8932_identity.npy": 0.0,
-         "data/rule181_ic8932_reflection.npy": -0.00029702970297051934,
-         "data/rule181_ic8932_rotation.npy": 0.046732673267326774,
+         "data/rule181_ic8932_reflection.npy": 0.007029702970297036,
+         "data/rule181_ic8932_rotation.npy": -0.004059405940594174,
          "data/rule181_ic8932_inversion.npy": 0.0,
-         "data/rule181_ic8932_shift.npy": 2.2317821782178218,
-         "total": 2.278811881188119
+         "data/rule181_ic8932_shift.npy": 0.004158415841584162,
+         "total": 0.015247524752475372
       },
       "ZLIB": {
          "data/rule181_ic8932_identity.npy": 0.0,
@@ -12030,11 +12030,11 @@
       },
       "HuffmanEncoding": {
          "data/rule182_ic8932_identity.npy": 0.0,
-         "data/rule182_ic8932_shift.npy": 0.5657425742574256,
+         "data/rule182_ic8932_shift.npy": 0.01851485148514853,
          "data/rule182_ic8932_inversion.npy": 0.0,
-         "data/rule182_ic8932_rotation.npy": 0.03465346534653446,
-         "data/rule182_ic8932_reflection.npy": 0.01584158415841541,
-         "total": 0.6162376237623755
+         "data/rule182_ic8932_rotation.npy": -0.003861386138613865,
+         "data/rule182_ic8932_reflection.npy": 0.013663366336633676,
+         "total": 0.03603960396039607
       },
       "ZLIB": {
          "data/rule182_ic8932_identity.npy": 0.0,
@@ -12097,10 +12097,10 @@
       "HuffmanEncoding": {
          "data/rule183_ic8932_identity.npy": 0.0,
          "data/rule183_ic8932_inversion.npy": 0.0,
-         "data/rule183_ic8932_reflection.npy": 1.9388118811881192,
-         "data/rule183_ic8932_shift.npy": 0.002871287128713096,
-         "data/rule183_ic8932_rotation.npy": 2.0612871287128716,
-         "total": 4.002970297029703
+         "data/rule183_ic8932_reflection.npy": -0.0025742574257425765,
+         "data/rule183_ic8932_shift.npy": -0.0015841584158415856,
+         "data/rule183_ic8932_rotation.npy": -0.012376237623762387,
+         "total": 0.01653465346534655
       },
       "ZLIB": {
          "data/rule183_ic8932_identity.npy": 0.0,
@@ -12162,11 +12162,11 @@
       },
       "HuffmanEncoding": {
          "data/rule184_ic8932_identity.npy": 0.0,
-         "data/rule184_ic8932_shift.npy": 0.029801980198019804,
+         "data/rule184_ic8932_shift.npy": 0.0006930693069308047,
          "data/rule184_ic8932_inversion.npy": 0.0,
-         "data/rule184_ic8932_rotation.npy": -0.13514851485148513,
-         "data/rule184_ic8932_reflection.npy": 0.029405940594059408,
-         "total": 0.19435643564356433
+         "data/rule184_ic8932_rotation.npy": 0.0019801980198020375,
+         "data/rule184_ic8932_reflection.npy": 0.02049504950495057,
+         "total": 0.02316831683168341
       },
       "ZLIB": {
          "data/rule184_ic8932_identity.npy": 0.0,
@@ -12227,12 +12227,12 @@
          "total": 0.017227722772277215
       },
       "HuffmanEncoding": {
-         "data/rule185_ic8932_reflection.npy": -2.817920792079208,
+         "data/rule185_ic8932_reflection.npy": 0.01861386138613863,
          "data/rule185_ic8932_identity.npy": 0.0,
-         "data/rule185_ic8932_rotation.npy": -0.009207920792079216,
-         "data/rule185_ic8932_shift.npy": -0.05029702970297034,
+         "data/rule185_ic8932_rotation.npy": -0.005148514851485098,
+         "data/rule185_ic8932_shift.npy": 0.03366336633663375,
          "data/rule185_ic8932_inversion.npy": 0.0,
-         "total": 2.8774257425742578
+         "total": 0.05742574257425748
       },
       "ZLIB": {
          "data/rule185_ic8932_reflection.npy": 0.00019801980198019646,
@@ -12293,12 +12293,12 @@
          "total": 0.009900990099009799
       },
       "HuffmanEncoding": {
-         "data/rule186_ic8932_shift.npy": -0.03891089108910917,
+         "data/rule186_ic8932_shift.npy": 0.011386138613861285,
          "data/rule186_ic8932_inversion.npy": 0.0,
          "data/rule186_ic8932_identity.npy": 0.0,
-         "data/rule186_ic8932_reflection.npy": -0.052079207920792125,
-         "data/rule186_ic8932_rotation.npy": -0.13524752475247537,
-         "total": 0.22623762376237666
+         "data/rule186_ic8932_reflection.npy": 0.011089108910890988,
+         "data/rule186_ic8932_rotation.npy": 0.012772277227722784,
+         "total": 0.03524752475247506
       },
       "ZLIB": {
          "data/rule186_ic8932_shift.npy": 0.0001980198019801982,
@@ -12359,12 +12359,12 @@
          "total": 0.018712871287128716
       },
       "HuffmanEncoding": {
-         "data/rule187_ic8932_reflection.npy": -2.7193069306930693,
+         "data/rule187_ic8932_reflection.npy": -0.00831683168316838,
          "data/rule187_ic8932_identity.npy": 0.0,
-         "data/rule187_ic8932_shift.npy": -3.157227722772277,
+         "data/rule187_ic8932_shift.npy": -0.0027722772277227747,
          "data/rule187_ic8932_inversion.npy": 0.0,
-         "data/rule187_ic8932_rotation.npy": -1.8381188118811882,
-         "total": 7.714653465346535
+         "data/rule187_ic8932_rotation.npy": -0.00544554455445545,
+         "total": 0.016534653465346605
       },
       "ZLIB": {
          "data/rule187_ic8932_reflection.npy": 0.0002970297029702973,
@@ -12427,10 +12427,10 @@
       "HuffmanEncoding": {
          "data/rule188_ic8932_identity.npy": 0.0,
          "data/rule188_ic8932_inversion.npy": 0.0,
-         "data/rule188_ic8932_shift.npy": 0.09891089108910878,
-         "data/rule188_ic8932_rotation.npy": 0.026732673267326756,
-         "data/rule188_ic8932_reflection.npy": 0.019405940594059423,
-         "total": 0.14504950495049496
+         "data/rule188_ic8932_shift.npy": -0.0005940594059407056,
+         "data/rule188_ic8932_rotation.npy": 0.001089108910890979,
+         "data/rule188_ic8932_reflection.npy": 0.015742574257425757,
+         "total": 0.01742574257425744
       },
       "ZLIB": {
          "data/rule188_ic8932_identity.npy": 0.0,
@@ -12492,11 +12492,11 @@
       },
       "HuffmanEncoding": {
          "data/rule189_ic8932_inversion.npy": 0.0,
-         "data/rule189_ic8932_shift.npy": 3.276534653465347,
+         "data/rule189_ic8932_shift.npy": 0.00217821782178218,
          "data/rule189_ic8932_identity.npy": 0.0,
-         "data/rule189_ic8932_reflection.npy": 0.017524752475248206,
-         "data/rule189_ic8932_rotation.npy": 0.042475247524752735,
-         "total": 3.336534653465348
+         "data/rule189_ic8932_reflection.npy": -0.0159405940594059,
+         "data/rule189_ic8932_rotation.npy": -0.007722772277227674,
+         "total": 0.025841584158415754
       },
       "ZLIB": {
          "data/rule189_ic8932_inversion.npy": 0.0,
@@ -12559,10 +12559,10 @@
       "HuffmanEncoding": {
          "data/rule190_ic8932_identity.npy": 0.0,
          "data/rule190_ic8932_inversion.npy": 0.0,
-         "data/rule190_ic8932_shift.npy": 1.462079207920792,
-         "data/rule190_ic8932_reflection.npy": 0.2851485148514852,
-         "data/rule190_ic8932_rotation.npy": 0.20881188118811878,
-         "total": 1.956039603960396
+         "data/rule190_ic8932_shift.npy": 0.013069306930693081,
+         "data/rule190_ic8932_reflection.npy": -0.004653465346534658,
+         "data/rule190_ic8932_rotation.npy": -0.007821782178217829,
+         "total": 0.025544554455445567
       },
       "ZLIB": {
          "data/rule190_ic8932_identity.npy": 0.0,
@@ -12623,12 +12623,12 @@
          "total": 0.017920792079207923
       },
       "HuffmanEncoding": {
-         "data/rule191_ic8932_reflection.npy": -0.45455445544554474,
+         "data/rule191_ic8932_reflection.npy": -0.011980198019801935,
          "data/rule191_ic8932_inversion.npy": 0.0,
          "data/rule191_ic8932_identity.npy": 0.0,
-         "data/rule191_ic8932_shift.npy": 2.95039603960396,
-         "data/rule191_ic8932_rotation.npy": 0.5322772277227719,
-         "total": 3.9372277227722767
+         "data/rule191_ic8932_shift.npy": 0.0,
+         "data/rule191_ic8932_rotation.npy": -0.010594059405940548,
+         "total": 0.022574257425742483
       },
       "ZLIB": {
          "data/rule191_ic8932_reflection.npy": 9.900990099009823e-05,
@@ -12689,12 +12689,12 @@
          "total": 0.0002970297029702973
       },
       "HuffmanEncoding": {
-         "data/rule192_ic8932_shift.npy": -1.980891089108911,
+         "data/rule192_ic8932_shift.npy": 0.0001980198019801982,
          "data/rule192_ic8932_identity.npy": 0.0,
-         "data/rule192_ic8932_reflection.npy": 0.017029702970297027,
+         "data/rule192_ic8932_reflection.npy": 0.0001980198019801982,
          "data/rule192_ic8932_inversion.npy": 0.0,
-         "data/rule192_ic8932_rotation.npy": -0.08188118811881187,
-         "total": 2.07980198019802
+         "data/rule192_ic8932_rotation.npy": 0.0,
+         "total": 0.0003960396039603964
       },
       "ZLIB": {
          "data/rule192_ic8932_shift.npy": 0.0002970297029702973,
@@ -12755,12 +12755,12 @@
          "total": 0.007326732673267333
       },
       "HuffmanEncoding": {
-         "data/rule193_ic8932_reflection.npy": 0.0006930693069308047,
+         "data/rule193_ic8932_reflection.npy": -0.009009900990098907,
          "data/rule193_ic8932_identity.npy": 0.0,
-         "data/rule193_ic8932_shift.npy": -0.21217821782178203,
+         "data/rule193_ic8932_shift.npy": -0.008019801980197916,
          "data/rule193_ic8932_inversion.npy": 0.0,
-         "data/rule193_ic8932_rotation.npy": -0.8734653465346535,
-         "total": 1.0863366336633664
+         "data/rule193_ic8932_rotation.npy": -0.00990099009900991,
+         "total": 0.026930693069306733
       },
       "ZLIB": {
          "data/rule193_ic8932_reflection.npy": -0.0005940594059405946,
@@ -12823,10 +12823,10 @@
       "HuffmanEncoding": {
          "data/rule194_ic8932_inversion.npy": 0.0,
          "data/rule194_ic8932_identity.npy": 0.0,
-         "data/rule194_ic8932_shift.npy": -2.783465346534654,
-         "data/rule194_ic8932_reflection.npy": 0.025247524752475246,
-         "data/rule194_ic8932_rotation.npy": -0.13564356435643565,
-         "total": 2.9443564356435648
+         "data/rule194_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule194_ic8932_reflection.npy": -0.000495049504950551,
+         "data/rule194_ic8932_rotation.npy": 0.0,
+         "total": 0.0005940594059406501
       },
       "ZLIB": {
          "data/rule194_ic8932_inversion.npy": 0.0,
@@ -12887,12 +12887,12 @@
          "total": 0.011881188118811947
       },
       "HuffmanEncoding": {
-         "data/rule195_ic8932_reflection.npy": -0.00990099009900991,
+         "data/rule195_ic8932_reflection.npy": 0.010099009900990108,
          "data/rule195_ic8932_inversion.npy": 0.0,
          "data/rule195_ic8932_identity.npy": 0.0,
-         "data/rule195_ic8932_shift.npy": -0.02287128712871289,
-         "data/rule195_ic8932_rotation.npy": -0.01306930693069297,
-         "total": 0.04584158415841577
+         "data/rule195_ic8932_shift.npy": -0.0004950495049504955,
+         "data/rule195_ic8932_rotation.npy": -0.009306930693069204,
+         "total": 0.019900990099009808
       },
       "ZLIB": {
          "data/rule195_ic8932_reflection.npy": -0.0023762376237623783,
@@ -12953,12 +12953,12 @@
          "total": 0.07574257425742574
       },
       "HuffmanEncoding": {
-         "data/rule196_ic8932_shift.npy": -2.2987128712871288,
+         "data/rule196_ic8932_shift.npy": 0.0,
          "data/rule196_ic8932_identity.npy": 0.0,
          "data/rule196_ic8932_inversion.npy": 0.0,
-         "data/rule196_ic8932_rotation.npy": -2.4042574257425744,
-         "data/rule196_ic8932_reflection.npy": 0.021188118811881186,
-         "total": 4.7241584158415835
+         "data/rule196_ic8932_rotation.npy": 0.0653465346534654,
+         "data/rule196_ic8932_reflection.npy": 0.0002970297029702973,
+         "total": 0.0656435643564357
       },
       "ZLIB": {
          "data/rule196_ic8932_shift.npy": 0.00019801980198019906,
@@ -13019,12 +13019,12 @@
          "total": 0.5782178217821782
       },
       "HuffmanEncoding": {
-         "data/rule197_ic8932_shift.npy": -0.19950495049504946,
+         "data/rule197_ic8932_shift.npy": 0.0006930693069306937,
          "data/rule197_ic8932_identity.npy": 0.0,
-         "data/rule197_ic8932_reflection.npy": -0.40653465346534645,
+         "data/rule197_ic8932_reflection.npy": 0.013663366336633676,
          "data/rule197_ic8932_inversion.npy": 0.0,
-         "data/rule197_ic8932_rotation.npy": 0.6095049504950494,
-         "total": 1.2155445544554453
+         "data/rule197_ic8932_rotation.npy": 0.2292079207920792,
+         "total": 0.24356435643564356
       },
       "ZLIB": {
          "data/rule197_ic8932_shift.npy": 0.0001980198019801982,
@@ -13086,11 +13086,11 @@
       },
       "HuffmanEncoding": {
          "data/rule198_ic8932_identity.npy": 0.0,
-         "data/rule198_ic8932_shift.npy": 0.029801980198019804,
-         "data/rule198_ic8932_reflection.npy": -1.8809900990099009,
-         "data/rule198_ic8932_rotation.npy": -1.2905940594059406,
+         "data/rule198_ic8932_shift.npy": 0.015643564356435546,
+         "data/rule198_ic8932_reflection.npy": 0.004059405940593952,
+         "data/rule198_ic8932_rotation.npy": 0.2159405940594059,
          "data/rule198_ic8932_inversion.npy": 0.0,
-         "total": 3.201386138613861
+         "total": 0.2356435643564354
       },
       "ZLIB": {
          "data/rule198_ic8932_identity.npy": 0.0,
@@ -13151,12 +13151,12 @@
          "total": 0.5572277227722772
       },
       "HuffmanEncoding": {
-         "data/rule199_ic8932_shift.npy": -0.02287128712871267,
-         "data/rule199_ic8932_reflection.npy": 0.017227722772277243,
+         "data/rule199_ic8932_shift.npy": 0.0011881188118811892,
+         "data/rule199_ic8932_reflection.npy": 0.012277227722772177,
          "data/rule199_ic8932_identity.npy": 0.0,
          "data/rule199_ic8932_inversion.npy": 0.0,
-         "data/rule199_ic8932_rotation.npy": 0.826138613861386,
-         "total": 0.8662376237623759
+         "data/rule199_ic8932_rotation.npy": 0.2076237623762376,
+         "total": 0.22108910891089095
       },
       "ZLIB": {
          "data/rule199_ic8932_shift.npy": 0.0,
@@ -13218,11 +13218,11 @@
       },
       "HuffmanEncoding": {
          "data/rule200_ic8932_identity.npy": 0.0,
-         "data/rule200_ic8932_shift.npy": 0.009603960396039835,
-         "data/rule200_ic8932_rotation.npy": 0.4555445544554453,
-         "data/rule200_ic8932_reflection.npy": 0.46999999999999975,
+         "data/rule200_ic8932_shift.npy": 0.0,
+         "data/rule200_ic8932_rotation.npy": 0.03267326732673265,
+         "data/rule200_ic8932_reflection.npy": 9.900990099004359e-05,
          "data/rule200_ic8932_inversion.npy": 0.0,
-         "total": 0.9351485148514849
+         "total": 0.03277227722772269
       },
       "ZLIB": {
          "data/rule200_ic8932_identity.npy": 0.0,
@@ -13283,12 +13283,12 @@
          "total": 0.042079207920792075
       },
       "HuffmanEncoding": {
-         "data/rule201_ic8932_shift.npy": -0.03881188118811879,
+         "data/rule201_ic8932_shift.npy": 0.006732673267326739,
          "data/rule201_ic8932_identity.npy": 0.0,
-         "data/rule201_ic8932_reflection.npy": -1.835643564356436,
-         "data/rule201_ic8932_rotation.npy": -3.172178217821782,
+         "data/rule201_ic8932_reflection.npy": -9.90099009900991e-05,
+         "data/rule201_ic8932_rotation.npy": 0.07237623762376244,
          "data/rule201_ic8932_inversion.npy": 0.0,
-         "total": 5.046633663366337
+         "total": 0.07920792079207928
       },
       "ZLIB": {
          "data/rule201_ic8932_shift.npy": -0.00029702970297029556,
@@ -13351,10 +13351,10 @@
       "HuffmanEncoding": {
          "data/rule202_ic8932_identity.npy": 0.0,
          "data/rule202_ic8932_inversion.npy": 0.0,
-         "data/rule202_ic8932_rotation.npy": 0.006237623762376021,
-         "data/rule202_ic8932_shift.npy": 2.421287128712871,
-         "data/rule202_ic8932_reflection.npy": 0.2594059405940592,
-         "total": 2.686930693069306
+         "data/rule202_ic8932_rotation.npy": 0.002970297029702862,
+         "data/rule202_ic8932_shift.npy": -0.0326732673267327,
+         "data/rule202_ic8932_reflection.npy": -0.030297029702970435,
+         "total": 0.065940594059406
       },
       "ZLIB": {
          "data/rule202_ic8932_identity.npy": 0.0,
@@ -13417,10 +13417,10 @@
       "HuffmanEncoding": {
          "data/rule203_ic8932_identity.npy": 0.0,
          "data/rule203_ic8932_inversion.npy": 0.0,
-         "data/rule203_ic8932_reflection.npy": 0.0001980198019801982,
-         "data/rule203_ic8932_rotation.npy": -0.5505940594059404,
-         "data/rule203_ic8932_shift.npy": 2.8054455445544555,
-         "total": 3.356237623762376
+         "data/rule203_ic8932_reflection.npy": -0.0005940594059405391,
+         "data/rule203_ic8932_rotation.npy": 0.031287128712871315,
+         "data/rule203_ic8932_shift.npy": 0.0006930693069307492,
+         "total": 0.0325742574257426
       },
       "ZLIB": {
          "data/rule203_ic8932_identity.npy": 0.0,
@@ -13482,11 +13482,11 @@
       },
       "HuffmanEncoding": {
          "data/rule204_ic8932_identity.npy": 0.0,
-         "data/rule204_ic8932_shift.npy": -0.019999999999999574,
+         "data/rule204_ic8932_shift.npy": 0.0,
          "data/rule204_ic8932_inversion.npy": 0.0,
          "data/rule204_ic8932_reflection.npy": 0.0,
-         "data/rule204_ic8932_rotation.npy": 0.39009900990099045,
-         "total": 0.41009900990099
+         "data/rule204_ic8932_rotation.npy": 0.09504950495049508,
+         "total": 0.09504950495049508
       },
       "ZLIB": {
          "data/rule204_ic8932_identity.npy": 0.0,
@@ -13547,12 +13547,12 @@
          "total": 0.10188118811881187
       },
       "HuffmanEncoding": {
-         "data/rule205_ic8932_reflection.npy": -2.0434653465346533,
-         "data/rule205_ic8932_shift.npy": 0.11881188118811892,
+         "data/rule205_ic8932_reflection.npy": 0.0,
+         "data/rule205_ic8932_shift.npy": 0.0001980198019801982,
          "data/rule205_ic8932_identity.npy": 0.0,
-         "data/rule205_ic8932_rotation.npy": -2.130891089108911,
+         "data/rule205_ic8932_rotation.npy": 0.08603960396039606,
          "data/rule205_ic8932_inversion.npy": 0.0,
-         "total": 4.293168316831683
+         "total": 0.08623762376237626
       },
       "ZLIB": {
          "data/rule205_ic8932_reflection.npy": 0.0,
@@ -13615,10 +13615,10 @@
       "HuffmanEncoding": {
          "data/rule206_ic8932_identity.npy": 0.0,
          "data/rule206_ic8932_inversion.npy": 0.0,
-         "data/rule206_ic8932_reflection.npy": -1.5097029702970295,
-         "data/rule206_ic8932_rotation.npy": -1.6274257425742575,
-         "data/rule206_ic8932_shift.npy": 0.6752475247524752,
-         "total": 3.812376237623762
+         "data/rule206_ic8932_reflection.npy": 0.010792079207920802,
+         "data/rule206_ic8932_rotation.npy": 0.10099009900990097,
+         "data/rule206_ic8932_shift.npy": 0.03089108910891092,
+         "total": 0.1426732673267327
       },
       "ZLIB": {
          "data/rule206_ic8932_identity.npy": 0.0,
@@ -13680,11 +13680,11 @@
       },
       "HuffmanEncoding": {
          "data/rule207_ic8932_identity.npy": 0.0,
-         "data/rule207_ic8932_reflection.npy": -2.6937623762376237,
+         "data/rule207_ic8932_reflection.npy": -0.0008910891089109474,
          "data/rule207_ic8932_inversion.npy": 0.0,
-         "data/rule207_ic8932_shift.npy": 0.4873267326732673,
-         "data/rule207_ic8932_rotation.npy": -2.8324752475247523,
-         "total": 6.013564356435643
+         "data/rule207_ic8932_shift.npy": -0.0001980198019801982,
+         "data/rule207_ic8932_rotation.npy": 0.047227722772277214,
+         "total": 0.04831683168316836
       },
       "ZLIB": {
          "data/rule207_ic8932_identity.npy": 0.0,
@@ -13747,10 +13747,10 @@
       "HuffmanEncoding": {
          "data/rule208_ic8932_identity.npy": 0.0,
          "data/rule208_ic8932_inversion.npy": 0.0,
-         "data/rule208_ic8932_shift.npy": -0.008811881188118598,
-         "data/rule208_ic8932_reflection.npy": 2.811584158415842,
-         "data/rule208_ic8932_rotation.npy": 2.627722772277228,
-         "total": 5.448118811881189
+         "data/rule208_ic8932_shift.npy": -9.900990099015461e-05,
+         "data/rule208_ic8932_reflection.npy": 0.028316831683168342,
+         "data/rule208_ic8932_rotation.npy": 0.0,
+         "total": 0.028415841584158497
       },
       "ZLIB": {
          "data/rule208_ic8932_identity.npy": 0.0,
@@ -13813,10 +13813,10 @@
       "HuffmanEncoding": {
          "data/rule209_ic8932_inversion.npy": 0.0,
          "data/rule209_ic8932_identity.npy": 0.0,
-         "data/rule209_ic8932_reflection.npy": -0.4342574257425742,
-         "data/rule209_ic8932_shift.npy": -0.01920792079207878,
-         "data/rule209_ic8932_rotation.npy": 0.030990099009901684,
-         "total": 0.48445544554455466
+         "data/rule209_ic8932_reflection.npy": 0.0328712871287129,
+         "data/rule209_ic8932_shift.npy": -0.0003960396039603409,
+         "data/rule209_ic8932_rotation.npy": -0.011782178217821793,
+         "total": 0.045049504950495034
       },
       "ZLIB": {
          "data/rule209_ic8932_inversion.npy": 0.0,
@@ -13879,10 +13879,10 @@
       "HuffmanEncoding": {
          "data/rule210_ic8932_inversion.npy": 0.0,
          "data/rule210_ic8932_identity.npy": 0.0,
-         "data/rule210_ic8932_shift.npy": 0.020495049504950735,
-         "data/rule210_ic8932_reflection.npy": 0.040297029702970555,
-         "data/rule210_ic8932_rotation.npy": 0.03900990099009949,
-         "total": 0.09980198019802078
+         "data/rule210_ic8932_shift.npy": 0.006336633663366342,
+         "data/rule210_ic8932_reflection.npy": 0.0220792079207921,
+         "data/rule210_ic8932_rotation.npy": 0.0007920792079207928,
+         "total": 0.029207920792079234
       },
       "ZLIB": {
          "data/rule210_ic8932_inversion.npy": 0.0,
@@ -13944,11 +13944,11 @@
       },
       "HuffmanEncoding": {
          "data/rule211_ic8932_inversion.npy": 0.0,
-         "data/rule211_ic8932_shift.npy": -0.0023762376237628224,
-         "data/rule211_ic8932_reflection.npy": 0.017623762376237195,
+         "data/rule211_ic8932_shift.npy": 0.0,
+         "data/rule211_ic8932_reflection.npy": 0.011089108910891099,
          "data/rule211_ic8932_identity.npy": 0.0,
-         "data/rule211_ic8932_rotation.npy": -0.3990099009900989,
-         "total": 0.41900990099009894
+         "data/rule211_ic8932_rotation.npy": -0.006039603960396045,
+         "total": 0.017128712871287144
       },
       "ZLIB": {
          "data/rule211_ic8932_inversion.npy": 0.0,
@@ -14010,11 +14010,11 @@
       },
       "HuffmanEncoding": {
          "data/rule212_ic8932_identity.npy": 0.0,
-         "data/rule212_ic8932_reflection.npy": 2.78009900990099,
-         "data/rule212_ic8932_rotation.npy": 0.0006930693069304716,
+         "data/rule212_ic8932_reflection.npy": 0.008613861386138622,
+         "data/rule212_ic8932_rotation.npy": 0.0018811881188119384,
          "data/rule212_ic8932_inversion.npy": 0.0,
-         "data/rule212_ic8932_shift.npy": 2.270990099009901,
-         "total": 5.051782178217822
+         "data/rule212_ic8932_shift.npy": 0.00108910891089109,
+         "total": 0.01158415841584165
       },
       "ZLIB": {
          "data/rule212_ic8932_identity.npy": 0.0,
@@ -14075,12 +14075,12 @@
          "total": 0.01831683168316832
       },
       "HuffmanEncoding": {
-         "data/rule213_ic8932_reflection.npy": 0.0018811881188116608,
+         "data/rule213_ic8932_reflection.npy": -0.008514851485148578,
          "data/rule213_ic8932_identity.npy": 0.0,
          "data/rule213_ic8932_inversion.npy": 0.0,
-         "data/rule213_ic8932_shift.npy": -0.0004950495049507175,
-         "data/rule213_ic8932_rotation.npy": 0.04712871287128717,
-         "total": 0.04950495049504955
+         "data/rule213_ic8932_shift.npy": 0.0007920792079207928,
+         "data/rule213_ic8932_rotation.npy": -0.009702970297029712,
+         "total": 0.019009900990099082
       },
       "ZLIB": {
          "data/rule213_ic8932_reflection.npy": -9.90099009900991e-05,
@@ -14142,11 +14142,11 @@
       },
       "HuffmanEncoding": {
          "data/rule214_ic8932_inversion.npy": 0.0,
-         "data/rule214_ic8932_shift.npy": -0.13603960396039594,
+         "data/rule214_ic8932_shift.npy": 0.0016831683168314626,
          "data/rule214_ic8932_identity.npy": 0.0,
-         "data/rule214_ic8932_rotation.npy": -0.13148514851485138,
-         "data/rule214_ic8932_reflection.npy": -0.058613861386138666,
-         "total": 0.326138613861386
+         "data/rule214_ic8932_rotation.npy": 0.0008910891089106698,
+         "data/rule214_ic8932_reflection.npy": -0.0013861386138616094,
+         "total": 0.003960396039603742
       },
       "ZLIB": {
          "data/rule214_ic8932_inversion.npy": 0.0,
@@ -14207,12 +14207,12 @@
          "total": 0.017920792079207923
       },
       "HuffmanEncoding": {
-         "data/rule215_ic8932_shift.npy": -0.005148514851484709,
+         "data/rule215_ic8932_shift.npy": -9.90099009900991e-05,
          "data/rule215_ic8932_inversion.npy": 0.0,
          "data/rule215_ic8932_identity.npy": 0.0,
-         "data/rule215_ic8932_reflection.npy": 2.6510891089108912,
-         "data/rule215_ic8932_rotation.npy": 0.040000000000000036,
-         "total": 2.696237623762376
+         "data/rule215_ic8932_reflection.npy": 0.012277227722772288,
+         "data/rule215_ic8932_rotation.npy": -0.006831683168316838,
+         "total": 0.019207920792079225
       },
       "ZLIB": {
          "data/rule215_ic8932_shift.npy": 0.0006930693069306937,
@@ -14276,9 +14276,9 @@
          "data/rule216_ic8932_identity.npy": 0.0,
          "data/rule216_ic8932_inversion.npy": 0.0,
          "data/rule216_ic8932_shift.npy": 0.0001980198019801982,
-         "data/rule216_ic8932_reflection.npy": -0.5360396039603961,
-         "data/rule216_ic8932_rotation.npy": 1.8819801980198019,
-         "total": 2.418217821782178
+         "data/rule216_ic8932_reflection.npy": 0.03366336633663369,
+         "data/rule216_ic8932_rotation.npy": 0.0032673267326733813,
+         "total": 0.03712871287128727
       },
       "ZLIB": {
          "data/rule216_ic8932_identity.npy": 0.0,
@@ -14339,12 +14339,12 @@
          "total": 0.04158415841584158
       },
       "HuffmanEncoding": {
-         "data/rule217_ic8932_reflection.npy": -0.45069306930693065,
+         "data/rule217_ic8932_reflection.npy": -0.0003960396039604519,
          "data/rule217_ic8932_identity.npy": 0.0,
-         "data/rule217_ic8932_shift.npy": -0.4501980198019804,
-         "data/rule217_ic8932_rotation.npy": -0.07762376237623769,
+         "data/rule217_ic8932_shift.npy": -9.90099009900991e-05,
+         "data/rule217_ic8932_rotation.npy": 0.03148514851485146,
          "data/rule217_ic8932_inversion.npy": 0.0,
-         "total": 0.9785148514851487
+         "total": 0.03198019801980201
       },
       "ZLIB": {
          "data/rule217_ic8932_reflection.npy": 0.0,
@@ -14406,11 +14406,11 @@
       },
       "HuffmanEncoding": {
          "data/rule218_ic8932_identity.npy": 0.0,
-         "data/rule218_ic8932_rotation.npy": 0.38029702970296997,
-         "data/rule218_ic8932_shift.npy": -0.011782178217822015,
-         "data/rule218_ic8932_reflection.npy": 0.0013861386138613874,
+         "data/rule218_ic8932_rotation.npy": -0.021485148514851504,
+         "data/rule218_ic8932_shift.npy": 0.0055445544554455495,
+         "data/rule218_ic8932_reflection.npy": 0.004059405940594063,
          "data/rule218_ic8932_inversion.npy": 0.0,
-         "total": 0.39346534653465337
+         "total": 0.031089108910891117
       },
       "ZLIB": {
          "data/rule218_ic8932_identity.npy": 0.0,
@@ -14472,11 +14472,11 @@
       },
       "HuffmanEncoding": {
          "data/rule219_ic8932_identity.npy": 0.0,
-         "data/rule219_ic8932_reflection.npy": -0.4653465346534653,
-         "data/rule219_ic8932_rotation.npy": -0.04227722772277209,
+         "data/rule219_ic8932_reflection.npy": -0.0003960396039603964,
+         "data/rule219_ic8932_rotation.npy": 0.014950495049504964,
          "data/rule219_ic8932_inversion.npy": 0.0,
-         "data/rule219_ic8932_shift.npy": 2.8641584158415845,
-         "total": 3.371782178217822
+         "data/rule219_ic8932_shift.npy": 0.0004950495049504955,
+         "total": 0.015841584158415856
       },
       "ZLIB": {
          "data/rule219_ic8932_identity.npy": 0.0,
@@ -14537,12 +14537,12 @@
          "total": 0.06207920792079208
       },
       "HuffmanEncoding": {
-         "data/rule220_ic8932_shift.npy": 1.5592079207920788,
-         "data/rule220_ic8932_rotation.npy": 0.49128712871287106,
-         "data/rule220_ic8932_reflection.npy": -0.016336633663366573,
+         "data/rule220_ic8932_shift.npy": -0.0003960396039605074,
+         "data/rule220_ic8932_rotation.npy": 0.08821782178217819,
+         "data/rule220_ic8932_reflection.npy": 0.0206930693069306,
          "data/rule220_ic8932_identity.npy": 0.0,
          "data/rule220_ic8932_inversion.npy": 0.0,
-         "total": 2.0668316831683167
+         "total": 0.10930693069306929
       },
       "ZLIB": {
          "data/rule220_ic8932_shift.npy": 0.0,
@@ -14603,12 +14603,12 @@
          "total": 0.06227722772277228
       },
       "HuffmanEncoding": {
-         "data/rule221_ic8932_reflection.npy": -0.4370297029702974,
-         "data/rule221_ic8932_rotation.npy": -0.11326732673267337,
-         "data/rule221_ic8932_shift.npy": 2.7484158415841584,
+         "data/rule221_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule221_ic8932_rotation.npy": 0.04782178217821781,
+         "data/rule221_ic8932_shift.npy": 0.0001980198019801982,
          "data/rule221_ic8932_inversion.npy": 0.0,
          "data/rule221_ic8932_identity.npy": 0.0,
-         "total": 3.298712871287129
+         "total": 0.0486138613861386
       },
       "ZLIB": {
          "data/rule221_ic8932_reflection.npy": -9.900990099009823e-05,
@@ -14669,12 +14669,12 @@
          "total": 0.030693069306930686
       },
       "HuffmanEncoding": {
-         "data/rule222_ic8932_rotation.npy": -0.06277227722772283,
+         "data/rule222_ic8932_rotation.npy": 0.044554455445544594,
          "data/rule222_ic8932_inversion.npy": 0.0,
-         "data/rule222_ic8932_shift.npy": 2.8014851485148515,
+         "data/rule222_ic8932_shift.npy": 0.015742574257425812,
          "data/rule222_ic8932_identity.npy": 0.0,
-         "data/rule222_ic8932_reflection.npy": -0.002277227722772057,
-         "total": 2.8665346534653464
+         "data/rule222_ic8932_reflection.npy": 0.013960396039603973,
+         "total": 0.07425742574257438
       },
       "ZLIB": {
          "data/rule222_ic8932_rotation.npy": 0.0020792079207920776,
@@ -14736,11 +14736,11 @@
       },
       "HuffmanEncoding": {
          "data/rule223_ic8932_inversion.npy": 0.0,
-         "data/rule223_ic8932_reflection.npy": -0.48069306930693045,
-         "data/rule223_ic8932_rotation.npy": 2.7159405940594064,
+         "data/rule223_ic8932_reflection.npy": -0.0005940594059405946,
+         "data/rule223_ic8932_rotation.npy": 0.0016831683168316847,
          "data/rule223_ic8932_identity.npy": 0.0,
-         "data/rule223_ic8932_shift.npy": 2.923267326732674,
-         "total": 6.11990099009901
+         "data/rule223_ic8932_shift.npy": 0.0,
+         "total": 0.0022772277227722793
       },
       "ZLIB": {
          "data/rule223_ic8932_inversion.npy": 0.0,
@@ -14801,12 +14801,12 @@
          "total": 0.00019801980198019733
       },
       "HuffmanEncoding": {
-         "data/rule224_ic8932_rotation.npy": -0.10673267326732673,
-         "data/rule224_ic8932_shift.npy": -1.9803960396039606,
+         "data/rule224_ic8932_rotation.npy": 9.90099009900991e-05,
+         "data/rule224_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule224_ic8932_identity.npy": 0.0,
          "data/rule224_ic8932_inversion.npy": 0.0,
-         "data/rule224_ic8932_reflection.npy": 0.017227722772277226,
-         "total": 2.1043564356435644
+         "data/rule224_ic8932_reflection.npy": 0.0002970297029702418,
+         "total": 0.00049504950495044
       },
       "ZLIB": {
          "data/rule224_ic8932_rotation.npy": -0.0003960396039603964,
@@ -14867,12 +14867,12 @@
          "total": 0.014851485148514837
       },
       "HuffmanEncoding": {
-         "data/rule225_ic8932_rotation.npy": -0.004851485148514634,
-         "data/rule225_ic8932_reflection.npy": -0.3846534653465348,
-         "data/rule225_ic8932_shift.npy": 1.5010891089108913,
+         "data/rule225_ic8932_rotation.npy": -0.013762376237623775,
+         "data/rule225_ic8932_reflection.npy": 0.023366336633663276,
+         "data/rule225_ic8932_shift.npy": 0.002079207920792081,
          "data/rule225_ic8932_identity.npy": 0.0,
          "data/rule225_ic8932_inversion.npy": 0.0,
-         "total": 1.8905940594059407
+         "total": 0.03920792079207913
       },
       "ZLIB": {
          "data/rule225_ic8932_rotation.npy": -0.012574257425742572,
@@ -14934,11 +14934,11 @@
       },
       "HuffmanEncoding": {
          "data/rule226_ic8932_inversion.npy": 0.0,
-         "data/rule226_ic8932_rotation.npy": -3.1759405940594063,
+         "data/rule226_ic8932_rotation.npy": 0.002574257425742521,
          "data/rule226_ic8932_identity.npy": 0.0,
-         "data/rule226_ic8932_shift.npy": -3.1195049504950494,
-         "data/rule226_ic8932_reflection.npy": 0.002772277227722772,
-         "total": 6.2982178217821785
+         "data/rule226_ic8932_shift.npy": -0.015346534653465416,
+         "data/rule226_ic8932_reflection.npy": -0.02029702970297026,
+         "total": 0.038217821782178196
       },
       "ZLIB": {
          "data/rule226_ic8932_inversion.npy": 0.0,
@@ -14999,12 +14999,12 @@
          "total": 0.018217821782178234
       },
       "HuffmanEncoding": {
-         "data/rule227_ic8932_rotation.npy": 0.4708910891089113,
+         "data/rule227_ic8932_rotation.npy": -0.006138613861386144,
          "data/rule227_ic8932_inversion.npy": 0.0,
-         "data/rule227_ic8932_reflection.npy": -0.010792079207920136,
+         "data/rule227_ic8932_reflection.npy": 0.01198019801980199,
          "data/rule227_ic8932_identity.npy": 0.0,
-         "data/rule227_ic8932_shift.npy": 2.844653465346535,
-         "total": 3.3263366336633666
+         "data/rule227_ic8932_shift.npy": 0.0,
+         "total": 0.018118811881188135
       },
       "ZLIB": {
          "data/rule227_ic8932_rotation.npy": -0.024752475247524757,
@@ -15066,11 +15066,11 @@
       },
       "HuffmanEncoding": {
          "data/rule228_ic8932_inversion.npy": 0.0,
-         "data/rule228_ic8932_rotation.npy": -0.11128712871287127,
-         "data/rule228_ic8932_reflection.npy": 0.025445544554455444,
-         "data/rule228_ic8932_shift.npy": -0.05722772277227724,
+         "data/rule228_ic8932_rotation.npy": 0.048811881188118855,
+         "data/rule228_ic8932_reflection.npy": 0.0005940594059405946,
+         "data/rule228_ic8932_shift.npy": 0.0,
          "data/rule228_ic8932_identity.npy": 0.0,
-         "total": 0.19396039603960397
+         "total": 0.04940594059405945
       },
       "ZLIB": {
          "data/rule228_ic8932_inversion.npy": 0.0,
@@ -15132,11 +15132,11 @@
       },
       "HuffmanEncoding": {
          "data/rule229_ic8932_inversion.npy": 0.0,
-         "data/rule229_ic8932_reflection.npy": -0.8998019801980197,
-         "data/rule229_ic8932_rotation.npy": 0.00772277227722773,
-         "data/rule229_ic8932_shift.npy": 2.292970297029703,
+         "data/rule229_ic8932_reflection.npy": 0.04544554455445543,
+         "data/rule229_ic8932_rotation.npy": -0.0008910891089108364,
+         "data/rule229_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule229_ic8932_identity.npy": 0.0,
-         "total": 3.2004950495049505
+         "total": 0.046435643564356366
       },
       "ZLIB": {
          "data/rule229_ic8932_inversion.npy": 0.0,
@@ -15197,12 +15197,12 @@
          "total": 0.008514851485148522
       },
       "HuffmanEncoding": {
-         "data/rule230_ic8932_shift.npy": -0.13148514851485138,
+         "data/rule230_ic8932_shift.npy": 0.028019801980197934,
          "data/rule230_ic8932_inversion.npy": 0.0,
-         "data/rule230_ic8932_rotation.npy": -0.11366336633663354,
-         "data/rule230_ic8932_reflection.npy": -0.09891089108910878,
+         "data/rule230_ic8932_rotation.npy": 0.003069306930692961,
+         "data/rule230_ic8932_reflection.npy": 0.010198019801980207,
          "data/rule230_ic8932_identity.npy": 0.0,
-         "total": 0.3440594059405937
+         "total": 0.0412871287128711
       },
       "ZLIB": {
          "data/rule230_ic8932_shift.npy": -0.003960396039603964,
@@ -15265,10 +15265,10 @@
       "HuffmanEncoding": {
          "data/rule231_ic8932_inversion.npy": 0.0,
          "data/rule231_ic8932_shift.npy": 0.0,
-         "data/rule231_ic8932_reflection.npy": -0.8894059405940595,
-         "data/rule231_ic8932_rotation.npy": 2.726732673267327,
+         "data/rule231_ic8932_reflection.npy": 0.023762376237623783,
+         "data/rule231_ic8932_rotation.npy": -0.007821782178217829,
          "data/rule231_ic8932_identity.npy": 0.0,
-         "total": 3.6161386138613865
+         "total": 0.03158415841584161
       },
       "ZLIB": {
          "data/rule231_ic8932_inversion.npy": 0.0,
@@ -15329,12 +15329,12 @@
          "total": 0.01623762376237623
       },
       "HuffmanEncoding": {
-         "data/rule232_ic8932_rotation.npy": 0.9526732673267326,
-         "data/rule232_ic8932_shift.npy": 0.009603960396039835,
-         "data/rule232_ic8932_reflection.npy": -0.009702970297029267,
+         "data/rule232_ic8932_rotation.npy": 0.03594059405940592,
+         "data/rule232_ic8932_shift.npy": -9.900990099004359e-05,
+         "data/rule232_ic8932_reflection.npy": 0.0,
          "data/rule232_ic8932_inversion.npy": 0.0,
          "data/rule232_ic8932_identity.npy": 0.0,
-         "total": 0.9719801980198017
+         "total": 0.03603960396039596
       },
       "ZLIB": {
          "data/rule232_ic8932_rotation.npy": 0.0022772277227722775,
@@ -15395,12 +15395,12 @@
          "total": 0.002772277227722768
       },
       "HuffmanEncoding": {
-         "data/rule233_ic8932_reflection.npy": -0.4772277227722772,
-         "data/rule233_ic8932_rotation.npy": -0.4562376237623762,
+         "data/rule233_ic8932_reflection.npy": 0.0006930693069306937,
+         "data/rule233_ic8932_rotation.npy": 0.0076237623762376305,
          "data/rule233_ic8932_inversion.npy": 0.0,
-         "data/rule233_ic8932_shift.npy": 0.004059405940593841,
+         "data/rule233_ic8932_shift.npy": 0.0003960396039603964,
          "data/rule233_ic8932_identity.npy": 0.0,
-         "total": 0.9375247524752472
+         "total": 0.00871287128712872
       },
       "ZLIB": {
          "data/rule233_ic8932_reflection.npy": -0.00039603960396039466,
@@ -15461,12 +15461,12 @@
          "total": 0.00039603960396038945
       },
       "HuffmanEncoding": {
-         "data/rule234_ic8932_shift.npy": 0.28287128712871334,
+         "data/rule234_ic8932_shift.npy": 0.012871287128712883,
          "data/rule234_ic8932_inversion.npy": 0.0,
-         "data/rule234_ic8932_rotation.npy": 0.00435643564356436,
-         "data/rule234_ic8932_reflection.npy": 0.5605940594059411,
+         "data/rule234_ic8932_rotation.npy": 0.0004950495049504955,
+         "data/rule234_ic8932_reflection.npy": -0.021485148514851393,
          "data/rule234_ic8932_identity.npy": 0.0,
-         "total": 0.8478217821782188
+         "total": 0.03485148514851477
       },
       "ZLIB": {
          "data/rule234_ic8932_shift.npy": 0.0002970297029702973,
@@ -15527,12 +15527,12 @@
          "total": 0.013762376237623764
       },
       "HuffmanEncoding": {
-         "data/rule235_ic8932_reflection.npy": -2.9468316831683166,
-         "data/rule235_ic8932_rotation.npy": -0.020297029702970298,
-         "data/rule235_ic8932_shift.npy": -2.9464356435643566,
+         "data/rule235_ic8932_reflection.npy": 0.0001980198019801982,
+         "data/rule235_ic8932_rotation.npy": -0.013069306930693081,
+         "data/rule235_ic8932_shift.npy": 9.90099009900991e-05,
          "data/rule235_ic8932_inversion.npy": 0.0,
          "data/rule235_ic8932_identity.npy": 0.0,
-         "total": 5.913564356435643
+         "total": 0.013366336633663378
       },
       "ZLIB": {
          "data/rule235_ic8932_reflection.npy": -9.90099009900991e-05,
@@ -15593,12 +15593,12 @@
          "total": 0.056039603960396034
       },
       "HuffmanEncoding": {
-         "data/rule236_ic8932_rotation.npy": 0.8578217821782173,
-         "data/rule236_ic8932_shift.npy": -0.01059405940594127,
+         "data/rule236_ic8932_rotation.npy": 0.08554455445544557,
+         "data/rule236_ic8932_shift.npy": -9.90099009900991e-05,
          "data/rule236_ic8932_inversion.npy": 0.0,
-         "data/rule236_ic8932_reflection.npy": 0.4499009900990094,
+         "data/rule236_ic8932_reflection.npy": 0.0003960396039603964,
          "data/rule236_ic8932_identity.npy": 0.0,
-         "total": 1.318316831683168
+         "total": 0.08603960396039606
       },
       "ZLIB": {
          "data/rule236_ic8932_rotation.npy": 0.0023762376237623766,
@@ -15659,12 +15659,12 @@
          "total": 0.0031683168316831677
       },
       "HuffmanEncoding": {
-         "data/rule237_ic8932_reflection.npy": 0.00465346534653488,
-         "data/rule237_ic8932_rotation.npy": 0.03366336633663369,
-         "data/rule237_ic8932_shift.npy": 0.4826732673267329,
+         "data/rule237_ic8932_reflection.npy": 0.0002970297029702973,
+         "data/rule237_ic8932_rotation.npy": 0.00881188118811882,
+         "data/rule237_ic8932_shift.npy": -0.0002970297029702973,
          "data/rule237_ic8932_inversion.npy": 0.0,
          "data/rule237_ic8932_identity.npy": 0.0,
-         "total": 0.5209900990099015
+         "total": 0.009405940594059414
       },
       "ZLIB": {
          "data/rule237_ic8932_reflection.npy": 0.0,
@@ -15725,12 +15725,12 @@
          "total": 0.0008910891089108919
       },
       "HuffmanEncoding": {
-         "data/rule238_ic8932_rotation.npy": 0.0016831683168314626,
+         "data/rule238_ic8932_rotation.npy": 0.0001980198019802537,
          "data/rule238_ic8932_identity.npy": 0.0,
          "data/rule238_ic8932_inversion.npy": 0.0,
-         "data/rule238_ic8932_shift.npy": 2.3914851485148514,
-         "data/rule238_ic8932_reflection.npy": 0.010693069306930703,
-         "total": 2.4038613861386136
+         "data/rule238_ic8932_shift.npy": 0.016732673267326692,
+         "data/rule238_ic8932_reflection.npy": -0.0025742574257425765,
+         "total": 0.019504950495049522
       },
       "ZLIB": {
          "data/rule238_ic8932_rotation.npy": -0.005940594059405939,
@@ -15791,12 +15791,12 @@
          "total": 0.013564356435643566
       },
       "HuffmanEncoding": {
-         "data/rule239_ic8932_rotation.npy": 2.3834653465346536,
-         "data/rule239_ic8932_reflection.npy": 2.473960396039604,
+         "data/rule239_ic8932_rotation.npy": -0.013465346534653477,
+         "data/rule239_ic8932_reflection.npy": 0.0,
          "data/rule239_ic8932_inversion.npy": 0.0,
-         "data/rule239_ic8932_shift.npy": 2.4810891089108913,
+         "data/rule239_ic8932_shift.npy": 0.0,
          "data/rule239_ic8932_identity.npy": 0.0,
-         "total": 7.338514851485149
+         "total": 0.013465346534653477
       },
       "ZLIB": {
          "data/rule239_ic8932_rotation.npy": -0.0021782178217821784,
@@ -15858,11 +15858,11 @@
       },
       "HuffmanEncoding": {
          "data/rule240_ic8932_identity.npy": 0.0,
-         "data/rule240_ic8932_shift.npy": 0.0008910891089111139,
+         "data/rule240_ic8932_shift.npy": 0.0,
          "data/rule240_ic8932_inversion.npy": 0.0,
-         "data/rule240_ic8932_rotation.npy": 0.014653465346534666,
-         "data/rule240_ic8932_reflection.npy": 2.766930693069307,
-         "total": 2.782475247524753
+         "data/rule240_ic8932_rotation.npy": 0.0,
+         "data/rule240_ic8932_reflection.npy": 0.02396039603960398,
+         "total": 0.02396039603960398
       },
       "ZLIB": {
          "data/rule240_ic8932_identity.npy": 0.0,
@@ -15923,12 +15923,12 @@
          "total": 0.018811881188118815
       },
       "HuffmanEncoding": {
-         "data/rule241_ic8932_shift.npy": 2.653861386138614,
+         "data/rule241_ic8932_shift.npy": 0.0007920792079207373,
          "data/rule241_ic8932_identity.npy": 0.0,
-         "data/rule241_ic8932_reflection.npy": 0.0027722772277227747,
+         "data/rule241_ic8932_reflection.npy": 0.027425742574257395,
          "data/rule241_ic8932_inversion.npy": 0.0,
-         "data/rule241_ic8932_rotation.npy": 0.046534653465346576,
-         "total": 2.7031683168316833
+         "data/rule241_ic8932_rotation.npy": -0.00544554455445545,
+         "total": 0.03366336633663358
       },
       "ZLIB": {
          "data/rule241_ic8932_shift.npy": -9.900990099010083e-05,
@@ -15991,10 +15991,10 @@
       "HuffmanEncoding": {
          "data/rule242_ic8932_inversion.npy": 0.0,
          "data/rule242_ic8932_identity.npy": 0.0,
-         "data/rule242_ic8932_rotation.npy": -0.020198019801980216,
-         "data/rule242_ic8932_reflection.npy": 0.034455445544554486,
-         "data/rule242_ic8932_shift.npy": 0.0008910891089111139,
-         "total": 0.055544554455445816
+         "data/rule242_ic8932_rotation.npy": 0.013564356435643465,
+         "data/rule242_ic8932_reflection.npy": 0.04603960396039597,
+         "data/rule242_ic8932_shift.npy": 0.018217821782178123,
+         "total": 0.07782178217821756
       },
       "ZLIB": {
          "data/rule242_ic8932_inversion.npy": 0.0,
@@ -16055,12 +16055,12 @@
          "total": 0.018613861386138617
       },
       "HuffmanEncoding": {
-         "data/rule243_ic8932_reflection.npy": 0.01613861386138593,
+         "data/rule243_ic8932_reflection.npy": 0.012574257425742641,
          "data/rule243_ic8932_identity.npy": 0.0,
          "data/rule243_ic8932_inversion.npy": 0.0,
-         "data/rule243_ic8932_shift.npy": 2.805148514851485,
-         "data/rule243_ic8932_rotation.npy": 0.5001980198019802,
-         "total": 3.321485148514851
+         "data/rule243_ic8932_shift.npy": 0.0,
+         "data/rule243_ic8932_rotation.npy": -0.005148514851485098,
+         "total": 0.01772277227722774
       },
       "ZLIB": {
          "data/rule243_ic8932_reflection.npy": -0.0001980198019801982,
@@ -16121,12 +16121,12 @@
          "total": 0.001980198019801982
       },
       "HuffmanEncoding": {
-         "data/rule244_ic8932_shift.npy": 2.2427722772277225,
+         "data/rule244_ic8932_shift.npy": 0.0005940594059405946,
          "data/rule244_ic8932_identity.npy": 0.0,
-         "data/rule244_ic8932_reflection.npy": -0.008712871287129165,
+         "data/rule244_ic8932_reflection.npy": -0.0001980198019801982,
          "data/rule244_ic8932_inversion.npy": 0.0,
-         "data/rule244_ic8932_rotation.npy": -0.05633663366336661,
-         "total": 2.3078217821782183
+         "data/rule244_ic8932_rotation.npy": -0.0001980198019801982,
+         "total": 0.000990099009900991
       },
       "ZLIB": {
          "data/rule244_ic8932_shift.npy": -0.0001980198019801982,
@@ -16187,12 +16187,12 @@
          "total": 0.01831683168316832
       },
       "HuffmanEncoding": {
-         "data/rule245_ic8932_shift.npy": 2.7292079207920787,
-         "data/rule245_ic8932_reflection.npy": -0.4372277227722776,
+         "data/rule245_ic8932_shift.npy": 0.0004950495049504955,
+         "data/rule245_ic8932_reflection.npy": 0.0066336633663366396,
          "data/rule245_ic8932_identity.npy": 0.0,
          "data/rule245_ic8932_inversion.npy": 0.0,
-         "data/rule245_ic8932_rotation.npy": 0.4746534653465342,
-         "total": 3.6410891089108905
+         "data/rule245_ic8932_rotation.npy": -0.00811881188118807,
+         "total": 0.015247524752475206
       },
       "ZLIB": {
          "data/rule245_ic8932_shift.npy": -0.0001980198019801982,
@@ -16255,10 +16255,10 @@
       "HuffmanEncoding": {
          "data/rule246_ic8932_inversion.npy": 0.0,
          "data/rule246_ic8932_identity.npy": 0.0,
-         "data/rule246_ic8932_reflection.npy": -0.14257425742574248,
-         "data/rule246_ic8932_shift.npy": -0.16792079207920807,
-         "data/rule246_ic8932_rotation.npy": -0.22188118811881186,
-         "total": 0.5323762376237624
+         "data/rule246_ic8932_reflection.npy": 0.010594059405940603,
+         "data/rule246_ic8932_shift.npy": 0.006732673267326628,
+         "data/rule246_ic8932_rotation.npy": -0.005940594059405946,
+         "total": 0.023267326732673177
       },
       "ZLIB": {
          "data/rule246_ic8932_inversion.npy": 0.0,
@@ -16319,12 +16319,12 @@
          "total": 0.018118811881188118
       },
       "HuffmanEncoding": {
-         "data/rule247_ic8932_reflection.npy": -3.145742574257426,
+         "data/rule247_ic8932_reflection.npy": 0.010495049504950449,
          "data/rule247_ic8932_inversion.npy": 0.0,
          "data/rule247_ic8932_identity.npy": 0.0,
-         "data/rule247_ic8932_shift.npy": 0.24554455445544554,
-         "data/rule247_ic8932_rotation.npy": -2.1592079207920793,
-         "total": 5.550495049504951
+         "data/rule247_ic8932_shift.npy": 0.0,
+         "data/rule247_ic8932_rotation.npy": -0.008217821782178225,
+         "total": 0.018712871287128674
       },
       "ZLIB": {
          "data/rule247_ic8932_reflection.npy": -0.0002970297029702973,
@@ -16387,10 +16387,10 @@
       "HuffmanEncoding": {
          "data/rule248_ic8932_identity.npy": 0.0,
          "data/rule248_ic8932_inversion.npy": 0.0,
-         "data/rule248_ic8932_rotation.npy": -0.27554455445544557,
-         "data/rule248_ic8932_shift.npy": 0.0004950495049502734,
-         "data/rule248_ic8932_reflection.npy": 1.9314851485148514,
-         "total": 2.2075247524752473
+         "data/rule248_ic8932_rotation.npy": 0.00019801980198008717,
+         "data/rule248_ic8932_shift.npy": 0.0004950495049503845,
+         "data/rule248_ic8932_reflection.npy": 0.033465346534653384,
+         "total": 0.034158415841583856
       },
       "ZLIB": {
          "data/rule248_ic8932_identity.npy": 0.0,
@@ -16453,10 +16453,10 @@
       "HuffmanEncoding": {
          "data/rule249_ic8932_identity.npy": 0.0,
          "data/rule249_ic8932_inversion.npy": 0.0,
-         "data/rule249_ic8932_reflection.npy": -0.4939603960396042,
-         "data/rule249_ic8932_rotation.npy": 0.5183168316831681,
-         "data/rule249_ic8932_shift.npy": 0.4942574257425738,
-         "total": 1.506534653465346
+         "data/rule249_ic8932_reflection.npy": -0.0002970297029702973,
+         "data/rule249_ic8932_rotation.npy": -0.012970297029703037,
+         "data/rule249_ic8932_shift.npy": 0.0006930693069306382,
+         "total": 0.013960396039603973
       },
       "ZLIB": {
          "data/rule249_ic8932_identity.npy": 0.0,
@@ -16519,10 +16519,10 @@
       "HuffmanEncoding": {
          "data/rule250_ic8932_identity.npy": 0.0,
          "data/rule250_ic8932_inversion.npy": 0.0,
-         "data/rule250_ic8932_shift.npy": -0.3840594059405942,
-         "data/rule250_ic8932_rotation.npy": -0.004455445544554237,
-         "data/rule250_ic8932_reflection.npy": -0.37514851485148526,
-         "total": 0.7636633663366337
+         "data/rule250_ic8932_shift.npy": 0.01485148514851481,
+         "data/rule250_ic8932_rotation.npy": -0.02465346534653473,
+         "data/rule250_ic8932_reflection.npy": 0.011089108910891043,
+         "total": 0.050594059405940583
       },
       "ZLIB": {
          "data/rule250_ic8932_identity.npy": 0.0,
@@ -16583,12 +16583,12 @@
          "total": 0.014356435643564357
       },
       "HuffmanEncoding": {
-         "data/rule251_ic8932_shift.npy": 2.9674257425742576,
-         "data/rule251_ic8932_reflection.npy": 0.4943564356435646,
+         "data/rule251_ic8932_shift.npy": 0.0003960396039603409,
+         "data/rule251_ic8932_reflection.npy": -0.000495049504950551,
          "data/rule251_ic8932_identity.npy": 0.0,
          "data/rule251_ic8932_inversion.npy": 0.0,
-         "data/rule251_ic8932_rotation.npy": 0.9973267326732678,
-         "total": 4.45910891089109
+         "data/rule251_ic8932_rotation.npy": -0.013366336633663378,
+         "total": 0.01425742574257427
       },
       "ZLIB": {
          "data/rule251_ic8932_shift.npy": -0.0003960396039603964,
@@ -16650,11 +16650,11 @@
       },
       "HuffmanEncoding": {
          "data/rule252_ic8932_identity.npy": 0.0,
-         "data/rule252_ic8932_rotation.npy": 0.2971287128712867,
-         "data/rule252_ic8932_reflection.npy": -0.306732673267327,
+         "data/rule252_ic8932_rotation.npy": 0.0010891089108910346,
+         "data/rule252_ic8932_reflection.npy": 0.018910891089108928,
          "data/rule252_ic8932_inversion.npy": 0.0,
-         "data/rule252_ic8932_shift.npy": 0.0006930693069304716,
-         "total": 0.6045544554455442
+         "data/rule252_ic8932_shift.npy": 9.90099009900991e-05,
+         "total": 0.02009900990099006
       },
       "ZLIB": {
          "data/rule252_ic8932_identity.npy": 0.0,
@@ -16716,11 +16716,11 @@
       },
       "HuffmanEncoding": {
          "data/rule253_ic8932_identity.npy": 0.0,
-         "data/rule253_ic8932_reflection.npy": 0.4943564356435646,
-         "data/rule253_ic8932_shift.npy": 2.9758415841584163,
-         "data/rule253_ic8932_rotation.npy": 0.5181188118811884,
+         "data/rule253_ic8932_reflection.npy": -0.000495049504950551,
+         "data/rule253_ic8932_shift.npy": 9.90099009900991e-05,
+         "data/rule253_ic8932_rotation.npy": -0.013465346534653533,
          "data/rule253_ic8932_inversion.npy": 0.0,
-         "total": 3.988316831683169
+         "total": 0.014059405940594183
       },
       "ZLIB": {
          "data/rule253_ic8932_identity.npy": 0.0,
@@ -16783,10 +16783,10 @@
       "HuffmanEncoding": {
          "data/rule254_ic8932_identity.npy": 0.0,
          "data/rule254_ic8932_inversion.npy": 0.0,
-         "data/rule254_ic8932_shift.npy": 0.03316831683168317,
-         "data/rule254_ic8932_rotation.npy": -2.8996039603960395,
-         "data/rule254_ic8932_reflection.npy": -2.9057425742574257,
-         "total": 5.838514851485148
+         "data/rule254_ic8932_shift.npy": 0.007920792079207872,
+         "data/rule254_ic8932_rotation.npy": -0.018217821782178234,
+         "data/rule254_ic8932_reflection.npy": 0.007326732673267333,
+         "total": 0.03346534653465344
       },
       "ZLIB": {
          "data/rule254_ic8932_identity.npy": 0.0,
@@ -16848,11 +16848,11 @@
       },
       "HuffmanEncoding": {
          "data/rule255_ic8932_inversion.npy": 0.0,
-         "data/rule255_ic8932_shift.npy": 1.9870297029702968,
+         "data/rule255_ic8932_shift.npy": 0.0,
          "data/rule255_ic8932_identity.npy": 0.0,
-         "data/rule255_ic8932_reflection.npy": -0.49495049504950495,
-         "data/rule255_ic8932_rotation.npy": 0.024158415841583958,
-         "total": 2.5061386138613857
+         "data/rule255_ic8932_reflection.npy": -0.0001980198019802537,
+         "data/rule255_ic8932_rotation.npy": -0.01376237623762383,
+         "total": 0.013960396039604084
       },
       "ZLIB": {
          "data/rule255_ic8932_inversion.npy": 0.0,
@@ -16915,10 +16915,10 @@
       "HuffmanEncoding": {
          "identity": 0.0,
          "inversion": 0.0,
-         "shift": 0.9710918162128712,
-         "rotation": 0.907544090346534,
-         "reflection": 0.6025495049504951,
-         "total": 2.4811854115099004
+         "shift": 0.008784421410891082,
+         "rotation": 0.03313273514851486,
+         "reflection": 0.010695389851485148,
+         "total": 0.05261254641089102
       },
       "ZLIB": {
          "identity": 0.0,

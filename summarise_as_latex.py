@@ -1,3 +1,4 @@
+from audioop import reverse
 from pandas import DataFrame 
 from json import load 
 
@@ -42,7 +43,7 @@ class LatexTableFormatter:
             evaluation = load(evaluation_file)
         summary = DataFrame([evaluation]).T
         summary.columns=["Pearsons Correlation"]
-        return summary.style.to_latex()
+        return summary.sort_values(by="Pearsons Correlation",ascending=False).style.to_latex()
     
 
 formatter = LatexTableFormatter(evaluations_path="results")

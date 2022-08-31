@@ -18,5 +18,4 @@ class BZ2:
 
     @staticmethod
     def compression_ratio(image:ndarray) -> float:
-        x,y = image.shape
-        return (x*y)/len(BZ2.compress_image(image))
+        return len(''.join(map(str,image.flatten())).encode())/len(BZ2.compress_image(image))

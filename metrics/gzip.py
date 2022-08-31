@@ -18,5 +18,4 @@ class GZIP:
 
     @staticmethod
     def compression_ratio(image:ndarray) -> float:
-        x,y = image.shape
-        return (x*y)/len(GZIP.compress_image(image))
+        return len(''.join(map(str,image.flatten())).encode())/len(GZIP.compress_image(image))

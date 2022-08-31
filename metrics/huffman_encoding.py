@@ -5,22 +5,20 @@ from numpy import ndarray, array
 class HuffmanEncoding:
     @staticmethod
     def compression_ratio(image:ndarray) -> float:
-        x,y = image.shape
         code,_ = HuffmanEncoding.encode(image)
-        return (x*y)/len(code)
+        return len(''.join(map(str,image.flatten())))/len(code)
 
     @staticmethod
-    def encode(image:ndarray) -> Tuple[str,Dict[str,str]]:
+    def encode(image:ndarray,pixel_stride:int=3) -> Tuple[str,Dict[str,str]]:
         huffman_code_to_original = HuffmanEncoding.huffman_table(image=image)
 
         encoded = '' 
-        text = ''.join(map(str,image.flatten()))
-        pattern = ''
-        for character in text:
-            pattern += character
-            if pattern in huffman_code_to_original:
-                encoded += huffman_code_to_original[pattern]
-                pattern = ''
+        x,y = image.shape
+        image_flat = image.flatten()
+
+        for index in range(0,x*y,pixel_stride):
+            pattern = ''.join(map(str,image_flat[index:index+pixel_stride]))
+            encoded += huffman_code_to_original[pattern]
 
         return encoded, huffman_code_to_original
 
