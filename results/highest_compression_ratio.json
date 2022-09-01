@@ -1,8 +1,0 @@
-{
-   "BZ2": 486,
-   "LZMA": 472,
-   "ZLIB": 273,
-   "RunLengthEncoding": 45,
-   "LosslessFourierCompression": 6,
-   "Winner": "ZLIB"
-}
