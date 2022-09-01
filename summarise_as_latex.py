@@ -12,15 +12,8 @@ class LatexTableFormatter:
         summary = DataFrame.from_records(evaluation["averages"]).T
         return summary.style.to_latex()
 
-    def compression_ratio(self) -> str:
-        with open(f"{self.evaluations_path}/highest_compression_ratio.json") as evaluation_file:
-            evaluation = load(evaluation_file)
-        summary = DataFrame([evaluation]).T
-        summary.columns=["Highest Compression Ratio for N Rules"]
-        return summary.style.to_latex()
-
     def sanity_check(self) -> str:
-        with open(f"{self.evaluations_path}/sanity_check.json") as evaluation_file:
+        with open(f"{self.evaluations_path}/within_limits.json") as evaluation_file:
             evaluation = load(evaluation_file)
         summary = dict()
         for metric in evaluation:
@@ -49,5 +42,4 @@ class LatexTableFormatter:
 formatter = LatexTableFormatter(evaluations_path="results")
 print(formatter.pearsons_correlation())
 print(formatter.sanity_check())
-print(formatter.compression_ratio())
 print(formatter.symmetry_equivalence())

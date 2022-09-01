@@ -14,23 +14,33 @@ class QualityEvaluations:
         with open(f"{self.results_path}/pearsons_correlations.json","w") as results_file:
             dump(correlation_results, results_file, indent = 3)
 
+        anomalous_results = self.analyse_anomalous_complexities(complexities=complexities)
+        with open(f"{self.results_path}/anomalous_complexities.json","w") as results_file:
+            dump(anomalous_results, results_file, indent = 3)
+
         symmetry_results = self.symmetry_equivalence(complexities=complexities)
         with open(f"{self.results_path}/symmetry_equivalence.json","w") as results_file:
             dump(symmetry_results, results_file, indent = 3)
 
-        sanity_results = self.sanity_check(complexities=complexities)
-        with open(f"{self.results_path}/sanity_check.json","w") as results_file:
-            dump(sanity_results, results_file, indent = 3)
-
-        cr_results = self.highest_compression_ratio(complexities=complexities)
-        with open(f"{self.results_path}/highest_compression_ratio.json","w") as results_file:
-            dump(cr_results, results_file, indent = 3)
+        extrema_results = self.within_limits(complexities=complexities)
+        with open(f"{self.results_path}/within_limits.json","w") as results_file:
+            dump(extrema_results, results_file, indent = 3)
 
     @staticmethod
     def load_complexities(results_path) -> DataFrame:
         with open(f"{results_path}/complexities.json") as results_file:
             results = load(results_file)
         return DataFrame(results).T
+
+    @staticmethod 
+    def analyse_anomalous_complexities(complexities:DataFrame) -> Dict[str, Dict[str,float]]:
+        anomalous_compexities = dict(rule=dict(metrica=0.3,metricb=0.4,metricc=0.4))
+        #TODO: normalise all complexity values
+        #TODO: compare the complexities for each sample
+        #TODO: get the difference from the proposed metric to others
+        #TODO: when all metrics have a high difference <- add the result to differences
+        #TODO: return differences
+        return anomalous_compexities 
 
     @staticmethod
     def pearson_correlation(complexities:DataFrame) -> Dict[str,float]:
@@ -71,7 +81,7 @@ class QualityEvaluations:
         return results
 
     @staticmethod
-    def sanity_check(complexities:DataFrame) -> Dict[str,Dict[str,Dict[str,float]]]:
+    def within_limits(complexities:DataFrame) -> Dict[str,Dict[str,Dict[str,float]]]:
         results = dict()
         for metric_name in complexities:
             metric_complexities = complexities[metric_name]
@@ -84,12 +94,5 @@ class QualityEvaluations:
             )
         return results
 
-
-    @staticmethod
-    def highest_compression_ratio(complexities:DataFrame) -> Dict[str,str]:
-        complexities = complexities.loc[:, complexities.columns != 'BlockDecompositionMethod']
-        results = complexities.idxmin(axis=1).value_counts().to_dict()
-        results["Winner"] = complexities.sum().idxmin()
-        return results
 
 QualityEvaluations(results_path="results").run_all()
