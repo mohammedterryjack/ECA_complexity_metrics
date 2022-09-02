@@ -1,0 +1,34 @@
+{
+   "data/rule203_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5889108910891089,
+      "BlockDecompositionMethod": 0.8815469944636878
+   },
+   "data/rule29_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5712871287128712,
+      "BlockDecompositionMethod": 0.9640012422038627
+   },
+   "data/rule33_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5108910891089109,
+      "BlockDecompositionMethod": 0.7558112133209093
+   },
+   "data/rule219_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5526732673267327,
+      "BlockDecompositionMethod": 0.7433565938622194
+   },
+   "data/rule191_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.4767326732673267,
+      "BlockDecompositionMethod": 0.500173385223859
+   },
+   "data/rule217_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5469306930693069,
+      "BlockDecompositionMethod": 0.9712386820269845
+   },
+   "data/rule227_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5605940594059406,
+      "BlockDecompositionMethod": 1.42860590294725
+   },
+   "data/rule229_ic8932_identity.npy": {
+      "LosslessFourierCompression": 0.5625742574257425,
+      "BlockDecompositionMethod": 1.2058819100919518
+   }
+}

@@ -1,4 +1,4 @@
-from numpy import fliplr, rot90, roll, save, zeros, random
+from numpy import fliplr, rot90, save, zeros, random
 from eca import OneDimensionalElementaryCellularAutomata 
 
 def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
@@ -15,7 +15,6 @@ def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
         inversion   =lambda image:1-image,
         rotation    =lambda image:rot90(image),
         reflection  =lambda image:fliplr(image),
-        shift       =lambda image:roll(image,shift=10,axis=1),
     )
     for rule in range(256):
         ca = OneDimensionalElementaryCellularAutomata(

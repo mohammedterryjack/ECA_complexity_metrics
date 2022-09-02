@@ -2,26 +2,24 @@
    "LosslessFourierCompression": {
       "limits": {
          "min_complexity": 0.0,
-         "max_complexity": 0.8407
+         "max_complexity": 0.8571
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.0
       },
       "too_large": {
-         "data/rule149_ic8932_shift.npy": 0.8449504950495049,
-         "data/maximum_complexity.npy": 0.8407
+         "data/maximum_complexity.npy": 0.8571
       }
    },
    "RunLengthEncoding": {
       "limits": {
          "min_complexity": 0.004,
-         "max_complexity": 0.4964
+         "max_complexity": 0.501
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.004
       },
       "too_large": {
-         "data/rule186_ic8932_shift.npy": 0.7635643564356436,
          "data/rule17_ic8932_rotation.npy": 0.9616831683168316,
          "data/rule107_ic8932_rotation.npy": 0.7808910891089109,
          "data/rule58_ic8932_reflection.npy": 0.7632673267326733,
@@ -31,11 +29,8 @@
          "data/rule92_ic8932_identity.npy": 0.596039603960396,
          "data/rule3_ic8932_rotation.npy": 0.9616831683168316,
          "data/rule47_ic8932_rotation.npy": 0.9319801980198019,
-         "data/rule93_ic8932_shift.npy": 0.6047524752475247,
          "data/rule186_ic8932_inversion.npy": 0.7637623762376237,
          "data/rule78_ic8932_identity.npy": 0.5962376237623762,
-         "data/rule199_ic8932_shift.npy": 0.5958415841584158,
-         "data/rule141_ic8932_shift.npy": 0.6049504950495049,
          "data/rule157_ic8932_reflection.npy": 0.596039603960396,
          "data/rule28_ic8932_reflection.npy": 0.6048514851485148,
          "data/rule198_ic8932_identity.npy": 0.6046534653465346,
@@ -64,16 +59,13 @@
          "data/rule119_ic8932_rotation.npy": 0.980891089108911,
          "data/rule58_ic8932_rotation.npy": 0.7731683168316832,
          "data/rule179_ic8932_reflection.npy": 0.7741584158415842,
-         "data/rule50_ic8932_shift.npy": 0.7821782178217822,
          "data/rule101_ic8932_rotation.npy": 0.6046534653465346,
          "data/rule11_ic8932_rotation.npy": 0.9129702970297029,
          "data/rule59_ic8932_rotation.npy": 0.9523762376237623,
          "data/rule118_ic8932_rotation.npy": 0.545940594059406,
          "data/rule115_ic8932_rotation.npy": 0.9523762376237623,
-         "data/rule198_ic8932_shift.npy": 0.6045544554455445,
          "data/rule54_ic8932_rotation.npy": 0.5985148514851485,
          "data/rule133_ic8932_identity.npy": 0.7738613861386139,
-         "data/rule92_ic8932_shift.npy": 0.596039603960396,
          "data/rule9_ic8932_rotation.npy": 0.8765346534653465,
          "data/rule163_ic8932_identity.npy": 0.7555445544554455,
          "data/rule78_ic8932_inversion.npy": 0.5962376237623762,
@@ -100,16 +92,13 @@
          "data/rule77_ic8932_identity.npy": 0.7924752475247524,
          "data/rule51_ic8932_rotation.npy": 0.9909900990099009,
          "data/rule163_ic8932_inversion.npy": 0.7555445544554455,
-         "data/rule114_ic8932_shift.npy": 0.7628712871287129,
          "data/rule49_ic8932_rotation.npy": 0.9517821782178217,
          "data/rule50_ic8932_rotation.npy": 0.808019801980198,
          "data/rule111_ic8932_rotation.npy": 0.9131683168316832,
-         "data/rule197_ic8932_shift.npy": 0.6047524752475247,
          "data/rule53_ic8932_rotation.npy": 0.9517821782178217,
          "data/rule13_ic8932_inversion.npy": 0.6134653465346535,
          "data/rule163_ic8932_reflection.npy": 0.7548514851485149,
          "data/rule197_ic8932_identity.npy": 0.6047524752475247,
-         "data/rule70_ic8932_shift.npy": 0.6043564356435643,
          "data/rule197_ic8932_reflection.npy": 0.605049504950495,
          "data/rule113_ic8932_rotation.npy": 0.9121782178217822,
          "data/rule91_ic8932_rotation.npy": 0.9501980198019803,
@@ -121,13 +110,11 @@
          "data/rule199_ic8932_inversion.npy": 0.5958415841584158,
          "data/rule63_ic8932_rotation.npy": 0.980891089108911,
          "data/rule157_ic8932_inversion.npy": 0.5961386138613861,
-         "data/rule157_ic8932_shift.npy": 0.596039603960396,
          "data/rule69_ic8932_inversion.npy": 0.6216831683168317,
          "data/rule114_ic8932_reflection.npy": 0.7637623762376237,
          "data/rule89_ic8932_rotation.npy": 0.6256435643564356,
          "data/rule28_ic8932_inversion.npy": 0.6047524752475247,
          "data/rule13_ic8932_reflection.npy": 0.6133663366336634,
-         "data/rule77_ic8932_shift.npy": 0.7922772277227723,
          "data/rule186_ic8932_reflection.npy": 0.7632673267326733,
          "data/rule121_ic8932_rotation.npy": 0.8215841584158415,
          "data/rule31_ic8932_rotation.npy": 0.9806930693069306,
@@ -141,8 +128,6 @@
          "data/rule178_ic8932_reflection.npy": 0.7826732673267327,
          "data/rule177_ic8932_rotation.npy": 0.7727722772277227,
          "data/rule67_ic8932_rotation.npy": 0.9329702970297029,
-         "data/rule179_ic8932_shift.npy": 0.7736633663366336,
-         "data/rule28_ic8932_shift.npy": 0.6047524752475247,
          "data/rule37_ic8932_rotation.npy": 0.9502970297029704,
          "data/rule127_ic8932_rotation.npy": 0.9705940594059407,
          "data/rule95_ic8932_rotation.npy": 0.9412871287128712,
@@ -155,8 +140,6 @@
          "data/rule125_ic8932_rotation.npy": 0.9126732673267327,
          "data/rule13_ic8932_identity.npy": 0.6134653465346535,
          "data/rule178_ic8932_inversion.npy": 0.7825742574257426,
-         "data/rule78_ic8932_shift.npy": 0.596039603960396,
-         "data/rule133_ic8932_shift.npy": 0.7738613861386139,
          "data/rule94_ic8932_inversion.npy": 0.6476237623762376,
          "data/rule21_ic8932_rotation.npy": 0.98009900990099,
          "data/rule131_ic8932_rotation.npy": 0.5481188118811882,
@@ -164,19 +147,14 @@
          "data/rule83_ic8932_rotation.npy": 0.9616831683168316,
          "data/rule179_ic8932_rotation.npy": 0.808019801980198,
          "data/rule242_ic8932_rotation.npy": 0.7724752475247525,
-         "data/rule156_ic8932_shift.npy": 0.6047524752475247,
-         "data/rule177_ic8932_shift.npy": 0.7544554455445545,
          "data/rule71_ic8932_rotation.npy": 0.9117821782178218,
          "data/rule197_ic8932_inversion.npy": 0.6047524752475247,
          "data/rule39_ic8932_rotation.npy": 0.9614851485148515,
          "data/rule178_ic8932_rotation.npy": 0.808019801980198,
-         "data/maximum_complexity.npy": 0.4964,
-         "data/rule69_ic8932_shift.npy": 0.6132673267326733,
+         "data/maximum_complexity.npy": 0.501,
          "data/rule198_ic8932_inversion.npy": 0.6046534653465346,
-         "data/rule163_ic8932_shift.npy": 0.754950495049505,
          "data/rule23_ic8932_rotation.npy": 0.9901980198019801,
          "data/rule81_ic8932_rotation.npy": 0.9313861386138613,
-         "data/rule13_ic8932_shift.npy": 0.6132673267326733,
          "data/rule242_ic8932_reflection.npy": 0.7633663366336634,
          "data/rule99_ic8932_rotation.npy": 0.7955445544554455,
          "data/rule50_ic8932_inversion.npy": 0.7823762376237624,
@@ -186,92 +164,87 @@
          "data/rule156_ic8932_inversion.npy": 0.6047524752475247,
          "data/rule73_ic8932_rotation.npy": 0.5949504950495049,
          "data/rule75_ic8932_rotation.npy": 0.6068316831683168,
-         "data/rule94_ic8932_shift.npy": 0.6474257425742574,
-         "data/rule242_ic8932_shift.npy": 0.7629702970297029,
-         "data/rule178_ic8932_shift.npy": 0.7823762376237624,
          "data/rule179_ic8932_inversion.npy": 0.774059405940594,
          "data/rule87_ic8932_rotation.npy": 0.980891089108911,
          "data/rule25_ic8932_rotation.npy": 0.9317821782178218,
          "data/rule141_ic8932_inversion.npy": 0.6051485148514851,
          "data/rule70_ic8932_inversion.npy": 0.6044554455445544,
-         "data/rule79_ic8932_shift.npy": 0.6047524752475247,
          "data/rule141_ic8932_identity.npy": 0.6051485148514851,
          "data/rule85_ic8932_rotation.npy": 0.9117821782178218,
          "data/rule27_ic8932_rotation.npy": 0.9519801980198019,
-         "data/rule50_ic8932_identity.npy": 0.7823762376237624,
-         "data/rule58_ic8932_shift.npy": 0.7637623762376237
+         "data/rule50_ic8932_identity.npy": 0.7823762376237624
       }
    },
    "HuffmanEncoding": {
       "limits": {
          "min_complexity": 0.33340000000000003,
-         "max_complexity": 1.0394
+         "max_complexity": 1.0395999999999999
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.33340000000000003
       },
       "too_large": {
-         "data/maximum_complexity.npy": 1.0394
+         "data/maximum_complexity.npy": 1.0395999999999999
       }
    },
    "ZLIB": {
       "limits": {
          "min_complexity": 0.0034,
-         "max_complexity": 0.1703
+         "max_complexity": 0.1701
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.0034
       },
       "too_large": {
-         "data/maximum_complexity.npy": 0.1703
+         "data/maximum_complexity.npy": 0.1701
       }
    },
    "GZIP": {
       "limits": {
          "min_complexity": 0.0046,
-         "max_complexity": 0.1715
+         "max_complexity": 0.1713
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.0046
       },
       "too_large": {
-         "data/maximum_complexity.npy": 0.1715
+         "data/maximum_complexity.npy": 0.1713
       }
    },
    "BZ2": {
       "limits": {
          "min_complexity": 0.0044,
-         "max_complexity": 0.169
+         "max_complexity": 0.1692
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.0044
       },
       "too_large": {
-         "data/maximum_complexity.npy": 0.169
+         "data/maximum_complexity.npy": 0.1692
       }
    },
    "LZMA": {
       "limits": {
          "min_complexity": 0.010799999999999999,
-         "max_complexity": 0.16799999999999998
+         "max_complexity": 0.16599999999999998
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.010799999999999999
       },
       "too_large": {
-         "data/maximum_complexity.npy": 0.16799999999999998
+         "data/maximum_complexity.npy": 0.16599999999999998
       }
    },
    "BlockDecompositionMethod": {
       "limits": {
          "min_complexity": 0.0,
-         "max_complexity": 9.27171237954945
+         "max_complexity": 9.278112379549453
       },
       "too_small": {
          "data/minimum_complexity.npy": 0.0
       },
       "too_large": {
-         "data/maximum_complexity.npy": 9.27171237954945
+         "data/maximum_complexity.npy": 9.278112379549453
       }
    }
 }

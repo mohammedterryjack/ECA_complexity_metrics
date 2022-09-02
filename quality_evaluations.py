@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, List
 from pandas import DataFrame
 from json import load, dump
 from numpy import corrcoef
@@ -14,10 +14,6 @@ class QualityEvaluations:
         with open(f"{self.results_path}/pearsons_correlations.json","w") as results_file:
             dump(correlation_results, results_file, indent = 3)
 
-        anomalous_results = self.analyse_anomalous_complexities(complexities=complexities)
-        with open(f"{self.results_path}/anomalous_complexities.json","w") as results_file:
-            dump(anomalous_results, results_file, indent = 3)
-
         symmetry_results = self.symmetry_equivalence(complexities=complexities)
         with open(f"{self.results_path}/symmetry_equivalence.json","w") as results_file:
             dump(symmetry_results, results_file, indent = 3)
@@ -25,6 +21,14 @@ class QualityEvaluations:
         extrema_results = self.within_limits(complexities=complexities)
         with open(f"{self.results_path}/within_limits.json","w") as results_file:
             dump(extrema_results, results_file, indent = 3)
+        
+        comparison_results = self.compare_a_pair_of_metrics(complexities=complexities)
+        with open(f"{self.results_path}/main_differences_between_two_metrics.json","w") as results_file:
+            dump(comparison_results, results_file, indent = 3)
+
+        qualitative_results = self.randomly_sampling_different_complexities(complexities=complexities)
+        with open(f"{self.results_path}/samples_per_complexity.json","w") as results_file:
+            dump(qualitative_results, results_file, indent = 3)
 
     @staticmethod
     def load_complexities(results_path) -> DataFrame:
@@ -32,15 +36,41 @@ class QualityEvaluations:
             results = load(results_file)
         return DataFrame(results).T
 
-    @staticmethod 
-    def analyse_anomalous_complexities(complexities:DataFrame) -> Dict[str, Dict[str,float]]:
-        anomalous_compexities = dict(rule=dict(metrica=0.3,metricb=0.4,metricc=0.4))
-        #TODO: normalise all complexity values
-        #TODO: compare the complexities for each sample
-        #TODO: get the difference from the proposed metric to others
-        #TODO: when all metrics have a high difference <- add the result to differences
-        #TODO: return differences
-        return anomalous_compexities 
+    @staticmethod
+    def randomly_sampling_different_complexities(complexities:DataFrame) -> Dict[str,List[str]]:
+        fourier_complexities = complexities['LosslessFourierCompression']
+        results = fourier_complexities.sort_values()
+        results = results[results.index.str.contains("identity")]
+        return dict(
+            min_complexity=fourier_complexities[fourier_complexities.index.str.contains("minimum")].to_dict(),
+            low_complexity=results[:2].to_dict(),
+            mid_complexity=dict(
+                **results[results==results.quantile(interpolation='lower')].to_dict(),
+                **results[results==results.quantile(interpolation='higher')].to_dict(),
+            ),
+            high_complexity=results[-2:].to_dict(),
+            max_complexity=fourier_complexities[fourier_complexities.index.str.contains("maximum")].to_dict(),
+        )
+
+    @staticmethod
+    def compare_a_pair_of_metrics(complexities:DataFrame) -> Dict[str,Dict[str,float]]:        
+        metric_a = 'LosslessFourierCompression'      
+        metric_b = 'BlockDecompositionMethod'
+        delta = 0.5
+
+        values_baseline = (
+            complexities[metric_a]/complexities[metric_a].max()
+        ) 
+        values_other = (
+            complexities[metric_b]/complexities[metric_b].max()
+        ) 
+
+        values_difference = values_baseline - values_other
+        values_above_threshold = abs(values_difference) > delta
+
+        results = complexities[values_above_threshold][[metric_a,metric_b]]
+        results = results[results.index.str.contains("identity")]
+        return results.T.to_dict()
 
     @staticmethod
     def pearson_correlation(complexities:DataFrame) -> Dict[str,float]:
@@ -52,7 +82,7 @@ class QualityEvaluations:
 
     @staticmethod
     def symmetry_equivalence(complexities:DataFrame) -> Dict[int,Dict[str,Dict[str,float]]]:
-        SYMMETRIES = ("identity","inversion","shift","rotation","reflection","total")
+        SYMMETRIES = ("identity","inversion","rotation","reflection","total")
         results = dict()
         totals = dict()
         for rule_number in range(256):
@@ -61,7 +91,9 @@ class QualityEvaluations:
             rule_complexities = complexities[complexities.index.str.contains(rule)]
             identity_rule_complexities = complexities[complexities.index.str.contains(rule) & complexities.index.str.contains("identity")]
             for metric_name in complexities:
+                max_complexity = complexities[metric_name].max()
                 rule_complexity_differences = identity_rule_complexities[metric_name][0] - rule_complexities[metric_name]
+                rule_complexity_differences /= max_complexity
                 rule_complexity_differences = rule_complexity_differences.to_dict()
                 total = sum(map(abs,rule_complexity_differences.values()))
                 if metric_name not in totals:
