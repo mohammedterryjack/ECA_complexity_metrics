@@ -22,10 +22,6 @@ class QualityEvaluations:
         with open(f"{self.results_path}/within_limits.json","w") as results_file:
             dump(extrema_results, results_file, indent = 3)
         
-        comparison_results = self.compare_a_pair_of_metrics(complexities=complexities)
-        with open(f"{self.results_path}/main_differences_between_two_metrics.json","w") as results_file:
-            dump(comparison_results, results_file, indent = 3)
-
         qualitative_results = self.randomly_sampling_different_complexities(complexities=complexities)
         with open(f"{self.results_path}/samples_per_complexity.json","w") as results_file:
             dump(qualitative_results, results_file, indent = 3)
@@ -38,33 +34,16 @@ class QualityEvaluations:
 
     @staticmethod
     def randomly_sampling_different_complexities(complexities:DataFrame, n_samples:int=10) -> Dict[str,List[str]]:
+        complexities_identities = complexities[complexities.index.str.contains("identity")]
+        fourier_complexities = complexities_identities['LosslessFourierCompression']
         results = dict()
         for desired_complexity in range(n_samples):
             desired_complexity /= n_samples
-            distance_from_desired = desired_complexity-complexities['LosslessFourierCompression']
-            closest_to_desired = distance_from_desired.abs().sort_values().index.to_list()[0]
-            results[desired_complexity] = closest_to_desired
+            difference_from_desired = desired_complexity-fourier_complexities
+            almost_desired = difference_from_desired.abs().sort_values()
+            actual_complexity = fourier_complexities[almost_desired.index].values[0]
+            results[actual_complexity] = almost_desired.index.to_list()[0]
         return results
-
-    @staticmethod
-    def compare_a_pair_of_metrics(complexities:DataFrame) -> Dict[str,Dict[str,float]]:        
-        metric_a = 'LosslessFourierCompression'      
-        metric_b = 'BlockDecompositionMethod'
-        delta = 0.5
-
-        values_baseline = (
-            complexities[metric_a]/complexities[metric_a].max()
-        ) 
-        values_other = (
-            complexities[metric_b]/complexities[metric_b].max()
-        ) 
-
-        values_difference = values_baseline - values_other
-        values_above_threshold = abs(values_difference) > delta
-
-        results = complexities[values_above_threshold][[metric_a,metric_b]]
-        results = results[results.index.str.contains("identity")]
-        return results.T.to_dict()
 
     @staticmethod
     def pearson_correlation(complexities:DataFrame) -> Dict[str,float]:
@@ -115,8 +94,8 @@ class QualityEvaluations:
             max_complexity = metric_complexities[metric_complexities.index.str.contains("maximum_complexity")].tolist()[0]
             results[metric_name] = dict(
                 limits = dict(min_complexity=min_complexity,max_complexity=max_complexity),
-                too_small=metric_complexities[metric_complexities<=min_complexity].to_dict(),
-                too_large=metric_complexities[metric_complexities>=max_complexity].to_dict()
+                too_small=metric_complexities[metric_complexities<min_complexity].to_dict(),
+                too_large=metric_complexities[metric_complexities>max_complexity].to_dict()
             )
         return results
 

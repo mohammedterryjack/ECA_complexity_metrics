@@ -32,8 +32,8 @@ class LatexTableFormatter:
             evaluation = load(evaluation_file)
         summary = dict()
         for metric in evaluation:
-            too_small = len(evaluation[metric]["too_small"])-1
-            too_large = len(evaluation[metric]["too_large"])-1
+            too_small = len(evaluation[metric]["too_small"])
+            too_large = len(evaluation[metric]["too_large"])
             summary[metric] = dict(
                 nBelowMinComplexity = too_small,
                 mAboveMaxComplexity = too_large,
@@ -51,12 +51,12 @@ class LatexTableFormatter:
     def view_samples(self) -> None:
         with open(f"{self.evaluations_path}/samples_per_complexity.json") as evaluation_file:
             evaluation = load(evaluation_file)
-        for filename in evaluation.values():
+        for complexity,filename in evaluation.items():
             with open(filename, 'rb') as spacetime_file:
                 spacetime_evolution=np_load(spacetime_file)  
             rule = filename.lstrip("data/").split("_")[0]              
             imshow(spacetime_evolution,cmap="gray")
-            title(rule)
+            title(f"{rule} ({round(float(complexity),5)})")
             show()
                     
 formatter = LatexTableFormatter(evaluations_path="results")
