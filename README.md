@@ -67,4 +67,4 @@ Test & 0.000000 & 0.000000 & 0.000000 & 0.000000 & 0.000000 & 0.000000 \\
 \end{tabular}
 ```
 
-![](images/latexTable.png)
+![](images/pearson_correlation.png)
