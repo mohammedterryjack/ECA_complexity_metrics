@@ -51,14 +51,13 @@ class LatexTableFormatter:
     def view_samples(self) -> None:
         with open(f"{self.evaluations_path}/samples_per_complexity.json") as evaluation_file:
             evaluation = load(evaluation_file)
-        for complexity_type, examples in evaluation.items():
-            for filename,complexity_value in examples.items():
-                with open(filename, 'rb') as spacetime_file:
-                    spacetime_evolution=np_load(spacetime_file)  
-                rule = filename.lstrip("data/").split("_")[0]              
-                imshow(spacetime_evolution,cmap="gray")
-                title(f"{complexity_type} {rule} ({round(complexity_value,4)})")
-                show()
+        for filename in evaluation.values():
+            with open(filename, 'rb') as spacetime_file:
+                spacetime_evolution=np_load(spacetime_file)  
+            rule = filename.lstrip("data/").split("_")[0]              
+            imshow(spacetime_evolution,cmap="gray")
+            title(rule)
+            show()
                     
 formatter = LatexTableFormatter(evaluations_path="results")
 print(formatter.pearsons_correlation())

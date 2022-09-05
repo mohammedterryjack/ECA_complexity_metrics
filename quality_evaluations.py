@@ -37,20 +37,14 @@ class QualityEvaluations:
         return DataFrame(results).T
 
     @staticmethod
-    def randomly_sampling_different_complexities(complexities:DataFrame) -> Dict[str,List[str]]:
-        fourier_complexities = complexities['LosslessFourierCompression']
-        results = fourier_complexities.sort_values()
-        results = results[results.index.str.contains("identity")]
-        return dict(
-            min_complexity=fourier_complexities[fourier_complexities.index.str.contains("minimum")].to_dict(),
-            low_complexity=results[:2].to_dict(),
-            mid_complexity=dict(
-                **results[results==results.quantile(interpolation='lower')].to_dict(),
-                **results[results==results.quantile(interpolation='higher')].to_dict(),
-            ),
-            high_complexity=results[-2:].to_dict(),
-            max_complexity=fourier_complexities[fourier_complexities.index.str.contains("maximum")].to_dict(),
-        )
+    def randomly_sampling_different_complexities(complexities:DataFrame, n_samples:int=10) -> Dict[str,List[str]]:
+        results = dict()
+        for desired_complexity in range(n_samples):
+            desired_complexity /= n_samples
+            distance_from_desired = desired_complexity-complexities['LosslessFourierCompression']
+            closest_to_desired = distance_from_desired.abs().sort_values().index.to_list()[0]
+            results[desired_complexity] = closest_to_desired
+        return results
 
     @staticmethod
     def compare_a_pair_of_metrics(complexities:DataFrame) -> Dict[str,Dict[str,float]]:        

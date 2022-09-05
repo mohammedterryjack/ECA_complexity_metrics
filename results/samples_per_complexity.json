@@ -1,20 +1,12 @@
 {
-   "min_complexity": {
-      "data/minimum_complexity.npy": 0.0
-   },
-   "low_complexity": {
-      "data/rule204_ic8932_identity.npy": 0.003367003367003367,
-      "data/rule162_ic8932_identity.npy": 0.03752475247524752
-   },
-   "mid_complexity": {
-      "data/rule190_ic8932_identity.npy": 0.36613861386138613,
-      "data/rule47_ic8932_identity.npy": 0.3702970297029703
-   },
-   "high_complexity": {
-      "data/rule150_ic8932_identity.npy": 0.7665346534653464,
-      "data/rule45_ic8932_identity.npy": 0.7805940594059405
-   },
-   "max_complexity": {
-      "data/maximum_complexity.npy": 0.8571
-   }
+   "0.0": "data/minimum_complexity.npy",
+   "0.1": "data/rule83_ic8932_inversion.npy",
+   "0.2": "data/rule248_ic8932_reflection.npy",
+   "0.3": "data/rule178_ic8932_reflection.npy",
+   "0.4": "data/rule70_ic8932_inversion.npy",
+   "0.5": "data/rule236_ic8932_identity.npy",
+   "0.6": "data/rule137_ic8932_reflection.npy",
+   "0.7": "data/rule89_ic8932_reflection.npy",
+   "0.8": "data/rule149_ic8932_rotation.npy",
+   "0.9": "data/maximum_complexity.npy"
 }

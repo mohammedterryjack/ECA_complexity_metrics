@@ -1,7 +1,7 @@
 from numpy import fliplr, rot90, save, zeros, random
 from eca import OneDimensionalElementaryCellularAutomata 
 
-def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
+def generate(path:str,width:int,depth:int,initial_condition:int, transient_time:int) -> None:
     nothingness = zeros(shape=(width,depth),dtype=int)
     with open(f"{path}/minimum_complexity.npy", 'wb') as spacetime_file:
         save(spacetime_file, nothingness, allow_pickle=False)
@@ -25,6 +25,7 @@ def generate(path:str,width:int,depth:int,initial_condition:int) -> None:
             ca.transition(rule)
         for symmetry,transform in symmetry_transformations.items():
             with open(f"{path}/rule{rule}_ic{initial_condition}_{symmetry}.npy", 'wb') as spacetime_file:
-                save(spacetime_file, transform(image=ca.evolution()), allow_pickle=False)
+                spacetime_evolution = ca.evolution()[transient_time:]
+                save(spacetime_file, transform(image=spacetime_evolution), allow_pickle=False)
 
-generate(path="data",width=100,depth=100,initial_condition=8932)
+generate(path="data",width=100,depth=110,initial_condition=8932,transient_time=10)
