@@ -1,11 +1,3 @@
-# 0. Install Dependencies
-```
-pip install eca
-```
-For a full list of dependencies, see `requiremeents.txt`
-
----
-
 # 1. Generate Dataset
 ```
 python generate_data.py
