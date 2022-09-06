@@ -83,8 +83,8 @@ class QualityEvaluations:
             for total in totals[metric]:
                 totals[metric][total] /= n_rules
         results['averages'] = totals
-        return results
-
+        return results 
+        
     @staticmethod
     def within_limits(complexities:DataFrame) -> Dict[str,Dict[str,Dict[str,float]]]:
         results = dict()

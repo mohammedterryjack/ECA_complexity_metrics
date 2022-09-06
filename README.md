@@ -56,7 +56,7 @@ Evaluation results will be stored in `results`
 
 # 4. Display Evaluation Summaries
 ```
-python summarise_as_latex.py
+python show_summaries.py
 ```
 
 ```latex
