@@ -83,7 +83,9 @@ class LosslessFourierCompression:
         z_hat = self.F(s).reshape(ω*T)
         m = ones(ω*T)
 
-        for index_larger_coefficient in abs(z_hat.real).argsort():
+        for index_larger_coefficient in (
+            abs(z_hat.real)+abs(z_hat.imag)        
+        ).argsort():
             z_hat[index_larger_coefficient]=0
             loss = self.ɛ(
                 s=s, 
