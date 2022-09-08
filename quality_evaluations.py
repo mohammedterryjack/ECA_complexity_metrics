@@ -34,7 +34,7 @@ class QualityEvaluations:
 
     @staticmethod
     def randomly_sampling_different_complexities(complexities:DataFrame, n_samples:int=10) -> Dict[str,List[str]]:
-        complexities_identities = complexities[complexities.index.str.contains("identity")]
+        complexities_identities = complexities[complexities.index.str.contains("identity") | complexities.index.str.contains("maximum")]
         fourier_complexities = complexities_identities['LosslessFourierCompression']
         results = dict()
         for desired_complexity in range(n_samples):
