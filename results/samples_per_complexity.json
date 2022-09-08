@@ -1,10 +1,10 @@
 {
-   "0.0": "data/rule96_ic8932_identity.npy",
+   "0.0": "data/rule160_ic8932_identity.npy",
    "0.09524752475247525": "data/rule246_ic8932_identity.npy",
    "0.2": "data/rule71_ic8932_identity.npy",
    "0.3": "data/rule145_ic8932_identity.npy",
    "0.3979207920792079": "data/rule26_ic8932_identity.npy",
-   "0.5023762376237624": "data/rule165_ic8932_identity.npy",
+   "0.5023762376237624": "data/rule90_ic8932_identity.npy",
    "0.5977227722772277": "data/rule105_ic8932_identity.npy",
-   "0.6096039603960396": "data/rule22_ic8932_identity.npy"
+   "0.6482": "data/maximum_complexity.npy"
 }
