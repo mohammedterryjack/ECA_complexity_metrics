@@ -1,10 +1,10 @@
 {
-   "LosslessFourierCompression": 1.0,
-   "RunLengthEncoding": 0.38399576226495913,
-   "HuffmanEncoding": 0.8188340973145578,
-   "ZLIB": 0.8917637090447963,
-   "GZIP": 0.8917633613886101,
-   "BZ2": 0.8825800355028431,
-   "LZMA": 0.8506132953252163,
-   "BlockDecompositionMethod": 0.8900462936636042
+   "LosslessFourierCompression": 0.9999999999999999,
+   "RunLengthEncoding": 0.4273279958061305,
+   "HuffmanEncoding": 0.8307177410984425,
+   "ZLIB": 0.8570418297923464,
+   "GZIP": 0.857041512805634,
+   "BZ2": 0.854448096874311,
+   "LZMA": 0.8092931269372642,
+   "BlockDecompositionMethod": 0.8492577015404369
 }

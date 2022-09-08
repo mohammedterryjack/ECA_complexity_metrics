@@ -2,7 +2,7 @@
    "LosslessFourierCompression": {
       "limits": {
          "min_complexity": 0.0,
-         "max_complexity": 0.8631
+         "max_complexity": 0.6482
       },
       "too_small": {},
       "too_large": {}

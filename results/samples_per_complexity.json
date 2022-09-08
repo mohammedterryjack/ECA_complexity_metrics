@@ -1,11 +1,10 @@
 {
-   "0.0": "data/rule8_ic8932_identity.npy",
-   "0.0994059405940594": "data/rule13_ic8932_identity.npy",
-   "0.19950495049504952": "data/rule81_ic8932_identity.npy",
-   "0.30316831683168316": "data/rule99_ic8932_identity.npy",
-   "0.39732673267326735": "data/rule51_ic8932_identity.npy",
-   "0.49009900990099015": "data/rule169_ic8932_identity.npy",
-   "0.5901980198019802": "data/rule102_ic8932_identity.npy",
-   "0.7": "data/rule73_ic8932_identity.npy",
-   "0.7857425742574258": "data/rule149_ic8932_identity.npy"
+   "0.0": "data/rule96_ic8932_identity.npy",
+   "0.09524752475247525": "data/rule246_ic8932_identity.npy",
+   "0.2": "data/rule71_ic8932_identity.npy",
+   "0.3": "data/rule145_ic8932_identity.npy",
+   "0.3979207920792079": "data/rule26_ic8932_identity.npy",
+   "0.5023762376237624": "data/rule165_ic8932_identity.npy",
+   "0.5977227722772277": "data/rule105_ic8932_identity.npy",
+   "0.6096039603960396": "data/rule22_ic8932_identity.npy"
 }

@@ -4,8 +4,8 @@
          "data/rule0_ic8932_rotation.npy": 0.0,
          "data/rule0_ic8932_identity.npy": 0.0,
          "data/rule0_ic8932_reflection.npy": 0.0,
-         "data/rule0_ic8932_inversion.npy": -0.011471428686142858,
-         "total": 0.011471428686142858
+         "data/rule0_ic8932_inversion.npy": -0.01527459132830901,
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule0_ic8932_rotation.npy": 0.0,
@@ -59,11 +59,11 @@
    },
    "rule1_": {
       "LosslessFourierCompression": {
-         "data/rule1_ic8932_rotation.npy": -0.054948143406624274,
-         "data/rule1_ic8932_reflection.npy": -0.054948143406624274,
+         "data/rule1_ic8932_rotation.npy": 0.0007637295664154512,
+         "data/rule1_ic8932_reflection.npy": 0.0007637295664154512,
          "data/rule1_ic8932_identity.npy": 0.0,
          "data/rule1_ic8932_inversion.npy": 0.0,
-         "total": 0.10989628681324855
+         "total": 0.0015274591328309024
       },
       "RunLengthEncoding": {
          "data/rule1_ic8932_rotation.npy": -0.9091817364372066,
@@ -117,11 +117,11 @@
    },
    "rule2_": {
       "LosslessFourierCompression": {
-         "data/rule2_ic8932_rotation.npy": -0.029155108679597273,
+         "data/rule2_ic8932_rotation.npy": 0.00014155019459950293,
          "data/rule2_ic8932_inversion.npy": 0.0,
          "data/rule2_ic8932_identity.npy": 0.0,
-         "data/rule2_ic8932_reflection.npy": -0.029137428862802857,
-         "total": 0.05829253754240013
+         "data/rule2_ic8932_reflection.npy": 0.00015274591328309024,
+         "total": 0.00029429610788259315
       },
       "RunLengthEncoding": {
          "data/rule2_ic8932_rotation.npy": 0.0,
@@ -175,11 +175,11 @@
    },
    "rule3_": {
       "LosslessFourierCompression": {
-         "data/rule3_ic8932_rotation.npy": 0.006653428637962856,
-         "data/rule3_ic8932_inversion.npy": -0.005965142916794292,
-         "data/rule3_ic8932_reflection.npy": 0.005047428621902854,
+         "data/rule3_ic8932_rotation.npy": -0.004124139658643431,
+         "data/rule3_ic8932_inversion.npy": 0.0,
+         "data/rule3_ic8932_reflection.npy": -0.004124139658643431,
          "data/rule3_ic8932_identity.npy": 0.0,
-         "total": 0.017666000176660004
+         "total": 0.008248279317286862
       },
       "RunLengthEncoding": {
          "data/rule3_ic8932_rotation.npy": -0.900889199720252,
@@ -233,11 +233,11 @@
    },
    "rule4_": {
       "LosslessFourierCompression": {
-         "data/rule4_ic8932_rotation.npy": 4.891419774699238e-05,
+         "data/rule4_ic8932_rotation.npy": -0.0002211877249490342,
          "data/rule4_ic8932_inversion.npy": 0.0,
-         "data/rule4_ic8932_reflection.npy": 0.000228905784094648,
+         "data/rule4_ic8932_reflection.npy": -6.960879195228764e-07,
          "data/rule4_ic8932_identity.npy": 0.0,
-         "total": 0.0002778199818416404
+         "total": 0.00022188381286855708
       },
       "RunLengthEncoding": {
          "data/rule4_ic8932_rotation.npy": 0.05634928564292139,
@@ -291,11 +291,11 @@
    },
    "rule5_": {
       "LosslessFourierCompression": {
-         "data/rule5_ic8932_reflection.npy": 0.008833000088330009,
-         "data/rule5_ic8932_rotation.npy": 0.008833000088330009,
+         "data/rule5_ic8932_reflection.npy": -0.005651598791474339,
+         "data/rule5_ic8932_rotation.npy": -0.005651598791474339,
          "data/rule5_ic8932_identity.npy": 0.0,
          "data/rule5_ic8932_inversion.npy": 0.0,
-         "total": 0.017666000176660018
+         "total": 0.011303197582948678
       },
       "RunLengthEncoding": {
          "data/rule5_ic8932_reflection.npy": 0.0,
@@ -350,10 +350,10 @@
    "rule6_": {
       "LosslessFourierCompression": {
          "data/rule6_ic8932_inversion.npy": 0.0,
-         "data/rule6_ic8932_rotation.npy": 0.0025237143109514393,
+         "data/rule6_ic8932_rotation.npy": -0.007942787490720698,
          "data/rule6_ic8932_identity.npy": 0.0,
-         "data/rule6_ic8932_reflection.npy": 0.0025237143109514393,
-         "total": 0.005047428621902879
+         "data/rule6_ic8932_reflection.npy": -0.007942787490720698,
+         "total": 0.015885574981441396
       },
       "RunLengthEncoding": {
          "data/rule6_ic8932_inversion.npy": 0.0,
@@ -407,11 +407,11 @@
    },
    "rule7_": {
       "LosslessFourierCompression": {
-         "data/rule7_ic8932_rotation.npy": 0.021107428782502862,
-         "data/rule7_ic8932_reflection.npy": 0.020533857348195718,
+         "data/rule7_ic8932_rotation.npy": 0.0004582377398492707,
+         "data/rule7_ic8932_reflection.npy": 0.0004582377398492707,
          "data/rule7_ic8932_inversion.npy": 0.0,
          "data/rule7_ic8932_identity.npy": 0.0,
-         "total": 0.04164128613069858
+         "total": 0.0009164754796985415
       },
       "RunLengthEncoding": {
          "data/rule7_ic8932_rotation.npy": -0.9600359676291338,
@@ -466,10 +466,10 @@
    "rule8_": {
       "LosslessFourierCompression": {
          "data/rule8_ic8932_rotation.npy": 0.0,
-         "data/rule8_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule8_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule8_ic8932_reflection.npy": 0.0,
          "data/rule8_ic8932_identity.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule8_ic8932_rotation.npy": 0.0,
@@ -524,10 +524,10 @@
    "rule9_": {
       "LosslessFourierCompression": {
          "data/rule9_ic8932_inversion.npy": 0.0,
-         "data/rule9_ic8932_rotation.npy": -0.02420471452776139,
-         "data/rule9_ic8932_reflection.npy": -0.02420471452776139,
+         "data/rule9_ic8932_rotation.npy": 0.006262582444606657,
+         "data/rule9_ic8932_reflection.npy": 0.006262582444606657,
          "data/rule9_ic8932_identity.npy": 0.0,
-         "total": 0.04840942905552278
+         "total": 0.012525164889213314
       },
       "RunLengthEncoding": {
          "data/rule9_ic8932_inversion.npy": 0.0,
@@ -581,11 +581,11 @@
    },
    "rule10_": {
       "LosslessFourierCompression": {
-         "data/rule10_ic8932_rotation.npy": 0.031719985915771035,
-         "data/rule10_ic8932_reflection.npy": 0.031401587615603174,
+         "data/rule10_ic8932_rotation.npy": 0.00175634938147311,
+         "data/rule10_ic8932_reflection.npy": 0.0015428880129605064,
          "data/rule10_ic8932_inversion.npy": 0.0,
          "data/rule10_ic8932_identity.npy": 0.0,
-         "total": 0.06312157353137421
+         "total": 0.0032992373944336164
       },
       "RunLengthEncoding": {
          "data/rule10_ic8932_rotation.npy": 0.0,
@@ -639,11 +639,11 @@
    },
    "rule11_": {
       "LosslessFourierCompression": {
-         "data/rule11_ic8932_rotation.npy": -0.09453152475483899,
-         "data/rule11_ic8932_reflection.npy": -0.09837619145995237,
+         "data/rule11_ic8932_rotation.npy": 0.01417142639904221,
+         "data/rule11_ic8932_reflection.npy": 0.011571660097203753,
          "data/rule11_ic8932_identity.npy": 0.0,
          "data/rule11_ic8932_inversion.npy": 0.0,
-         "total": 0.19290771621479136
+         "total": 0.025743086496245963
       },
       "RunLengthEncoding": {
          "data/rule11_ic8932_rotation.npy": -0.8300529523428917,
@@ -697,11 +697,11 @@
    },
    "rule12_": {
       "LosslessFourierCompression": {
-         "data/rule12_ic8932_reflection.npy": 3.1839803743350647e-06,
+         "data/rule12_ic8932_reflection.npy": 0.00015568330413292617,
          "data/rule12_ic8932_inversion.npy": 0.0,
-         "data/rule12_ic8932_rotation.npy": -0.00024959976255024623,
+         "data/rule12_ic8932_rotation.npy": -6.550442081610804e-05,
          "data/rule12_ic8932_identity.npy": 0.0,
-         "total": 0.0002527837429245813
+         "total": 0.0002211877249490342
       },
       "RunLengthEncoding": {
          "data/rule12_ic8932_reflection.npy": 0.0,
@@ -755,11 +755,11 @@
    },
    "rule13_": {
       "LosslessFourierCompression": {
-         "data/rule13_ic8932_rotation.npy": 0.06492828636356857,
+         "data/rule13_ic8932_rotation.npy": -0.000610983653132361,
          "data/rule13_ic8932_inversion.npy": 0.0,
-         "data/rule13_ic8932_reflection.npy": 0.06492828636356857,
+         "data/rule13_ic8932_reflection.npy": -0.000610983653132361,
          "data/rule13_ic8932_identity.npy": 0.0,
-         "total": 0.12985657272713713
+         "total": 0.001221967306264722
       },
       "RunLengthEncoding": {
          "data/rule13_ic8932_rotation.npy": 0.4020381656509142,
@@ -813,11 +813,11 @@
    },
    "rule14_": {
       "LosslessFourierCompression": {
-         "data/rule14_ic8932_rotation.npy": -0.015858381110964766,
-         "data/rule14_ic8932_reflection.npy": -0.0161063493674127,
+         "data/rule14_ic8932_rotation.npy": -0.005992577042338606,
+         "data/rule14_ic8932_reflection.npy": -0.006171552051842025,
          "data/rule14_ic8932_identity.npy": 0.0,
          "data/rule14_ic8932_inversion.npy": 0.0,
-         "total": 0.031964730478377466
+         "total": 0.012164129094180631
       },
       "RunLengthEncoding": {
          "data/rule14_ic8932_rotation.npy": 0.0007992806474173252,
@@ -871,11 +871,11 @@
    },
    "rule15_": {
       "LosslessFourierCompression": {
-         "data/rule15_ic8932_rotation.npy": -0.028334428854772886,
+         "data/rule15_ic8932_rotation.npy": 0.007484549750871422,
          "data/rule15_ic8932_inversion.npy": 0.0,
          "data/rule15_ic8932_identity.npy": 0.0,
-         "data/rule15_ic8932_reflection.npy": -0.028334428854772886,
-         "total": 0.05666885770954577
+         "data/rule15_ic8932_reflection.npy": 0.007484549750871422,
+         "total": 0.014969099501742845
       },
       "RunLengthEncoding": {
          "data/rule15_ic8932_rotation.npy": -0.8300529523428917,
@@ -929,11 +929,11 @@
    },
    "rule16_": {
       "LosslessFourierCompression": {
-         "data/rule16_ic8932_rotation.npy": -0.02213985736425571,
-         "data/rule16_ic8932_reflection.npy": -0.02213985736425571,
+         "data/rule16_ic8932_rotation.npy": 0.014816353588459744,
+         "data/rule16_ic8932_reflection.npy": 0.014816353588459744,
          "data/rule16_ic8932_inversion.npy": 0.0,
          "data/rule16_ic8932_identity.npy": 0.0,
-         "total": 0.04427971472851142
+         "total": 0.029632707176919487
       },
       "RunLengthEncoding": {
          "data/rule16_ic8932_rotation.npy": -0.0005994604855629939,
@@ -987,11 +987,11 @@
    },
    "rule17_": {
       "LosslessFourierCompression": {
-         "data/rule17_ic8932_rotation.npy": -0.0012618571554757116,
-         "data/rule17_ic8932_inversion.npy": -0.0024090000240899983,
+         "data/rule17_ic8932_rotation.npy": 0.023828362472162058,
+         "data/rule17_ic8932_inversion.npy": 0.0,
          "data/rule17_ic8932_identity.npy": 0.0,
-         "data/rule17_ic8932_reflection.npy": -0.0009177142948914294,
-         "total": 0.00458857147445714
+         "data/rule17_ic8932_reflection.npy": 0.023828362472162058,
+         "total": 0.047656724944324116
       },
       "RunLengthEncoding": {
          "data/rule17_ic8932_rotation.npy": -0.8999900089919073,
@@ -1045,11 +1045,11 @@
    },
    "rule18_": {
       "LosslessFourierCompression": {
-         "data/rule18_ic8932_reflection.npy": 0.05480793705601586,
+         "data/rule18_ic8932_reflection.npy": 0.024377630604776088,
          "data/rule18_ic8932_inversion.npy": 0.0,
-         "data/rule18_ic8932_rotation.npy": 0.06139633265179696,
+         "data/rule18_ic8932_rotation.npy": 0.031101663712923,
          "data/rule18_ic8932_identity.npy": 0.0,
-         "total": 0.11620426970781282
+         "total": 0.05547929431769909
       },
       "RunLengthEncoding": {
          "data/rule18_ic8932_reflection.npy": 0.0005994604855629378,
@@ -1103,11 +1103,11 @@
    },
    "rule19_": {
       "LosslessFourierCompression": {
-         "data/rule19_ic8932_rotation.npy": -0.014267960672036993,
+         "data/rule19_ic8932_rotation.npy": -0.007441481829529073,
          "data/rule19_ic8932_inversion.npy": 0.0,
-         "data/rule19_ic8932_reflection.npy": -0.008259428654022898,
+         "data/rule19_ic8932_reflection.npy": -0.0003054918265661805,
          "data/rule19_ic8932_identity.npy": 0.0,
-         "total": 0.02252738932605989
+         "total": 0.0077469736560952535
       },
       "RunLengthEncoding": {
          "data/rule19_ic8932_rotation.npy": -0.969127784993506,
@@ -1161,11 +1161,11 @@
    },
    "rule20_": {
       "LosslessFourierCompression": {
-         "data/rule20_ic8932_reflection.npy": 0.19375243050895286,
+         "data/rule20_ic8932_reflection.npy": 0.007026312011022146,
          "data/rule20_ic8932_inversion.npy": 0.0,
          "data/rule20_ic8932_identity.npy": 0.0,
-         "data/rule20_ic8932_rotation.npy": 0.19375243050895286,
-         "total": 0.3875048610179057
+         "data/rule20_ic8932_rotation.npy": 0.007026312011022146,
+         "total": 0.014052624022044291
       },
       "RunLengthEncoding": {
          "data/rule20_ic8932_reflection.npy": -0.0007992806474173252,
@@ -1221,9 +1221,9 @@
       "LosslessFourierCompression": {
          "data/rule21_ic8932_identity.npy": 0.0,
          "data/rule21_ic8932_inversion.npy": 0.0,
-         "data/rule21_ic8932_reflection.npy": -0.001835428589782859,
-         "data/rule21_ic8932_rotation.npy": 0.005043634348600051,
-         "total": 0.00687906293838291
+         "data/rule21_ic8932_reflection.npy": -0.001985696872680168,
+         "data/rule21_ic8932_rotation.npy": -0.0019935928289817884,
+         "total": 0.003979289701661956
       },
       "RunLengthEncoding": {
          "data/rule21_ic8932_identity.npy": 0.0,
@@ -1277,11 +1277,11 @@
    },
    "rule22_": {
       "LosslessFourierCompression": {
-         "data/rule22_ic8932_reflection.npy": -0.004473857187595719,
+         "data/rule22_ic8932_reflection.npy": 0.07820590760094204,
          "data/rule22_ic8932_identity.npy": 0.0,
          "data/rule22_ic8932_inversion.npy": 0.0,
-         "data/rule22_ic8932_rotation.npy": -0.004473857187595719,
-         "total": 0.008947714375191438
+         "data/rule22_ic8932_rotation.npy": 0.07820590760094204,
+         "total": 0.15641181520188407
       },
       "RunLengthEncoding": {
          "data/rule22_ic8932_reflection.npy": 0.0011989209711259878,
@@ -1336,10 +1336,10 @@
    "rule23_": {
       "LosslessFourierCompression": {
          "data/rule23_ic8932_identity.npy": 0.0,
-         "data/rule23_ic8932_reflection.npy": -0.00011826215140352147,
+         "data/rule23_ic8932_reflection.npy": -0.00031494002738777964,
          "data/rule23_ic8932_inversion.npy": 0.0,
-         "data/rule23_ic8932_rotation.npy": 0.009084898470819561,
-         "total": 0.009203160622223082
+         "data/rule23_ic8932_rotation.npy": 0.011542552003763407,
+         "total": 0.011857492031151187
       },
       "RunLengthEncoding": {
          "data/rule23_ic8932_identity.npy": 0.0,
@@ -1393,11 +1393,11 @@
    },
    "rule24_": {
       "LosslessFourierCompression": {
-         "data/rule24_ic8932_reflection.npy": -0.0008111111192222173,
+         "data/rule24_ic8932_reflection.npy": -0.004782952840177571,
          "data/rule24_ic8932_inversion.npy": 0.0,
          "data/rule24_ic8932_identity.npy": 0.0,
-         "data/rule24_ic8932_rotation.npy": -0.00042713974905819605,
-         "total": 0.0012382508682804133
+         "data/rule24_ic8932_rotation.npy": -0.00444109726083534,
+         "total": 0.00922405010101291
       },
       "RunLengthEncoding": {
          "data/rule24_ic8932_reflection.npy": -0.0007992806474173252,
@@ -1451,11 +1451,11 @@
    },
    "rule25_": {
       "LosslessFourierCompression": {
-         "data/rule25_ic8932_inversion.npy": -0.001738095255476189,
+         "data/rule25_ic8932_inversion.npy": 0.0,
          "data/rule25_ic8932_identity.npy": 0.0,
-         "data/rule25_ic8932_reflection.npy": -0.021900000218999998,
-         "data/rule25_ic8932_rotation.npy": 0.003952428610952864,
-         "total": 0.02759052408542905
+         "data/rule25_ic8932_reflection.npy": 0.0020057544168486574,
+         "data/rule25_ic8932_rotation.npy": 0.0022001583064816823,
+         "total": 0.004205912723330339
       },
       "RunLengthEncoding": {
          "data/rule25_ic8932_inversion.npy": 0.0,
@@ -1510,10 +1510,10 @@
    "rule26_": {
       "LosslessFourierCompression": {
          "data/rule26_ic8932_identity.npy": 0.0,
-         "data/rule26_ic8932_reflection.npy": 0.013421571562787156,
+         "data/rule26_ic8932_reflection.npy": -0.021078936033066455,
          "data/rule26_ic8932_inversion.npy": 0.0,
-         "data/rule26_ic8932_rotation.npy": 0.013421571562787156,
-         "total": 0.02684314312557431
+         "data/rule26_ic8932_rotation.npy": -0.021078936033066455,
+         "total": 0.04215787206613291
       },
       "RunLengthEncoding": {
          "data/rule26_ic8932_identity.npy": 0.0,
@@ -1569,9 +1569,9 @@
       "LosslessFourierCompression": {
          "data/rule27_ic8932_identity.npy": 0.0,
          "data/rule27_ic8932_inversion.npy": 0.0,
-         "data/rule27_ic8932_reflection.npy": 0.020648571635057147,
-         "data/rule27_ic8932_rotation.npy": 0.02340171451973143,
-         "total": 0.04405028615478858
+         "data/rule27_ic8932_reflection.npy": 0.0007637295664154512,
+         "data/rule27_ic8932_rotation.npy": 0.0007637295664154512,
+         "total": 0.0015274591328309024
       },
       "RunLengthEncoding": {
          "data/rule27_ic8932_identity.npy": 0.0,
@@ -1626,10 +1626,10 @@
    "rule28_": {
       "LosslessFourierCompression": {
          "data/rule28_ic8932_identity.npy": 0.0,
-         "data/rule28_ic8932_reflection.npy": 0.005047428621902798,
+         "data/rule28_ic8932_reflection.npy": -0.004276885571926527,
          "data/rule28_ic8932_inversion.npy": 0.0,
-         "data/rule28_ic8932_rotation.npy": 0.005047428621902798,
-         "total": 0.010094857243805596
+         "data/rule28_ic8932_rotation.npy": -0.004276885571926527,
+         "total": 0.008553771143853054
       },
       "RunLengthEncoding": {
          "data/rule28_ic8932_identity.npy": 0.0,
@@ -1684,10 +1684,10 @@
    "rule29_": {
       "LosslessFourierCompression": {
          "data/rule29_ic8932_identity.npy": 0.0,
-         "data/rule29_ic8932_reflection.npy": 0.009291857235775724,
-         "data/rule29_ic8932_rotation.npy": 0.009291857235775724,
+         "data/rule29_ic8932_reflection.npy": 0.002443934612529444,
+         "data/rule29_ic8932_rotation.npy": 0.002443934612529444,
          "data/rule29_ic8932_inversion.npy": 0.0,
-         "total": 0.01858371447155145
+         "total": 0.004887869225058888
       },
       "RunLengthEncoding": {
          "data/rule29_ic8932_identity.npy": 0.0,
@@ -1742,10 +1742,10 @@
    "rule30_": {
       "LosslessFourierCompression": {
          "data/rule30_ic8932_identity.npy": 0.0,
-         "data/rule30_ic8932_reflection.npy": -0.09223028663658854,
-         "data/rule30_ic8932_rotation.npy": -0.09223028663658854,
+         "data/rule30_ic8932_reflection.npy": 0.016343812721290485,
+         "data/rule30_ic8932_rotation.npy": 0.016343812721290485,
          "data/rule30_ic8932_inversion.npy": 0.0,
-         "total": 0.18446057327317708
+         "total": 0.03268762544258097
       },
       "RunLengthEncoding": {
          "data/rule30_ic8932_identity.npy": 0.0,
@@ -1800,10 +1800,10 @@
    "rule31_": {
       "LosslessFourierCompression": {
          "data/rule31_ic8932_identity.npy": 0.0,
-         "data/rule31_ic8932_rotation.npy": 0.012733285841618576,
-         "data/rule31_ic8932_reflection.npy": 0.012733285841618576,
+         "data/rule31_ic8932_rotation.npy": 0.00015274591328309024,
+         "data/rule31_ic8932_reflection.npy": 0.00015274591328309024,
          "data/rule31_ic8932_inversion.npy": 0.0,
-         "total": 0.02546657168323715
+         "total": 0.0003054918265661805
       },
       "RunLengthEncoding": {
          "data/rule31_ic8932_identity.npy": 0.0,
@@ -1857,11 +1857,11 @@
    },
    "rule32_": {
       "LosslessFourierCompression": {
-         "data/rule32_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule32_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule32_ic8932_identity.npy": 0.0,
          "data/rule32_ic8932_reflection.npy": 0.0,
          "data/rule32_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule32_ic8932_inversion.npy": 0.0,
@@ -1917,9 +1917,9 @@
       "LosslessFourierCompression": {
          "data/rule33_ic8932_identity.npy": 0.0,
          "data/rule33_ic8932_inversion.npy": 0.0,
-         "data/rule33_ic8932_rotation.npy": -0.010686968360838017,
-         "data/rule33_ic8932_reflection.npy": -0.01413650807787307,
-         "total": 0.024823476438711085
+         "data/rule33_ic8932_rotation.npy": -0.01021391864579851,
+         "data/rule33_ic8932_reflection.npy": -0.01373170331534847,
+         "total": 0.02394562196114698
       },
       "RunLengthEncoding": {
          "data/rule33_ic8932_identity.npy": 0.0,
@@ -1974,10 +1974,10 @@
    "rule34_": {
       "LosslessFourierCompression": {
          "data/rule34_ic8932_identity.npy": 0.0,
-         "data/rule34_ic8932_reflection.npy": 0.027875571707327147,
-         "data/rule34_ic8932_rotation.npy": 0.027849524040843454,
+         "data/rule34_ic8932_reflection.npy": -0.006262582444606694,
+         "data/rule34_ic8932_rotation.npy": -0.006283919054248972,
          "data/rule34_ic8932_inversion.npy": 0.0,
-         "total": 0.0557250957481706
+         "total": 0.012546501498855667
       },
       "RunLengthEncoding": {
          "data/rule34_ic8932_identity.npy": 0.0,
@@ -2032,10 +2032,10 @@
    "rule35_": {
       "LosslessFourierCompression": {
          "data/rule35_ic8932_identity.npy": 0.0,
-         "data/rule35_ic8932_inversion.npy": 0.01054444454988889,
-         "data/rule35_ic8932_rotation.npy": 0.012860746160353492,
-         "data/rule35_ic8932_reflection.npy": 0.011239682652079367,
-         "total": 0.03464487336232175
+         "data/rule35_ic8932_inversion.npy": 0.0,
+         "data/rule35_ic8932_rotation.npy": -0.015419622801527288,
+         "data/rule35_ic8932_reflection.npy": -0.01589174653349321,
+         "total": 0.031311369335020496
       },
       "RunLengthEncoding": {
          "data/rule35_ic8932_identity.npy": 0.0,
@@ -2089,11 +2089,11 @@
    },
    "rule36_": {
       "LosslessFourierCompression": {
-         "data/rule36_ic8932_reflection.npy": -0.00011589619858962,
+         "data/rule36_ic8932_reflection.npy": -0.0001543196683164156,
          "data/rule36_ic8932_identity.npy": 0.0,
          "data/rule36_ic8932_inversion.npy": 0.0,
-         "data/rule36_ic8932_rotation.npy": -0.00031156256924976975,
-         "total": 0.00042745876783938975
+         "data/rule36_ic8932_rotation.npy": -0.00038228895087145747,
+         "total": 0.0005366086191878731
       },
       "RunLengthEncoding": {
          "data/rule36_ic8932_reflection.npy": 0.0,
@@ -2149,9 +2149,9 @@
       "LosslessFourierCompression": {
          "data/rule37_ic8932_inversion.npy": 0.0,
          "data/rule37_ic8932_identity.npy": 0.0,
-         "data/rule37_ic8932_reflection.npy": 0.03877342895916283,
-         "data/rule37_ic8932_rotation.npy": 0.03877342895916283,
-         "total": 0.07754685791832566
+         "data/rule37_ic8932_reflection.npy": -0.001832950959397083,
+         "data/rule37_ic8932_rotation.npy": -0.001832950959397083,
+         "total": 0.003665901918794166
       },
       "RunLengthEncoding": {
          "data/rule37_ic8932_inversion.npy": 0.0,
@@ -2207,9 +2207,9 @@
       "LosslessFourierCompression": {
          "data/rule38_ic8932_inversion.npy": 0.0,
          "data/rule38_ic8932_identity.npy": 0.0,
-         "data/rule38_ic8932_reflection.npy": 0.0025237143109514393,
-         "data/rule38_ic8932_rotation.npy": 0.0025237143109514393,
-         "total": 0.005047428621902879
+         "data/rule38_ic8932_reflection.npy": -0.007942787490720698,
+         "data/rule38_ic8932_rotation.npy": -0.007942787490720698,
+         "total": 0.015885574981441396
       },
       "RunLengthEncoding": {
          "data/rule38_ic8932_inversion.npy": 0.0,
@@ -2263,11 +2263,11 @@
    },
    "rule39_": {
       "LosslessFourierCompression": {
-         "data/rule39_ic8932_inversion.npy": -0.007227000072269999,
+         "data/rule39_ic8932_inversion.npy": 0.0,
          "data/rule39_ic8932_identity.npy": 0.0,
-         "data/rule39_ic8932_rotation.npy": -0.034643714632151434,
-         "data/rule39_ic8932_reflection.npy": -0.034643714632151434,
-         "total": 0.07651442933657288
+         "data/rule39_ic8932_rotation.npy": 0.0009164754796985361,
+         "data/rule39_ic8932_reflection.npy": 0.0009164754796985361,
+         "total": 0.0018329509593970723
       },
       "RunLengthEncoding": {
          "data/rule39_ic8932_inversion.npy": 0.0,
@@ -2322,10 +2322,10 @@
    "rule40_": {
       "LosslessFourierCompression": {
          "data/rule40_ic8932_rotation.npy": 0.0,
-         "data/rule40_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule40_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule40_ic8932_reflection.npy": 0.0,
          "data/rule40_ic8932_identity.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule40_ic8932_rotation.npy": 0.0,
@@ -2380,10 +2380,10 @@
    "rule41_": {
       "LosslessFourierCompression": {
          "data/rule41_ic8932_inversion.npy": 0.0,
-         "data/rule41_ic8932_rotation.npy": -0.0817912865321986,
+         "data/rule41_ic8932_rotation.npy": 0.04139414249971746,
          "data/rule41_ic8932_identity.npy": 0.0,
-         "data/rule41_ic8932_reflection.npy": -0.0817912865321986,
-         "total": 0.1635825730643972
+         "data/rule41_ic8932_reflection.npy": 0.04139414249971746,
+         "total": 0.08278828499943491
       },
       "RunLengthEncoding": {
          "data/rule41_ic8932_inversion.npy": 0.0,
@@ -2437,11 +2437,11 @@
    },
    "rule42_": {
       "LosslessFourierCompression": {
-         "data/rule42_ic8932_rotation.npy": 0.031546428886892866,
-         "data/rule42_ic8932_reflection.npy": 0.031546428886892866,
+         "data/rule42_ic8932_rotation.npy": -0.0013747132195478123,
+         "data/rule42_ic8932_reflection.npy": -0.0013747132195478123,
          "data/rule42_ic8932_identity.npy": 0.0,
          "data/rule42_ic8932_inversion.npy": 0.0,
-         "total": 0.06309285777378573
+         "total": 0.0027494264390956246
       },
       "RunLengthEncoding": {
          "data/rule42_ic8932_rotation.npy": 0.0,
@@ -2495,11 +2495,11 @@
    },
    "rule43_": {
       "LosslessFourierCompression": {
-         "data/rule43_ic8932_rotation.npy": -0.09453152475483899,
+         "data/rule43_ic8932_rotation.npy": 0.01417142639904221,
          "data/rule43_ic8932_identity.npy": 0.0,
          "data/rule43_ic8932_inversion.npy": 0.0,
-         "data/rule43_ic8932_reflection.npy": -0.09837619145995237,
-         "total": 0.19290771621479136
+         "data/rule43_ic8932_reflection.npy": 0.011571660097203753,
+         "total": 0.025743086496245963
       },
       "RunLengthEncoding": {
          "data/rule43_ic8932_rotation.npy": -0.8300529523428917,
@@ -2554,10 +2554,10 @@
    "rule44_": {
       "LosslessFourierCompression": {
          "data/rule44_ic8932_inversion.npy": 0.0,
-         "data/rule44_ic8932_rotation.npy": 4.891419774699238e-05,
-         "data/rule44_ic8932_reflection.npy": 0.000228905784094648,
+         "data/rule44_ic8932_rotation.npy": -0.0002211877249490342,
+         "data/rule44_ic8932_reflection.npy": -6.960879195228764e-07,
          "data/rule44_ic8932_identity.npy": 0.0,
-         "total": 0.0002778199818416404
+         "total": 0.00022188381286855708
       },
       "RunLengthEncoding": {
          "data/rule44_ic8932_inversion.npy": 0.0,
@@ -2611,11 +2611,11 @@
    },
    "rule45_": {
       "LosslessFourierCompression": {
-         "data/rule45_ic8932_rotation.npy": -0.05632471484896148,
+         "data/rule45_ic8932_rotation.npy": 0.01267791080249649,
          "data/rule45_ic8932_inversion.npy": 0.0,
          "data/rule45_ic8932_identity.npy": 0.0,
-         "data/rule45_ic8932_reflection.npy": -0.05632471484896148,
-         "total": 0.11264942969792296
+         "data/rule45_ic8932_reflection.npy": 0.01267791080249649,
+         "total": 0.02535582160499298
       },
       "RunLengthEncoding": {
          "data/rule45_ic8932_rotation.npy": -0.1644519932061145,
@@ -2669,11 +2669,11 @@
    },
    "rule46_": {
       "LosslessFourierCompression": {
-         "data/rule46_ic8932_rotation.npy": -0.01349239042437302,
-         "data/rule46_ic8932_reflection.npy": -0.013904762043809516,
+         "data/rule46_ic8932_rotation.npy": -0.0025276135977029476,
+         "data/rule46_ic8932_reflection.npy": -0.0027771984233289078,
          "data/rule46_ic8932_identity.npy": 0.0,
          "data/rule46_ic8932_inversion.npy": 0.0,
-         "total": 0.027397152468182535
+         "total": 0.005304812021031856
       },
       "RunLengthEncoding": {
          "data/rule46_ic8932_rotation.npy": 0.0005994604855629869,
@@ -2727,11 +2727,11 @@
    },
    "rule47_": {
       "LosslessFourierCompression": {
-         "data/rule47_ic8932_rotation.npy": 0.06178233395115665,
-         "data/rule47_ic8932_reflection.npy": 0.05851587360103174,
+         "data/rule47_ic8932_rotation.npy": -0.009379216230786858,
+         "data/rule47_ic8932_reflection.npy": -0.01326883691146036,
          "data/rule47_ic8932_identity.npy": 0.0,
          "data/rule47_ic8932_inversion.npy": 0.0,
-         "total": 0.1202982075521884
+         "total": 0.022648053142247215
       },
       "RunLengthEncoding": {
          "data/rule47_ic8932_rotation.npy": -0.8698171645519033,
@@ -2785,11 +2785,11 @@
    },
    "rule48_": {
       "LosslessFourierCompression": {
-         "data/rule48_ic8932_rotation.npy": 0.23137871659950152,
-         "data/rule48_ic8932_reflection.npy": 0.23137871659950152,
+         "data/rule48_ic8932_rotation.npy": 0.0010692213929816318,
+         "data/rule48_ic8932_reflection.npy": 0.0010692213929816318,
          "data/rule48_ic8932_inversion.npy": 0.0,
          "data/rule48_ic8932_identity.npy": 0.0,
-         "total": 0.46275743319900303
+         "total": 0.0021384427859632636
       },
       "RunLengthEncoding": {
          "data/rule48_ic8932_rotation.npy": -0.0007992806474173252,
@@ -2843,11 +2843,11 @@
    },
    "rule49_": {
       "LosslessFourierCompression": {
-         "data/rule49_ic8932_rotation.npy": 0.015830571586877146,
+         "data/rule49_ic8932_rotation.npy": 0.0006109836531323557,
          "data/rule49_ic8932_inversion.npy": 0.0,
-         "data/rule49_ic8932_reflection.npy": 0.011242000112420004,
+         "data/rule49_ic8932_reflection.npy": 0.0006109836531323557,
          "data/rule49_ic8932_identity.npy": 0.0,
-         "total": 0.02707257169929715
+         "total": 0.0012219673062647113
       },
       "RunLengthEncoding": {
          "data/rule49_ic8932_rotation.npy": -0.8694175242281947,
@@ -2901,11 +2901,11 @@
    },
    "rule50_": {
       "LosslessFourierCompression": {
-         "data/rule50_ic8932_reflection.npy": -0.01594528587373859,
-         "data/rule50_ic8932_rotation.npy": -0.01594528587373859,
+         "data/rule50_ic8932_reflection.npy": -0.003665901918794166,
+         "data/rule50_ic8932_rotation.npy": -0.003665901918794166,
          "data/rule50_ic8932_inversion.npy": 0.0,
          "data/rule50_ic8932_identity.npy": 0.0,
-         "total": 0.03189057174747718
+         "total": 0.007331803837588332
       },
       "RunLengthEncoding": {
          "data/rule50_ic8932_reflection.npy": 0.0,
@@ -2959,11 +2959,11 @@
    },
    "rule51_": {
       "LosslessFourierCompression": {
-         "data/rule51_ic8932_rotation.npy": -0.04932714335041427,
-         "data/rule51_ic8932_reflection.npy": -0.04932714335041427,
+         "data/rule51_ic8932_rotation.npy": 0.004124139658643522,
+         "data/rule51_ic8932_reflection.npy": 0.004124139658643522,
          "data/rule51_ic8932_inversion.npy": 0.0,
          "data/rule51_ic8932_identity.npy": 0.0,
-         "total": 0.09865428670082854
+         "total": 0.008248279317287045
       },
       "RunLengthEncoding": {
          "data/rule51_ic8932_rotation.npy": -0.9091817364372066,
@@ -3017,11 +3017,11 @@
    },
    "rule52_": {
       "LosslessFourierCompression": {
-         "data/rule52_ic8932_reflection.npy": -0.30881086023096577,
+         "data/rule52_ic8932_reflection.npy": 0.0033604100922279855,
          "data/rule52_ic8932_inversion.npy": 0.0,
-         "data/rule52_ic8932_rotation.npy": -0.3089582071873861,
+         "data/rule52_ic8932_rotation.npy": 0.003338502794047124,
          "data/rule52_ic8932_identity.npy": 0.0,
-         "total": 0.6177690674183518
+         "total": 0.00669891288627511
       },
       "RunLengthEncoding": {
          "data/rule52_ic8932_reflection.npy": -0.0007992806474173252,
@@ -3075,11 +3075,11 @@
    },
    "rule53_": {
       "LosslessFourierCompression": {
-         "data/rule53_ic8932_inversion.npy": -0.0032120000321199994,
-         "data/rule53_ic8932_rotation.npy": 0.0008030000080300048,
-         "data/rule53_ic8932_reflection.npy": 0.001835428589782859,
+         "data/rule53_ic8932_inversion.npy": 0.0,
+         "data/rule53_ic8932_rotation.npy": 0.0010692213929816318,
+         "data/rule53_ic8932_reflection.npy": 0.0010692213929816318,
          "data/rule53_ic8932_identity.npy": 0.0,
-         "total": 0.005850428629932863
+         "total": 0.0021384427859632636
       },
       "RunLengthEncoding": {
          "data/rule53_ic8932_inversion.npy": 0.0,
@@ -3133,11 +3133,11 @@
    },
    "rule54_": {
       "LosslessFourierCompression": {
-         "data/rule54_ic8932_rotation.npy": -0.041297143270114266,
-         "data/rule54_ic8932_reflection.npy": -0.041297143270114266,
+         "data/rule54_ic8932_rotation.npy": 0.016038320894724477,
+         "data/rule54_ic8932_reflection.npy": 0.016038320894724477,
          "data/rule54_ic8932_inversion.npy": 0.0,
          "data/rule54_ic8932_identity.npy": 0.0,
-         "total": 0.08259428654022853
+         "total": 0.032076641789448954
       },
       "RunLengthEncoding": {
          "data/rule54_ic8932_rotation.npy": -0.22829453491857335,
@@ -3191,11 +3191,11 @@
    },
    "rule55_": {
       "LosslessFourierCompression": {
-         "data/rule55_ic8932_rotation.npy": 0.02546657168323717,
+         "data/rule55_ic8932_rotation.npy": -0.003818647832077256,
          "data/rule55_ic8932_inversion.npy": 0.0,
-         "data/rule55_ic8932_reflection.npy": 0.02546657168323717,
+         "data/rule55_ic8932_reflection.npy": -0.003818647832077256,
          "data/rule55_ic8932_identity.npy": 0.0,
-         "total": 0.05093314336647434
+         "total": 0.007637295664154512
       },
       "RunLengthEncoding": {
          "data/rule55_ic8932_rotation.npy": -0.969127784993506,
@@ -3250,10 +3250,10 @@
    "rule56_": {
       "LosslessFourierCompression": {
          "data/rule56_ic8932_inversion.npy": 0.0,
-         "data/rule56_ic8932_rotation.npy": 0.19363771622209147,
-         "data/rule56_ic8932_reflection.npy": 0.19363771622209147,
+         "data/rule56_ic8932_rotation.npy": 0.0021384427859632636,
+         "data/rule56_ic8932_reflection.npy": 0.0021384427859632636,
          "data/rule56_ic8932_identity.npy": 0.0,
-         "total": 0.38727543244418294
+         "total": 0.004276885571926527
       },
       "RunLengthEncoding": {
          "data/rule56_ic8932_inversion.npy": 0.0,
@@ -3307,11 +3307,11 @@
    },
    "rule57_": {
       "LosslessFourierCompression": {
-         "data/rule57_ic8932_rotation.npy": 0.15543785869723567,
+         "data/rule57_ic8932_rotation.npy": 0.01191418123608104,
          "data/rule57_ic8932_inversion.npy": 0.0,
          "data/rule57_ic8932_identity.npy": 0.0,
-         "data/rule57_ic8932_reflection.npy": 0.15543785869723567,
-         "total": 0.31087571739447134
+         "data/rule57_ic8932_reflection.npy": 0.01191418123608104,
+         "total": 0.02382836247216208
       },
       "RunLengthEncoding": {
          "data/rule57_ic8932_rotation.npy": -0.2887401338795086,
@@ -3365,11 +3365,11 @@
    },
    "rule58_": {
       "LosslessFourierCompression": {
-         "data/rule58_ic8932_reflection.npy": -0.008030000080299976,
-         "data/rule58_ic8932_rotation.npy": -0.008030000080299976,
+         "data/rule58_ic8932_reflection.npy": 0.010386722103250137,
+         "data/rule58_ic8932_rotation.npy": 0.010386722103250137,
          "data/rule58_ic8932_inversion.npy": 0.0,
          "data/rule58_ic8932_identity.npy": 0.0,
-         "total": 0.01606000016059995
+         "total": 0.020773444206500274
       },
       "RunLengthEncoding": {
          "data/rule58_ic8932_reflection.npy": 0.0007992806474174372,
@@ -3424,10 +3424,10 @@
    "rule59_": {
       "LosslessFourierCompression": {
          "data/rule59_ic8932_inversion.npy": 0.0,
-         "data/rule59_ic8932_rotation.npy": 0.04026471468836144,
-         "data/rule59_ic8932_reflection.npy": -0.09418042951323288,
+         "data/rule59_ic8932_rotation.npy": -0.012983402629062654,
+         "data/rule59_ic8932_reflection.npy": -0.012983402629062654,
          "data/rule59_ic8932_identity.npy": 0.0,
-         "total": 0.1344451442015943
+         "total": 0.02596680525812531
       },
       "RunLengthEncoding": {
          "data/rule59_ic8932_inversion.npy": 0.0,
@@ -3482,10 +3482,10 @@
    "rule60_": {
       "LosslessFourierCompression": {
          "data/rule60_ic8932_identity.npy": 0.0,
-         "data/rule60_ic8932_reflection.npy": 0.026040143117544184,
+         "data/rule60_ic8932_reflection.npy": 0.0010692213929816318,
          "data/rule60_ic8932_inversion.npy": 0.0,
-         "data/rule60_ic8932_rotation.npy": 0.026040143117544184,
-         "total": 0.05208028623508837
+         "data/rule60_ic8932_rotation.npy": 0.0010692213929816318,
+         "total": 0.0021384427859632636
       },
       "RunLengthEncoding": {
          "data/rule60_ic8932_identity.npy": 0.0,
@@ -3540,10 +3540,10 @@
    "rule61_": {
       "LosslessFourierCompression": {
          "data/rule61_ic8932_identity.npy": 0.0,
-         "data/rule61_ic8932_inversion.npy": 0.0017207143029214303,
-         "data/rule61_ic8932_rotation.npy": 0.006424000064240002,
-         "data/rule61_ic8932_reflection.npy": 0.004129714327011429,
-         "total": 0.012274428694172862
+         "data/rule61_ic8932_inversion.npy": 0.0,
+         "data/rule61_ic8932_rotation.npy": 0.0003054918265661805,
+         "data/rule61_ic8932_reflection.npy": 0.0003054918265661805,
+         "total": 0.000610983653132361
       },
       "RunLengthEncoding": {
          "data/rule61_ic8932_identity.npy": 0.0,
@@ -3597,11 +3597,11 @@
    },
    "rule62_": {
       "LosslessFourierCompression": {
-         "data/rule62_ic8932_reflection.npy": -0.0734171435913143,
+         "data/rule62_ic8932_reflection.npy": 0.00641532835788979,
          "data/rule62_ic8932_identity.npy": 0.0,
-         "data/rule62_ic8932_rotation.npy": -0.0734171435913143,
+         "data/rule62_ic8932_rotation.npy": 0.00641532835788979,
          "data/rule62_ic8932_inversion.npy": 0.0,
-         "total": 0.1468342871826286
+         "total": 0.01283065671577958
       },
       "RunLengthEncoding": {
          "data/rule62_ic8932_reflection.npy": 0.0066939754221200425,
@@ -3656,10 +3656,10 @@
    "rule63_": {
       "LosslessFourierCompression": {
          "data/rule63_ic8932_identity.npy": 0.0,
-         "data/rule63_ic8932_rotation.npy": 0.0037855714664271427,
+         "data/rule63_ic8932_rotation.npy": 0.0003054918265661805,
          "data/rule63_ic8932_inversion.npy": 0.0,
-         "data/rule63_ic8932_reflection.npy": 0.0037855714664271427,
-         "total": 0.0075711429328542855
+         "data/rule63_ic8932_reflection.npy": 0.0003054918265661805,
+         "total": 0.000610983653132361
       },
       "RunLengthEncoding": {
          "data/rule63_ic8932_identity.npy": 0.0,
@@ -3714,10 +3714,10 @@
    "rule64_": {
       "LosslessFourierCompression": {
          "data/rule64_ic8932_identity.npy": 0.0,
-         "data/rule64_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule64_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule64_ic8932_reflection.npy": 0.0,
          "data/rule64_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule64_ic8932_identity.npy": 0.0,
@@ -3773,9 +3773,9 @@
       "LosslessFourierCompression": {
          "data/rule65_ic8932_identity.npy": 0.0,
          "data/rule65_ic8932_inversion.npy": 0.0,
-         "data/rule65_ic8932_rotation.npy": 0.036746029521979216,
-         "data/rule65_ic8932_reflection.npy": 0.03207317816329735,
-         "total": 0.06881920768527656
+         "data/rule65_ic8932_rotation.npy": 0.008821855807982545,
+         "data/rule65_ic8932_reflection.npy": 0.0040524425973064776,
+         "total": 0.012874298405289024
       },
       "RunLengthEncoding": {
          "data/rule65_ic8932_identity.npy": 0.0,
@@ -3830,10 +3830,10 @@
    "rule66_": {
       "LosslessFourierCompression": {
          "data/rule66_ic8932_identity.npy": 0.0,
-         "data/rule66_ic8932_reflection.npy": -0.0026384285978128556,
+         "data/rule66_ic8932_reflection.npy": -0.0013747132195478123,
          "data/rule66_ic8932_inversion.npy": 0.0,
-         "data/rule66_ic8932_rotation.npy": -0.0026452900980370882,
-         "total": 0.005283718695849943
+         "data/rule66_ic8932_rotation.npy": -0.0013798259268848758,
+         "total": 0.0027545391464326883
       },
       "RunLengthEncoding": {
          "data/rule66_ic8932_identity.npy": 0.0,
@@ -3888,10 +3888,10 @@
    "rule67_": {
       "LosslessFourierCompression": {
          "data/rule67_ic8932_identity.npy": 0.0,
-         "data/rule67_ic8932_rotation.npy": 0.003668539719225074,
-         "data/rule67_ic8932_inversion.npy": 0.0010428571532857102,
-         "data/rule67_ic8932_reflection.npy": -0.006952381021904764,
-         "total": 0.011663777894415549
+         "data/rule67_ic8932_rotation.npy": 0.003329552331968772,
+         "data/rule67_ic8932_inversion.npy": 0.0,
+         "data/rule67_ic8932_reflection.npy": 0.003085776025921013,
+         "total": 0.006415328357889785
       },
       "RunLengthEncoding": {
          "data/rule67_ic8932_identity.npy": 0.0,
@@ -3945,11 +3945,11 @@
    },
    "rule68_": {
       "LosslessFourierCompression": {
-         "data/rule68_ic8932_reflection.npy": -0.00011478247447002444,
+         "data/rule68_ic8932_reflection.npy": 0.0003056734147333487,
          "data/rule68_ic8932_identity.npy": 0.0,
-         "data/rule68_ic8932_rotation.npy": -0.00035879793282756275,
+         "data/rule68_ic8932_rotation.npy": 0.00010499077392367567,
          "data/rule68_ic8932_inversion.npy": 0.0,
-         "total": 0.0004735804072975872
+         "total": 0.0004106641886570244
       },
       "RunLengthEncoding": {
          "data/rule68_ic8932_reflection.npy": 0.0,
@@ -4005,9 +4005,9 @@
       "LosslessFourierCompression": {
          "data/rule69_ic8932_identity.npy": 0.0,
          "data/rule69_ic8932_inversion.npy": 0.0,
-         "data/rule69_ic8932_reflection.npy": -0.006768142924824292,
-         "data/rule69_ic8932_rotation.npy": -0.006768142924824292,
-         "total": 0.013536285849648584
+         "data/rule69_ic8932_reflection.npy": -0.003207664178944895,
+         "data/rule69_ic8932_rotation.npy": -0.003207664178944895,
+         "total": 0.00641532835788979
       },
       "RunLengthEncoding": {
          "data/rule69_ic8932_identity.npy": 0.0,
@@ -4062,10 +4062,10 @@
    "rule70_": {
       "LosslessFourierCompression": {
          "data/rule70_ic8932_identity.npy": 0.0,
-         "data/rule70_ic8932_reflection.npy": -0.02179571450367145,
-         "data/rule70_ic8932_rotation.npy": -0.02179571450367145,
+         "data/rule70_ic8932_reflection.npy": 0.0027494264390956246,
+         "data/rule70_ic8932_rotation.npy": 0.0027494264390956246,
          "data/rule70_ic8932_inversion.npy": 0.0,
-         "total": 0.0435914290073429
+         "total": 0.005498852878191249
       },
       "RunLengthEncoding": {
          "data/rule70_ic8932_identity.npy": 0.0,
@@ -4121,9 +4121,9 @@
       "LosslessFourierCompression": {
          "data/rule71_ic8932_identity.npy": 0.0,
          "data/rule71_ic8932_inversion.npy": 0.0,
-         "data/rule71_ic8932_rotation.npy": -0.006194571490517181,
-         "data/rule71_ic8932_reflection.npy": -0.006194571490517181,
-         "total": 0.012389142981034362
+         "data/rule71_ic8932_rotation.npy": 0.0021384427859632636,
+         "data/rule71_ic8932_reflection.npy": 0.0021384427859632636,
+         "total": 0.004276885571926527
       },
       "RunLengthEncoding": {
          "data/rule71_ic8932_identity.npy": 0.0,
@@ -4178,10 +4178,10 @@
    "rule72_": {
       "LosslessFourierCompression": {
          "data/rule72_ic8932_identity.npy": 0.0,
-         "data/rule72_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule72_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule72_ic8932_reflection.npy": 0.0,
          "data/rule72_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule72_ic8932_identity.npy": 0.0,
@@ -4237,9 +4237,9 @@
       "LosslessFourierCompression": {
          "data/rule73_ic8932_inversion.npy": 0.0,
          "data/rule73_ic8932_identity.npy": 0.0,
-         "data/rule73_ic8932_rotation.npy": 0.11333771541909142,
-         "data/rule73_ic8932_reflection.npy": 0.11333771541909142,
-         "total": 0.22667543083818284
+         "data/rule73_ic8932_rotation.npy": 0.0025966805258126197,
+         "data/rule73_ic8932_reflection.npy": 0.0025966805258126197,
+         "total": 0.005193361051625239
       },
       "RunLengthEncoding": {
          "data/rule73_ic8932_inversion.npy": 0.0,
@@ -4293,11 +4293,11 @@
    },
    "rule74_": {
       "LosslessFourierCompression": {
-         "data/rule74_ic8932_reflection.npy": 0.005047428621902854,
+         "data/rule74_ic8932_reflection.npy": -0.012219673062647207,
          "data/rule74_ic8932_identity.npy": 0.0,
          "data/rule74_ic8932_inversion.npy": 0.0,
-         "data/rule74_ic8932_rotation.npy": 0.005037977018944971,
-         "total": 0.010085405640847825
+         "data/rule74_ic8932_rotation.npy": -0.012226449668821774,
+         "total": 0.024446122731468983
       },
       "RunLengthEncoding": {
          "data/rule74_ic8932_reflection.npy": 0.0005994604855629939,
@@ -4352,10 +4352,10 @@
    "rule75_": {
       "LosslessFourierCompression": {
          "data/rule75_ic8932_identity.npy": 0.0,
-         "data/rule75_ic8932_reflection.npy": -0.009406571522637153,
-         "data/rule75_ic8932_rotation.npy": -0.009406571522637153,
+         "data/rule75_ic8932_reflection.npy": -0.01267791080249649,
+         "data/rule75_ic8932_rotation.npy": -0.01267791080249649,
          "data/rule75_ic8932_inversion.npy": 0.0,
-         "total": 0.018813143045274306
+         "total": 0.02535582160499298
       },
       "RunLengthEncoding": {
          "data/rule75_ic8932_identity.npy": 0.0,
@@ -4409,11 +4409,11 @@
    },
    "rule76_": {
       "LosslessFourierCompression": {
-         "data/rule76_ic8932_inversion.npy": 0.0,
-         "data/rule76_ic8932_reflection.npy": -0.0003460544390527786,
+         "data/rule76_ic8932_inversion.npy": -0.00015286699605224005,
+         "data/rule76_ic8932_reflection.npy": -0.001072311668184054,
          "data/rule76_ic8932_identity.npy": 0.0,
-         "data/rule76_ic8932_rotation.npy": -0.0006019660739838636,
-         "total": 0.0009480205130366422
+         "data/rule76_ic8932_rotation.npy": -0.0014225319914739215,
+         "total": 0.0026477106557102155
       },
       "RunLengthEncoding": {
          "data/rule76_ic8932_inversion.npy": 0.0,
@@ -4469,9 +4469,9 @@
       "LosslessFourierCompression": {
          "data/rule77_ic8932_inversion.npy": 0.0,
          "data/rule77_ic8932_identity.npy": 0.0,
-         "data/rule77_ic8932_reflection.npy": -0.015142285865708571,
-         "data/rule77_ic8932_rotation.npy": -0.015142285865708571,
-         "total": 0.030284571731417142
+         "data/rule77_ic8932_reflection.npy": -0.0053461069649081375,
+         "data/rule77_ic8932_rotation.npy": -0.0053461069649081375,
+         "total": 0.010692213929816275
       },
       "RunLengthEncoding": {
          "data/rule77_ic8932_inversion.npy": 0.0,
@@ -4527,9 +4527,9 @@
       "LosslessFourierCompression": {
          "data/rule78_ic8932_identity.npy": 0.0,
          "data/rule78_ic8932_inversion.npy": 0.0,
-         "data/rule78_ic8932_reflection.npy": 0.0792675722212472,
-         "data/rule78_ic8932_rotation.npy": 0.0792675722212472,
-         "total": 0.1585351444424944
+         "data/rule78_ic8932_reflection.npy": 0.003054918265661805,
+         "data/rule78_ic8932_rotation.npy": 0.003054918265661805,
+         "total": 0.00610983653132361
       },
       "RunLengthEncoding": {
          "data/rule78_ic8932_identity.npy": 0.0,
@@ -4585,9 +4585,9 @@
       "LosslessFourierCompression": {
          "data/rule79_ic8932_identity.npy": 0.0,
          "data/rule79_ic8932_inversion.npy": 0.0,
-         "data/rule79_ic8932_rotation.npy": 0.0017207143029214303,
-         "data/rule79_ic8932_reflection.npy": 0.0017207143029214303,
-         "total": 0.0034414286058428605
+         "data/rule79_ic8932_rotation.npy": 0.002902172352378704,
+         "data/rule79_ic8932_reflection.npy": 0.002902172352378704,
+         "total": 0.005804344704757408
       },
       "RunLengthEncoding": {
          "data/rule79_ic8932_identity.npy": 0.0,
@@ -4641,11 +4641,11 @@
    },
    "rule80_": {
       "LosslessFourierCompression": {
-         "data/rule80_ic8932_reflection.npy": -0.023290476423380953,
+         "data/rule80_ic8932_reflection.npy": 0.0,
          "data/rule80_ic8932_inversion.npy": 0.0,
          "data/rule80_ic8932_identity.npy": 0.0,
-         "data/rule80_ic8932_rotation.npy": -0.022722471437931213,
-         "total": 0.046012947861312166
+         "data/rule80_ic8932_rotation.npy": 0.00019512995458029878,
+         "total": 0.00019512995458029878
       },
       "RunLengthEncoding": {
          "data/rule80_ic8932_reflection.npy": -0.0007992806474173182,
@@ -4701,9 +4701,9 @@
       "LosslessFourierCompression": {
          "data/rule81_ic8932_identity.npy": 0.0,
          "data/rule81_ic8932_inversion.npy": 0.0,
-         "data/rule81_ic8932_reflection.npy": 0.009750714383221438,
-         "data/rule81_ic8932_rotation.npy": 0.009750714383221438,
-         "total": 0.019501428766442876
+         "data/rule81_ic8932_reflection.npy": 0.000610983653132361,
+         "data/rule81_ic8932_rotation.npy": 0.000610983653132361,
+         "total": 0.001221967306264722
       },
       "RunLengthEncoding": {
          "data/rule81_ic8932_identity.npy": 0.0,
@@ -4757,11 +4757,11 @@
    },
    "rule82_": {
       "LosslessFourierCompression": {
-         "data/rule82_ic8932_reflection.npy": -0.012045000120450013,
+         "data/rule82_ic8932_reflection.npy": -0.18451706324597275,
          "data/rule82_ic8932_identity.npy": 0.0,
          "data/rule82_ic8932_inversion.npy": 0.0,
-         "data/rule82_ic8932_rotation.npy": -0.012045000120450013,
-         "total": 0.024090000240900026
+         "data/rule82_ic8932_rotation.npy": -0.18451706324597275,
+         "total": 0.3690341264919455
       },
       "RunLengthEncoding": {
          "data/rule82_ic8932_reflection.npy": 0.0,
@@ -4816,10 +4816,10 @@
    "rule83_": {
       "LosslessFourierCompression": {
          "data/rule83_ic8932_identity.npy": 0.0,
-         "data/rule83_ic8932_reflection.npy": 0.01950142876644286,
-         "data/rule83_ic8932_rotation.npy": 0.01973085734016572,
+         "data/rule83_ic8932_reflection.npy": -0.0003054918265661805,
+         "data/rule83_ic8932_rotation.npy": -0.0003054918265661805,
          "data/rule83_ic8932_inversion.npy": 0.0,
-         "total": 0.039232286106608574
+         "total": 0.000610983653132361
       },
       "RunLengthEncoding": {
          "data/rule83_ic8932_identity.npy": 0.0,
@@ -4873,11 +4873,11 @@
    },
    "rule84_": {
       "LosslessFourierCompression": {
-         "data/rule84_ic8932_reflection.npy": 0.14287143000014285,
+         "data/rule84_ic8932_reflection.npy": -0.0030857760259210103,
          "data/rule84_ic8932_inversion.npy": 0.0,
          "data/rule84_ic8932_identity.npy": 0.0,
-         "data/rule84_ic8932_rotation.npy": 0.14297821493740742,
-         "total": 0.2858496449375503
+         "data/rule84_ic8932_rotation.npy": -0.002899721883181659,
+         "total": 0.005985497909102669
       },
       "RunLengthEncoding": {
          "data/rule84_ic8932_reflection.npy": -0.0015985612948346505,
@@ -4933,9 +4933,9 @@
       "LosslessFourierCompression": {
          "data/rule85_ic8932_inversion.npy": 0.0,
          "data/rule85_ic8932_identity.npy": 0.0,
-         "data/rule85_ic8932_reflection.npy": 0.023172285946008564,
-         "data/rule85_ic8932_rotation.npy": 0.023172285946008564,
-         "total": 0.04634457189201713
+         "data/rule85_ic8932_reflection.npy": -0.00015274591328309024,
+         "data/rule85_ic8932_rotation.npy": -0.00015274591328309024,
+         "total": 0.0003054918265661805
       },
       "RunLengthEncoding": {
          "data/rule85_ic8932_inversion.npy": 0.0,
@@ -4990,10 +4990,10 @@
    "rule86_": {
       "LosslessFourierCompression": {
          "data/rule86_ic8932_identity.npy": 0.0,
-         "data/rule86_ic8932_reflection.npy": -0.06573128637159864,
-         "data/rule86_ic8932_rotation.npy": -0.06573128637159864,
+         "data/rule86_ic8932_reflection.npy": -0.0410886506731511,
+         "data/rule86_ic8932_rotation.npy": -0.0410886506731511,
          "data/rule86_ic8932_inversion.npy": 0.0,
-         "total": 0.13146257274319728
+         "total": 0.0821773013463022
       },
       "RunLengthEncoding": {
          "data/rule86_ic8932_identity.npy": 0.0,
@@ -5049,9 +5049,9 @@
       "LosslessFourierCompression": {
          "data/rule87_ic8932_identity.npy": 0.0,
          "data/rule87_ic8932_inversion.npy": 0.0,
-         "data/rule87_ic8932_reflection.npy": 0.0041297143270114245,
-         "data/rule87_ic8932_rotation.npy": 0.030628714592001435,
-         "total": 0.03475842891901286
+         "data/rule87_ic8932_reflection.npy": -0.004124139658643431,
+         "data/rule87_ic8932_rotation.npy": -0.004124139658643431,
+         "total": 0.008248279317286862
       },
       "RunLengthEncoding": {
          "data/rule87_ic8932_identity.npy": 0.0,
@@ -5106,10 +5106,10 @@
    "rule88_": {
       "LosslessFourierCompression": {
          "data/rule88_ic8932_identity.npy": 0.0,
-         "data/rule88_ic8932_reflection.npy": -0.010209571530667153,
-         "data/rule88_ic8932_rotation.npy": -0.010230633155527628,
+         "data/rule88_ic8932_reflection.npy": -0.001221967306264722,
+         "data/rule88_ic8932_rotation.npy": -0.001231194381636357,
          "data/rule88_ic8932_inversion.npy": 0.0,
-         "total": 0.02044020468619478
+         "total": 0.0024531616879010787
       },
       "RunLengthEncoding": {
          "data/rule88_ic8932_identity.npy": 0.0,
@@ -5164,10 +5164,10 @@
    "rule89_": {
       "LosslessFourierCompression": {
          "data/rule89_ic8932_identity.npy": 0.0,
-         "data/rule89_ic8932_reflection.npy": 0.13169200131691988,
-         "data/rule89_ic8932_rotation.npy": 0.13169200131691988,
+         "data/rule89_ic8932_reflection.npy": -0.07316529246260023,
+         "data/rule89_ic8932_rotation.npy": -0.07316529246260023,
          "data/rule89_ic8932_inversion.npy": 0.0,
-         "total": 0.26338400263383976
+         "total": 0.14633058492520046
       },
       "RunLengthEncoding": {
          "data/rule89_ic8932_identity.npy": 0.0,
@@ -5222,10 +5222,10 @@
    "rule90_": {
       "LosslessFourierCompression": {
          "data/rule90_ic8932_identity.npy": 0.0,
-         "data/rule90_ic8932_reflection.npy": 0.013995142997094171,
-         "data/rule90_ic8932_rotation.npy": 0.013995142997094171,
+         "data/rule90_ic8932_reflection.npy": -0.01955147690023555,
+         "data/rule90_ic8932_rotation.npy": -0.01955147690023555,
          "data/rule90_ic8932_inversion.npy": 0.0,
-         "total": 0.027990285994188343
+         "total": 0.0391029538004711
       },
       "RunLengthEncoding": {
          "data/rule90_ic8932_identity.npy": 0.0,
@@ -5280,10 +5280,10 @@
    "rule91_": {
       "LosslessFourierCompression": {
          "data/rule91_ic8932_identity.npy": 0.0,
-         "data/rule91_ic8932_rotation.npy": -0.0030972857452585744,
+         "data/rule91_ic8932_rotation.npy": -0.0025966805258125342,
          "data/rule91_ic8932_inversion.npy": 0.0,
-         "data/rule91_ic8932_reflection.npy": -0.0030972857452585744,
-         "total": 0.006194571490517149
+         "data/rule91_ic8932_reflection.npy": -0.0025966805258125342,
+         "total": 0.0051933610516250684
       },
       "RunLengthEncoding": {
          "data/rule91_ic8932_identity.npy": 0.0,
@@ -5339,9 +5339,9 @@
       "LosslessFourierCompression": {
          "data/rule92_ic8932_identity.npy": 0.0,
          "data/rule92_ic8932_inversion.npy": 0.0,
-         "data/rule92_ic8932_reflection.npy": 0.03464371463215146,
-         "data/rule92_ic8932_rotation.npy": 0.03464371463215146,
-         "total": 0.06928742926430292
+         "data/rule92_ic8932_reflection.npy": 0.004429631485209617,
+         "data/rule92_ic8932_rotation.npy": 0.004429631485209617,
+         "total": 0.008859262970419234
       },
       "RunLengthEncoding": {
          "data/rule92_ic8932_identity.npy": 0.0,
@@ -5397,9 +5397,9 @@
       "LosslessFourierCompression": {
          "data/rule93_ic8932_identity.npy": 0.0,
          "data/rule93_ic8932_inversion.npy": 0.0,
-         "data/rule93_ic8932_rotation.npy": -0.005391571482487149,
-         "data/rule93_ic8932_reflection.npy": -0.005391571482487149,
-         "total": 0.010783142964974297
+         "data/rule93_ic8932_rotation.npy": 0.008706517057136143,
+         "data/rule93_ic8932_reflection.npy": 0.008706517057136143,
+         "total": 0.017413034114272287
       },
       "RunLengthEncoding": {
          "data/rule93_ic8932_identity.npy": 0.0,
@@ -5453,11 +5453,11 @@
    },
    "rule94_": {
       "LosslessFourierCompression": {
-         "data/rule94_ic8932_reflection.npy": -0.12951242986655292,
+         "data/rule94_ic8932_reflection.npy": -0.03543705188167694,
          "data/rule94_ic8932_identity.npy": 0.0,
-         "data/rule94_ic8932_rotation.npy": -0.12951242986655292,
+         "data/rule94_ic8932_rotation.npy": -0.03543705188167694,
          "data/rule94_ic8932_inversion.npy": 0.0,
-         "total": 0.25902485973310585
+         "total": 0.07087410376335387
       },
       "RunLengthEncoding": {
          "data/rule94_ic8932_reflection.npy": 0.0,
@@ -5513,9 +5513,9 @@
       "LosslessFourierCompression": {
          "data/rule95_ic8932_identity.npy": 0.0,
          "data/rule95_ic8932_inversion.npy": 0.0,
-         "data/rule95_ic8932_rotation.npy": 0.02796283339417659,
-         "data/rule95_ic8932_reflection.npy": 0.005506285769348569,
-         "total": 0.03346911916352516
+         "data/rule95_ic8932_rotation.npy": -0.00044005224957425907,
+         "data/rule95_ic8932_reflection.npy": -0.0001527459132830956,
+         "total": 0.0005927981628573546
       },
       "RunLengthEncoding": {
          "data/rule95_ic8932_identity.npy": 0.0,
@@ -5571,9 +5571,9 @@
       "LosslessFourierCompression": {
          "data/rule96_ic8932_reflection.npy": 0.0,
          "data/rule96_ic8932_identity.npy": 0.0,
-         "data/rule96_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule96_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule96_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule96_ic8932_reflection.npy": 0.0,
@@ -5629,9 +5629,9 @@
       "LosslessFourierCompression": {
          "data/rule97_ic8932_identity.npy": 0.0,
          "data/rule97_ic8932_inversion.npy": 0.0,
-         "data/rule97_ic8932_reflection.npy": 0.03464371463215146,
-         "data/rule97_ic8932_rotation.npy": 0.03464371463215146,
-         "total": 0.06928742926430292
+         "data/rule97_ic8932_reflection.npy": 0.027188772564390062,
+         "data/rule97_ic8932_rotation.npy": 0.027188772564390062,
+         "total": 0.054377545128780125
       },
       "RunLengthEncoding": {
          "data/rule97_ic8932_identity.npy": 0.0,
@@ -5687,9 +5687,9 @@
       "LosslessFourierCompression": {
          "data/rule98_ic8932_inversion.npy": 0.0,
          "data/rule98_ic8932_identity.npy": 0.0,
-         "data/rule98_ic8932_reflection.npy": -0.0034414286058428566,
-         "data/rule98_ic8932_rotation.npy": -0.0034686181197323275,
-         "total": 0.0069100467255751846
+         "data/rule98_ic8932_reflection.npy": -0.004429631485209617,
+         "data/rule98_ic8932_rotation.npy": -0.004458449184267385,
+         "total": 0.008888080669477001
       },
       "RunLengthEncoding": {
          "data/rule98_ic8932_inversion.npy": 0.0,
@@ -5745,9 +5745,9 @@
       "LosslessFourierCompression": {
          "data/rule99_ic8932_identity.npy": 0.0,
          "data/rule99_ic8932_inversion.npy": 0.0,
-         "data/rule99_ic8932_rotation.npy": 0.0929185723577571,
-         "data/rule99_ic8932_reflection.npy": 0.0929185723577571,
-         "total": 0.1858371447155142
+         "data/rule99_ic8932_rotation.npy": 0.023675616558878988,
+         "data/rule99_ic8932_reflection.npy": 0.023675616558878988,
+         "total": 0.047351233117757976
       },
       "RunLengthEncoding": {
          "data/rule99_ic8932_identity.npy": 0.0,
@@ -5801,11 +5801,11 @@
    },
    "rule100_": {
       "LosslessFourierCompression": {
-         "data/rule100_ic8932_rotation.npy": -2.7704176659158427e-06,
-         "data/rule100_ic8932_reflection.npy": 0.00023278998368617886,
+         "data/rule100_ic8932_rotation.npy": -0.00034665945955604955,
+         "data/rule100_ic8932_reflection.npy": -0.0001536400378134795,
          "data/rule100_ic8932_identity.npy": 0.0,
          "data/rule100_ic8932_inversion.npy": 0.0,
-         "total": 0.0002355604013520947
+         "total": 0.0005002994973695291
       },
       "RunLengthEncoding": {
          "data/rule100_ic8932_rotation.npy": 0.07653112199020883,
@@ -5859,11 +5859,11 @@
    },
    "rule101_": {
       "LosslessFourierCompression": {
-         "data/rule101_ic8932_reflection.npy": 0.004703285761318447,
-         "data/rule101_ic8932_rotation.npy": 0.004703285761318447,
+         "data/rule101_ic8932_reflection.npy": -0.07683119438139431,
+         "data/rule101_ic8932_rotation.npy": -0.07683119438139431,
          "data/rule101_ic8932_identity.npy": 0.0,
          "data/rule101_ic8932_inversion.npy": 0.0,
-         "total": 0.009406571522636895
+         "total": 0.15366238876278862
       },
       "RunLengthEncoding": {
          "data/rule101_ic8932_reflection.npy": -0.0015985612948345943,
@@ -5917,11 +5917,11 @@
    },
    "rule102_": {
       "LosslessFourierCompression": {
-         "data/rule102_ic8932_rotation.npy": -0.16518857308045717,
+         "data/rule102_ic8932_rotation.npy": 0.02443934612529427,
          "data/rule102_ic8932_inversion.npy": 0.0,
-         "data/rule102_ic8932_reflection.npy": -0.16518857308045717,
+         "data/rule102_ic8932_reflection.npy": 0.02443934612529427,
          "data/rule102_ic8932_identity.npy": 0.0,
-         "total": 0.33037714616091435
+         "total": 0.04887869225058854
       },
       "RunLengthEncoding": {
          "data/rule102_ic8932_rotation.npy": 0.004495953641722398,
@@ -5975,11 +5975,11 @@
    },
    "rule103_": {
       "LosslessFourierCompression": {
-         "data/rule103_ic8932_inversion.npy": -0.0010428571532857143,
-         "data/rule103_ic8932_reflection.npy": -0.0011587301703174567,
-         "data/rule103_ic8932_rotation.npy": 0.001185994409619049,
+         "data/rule103_ic8932_inversion.npy": 0.0,
+         "data/rule103_ic8932_reflection.npy": 0.00231433201944076,
+         "data/rule103_ic8932_rotation.npy": 0.0025261009623961227,
          "data/rule103_ic8932_identity.npy": 0.0,
-         "total": 0.0033875817332222197
+         "total": 0.004840432981836883
       },
       "RunLengthEncoding": {
          "data/rule103_ic8932_inversion.npy": 0.0,
@@ -6035,9 +6035,9 @@
       "LosslessFourierCompression": {
          "data/rule104_ic8932_rotation.npy": 0.0,
          "data/rule104_ic8932_identity.npy": 0.0,
-         "data/rule104_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule104_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule104_ic8932_reflection.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule104_ic8932_rotation.npy": 0.0,
@@ -6091,11 +6091,11 @@
    },
    "rule105_": {
       "LosslessFourierCompression": {
-         "data/rule105_ic8932_rotation.npy": -0.01043900010439014,
-         "data/rule105_ic8932_reflection.npy": -0.01043900010439014,
+         "data/rule105_ic8932_rotation.npy": 0.08339926865256711,
+         "data/rule105_ic8932_reflection.npy": 0.08339926865256711,
          "data/rule105_ic8932_identity.npy": 0.0,
          "data/rule105_ic8932_inversion.npy": 0.0,
-         "total": 0.02087800020878028
+         "total": 0.16679853730513422
       },
       "RunLengthEncoding": {
          "data/rule105_ic8932_rotation.npy": -0.16355280247777002,
@@ -6149,11 +6149,11 @@
    },
    "rule106_": {
       "LosslessFourierCompression": {
-         "data/rule106_ic8932_rotation.npy": 0.04439442901537284,
+         "data/rule106_ic8932_rotation.npy": -0.0013747132195478123,
          "data/rule106_ic8932_inversion.npy": 0.0,
          "data/rule106_ic8932_identity.npy": 0.0,
-         "data/rule106_ic8932_reflection.npy": 0.04439442901537284,
-         "total": 0.08878885803074568
+         "data/rule106_ic8932_reflection.npy": -0.0013747132195478123,
+         "total": 0.0027494264390956246
       },
       "RunLengthEncoding": {
          "data/rule106_ic8932_rotation.npy": 0.002198021780397644,
@@ -6207,11 +6207,11 @@
    },
    "rule107_": {
       "LosslessFourierCompression": {
-         "data/rule107_ic8932_rotation.npy": -0.00034414286058428604,
-         "data/rule107_ic8932_reflection.npy": -0.00034414286058428604,
+         "data/rule107_ic8932_rotation.npy": 0.02718877256438998,
+         "data/rule107_ic8932_reflection.npy": 0.02718877256438998,
          "data/rule107_ic8932_inversion.npy": 0.0,
          "data/rule107_ic8932_identity.npy": 0.0,
-         "total": 0.0006882857211685721
+         "total": 0.05437754512877996
       },
       "RunLengthEncoding": {
          "data/rule107_ic8932_rotation.npy": -0.520131881306824,
@@ -6266,10 +6266,10 @@
    "rule108_": {
       "LosslessFourierCompression": {
          "data/rule108_ic8932_inversion.npy": 0.0,
-         "data/rule108_ic8932_rotation.npy": 0.014777482159719676,
-         "data/rule108_ic8932_reflection.npy": 0.014798143005124284,
+         "data/rule108_ic8932_rotation.npy": -1.3255936203289039e-05,
+         "data/rule108_ic8932_reflection.npy": 0.0,
          "data/rule108_ic8932_identity.npy": 0.0,
-         "total": 0.02957562516484396
+         "total": 1.3255936203289039e-05
       },
       "RunLengthEncoding": {
          "data/rule108_ic8932_inversion.npy": 0.0,
@@ -6324,10 +6324,10 @@
    "rule109_": {
       "LosslessFourierCompression": {
          "data/rule109_ic8932_inversion.npy": 0.0,
-         "data/rule109_ic8932_reflection.npy": 0.07605557218912709,
-         "data/rule109_ic8932_rotation.npy": 0.07605557218912709,
+         "data/rule109_ic8932_reflection.npy": -0.057585209307725024,
+         "data/rule109_ic8932_rotation.npy": -0.057585209307725024,
          "data/rule109_ic8932_identity.npy": 0.0,
-         "total": 0.15211114437825418
+         "total": 0.11517041861545005
       },
       "RunLengthEncoding": {
          "data/rule109_ic8932_inversion.npy": 0.0,
@@ -6381,11 +6381,11 @@
    },
    "rule110_": {
       "LosslessFourierCompression": {
-         "data/rule110_ic8932_rotation.npy": 0.01996028591388859,
+         "data/rule110_ic8932_rotation.npy": -0.04536553624507763,
          "data/rule110_ic8932_inversion.npy": 0.0,
-         "data/rule110_ic8932_reflection.npy": 0.01996028591388859,
+         "data/rule110_ic8932_reflection.npy": -0.04536553624507763,
          "data/rule110_ic8932_identity.npy": 0.0,
-         "total": 0.03992057182777718
+         "total": 0.09073107249015526
       },
       "RunLengthEncoding": {
          "data/rule110_ic8932_rotation.npy": 0.004096313318013791,
@@ -6440,10 +6440,10 @@
    "rule111_": {
       "LosslessFourierCompression": {
          "data/rule111_ic8932_inversion.npy": 0.0,
-         "data/rule111_ic8932_reflection.npy": 0.00699757149854715,
-         "data/rule111_ic8932_rotation.npy": 0.00699757149854715,
+         "data/rule111_ic8932_reflection.npy": -0.03329860909571363,
+         "data/rule111_ic8932_rotation.npy": -0.03329860909571363,
          "data/rule111_ic8932_identity.npy": 0.0,
-         "total": 0.0139951429970943
+         "total": 0.06659721819142726
       },
       "RunLengthEncoding": {
          "data/rule111_ic8932_inversion.npy": 0.0,
@@ -6497,11 +6497,11 @@
    },
    "rule112_": {
       "LosslessFourierCompression": {
-         "data/rule112_ic8932_rotation.npy": -0.06504300065043,
+         "data/rule112_ic8932_rotation.npy": -0.0009164754796985415,
          "data/rule112_ic8932_inversion.npy": 0.0,
          "data/rule112_ic8932_identity.npy": 0.0,
-         "data/rule112_ic8932_reflection.npy": -0.06504300065043,
-         "total": 0.13008600130086
+         "data/rule112_ic8932_reflection.npy": -0.0009164754796985415,
+         "total": 0.001832950959397083
       },
       "RunLengthEncoding": {
          "data/rule112_ic8932_rotation.npy": -0.0007992806474173252,
@@ -6555,11 +6555,11 @@
    },
    "rule113_": {
       "LosslessFourierCompression": {
-         "data/rule113_ic8932_reflection.npy": -0.0033603174939206156,
-         "data/rule113_ic8932_rotation.npy": -0.0009536349301712809,
+         "data/rule113_ic8932_reflection.npy": -0.005554396846657842,
+         "data/rule113_ic8932_rotation.npy": -0.0029638878728971093,
          "data/rule113_ic8932_inversion.npy": 0.0,
          "data/rule113_ic8932_identity.npy": 0.0,
-         "total": 0.004313952424091896
+         "total": 0.008518284719554951
       },
       "RunLengthEncoding": {
          "data/rule113_ic8932_reflection.npy": -0.0015985612948346364,
@@ -6614,10 +6614,10 @@
    "rule114_": {
       "LosslessFourierCompression": {
          "data/rule114_ic8932_inversion.npy": 0.0,
-         "data/rule114_ic8932_rotation.npy": 0.02397528595403853,
-         "data/rule114_ic8932_reflection.npy": 0.02397528595403853,
+         "data/rule114_ic8932_rotation.npy": 0.0039713937453603465,
+         "data/rule114_ic8932_reflection.npy": 0.0039713937453603465,
          "data/rule114_ic8932_identity.npy": 0.0,
-         "total": 0.04795057190807706
+         "total": 0.007942787490720693
       },
       "RunLengthEncoding": {
          "data/rule114_ic8932_inversion.npy": 0.0,
@@ -6671,11 +6671,11 @@
    },
    "rule115_": {
       "LosslessFourierCompression": {
-         "data/rule115_ic8932_reflection.npy": 0.0025492063746984143,
-         "data/rule115_ic8932_rotation.npy": 0.004045127024578259,
-         "data/rule115_ic8932_inversion.npy": -0.023522222457444442,
+         "data/rule115_ic8932_reflection.npy": -0.0003085776025921024,
+         "data/rule115_ic8932_rotation.npy": -4.62866403888175e-05,
+         "data/rule115_ic8932_inversion.npy": 0.0,
          "data/rule115_ic8932_identity.npy": 0.0,
-         "total": 0.030116555856721114
+         "total": 0.00035486424298091987
       },
       "RunLengthEncoding": {
          "data/rule115_ic8932_reflection.npy": 0.0,
@@ -6729,11 +6729,11 @@
    },
    "rule116_": {
       "LosslessFourierCompression": {
-         "data/rule116_ic8932_rotation.npy": -0.14338474746559352,
+         "data/rule116_ic8932_rotation.npy": -0.006469329438343402,
          "data/rule116_ic8932_inversion.npy": 0.0,
-         "data/rule116_ic8932_reflection.npy": -0.14507301732374608,
+         "data/rule116_ic8932_reflection.npy": -0.0067887072570262256,
          "data/rule116_ic8932_identity.npy": 0.0,
-         "total": 0.2884577647893396
+         "total": 0.013258036695369627
       },
       "RunLengthEncoding": {
          "data/rule116_ic8932_rotation.npy": -0.0007992806474173252,
@@ -6787,11 +6787,11 @@
    },
    "rule117_": {
       "LosslessFourierCompression": {
-         "data/rule117_ic8932_reflection.npy": -0.0033603174939206156,
-         "data/rule117_ic8932_rotation.npy": -0.0009536349301712809,
+         "data/rule117_ic8932_reflection.npy": -0.005554396846657842,
+         "data/rule117_ic8932_rotation.npy": -0.0029638878728971093,
          "data/rule117_ic8932_identity.npy": 0.0,
          "data/rule117_ic8932_inversion.npy": 0.0,
-         "total": 0.004313952424091896
+         "total": 0.008518284719554951
       },
       "RunLengthEncoding": {
          "data/rule117_ic8932_reflection.npy": -0.0015985612948346364,
@@ -6845,11 +6845,11 @@
    },
    "rule118_": {
       "LosslessFourierCompression": {
-         "data/rule118_ic8932_rotation.npy": -0.0504742862190285,
+         "data/rule118_ic8932_rotation.npy": -0.009470246623551509,
          "data/rule118_ic8932_identity.npy": 0.0,
          "data/rule118_ic8932_inversion.npy": 0.0,
-         "data/rule118_ic8932_reflection.npy": -0.0504742862190285,
-         "total": 0.100948572438057
+         "data/rule118_ic8932_reflection.npy": -0.009470246623551509,
+         "total": 0.018940493247103018
       },
       "RunLengthEncoding": {
          "data/rule118_ic8932_rotation.npy": -0.09491457688080726,
@@ -6903,11 +6903,11 @@
    },
    "rule119_": {
       "LosslessFourierCompression": {
-         "data/rule119_ic8932_rotation.npy": -0.008833000088330005,
-         "data/rule119_ic8932_reflection.npy": -0.008833000088330005,
+         "data/rule119_ic8932_rotation.npy": 0.00015274591328309024,
+         "data/rule119_ic8932_reflection.npy": 0.00015274591328309024,
          "data/rule119_ic8932_inversion.npy": 0.0,
          "data/rule119_ic8932_identity.npy": 0.0,
-         "total": 0.01766600017666001
+         "total": 0.0003054918265661805
       },
       "RunLengthEncoding": {
          "data/rule119_ic8932_rotation.npy": -0.9595364172244981,
@@ -6962,10 +6962,10 @@
    "rule120_": {
       "LosslessFourierCompression": {
          "data/rule120_ic8932_identity.npy": 0.0,
-         "data/rule120_ic8932_rotation.npy": -0.03533200035331997,
+         "data/rule120_ic8932_rotation.npy": 0.002443934612529444,
          "data/rule120_ic8932_inversion.npy": 0.0,
-         "data/rule120_ic8932_reflection.npy": -0.03533200035331997,
-         "total": 0.07066400070663995
+         "data/rule120_ic8932_reflection.npy": 0.002443934612529444,
+         "total": 0.004887869225058888
       },
       "RunLengthEncoding": {
          "data/rule120_ic8932_identity.npy": 0.0,
@@ -7020,10 +7020,10 @@
    "rule121_": {
       "LosslessFourierCompression": {
          "data/rule121_ic8932_identity.npy": 0.0,
-         "data/rule121_ic8932_reflection.npy": -0.18239571610967148,
-         "data/rule121_ic8932_rotation.npy": -0.18239571610967148,
+         "data/rule121_ic8932_reflection.npy": -0.002443934612529444,
+         "data/rule121_ic8932_rotation.npy": -0.002443934612529444,
          "data/rule121_ic8932_inversion.npy": 0.0,
-         "total": 0.36479143221934296
+         "total": 0.004887869225058888
       },
       "RunLengthEncoding": {
          "data/rule121_ic8932_identity.npy": 0.0,
@@ -7079,9 +7079,9 @@
       "LosslessFourierCompression": {
          "data/rule122_ic8932_identity.npy": 0.0,
          "data/rule122_ic8932_inversion.npy": 0.0,
-         "data/rule122_ic8932_rotation.npy": 0.04886828620296849,
-         "data/rule122_ic8932_reflection.npy": 0.04886828620296849,
-         "total": 0.09773657240593699
+         "data/rule122_ic8932_rotation.npy": -0.07652570255482821,
+         "data/rule122_ic8932_reflection.npy": -0.07652570255482821,
+         "total": 0.15305140510965642
       },
       "RunLengthEncoding": {
          "data/rule122_ic8932_identity.npy": 0.0,
@@ -7137,9 +7137,9 @@
       "LosslessFourierCompression": {
          "data/rule123_ic8932_identity.npy": 0.0,
          "data/rule123_ic8932_inversion.npy": 0.0,
-         "data/rule123_ic8932_reflection.npy": -0.016222222384444443,
-         "data/rule123_ic8932_rotation.npy": -0.014085523950379023,
-         "total": 0.030307746334823464
+         "data/rule123_ic8932_reflection.npy": -0.0003085776025921024,
+         "data/rule123_ic8932_rotation.npy": 0.0020535839452504117,
+         "total": 0.002362161547842514
       },
       "RunLengthEncoding": {
          "data/rule123_ic8932_identity.npy": 0.0,
@@ -7195,9 +7195,9 @@
       "LosslessFourierCompression": {
          "data/rule124_ic8932_identity.npy": 0.0,
          "data/rule124_ic8932_inversion.npy": 0.0,
-         "data/rule124_ic8932_rotation.npy": 0.14454000144540002,
-         "data/rule124_ic8932_reflection.npy": 0.14454000144540002,
-         "total": 0.28908000289080005
+         "data/rule124_ic8932_rotation.npy": -0.07087410376335387,
+         "data/rule124_ic8932_reflection.npy": -0.07087410376335387,
+         "total": 0.14174820752670775
       },
       "RunLengthEncoding": {
          "data/rule124_ic8932_identity.npy": 0.0,
@@ -7251,11 +7251,11 @@
    },
    "rule125_": {
       "LosslessFourierCompression": {
-         "data/rule125_ic8932_reflection.npy": -0.02351642880659285,
+         "data/rule125_ic8932_reflection.npy": -0.011608689409514858,
          "data/rule125_ic8932_identity.npy": 0.0,
-         "data/rule125_ic8932_rotation.npy": -0.02351642880659285,
+         "data/rule125_ic8932_rotation.npy": -0.011608689409514858,
          "data/rule125_ic8932_inversion.npy": 0.0,
-         "total": 0.0470328576131857
+         "total": 0.023217378819029716
       },
       "RunLengthEncoding": {
          "data/rule125_ic8932_reflection.npy": 0.0,
@@ -7311,9 +7311,9 @@
       "LosslessFourierCompression": {
          "data/rule126_ic8932_inversion.npy": 0.0,
          "data/rule126_ic8932_identity.npy": 0.0,
-         "data/rule126_ic8932_reflection.npy": 0.07833015951346035,
-         "data/rule126_ic8932_rotation.npy": 0.08611219133731256,
-         "total": 0.1644423508507729
+         "data/rule126_ic8932_reflection.npy": -0.027463406630697025,
+         "data/rule126_ic8932_rotation.npy": -0.01985234006276298,
+         "total": 0.047315746693460004
       },
       "RunLengthEncoding": {
          "data/rule126_ic8932_inversion.npy": 0.0,
@@ -7367,11 +7367,11 @@
    },
    "rule127_": {
       "LosslessFourierCompression": {
-         "data/rule127_ic8932_reflection.npy": 0.0006882857211685721,
+         "data/rule127_ic8932_reflection.npy": 0.0,
          "data/rule127_ic8932_identity.npy": 0.0,
          "data/rule127_ic8932_inversion.npy": 0.0,
-         "data/rule127_ic8932_rotation.npy": 0.0006130137004967753,
-         "total": 0.0013012994216653473
+         "data/rule127_ic8932_rotation.npy": -0.00010025746813628767,
+         "total": 0.00010025746813628767
       },
       "RunLengthEncoding": {
          "data/rule127_ic8932_reflection.npy": 0.0,
@@ -7426,10 +7426,10 @@
    "rule128_": {
       "LosslessFourierCompression": {
          "data/rule128_ic8932_identity.npy": 0.0,
-         "data/rule128_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule128_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule128_ic8932_rotation.npy": 0.0,
          "data/rule128_ic8932_reflection.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule128_ic8932_identity.npy": 0.0,
@@ -7485,9 +7485,9 @@
       "LosslessFourierCompression": {
          "data/rule129_ic8932_inversion.npy": 0.0,
          "data/rule129_ic8932_identity.npy": 0.0,
-         "data/rule129_ic8932_reflection.npy": 0.07833015951346035,
-         "data/rule129_ic8932_rotation.npy": 0.08595960247802123,
-         "total": 0.1642897619914816
+         "data/rule129_ic8932_reflection.npy": -0.027463406630697025,
+         "data/rule129_ic8932_rotation.npy": -0.020001576662134146,
+         "total": 0.04746498329283117
       },
       "RunLengthEncoding": {
          "data/rule129_ic8932_inversion.npy": 0.0,
@@ -7543,9 +7543,9 @@
       "LosslessFourierCompression": {
          "data/rule130_ic8932_inversion.npy": 0.0,
          "data/rule130_ic8932_identity.npy": 0.0,
-         "data/rule130_ic8932_reflection.npy": 0.04622985760515571,
-         "data/rule130_ic8932_rotation.npy": 0.046223246027125076,
-         "total": 0.09245310363228079
+         "data/rule130_ic8932_reflection.npy": -0.005498852878191244,
+         "data/rule130_ic8932_rotation.npy": -0.005505568978953546,
+         "total": 0.01100442185714479
       },
       "RunLengthEncoding": {
          "data/rule130_ic8932_inversion.npy": 0.0,
@@ -7600,10 +7600,10 @@
    "rule131_": {
       "LosslessFourierCompression": {
          "data/rule131_ic8932_inversion.npy": 0.0,
-         "data/rule131_ic8932_reflection.npy": 0.08993600089936009,
+         "data/rule131_ic8932_reflection.npy": 0.005804344704757344,
          "data/rule131_ic8932_identity.npy": 0.0,
-         "data/rule131_ic8932_rotation.npy": 0.08993600089936009,
-         "total": 0.17987200179872018
+         "data/rule131_ic8932_rotation.npy": 0.005804344704757344,
+         "total": 0.011608689409514688
       },
       "RunLengthEncoding": {
          "data/rule131_ic8932_inversion.npy": 0.0,
@@ -7658,10 +7658,10 @@
    "rule132_": {
       "LosslessFourierCompression": {
          "data/rule132_ic8932_identity.npy": 0.0,
-         "data/rule132_ic8932_reflection.npy": 0.0005812906022945085,
-         "data/rule132_ic8932_rotation.npy": 0.0004539633786439968,
+         "data/rule132_ic8932_reflection.npy": 1.6681537561979136e-06,
+         "data/rule132_ic8932_rotation.npy": -0.00014365224127102906,
          "data/rule132_ic8932_inversion.npy": 0.0,
-         "total": 0.0010352539809385052
+         "total": 0.00014532039502722696
       },
       "RunLengthEncoding": {
          "data/rule132_ic8932_identity.npy": 0.0,
@@ -7715,11 +7715,11 @@
    },
    "rule133_": {
       "LosslessFourierCompression": {
-         "data/rule133_ic8932_reflection.npy": 0.047507936983015864,
+         "data/rule133_ic8932_reflection.npy": -0.037800756317532415,
          "data/rule133_ic8932_identity.npy": 0.0,
          "data/rule133_ic8932_inversion.npy": 0.0,
-         "data/rule133_ic8932_rotation.npy": 0.05033546580058466,
-         "total": 0.09784340278360051
+         "data/rule133_ic8932_rotation.npy": -0.03279393345194492,
+         "total": 0.07059468976947733
       },
       "RunLengthEncoding": {
          "data/rule133_ic8932_reflection.npy": 0.0,
@@ -7775,9 +7775,9 @@
       "LosslessFourierCompression": {
          "data/rule134_ic8932_inversion.npy": 0.0,
          "data/rule134_ic8932_identity.npy": 0.0,
-         "data/rule134_ic8932_reflection.npy": -0.020189714487611424,
-         "data/rule134_ic8932_rotation.npy": -0.020189714487611424,
-         "total": 0.04037942897522285
+         "data/rule134_ic8932_reflection.npy": 0.0021384427859632636,
+         "data/rule134_ic8932_rotation.npy": 0.0021384427859632636,
+         "total": 0.004276885571926527
       },
       "RunLengthEncoding": {
          "data/rule134_ic8932_inversion.npy": 0.0,
@@ -7831,11 +7831,11 @@
    },
    "rule135_": {
       "LosslessFourierCompression": {
-         "data/rule135_ic8932_reflection.npy": -0.028449143141634187,
+         "data/rule135_ic8932_reflection.npy": 0.010081230276683957,
          "data/rule135_ic8932_inversion.npy": 0.0,
          "data/rule135_ic8932_identity.npy": 0.0,
-         "data/rule135_ic8932_rotation.npy": -0.028449143141634187,
-         "total": 0.05689828628326837
+         "data/rule135_ic8932_rotation.npy": 0.010081230276683957,
+         "total": 0.020162460553367914
       },
       "RunLengthEncoding": {
          "data/rule135_ic8932_reflection.npy": 0.002497752023179141,
@@ -7890,10 +7890,10 @@
    "rule136_": {
       "LosslessFourierCompression": {
          "data/rule136_ic8932_identity.npy": 0.0,
-         "data/rule136_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule136_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule136_ic8932_reflection.npy": 0.0,
          "data/rule136_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule136_ic8932_identity.npy": 0.0,
@@ -7948,10 +7948,10 @@
    "rule137_": {
       "LosslessFourierCompression": {
          "data/rule137_ic8932_identity.npy": 0.0,
-         "data/rule137_ic8932_reflection.npy": -0.0419854289912829,
+         "data/rule137_ic8932_reflection.npy": -0.02474483795186062,
          "data/rule137_ic8932_inversion.npy": 0.0,
-         "data/rule137_ic8932_rotation.npy": -0.0419854289912829,
-         "total": 0.0839708579825658
+         "data/rule137_ic8932_rotation.npy": -0.02474483795186062,
+         "total": 0.04948967590372124
       },
       "RunLengthEncoding": {
          "data/rule137_ic8932_identity.npy": 0.0,
@@ -8006,10 +8006,10 @@
    "rule138_": {
       "LosslessFourierCompression": {
          "data/rule138_ic8932_identity.npy": 0.0,
-         "data/rule138_ic8932_reflection.npy": 0.02454885738834572,
-         "data/rule138_ic8932_rotation.npy": 0.02454885738834572,
+         "data/rule138_ic8932_reflection.npy": 0.0007637295664154512,
+         "data/rule138_ic8932_rotation.npy": 0.0007637295664154512,
          "data/rule138_ic8932_inversion.npy": 0.0,
-         "total": 0.04909771477669144
+         "total": 0.0015274591328309024
       },
       "RunLengthEncoding": {
          "data/rule138_ic8932_identity.npy": 0.0,
@@ -8064,10 +8064,10 @@
    "rule139_": {
       "LosslessFourierCompression": {
          "data/rule139_ic8932_identity.npy": 0.0,
-         "data/rule139_ic8932_reflection.npy": 0.011239682652079367,
-         "data/rule139_ic8932_rotation.npy": 0.01149982893541535,
+         "data/rule139_ic8932_reflection.npy": -0.004011508833697315,
+         "data/rule139_ic8932_rotation.npy": -0.0036847796074233235,
          "data/rule139_ic8932_inversion.npy": 0.0,
-         "total": 0.022739511587494717
+         "total": 0.007696288441120638
       },
       "RunLengthEncoding": {
          "data/rule139_ic8932_identity.npy": 0.0,
@@ -8121,11 +8121,11 @@
    },
    "rule140_": {
       "LosslessFourierCompression": {
-         "data/rule140_ic8932_rotation.npy": -0.00024959976255024623,
-         "data/rule140_ic8932_reflection.npy": 3.1839803743350647e-06,
+         "data/rule140_ic8932_rotation.npy": -6.550442081610804e-05,
+         "data/rule140_ic8932_reflection.npy": 0.00015568330413292617,
          "data/rule140_ic8932_inversion.npy": 0.0,
          "data/rule140_ic8932_identity.npy": 0.0,
-         "total": 0.0002527837429245813
+         "total": 0.0002211877249490342
       },
       "RunLengthEncoding": {
          "data/rule140_ic8932_rotation.npy": 0.07643121190928165,
@@ -8179,11 +8179,11 @@
    },
    "rule141_": {
       "LosslessFourierCompression": {
-         "data/rule141_ic8932_reflection.npy": 0.0609132863234186,
-         "data/rule141_ic8932_rotation.npy": 0.0609132863234186,
+         "data/rule141_ic8932_reflection.npy": -0.0710268496766369,
+         "data/rule141_ic8932_rotation.npy": -0.0710268496766369,
          "data/rule141_ic8932_inversion.npy": 0.0,
          "data/rule141_ic8932_identity.npy": 0.0,
-         "total": 0.1218265726468372
+         "total": 0.1420536993532738
       },
       "RunLengthEncoding": {
          "data/rule141_ic8932_reflection.npy": 9.991008092716565e-05,
@@ -8238,10 +8238,10 @@
    "rule142_": {
       "LosslessFourierCompression": {
          "data/rule142_ic8932_inversion.npy": 0.0,
-         "data/rule142_ic8932_rotation.npy": -0.015858381110964766,
-         "data/rule142_ic8932_reflection.npy": -0.0161063493674127,
+         "data/rule142_ic8932_rotation.npy": -0.005992577042338606,
+         "data/rule142_ic8932_reflection.npy": -0.006171552051842025,
          "data/rule142_ic8932_identity.npy": 0.0,
-         "total": 0.031964730478377466
+         "total": 0.012164129094180631
       },
       "RunLengthEncoding": {
          "data/rule142_ic8932_inversion.npy": 0.0,
@@ -8295,11 +8295,11 @@
    },
    "rule143_": {
       "LosslessFourierCompression": {
-         "data/rule143_ic8932_reflection.npy": -0.004171428613142857,
+         "data/rule143_ic8932_reflection.npy": 0.00030857760259210505,
          "data/rule143_ic8932_inversion.npy": 0.0,
-         "data/rule143_ic8932_rotation.npy": -0.003964015912656034,
+         "data/rule143_ic8932_rotation.npy": 0.0004782952840177576,
          "data/rule143_ic8932_identity.npy": 0.0,
-         "total": 0.008135444525798891
+         "total": 0.0007868728866098627
       },
       "RunLengthEncoding": {
          "data/rule143_ic8932_reflection.npy": 0.0015985612948346505,
@@ -8353,11 +8353,11 @@
    },
    "rule144_": {
       "LosslessFourierCompression": {
-         "data/rule144_ic8932_rotation.npy": -0.02213985736425571,
-         "data/rule144_ic8932_reflection.npy": -0.02213985736425571,
+         "data/rule144_ic8932_rotation.npy": 0.014816353588459744,
+         "data/rule144_ic8932_reflection.npy": 0.014816353588459744,
          "data/rule144_ic8932_identity.npy": 0.0,
          "data/rule144_ic8932_inversion.npy": 0.0,
-         "total": 0.04427971472851142
+         "total": 0.029632707176919487
       },
       "RunLengthEncoding": {
          "data/rule144_ic8932_rotation.npy": -0.0005994604855629939,
@@ -8411,11 +8411,11 @@
    },
    "rule145_": {
       "LosslessFourierCompression": {
-         "data/rule145_ic8932_reflection.npy": -0.06710785781393565,
-         "data/rule145_ic8932_rotation.npy": -0.06710785781393565,
+         "data/rule145_ic8932_reflection.npy": 0.003513156005511076,
+         "data/rule145_ic8932_rotation.npy": 0.003513156005511076,
          "data/rule145_ic8932_inversion.npy": 0.0,
          "data/rule145_ic8932_identity.npy": 0.0,
-         "total": 0.1342157156278713
+         "total": 0.007026312011022152
       },
       "RunLengthEncoding": {
          "data/rule145_ic8932_reflection.npy": -0.006693975422120154,
@@ -8470,10 +8470,10 @@
    "rule146_": {
       "LosslessFourierCompression": {
          "data/rule146_ic8932_inversion.npy": 0.0,
-         "data/rule146_ic8932_rotation.npy": -0.048524143342384335,
+         "data/rule146_ic8932_rotation.npy": 0.012525164889213401,
          "data/rule146_ic8932_identity.npy": 0.0,
-         "data/rule146_ic8932_reflection.npy": -0.048524143342384335,
-         "total": 0.09704828668476867
+         "data/rule146_ic8932_reflection.npy": 0.012525164889213401,
+         "total": 0.025050329778426802
       },
       "RunLengthEncoding": {
          "data/rule146_ic8932_inversion.npy": 0.0,
@@ -8528,10 +8528,10 @@
    "rule147_": {
       "LosslessFourierCompression": {
          "data/rule147_ic8932_inversion.npy": 0.0,
-         "data/rule147_ic8932_rotation.npy": 0.17436571602937154,
-         "data/rule147_ic8932_reflection.npy": 0.17436571602937154,
+         "data/rule147_ic8932_rotation.npy": 0.01008123027668387,
+         "data/rule147_ic8932_reflection.npy": 0.01008123027668387,
          "data/rule147_ic8932_identity.npy": 0.0,
-         "total": 0.3487314320587431
+         "total": 0.02016246055336774
       },
       "RunLengthEncoding": {
          "data/rule147_ic8932_inversion.npy": 0.0,
@@ -8586,10 +8586,10 @@
    "rule148_": {
       "LosslessFourierCompression": {
          "data/rule148_ic8932_inversion.npy": 0.0,
-         "data/rule148_ic8932_rotation.npy": 0.0815618579584757,
-         "data/rule148_ic8932_reflection.npy": 0.0815618579584757,
+         "data/rule148_ic8932_rotation.npy": -0.003054918265661805,
+         "data/rule148_ic8932_reflection.npy": -0.003054918265661805,
          "data/rule148_ic8932_identity.npy": 0.0,
-         "total": 0.1631237159169514
+         "total": 0.00610983653132361
       },
       "RunLengthEncoding": {
          "data/rule148_ic8932_inversion.npy": 0.0,
@@ -8643,11 +8643,11 @@
    },
    "rule149_": {
       "LosslessFourierCompression": {
-         "data/rule149_ic8932_reflection.npy": -0.012045000120449883,
-         "data/rule149_ic8932_rotation.npy": -0.012045000120449883,
+         "data/rule149_ic8932_reflection.npy": 0.01267791080249649,
+         "data/rule149_ic8932_rotation.npy": 0.01267791080249649,
          "data/rule149_ic8932_inversion.npy": 0.0,
          "data/rule149_ic8932_identity.npy": 0.0,
-         "total": 0.024090000240899766
+         "total": 0.02535582160499298
       },
       "RunLengthEncoding": {
          "data/rule149_ic8932_reflection.npy": -0.002797482265960638,
@@ -8702,10 +8702,10 @@
    "rule150_": {
       "LosslessFourierCompression": {
          "data/rule150_ic8932_inversion.npy": 0.0,
-         "data/rule150_ic8932_rotation.npy": -0.004588571474457148,
+         "data/rule150_ic8932_rotation.npy": 0.032076641789448954,
          "data/rule150_ic8932_identity.npy": 0.0,
-         "data/rule150_ic8932_reflection.npy": -0.004588571474457148,
-         "total": 0.009177142948914295
+         "data/rule150_ic8932_reflection.npy": 0.032076641789448954,
+         "total": 0.06415328357889791
       },
       "RunLengthEncoding": {
          "data/rule150_ic8932_inversion.npy": 0.0,
@@ -8759,11 +8759,11 @@
    },
    "rule151_": {
       "LosslessFourierCompression": {
-         "data/rule151_ic8932_rotation.npy": 0.0551775719803472,
-         "data/rule151_ic8932_reflection.npy": 0.0551775719803472,
+         "data/rule151_ic8932_rotation.npy": 0.05376656147564777,
+         "data/rule151_ic8932_reflection.npy": 0.05376656147564777,
          "data/rule151_ic8932_inversion.npy": 0.0,
          "data/rule151_ic8932_identity.npy": 0.0,
-         "total": 0.1103551439606944
+         "total": 0.10753312295129554
       },
       "RunLengthEncoding": {
          "data/rule151_ic8932_rotation.npy": -0.14167249475472074,
@@ -8817,11 +8817,11 @@
    },
    "rule152_": {
       "LosslessFourierCompression": {
-         "data/rule152_ic8932_rotation.npy": 0.23137871659950152,
+         "data/rule152_ic8932_rotation.npy": 0.0010692213929816318,
          "data/rule152_ic8932_inversion.npy": 0.0,
          "data/rule152_ic8932_identity.npy": 0.0,
-         "data/rule152_ic8932_reflection.npy": 0.23137871659950152,
-         "total": 0.46275743319900303
+         "data/rule152_ic8932_reflection.npy": 0.0010692213929816318,
+         "total": 0.0021384427859632636
       },
       "RunLengthEncoding": {
          "data/rule152_ic8932_rotation.npy": -0.0007992806474173252,
@@ -8875,11 +8875,11 @@
    },
    "rule153_": {
       "LosslessFourierCompression": {
-         "data/rule153_ic8932_rotation.npy": -0.16518857308045717,
-         "data/rule153_ic8932_reflection.npy": -0.16518857308045717,
+         "data/rule153_ic8932_rotation.npy": 0.02443934612529427,
+         "data/rule153_ic8932_reflection.npy": 0.02443934612529427,
          "data/rule153_ic8932_identity.npy": 0.0,
          "data/rule153_ic8932_inversion.npy": 0.0,
-         "total": 0.33037714616091435
+         "total": 0.04887869225058854
       },
       "RunLengthEncoding": {
          "data/rule153_ic8932_rotation.npy": 0.004495953641722398,
@@ -8933,11 +8933,11 @@
    },
    "rule154_": {
       "LosslessFourierCompression": {
-         "data/rule154_ic8932_rotation.npy": -0.09968671528258147,
+         "data/rule154_ic8932_rotation.npy": 0.04200512615284982,
          "data/rule154_ic8932_inversion.npy": 0.0,
          "data/rule154_ic8932_identity.npy": 0.0,
-         "data/rule154_ic8932_reflection.npy": -0.09968671528258147,
-         "total": 0.19937343056516293
+         "data/rule154_ic8932_reflection.npy": 0.04200512615284982,
+         "total": 0.08401025230569964
       },
       "RunLengthEncoding": {
          "data/rule154_ic8932_rotation.npy": -0.0008991907283444909,
@@ -8991,11 +8991,11 @@
    },
    "rule155_": {
       "LosslessFourierCompression": {
-         "data/rule155_ic8932_rotation.npy": 0.026154857404405724,
+         "data/rule155_ic8932_rotation.npy": -0.0019856968726801733,
          "data/rule155_ic8932_inversion.npy": 0.0,
-         "data/rule155_ic8932_reflection.npy": 0.026154857404405724,
+         "data/rule155_ic8932_reflection.npy": -0.0019856968726801733,
          "data/rule155_ic8932_identity.npy": 0.0,
-         "total": 0.05230971480881145
+         "total": 0.0039713937453603465
       },
       "RunLengthEncoding": {
          "data/rule155_ic8932_rotation.npy": 0.0003996403237086626,
@@ -9049,11 +9049,11 @@
    },
    "rule156_": {
       "LosslessFourierCompression": {
-         "data/rule156_ic8932_rotation.npy": -0.09108314376797429,
-         "data/rule156_ic8932_reflection.npy": -0.09108314376797429,
+         "data/rule156_ic8932_rotation.npy": 0.002443934612529444,
+         "data/rule156_ic8932_reflection.npy": 0.002443934612529444,
          "data/rule156_ic8932_identity.npy": 0.0,
          "data/rule156_ic8932_inversion.npy": 0.0,
-         "total": 0.18216628753594857
+         "total": 0.004887869225058888
       },
       "RunLengthEncoding": {
          "data/rule156_ic8932_rotation.npy": 0.6630032970326707,
@@ -9107,11 +9107,11 @@
    },
    "rule157_": {
       "LosslessFourierCompression": {
-         "data/rule157_ic8932_rotation.npy": -0.023287000232869958,
-         "data/rule157_ic8932_reflection.npy": -0.023287000232869958,
+         "data/rule157_ic8932_rotation.npy": 0.0,
+         "data/rule157_ic8932_reflection.npy": 0.0,
          "data/rule157_ic8932_inversion.npy": 0.0,
          "data/rule157_ic8932_identity.npy": 0.0,
-         "total": 0.046574000465739916
+         "total": 0.0
       },
       "RunLengthEncoding": {
          "data/rule157_ic8932_rotation.npy": 0.6551104006394245,
@@ -9165,11 +9165,11 @@
    },
    "rule158_": {
       "LosslessFourierCompression": {
-         "data/rule158_ic8932_rotation.npy": 0.012962714415341442,
+         "data/rule158_ic8932_rotation.npy": 0.00610983653132361,
          "data/rule158_ic8932_inversion.npy": 0.0,
-         "data/rule158_ic8932_reflection.npy": 0.012962714415341442,
+         "data/rule158_ic8932_reflection.npy": 0.00610983653132361,
          "data/rule158_ic8932_identity.npy": 0.0,
-         "total": 0.025925428830682884
+         "total": 0.01221967306264722
       },
       "RunLengthEncoding": {
          "data/rule158_ic8932_rotation.npy": 0.0011989209711259878,
@@ -9223,11 +9223,11 @@
    },
    "rule159_": {
       "LosslessFourierCompression": {
-         "data/rule159_ic8932_rotation.npy": 0.005162142908764283,
-         "data/rule159_ic8932_reflection.npy": 0.005162142908764283,
+         "data/rule159_ic8932_rotation.npy": 0.00015274591328307954,
+         "data/rule159_ic8932_reflection.npy": 0.00015274591328307954,
          "data/rule159_ic8932_inversion.npy": 0.0,
          "data/rule159_ic8932_identity.npy": 0.0,
-         "total": 0.010324285817528566
+         "total": 0.00030549182656615907
       },
       "RunLengthEncoding": {
          "data/rule159_ic8932_rotation.npy": 0.0,
@@ -9282,10 +9282,10 @@
    "rule160_": {
       "LosslessFourierCompression": {
          "data/rule160_ic8932_identity.npy": 0.0,
-         "data/rule160_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule160_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule160_ic8932_rotation.npy": 0.0,
          "data/rule160_ic8932_reflection.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule160_ic8932_identity.npy": 0.0,
@@ -9339,11 +9339,11 @@
    },
    "rule161_": {
       "LosslessFourierCompression": {
-         "data/rule161_ic8932_reflection.npy": -0.03974444484188888,
+         "data/rule161_ic8932_reflection.npy": -0.004165797634993425,
          "data/rule161_ic8932_identity.npy": 0.0,
          "data/rule161_ic8932_inversion.npy": 0.0,
-         "data/rule161_ic8932_rotation.npy": -0.031635605669608435,
-         "total": 0.07138005051149732
+         "data/rule161_ic8932_rotation.npy": 0.0026940034814536386,
+         "total": 0.006859801116447063
       },
       "RunLengthEncoding": {
          "data/rule161_ic8932_reflection.npy": 0.0017983814566889817,
@@ -9399,9 +9399,9 @@
       "LosslessFourierCompression": {
          "data/rule162_ic8932_inversion.npy": 0.0,
          "data/rule162_ic8932_identity.npy": 0.0,
-         "data/rule162_ic8932_rotation.npy": -0.02558128597009858,
-         "data/rule162_ic8932_reflection.npy": -0.02558128597009858,
-         "total": 0.05116257194019716
+         "data/rule162_ic8932_rotation.npy": 0.000610983653132361,
+         "data/rule162_ic8932_reflection.npy": 0.000610983653132361,
+         "total": 0.001221967306264722
       },
       "RunLengthEncoding": {
          "data/rule162_ic8932_inversion.npy": 0.0,
@@ -9457,9 +9457,9 @@
       "LosslessFourierCompression": {
          "data/rule163_ic8932_identity.npy": 0.0,
          "data/rule163_ic8932_inversion.npy": 0.0,
-         "data/rule163_ic8932_reflection.npy": 0.003670857179565718,
-         "data/rule163_ic8932_rotation.npy": 0.003670857179565718,
-         "total": 0.007341714359131436
+         "data/rule163_ic8932_reflection.npy": 0.00045823773984918513,
+         "data/rule163_ic8932_rotation.npy": 0.00045823773984918513,
+         "total": 0.0009164754796983703
       },
       "RunLengthEncoding": {
          "data/rule163_ic8932_identity.npy": 0.0,
@@ -9514,10 +9514,10 @@
    "rule164_": {
       "LosslessFourierCompression": {
          "data/rule164_ic8932_identity.npy": 0.0,
-         "data/rule164_ic8932_reflection.npy": -0.00011589619858962,
+         "data/rule164_ic8932_reflection.npy": -0.0001543196683164156,
          "data/rule164_ic8932_inversion.npy": 0.0,
-         "data/rule164_ic8932_rotation.npy": -0.00031156256924976975,
-         "total": 0.00042745876783938975
+         "data/rule164_ic8932_rotation.npy": -0.00038228895087145747,
+         "total": 0.0005366086191878731
       },
       "RunLengthEncoding": {
          "data/rule164_ic8932_identity.npy": 0.0,
@@ -9571,11 +9571,11 @@
    },
    "rule165_": {
       "LosslessFourierCompression": {
-         "data/rule165_ic8932_reflection.npy": 0.013995142997094171,
+         "data/rule165_ic8932_reflection.npy": -0.01955147690023555,
          "data/rule165_ic8932_identity.npy": 0.0,
          "data/rule165_ic8932_inversion.npy": 0.0,
-         "data/rule165_ic8932_rotation.npy": 0.013995142997094171,
-         "total": 0.027990285994188343
+         "data/rule165_ic8932_rotation.npy": -0.01955147690023555,
+         "total": 0.0391029538004711
       },
       "RunLengthEncoding": {
          "data/rule165_ic8932_reflection.npy": 0.0003996403237086626,
@@ -9631,9 +9631,9 @@
       "LosslessFourierCompression": {
          "data/rule166_ic8932_inversion.npy": 0.0,
          "data/rule166_ic8932_identity.npy": 0.0,
-         "data/rule166_ic8932_reflection.npy": -0.04783585762121571,
-         "data/rule166_ic8932_rotation.npy": -0.04783585762121571,
-         "total": 0.09567171524243143
+         "data/rule166_ic8932_reflection.npy": 0.024592092038577488,
+         "data/rule166_ic8932_rotation.npy": 0.024592092038577488,
+         "total": 0.049184184077154976
       },
       "RunLengthEncoding": {
          "data/rule166_ic8932_inversion.npy": 0.0,
@@ -9687,11 +9687,11 @@
    },
    "rule167_": {
       "LosslessFourierCompression": {
-         "data/rule167_ic8932_reflection.npy": 0.1484402871986886,
+         "data/rule167_ic8932_reflection.npy": -0.08706517057136136,
          "data/rule167_ic8932_inversion.npy": 0.0,
          "data/rule167_ic8932_identity.npy": 0.0,
-         "data/rule167_ic8932_rotation.npy": 0.1484402871986886,
-         "total": 0.2968805743973772
+         "data/rule167_ic8932_rotation.npy": -0.08706517057136136,
+         "total": 0.17413034114272272
       },
       "RunLengthEncoding": {
          "data/rule167_ic8932_reflection.npy": 0.0006993705664901595,
@@ -9746,10 +9746,10 @@
    "rule168_": {
       "LosslessFourierCompression": {
          "data/rule168_ic8932_identity.npy": 0.0,
-         "data/rule168_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule168_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule168_ic8932_rotation.npy": 0.0,
          "data/rule168_ic8932_reflection.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule168_ic8932_identity.npy": 0.0,
@@ -9804,10 +9804,10 @@
    "rule169_": {
       "LosslessFourierCompression": {
          "data/rule169_ic8932_identity.npy": 0.0,
-         "data/rule169_ic8932_reflection.npy": 0.031202286026308666,
+         "data/rule169_ic8932_reflection.npy": 0.003665901918794166,
          "data/rule169_ic8932_inversion.npy": 0.0,
-         "data/rule169_ic8932_rotation.npy": 0.031202286026308666,
-         "total": 0.06240457205261733
+         "data/rule169_ic8932_rotation.npy": 0.003665901918794166,
+         "total": 0.007331803837588332
       },
       "RunLengthEncoding": {
          "data/rule169_ic8932_identity.npy": 0.0,
@@ -9863,9 +9863,9 @@
       "LosslessFourierCompression": {
          "data/rule170_ic8932_identity.npy": 0.0,
          "data/rule170_ic8932_inversion.npy": 0.0,
-         "data/rule170_ic8932_rotation.npy": 0.06434869407641568,
-         "data/rule170_ic8932_reflection.npy": 0.06435471492926144,
-         "total": 0.12870340900567712
+         "data/rule170_ic8932_rotation.npy": -0.00046456055543179435,
+         "data/rule170_ic8932_reflection.npy": -0.0004582377398492654,
+         "total": 0.0009227982952810598
       },
       "RunLengthEncoding": {
          "data/rule170_ic8932_identity.npy": 0.0,
@@ -9920,10 +9920,10 @@
    "rule171_": {
       "LosslessFourierCompression": {
          "data/rule171_ic8932_identity.npy": 0.0,
-         "data/rule171_ic8932_reflection.npy": -0.04152657184383715,
+         "data/rule171_ic8932_reflection.npy": 0.0050406151383419725,
          "data/rule171_ic8932_inversion.npy": 0.0,
-         "data/rule171_ic8932_rotation.npy": -0.04152657184383715,
-         "total": 0.0830531436876743
+         "data/rule171_ic8932_rotation.npy": 0.0050406151383419725,
+         "total": 0.010081230276683945
       },
       "RunLengthEncoding": {
          "data/rule171_ic8932_identity.npy": 0.0,
@@ -9978,10 +9978,10 @@
    "rule172_": {
       "LosslessFourierCompression": {
          "data/rule172_ic8932_identity.npy": 0.0,
-         "data/rule172_ic8932_rotation.npy": 4.891419774699238e-05,
-         "data/rule172_ic8932_reflection.npy": 0.000228905784094648,
+         "data/rule172_ic8932_rotation.npy": -0.0002211877249490342,
+         "data/rule172_ic8932_reflection.npy": -6.960879195228764e-07,
          "data/rule172_ic8932_inversion.npy": 0.0,
-         "total": 0.0002778199818416404
+         "total": 0.00022188381286855708
       },
       "RunLengthEncoding": {
          "data/rule172_ic8932_identity.npy": 0.0,
@@ -10035,11 +10035,11 @@
    },
    "rule173_": {
       "LosslessFourierCompression": {
-         "data/rule173_ic8932_reflection.npy": -0.022942857372285713,
+         "data/rule173_ic8932_reflection.npy": -0.0015274591328309024,
          "data/rule173_ic8932_identity.npy": 0.0,
-         "data/rule173_ic8932_rotation.npy": -0.022942857372285713,
+         "data/rule173_ic8932_rotation.npy": -0.0015274591328309024,
          "data/rule173_ic8932_inversion.npy": 0.0,
-         "total": 0.045885714744571426
+         "total": 0.003054918265661805
       },
       "RunLengthEncoding": {
          "data/rule173_ic8932_reflection.npy": 0.0001998201618543243,
@@ -10095,9 +10095,9 @@
       "LosslessFourierCompression": {
          "data/rule174_ic8932_identity.npy": 0.0,
          "data/rule174_ic8932_inversion.npy": 0.0,
-         "data/rule174_ic8932_rotation.npy": -0.011586142973004285,
-         "data/rule174_ic8932_reflection.npy": -0.011586142973004285,
-         "total": 0.02317228594600857
+         "data/rule174_ic8932_rotation.npy": 0.0,
+         "data/rule174_ic8932_reflection.npy": 0.0,
+         "total": 0.0
       },
       "RunLengthEncoding": {
          "data/rule174_ic8932_identity.npy": 0.0,
@@ -10153,9 +10153,9 @@
       "LosslessFourierCompression": {
          "data/rule175_ic8932_inversion.npy": 0.0,
          "data/rule175_ic8932_identity.npy": 0.0,
-         "data/rule175_ic8932_reflection.npy": -0.004403174647206358,
-         "data/rule175_ic8932_rotation.npy": -0.003742698450125405,
-         "total": 0.008145873097331762
+         "data/rule175_ic8932_reflection.npy": 0.011880237699795898,
+         "data/rule175_ic8932_rotation.npy": 0.012088527581545567,
+         "total": 0.023968765281341467
       },
       "RunLengthEncoding": {
          "data/rule175_ic8932_inversion.npy": 0.0,
@@ -10210,10 +10210,10 @@
    "rule176_": {
       "LosslessFourierCompression": {
          "data/rule176_ic8932_identity.npy": 0.0,
-         "data/rule176_ic8932_rotation.npy": -0.11110675087764074,
-         "data/rule176_ic8932_reflection.npy": -0.11104342968186287,
+         "data/rule176_ic8932_rotation.npy": -0.005048117809463815,
+         "data/rule176_ic8932_reflection.npy": -0.0050406151383419725,
          "data/rule176_ic8932_inversion.npy": 0.0,
-         "total": 0.2221501805595036
+         "total": 0.010088732947805788
       },
       "RunLengthEncoding": {
          "data/rule176_ic8932_identity.npy": 0.0,
@@ -10268,10 +10268,10 @@
    "rule177_": {
       "LosslessFourierCompression": {
          "data/rule177_ic8932_identity.npy": 0.0,
-         "data/rule177_ic8932_reflection.npy": -0.00527685719562572,
+         "data/rule177_ic8932_reflection.npy": 0.0025966805258126197,
          "data/rule177_ic8932_inversion.npy": 0.0,
-         "data/rule177_ic8932_rotation.npy": -0.00527685719562572,
-         "total": 0.01055371439125144
+         "data/rule177_ic8932_rotation.npy": 0.0025966805258126197,
+         "total": 0.005193361051625239
       },
       "RunLengthEncoding": {
          "data/rule177_ic8932_identity.npy": 0.0,
@@ -10326,10 +10326,10 @@
    "rule178_": {
       "LosslessFourierCompression": {
          "data/rule178_ic8932_identity.npy": 0.0,
-         "data/rule178_ic8932_reflection.npy": -0.01594528587373859,
+         "data/rule178_ic8932_reflection.npy": -0.003665901918794166,
          "data/rule178_ic8932_inversion.npy": 0.0,
-         "data/rule178_ic8932_rotation.npy": -0.01594528587373859,
-         "total": 0.03189057174747718
+         "data/rule178_ic8932_rotation.npy": -0.003665901918794166,
+         "total": 0.007331803837588332
       },
       "RunLengthEncoding": {
          "data/rule178_ic8932_identity.npy": 0.0,
@@ -10383,11 +10383,11 @@
    },
    "rule179_": {
       "LosslessFourierCompression": {
-         "data/rule179_ic8932_reflection.npy": -0.0010324285817528583,
+         "data/rule179_ic8932_reflection.npy": 0.0015274591328309454,
          "data/rule179_ic8932_identity.npy": 0.0,
-         "data/rule179_ic8932_rotation.npy": -0.0010324285817528583,
+         "data/rule179_ic8932_rotation.npy": 0.0015274591328309454,
          "data/rule179_ic8932_inversion.npy": 0.0,
-         "total": 0.0020648571635057166
+         "total": 0.0030549182656618907
       },
       "RunLengthEncoding": {
          "data/rule179_ic8932_reflection.npy": 0.0,
@@ -10442,10 +10442,10 @@
    "rule180_": {
       "LosslessFourierCompression": {
          "data/rule180_ic8932_identity.npy": 0.0,
-         "data/rule180_ic8932_rotation.npy": -0.22185743079000286,
-         "data/rule180_ic8932_reflection.npy": -0.22185743079000286,
+         "data/rule180_ic8932_rotation.npy": 0.0054988528781912595,
+         "data/rule180_ic8932_reflection.npy": 0.0054988528781912595,
          "data/rule180_ic8932_inversion.npy": 0.0,
-         "total": 0.4437148615800057
+         "total": 0.010997705756382519
       },
       "RunLengthEncoding": {
          "data/rule180_ic8932_identity.npy": 0.0,
@@ -10500,10 +10500,10 @@
    "rule181_": {
       "LosslessFourierCompression": {
          "data/rule181_ic8932_identity.npy": 0.0,
-         "data/rule181_ic8932_reflection.npy": 0.10748728678915861,
-         "data/rule181_ic8932_rotation.npy": 0.10748728678915861,
+         "data/rule181_ic8932_reflection.npy": 0.0025966805258125342,
+         "data/rule181_ic8932_rotation.npy": 0.0025966805258125342,
          "data/rule181_ic8932_inversion.npy": 0.0,
-         "total": 0.21497457357831723
+         "total": 0.0051933610516250684
       },
       "RunLengthEncoding": {
          "data/rule181_ic8932_identity.npy": 0.0,
@@ -10559,9 +10559,9 @@
       "LosslessFourierCompression": {
          "data/rule182_ic8932_identity.npy": 0.0,
          "data/rule182_ic8932_inversion.npy": 0.0,
-         "data/rule182_ic8932_rotation.npy": 0.05253914338253434,
-         "data/rule182_ic8932_reflection.npy": 0.05253914338253434,
-         "total": 0.10507828676506868
+         "data/rule182_ic8932_rotation.npy": 0.09485521214879895,
+         "data/rule182_ic8932_reflection.npy": 0.09485521214879895,
+         "total": 0.1897104242975979
       },
       "RunLengthEncoding": {
          "data/rule182_ic8932_identity.npy": 0.0,
@@ -10617,9 +10617,9 @@
       "LosslessFourierCompression": {
          "data/rule183_ic8932_identity.npy": 0.0,
          "data/rule183_ic8932_inversion.npy": 0.0,
-         "data/rule183_ic8932_reflection.npy": -0.024090000240900026,
-         "data/rule183_ic8932_rotation.npy": -0.024090000240900026,
-         "total": 0.04818000048180005
+         "data/rule183_ic8932_reflection.npy": -0.05285008599594914,
+         "data/rule183_ic8932_rotation.npy": -0.05285008599594914,
+         "total": 0.10570017199189828
       },
       "RunLengthEncoding": {
          "data/rule183_ic8932_identity.npy": 0.0,
@@ -10675,9 +10675,9 @@
       "LosslessFourierCompression": {
          "data/rule184_ic8932_identity.npy": 0.0,
          "data/rule184_ic8932_inversion.npy": 0.0,
-         "data/rule184_ic8932_rotation.npy": 0.021967933615259814,
-         "data/rule184_ic8932_reflection.npy": 0.022025143077394307,
-         "total": 0.04399307669265412
+         "data/rule184_ic8932_rotation.npy": -0.0064232243141914,
+         "data/rule184_ic8932_reflection.npy": -0.00641532835788978,
+         "total": 0.01283855267208118
       },
       "RunLengthEncoding": {
          "data/rule184_ic8932_identity.npy": 0.0,
@@ -10731,11 +10731,11 @@
    },
    "rule185_": {
       "LosslessFourierCompression": {
-         "data/rule185_ic8932_reflection.npy": -0.0039002857532885755,
+         "data/rule185_ic8932_reflection.npy": -0.0003054918265661805,
          "data/rule185_ic8932_identity.npy": 0.0,
-         "data/rule185_ic8932_rotation.npy": -0.0039002857532885755,
+         "data/rule185_ic8932_rotation.npy": -0.0003054918265661805,
          "data/rule185_ic8932_inversion.npy": 0.0,
-         "total": 0.007800571506577151
+         "total": 0.000610983653132361
       },
       "RunLengthEncoding": {
          "data/rule185_ic8932_reflection.npy": 0.0003996403237086346,
@@ -10791,9 +10791,9 @@
       "LosslessFourierCompression": {
          "data/rule186_ic8932_inversion.npy": 0.0,
          "data/rule186_ic8932_identity.npy": 0.0,
-         "data/rule186_ic8932_reflection.npy": 0.001147142868614319,
-         "data/rule186_ic8932_rotation.npy": 0.001147142868614319,
-         "total": 0.002294285737228638
+         "data/rule186_ic8932_reflection.npy": -0.001221967306264722,
+         "data/rule186_ic8932_rotation.npy": -0.001221967306264722,
+         "total": 0.002443934612529444
       },
       "RunLengthEncoding": {
          "data/rule186_ic8932_inversion.npy": 0.0,
@@ -10847,11 +10847,11 @@
    },
    "rule187_": {
       "LosslessFourierCompression": {
-         "data/rule187_ic8932_reflection.npy": 0.006997571498547146,
+         "data/rule187_ic8932_reflection.npy": 0.0018329509593970777,
          "data/rule187_ic8932_identity.npy": 0.0,
          "data/rule187_ic8932_inversion.npy": 0.0,
-         "data/rule187_ic8932_rotation.npy": 0.006997571498547146,
-         "total": 0.013995142997094291
+         "data/rule187_ic8932_rotation.npy": 0.0018329509593970777,
+         "total": 0.0036659019187941554
       },
       "RunLengthEncoding": {
          "data/rule187_ic8932_reflection.npy": 0.0007992806474173252,
@@ -10907,9 +10907,9 @@
       "LosslessFourierCompression": {
          "data/rule188_ic8932_identity.npy": 0.0,
          "data/rule188_ic8932_inversion.npy": 0.0,
-         "data/rule188_ic8932_rotation.npy": 0.02959628601024857,
-         "data/rule188_ic8932_reflection.npy": 0.02959628601024857,
-         "total": 0.05919257202049714
+         "data/rule188_ic8932_rotation.npy": -0.003665901918794166,
+         "data/rule188_ic8932_reflection.npy": -0.003665901918794166,
+         "total": 0.007331803837588332
       },
       "RunLengthEncoding": {
          "data/rule188_ic8932_identity.npy": 0.0,
@@ -10965,9 +10965,9 @@
       "LosslessFourierCompression": {
          "data/rule189_ic8932_inversion.npy": 0.0,
          "data/rule189_ic8932_identity.npy": 0.0,
-         "data/rule189_ic8932_reflection.npy": -0.0026384285978128556,
-         "data/rule189_ic8932_rotation.npy": -0.0026384285978128556,
-         "total": 0.005276857195625711
+         "data/rule189_ic8932_reflection.npy": -0.0013747132195478123,
+         "data/rule189_ic8932_rotation.npy": -0.0013747132195478123,
+         "total": 0.0027494264390956246
       },
       "RunLengthEncoding": {
          "data/rule189_ic8932_inversion.npy": 0.0,
@@ -11023,9 +11023,9 @@
       "LosslessFourierCompression": {
          "data/rule190_ic8932_identity.npy": 0.0,
          "data/rule190_ic8932_inversion.npy": 0.0,
-         "data/rule190_ic8932_reflection.npy": -0.0048180000481800045,
-         "data/rule190_ic8932_rotation.npy": -0.0048180000481800045,
-         "total": 0.009636000096360009
+         "data/rule190_ic8932_reflection.npy": 0.014816353588459754,
+         "data/rule190_ic8932_rotation.npy": 0.014816353588459754,
+         "total": 0.029632707176919508
       },
       "RunLengthEncoding": {
          "data/rule190_ic8932_identity.npy": 0.0,
@@ -11079,11 +11079,11 @@
    },
    "rule191_": {
       "LosslessFourierCompression": {
-         "data/rule191_ic8932_reflection.npy": 0.00699757149854715,
-         "data/rule191_ic8932_inversion.npy": 0.0,
+         "data/rule191_ic8932_reflection.npy": -0.00015274591328309024,
+         "data/rule191_ic8932_inversion.npy": -0.00030549182656618184,
          "data/rule191_ic8932_identity.npy": 0.0,
-         "data/rule191_ic8932_rotation.npy": 0.00699757149854715,
-         "total": 0.0139951429970943
+         "data/rule191_ic8932_rotation.npy": -0.00015274591328309024,
+         "total": 0.0006109836531323623
       },
       "RunLengthEncoding": {
          "data/rule191_ic8932_reflection.npy": 0.0001998201618543313,
@@ -11139,9 +11139,9 @@
       "LosslessFourierCompression": {
          "data/rule192_ic8932_identity.npy": 0.0,
          "data/rule192_ic8932_reflection.npy": 0.0,
-         "data/rule192_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule192_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule192_ic8932_rotation.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule192_ic8932_identity.npy": 0.0,
@@ -11195,11 +11195,11 @@
    },
    "rule193_": {
       "LosslessFourierCompression": {
-         "data/rule193_ic8932_reflection.npy": -0.1408691442658343,
+         "data/rule193_ic8932_reflection.npy": 0.029785453090202512,
          "data/rule193_ic8932_identity.npy": 0.0,
          "data/rule193_ic8932_inversion.npy": 0.0,
-         "data/rule193_ic8932_rotation.npy": -0.1408691442658343,
-         "total": 0.2817382885316686
+         "data/rule193_ic8932_rotation.npy": 0.029785453090202512,
+         "total": 0.059570906180405024
       },
       "RunLengthEncoding": {
          "data/rule193_ic8932_reflection.npy": -0.001398741132980319,
@@ -11255,9 +11255,9 @@
       "LosslessFourierCompression": {
          "data/rule194_ic8932_inversion.npy": 0.0,
          "data/rule194_ic8932_identity.npy": 0.0,
-         "data/rule194_ic8932_reflection.npy": 0.0034414286058428566,
-         "data/rule194_ic8932_rotation.npy": 0.003422150422081763,
-         "total": 0.006863579027924619
+         "data/rule194_ic8932_reflection.npy": -0.0024439346125294413,
+         "data/rule194_ic8932_rotation.npy": -0.0024611283657487845,
+         "total": 0.004905062978278226
       },
       "RunLengthEncoding": {
          "data/rule194_ic8932_inversion.npy": 0.0,
@@ -11311,11 +11311,11 @@
    },
    "rule195_": {
       "LosslessFourierCompression": {
-         "data/rule195_ic8932_reflection.npy": 0.026040143117544184,
+         "data/rule195_ic8932_reflection.npy": 0.0010692213929816318,
          "data/rule195_ic8932_inversion.npy": 0.0,
          "data/rule195_ic8932_identity.npy": 0.0,
-         "data/rule195_ic8932_rotation.npy": 0.026040143117544184,
-         "total": 0.05208028623508837
+         "data/rule195_ic8932_rotation.npy": 0.0010692213929816318,
+         "total": 0.0021384427859632636
       },
       "RunLengthEncoding": {
          "data/rule195_ic8932_reflection.npy": -0.00019982016185427528,
@@ -11371,9 +11371,9 @@
       "LosslessFourierCompression": {
          "data/rule196_ic8932_identity.npy": 0.0,
          "data/rule196_ic8932_inversion.npy": 0.0,
-         "data/rule196_ic8932_rotation.npy": -0.00035879793282756275,
-         "data/rule196_ic8932_reflection.npy": -0.00011478247447002444,
-         "total": 0.0004735804072975872
+         "data/rule196_ic8932_rotation.npy": 0.00010499077392367567,
+         "data/rule196_ic8932_reflection.npy": 0.0003056734147333487,
+         "total": 0.0004106641886570244
       },
       "RunLengthEncoding": {
          "data/rule196_ic8932_identity.npy": 0.0,
@@ -11428,10 +11428,10 @@
    "rule197_": {
       "LosslessFourierCompression": {
          "data/rule197_ic8932_identity.npy": 0.0,
-         "data/rule197_ic8932_reflection.npy": 0.011930285833588567,
+         "data/rule197_ic8932_reflection.npy": -0.027647010304239293,
          "data/rule197_ic8932_inversion.npy": 0.0,
-         "data/rule197_ic8932_rotation.npy": 0.011930285833588567,
-         "total": 0.023860571667177134
+         "data/rule197_ic8932_rotation.npy": -0.027647010304239293,
+         "total": 0.055294020608478586
       },
       "RunLengthEncoding": {
          "data/rule197_ic8932_identity.npy": 0.0,
@@ -11486,10 +11486,10 @@
    "rule198_": {
       "LosslessFourierCompression": {
          "data/rule198_ic8932_identity.npy": 0.0,
-         "data/rule198_ic8932_reflection.npy": -0.02179571450367145,
-         "data/rule198_ic8932_rotation.npy": -0.02179571450367145,
+         "data/rule198_ic8932_reflection.npy": 0.0027494264390956246,
+         "data/rule198_ic8932_rotation.npy": 0.0027494264390956246,
          "data/rule198_ic8932_inversion.npy": 0.0,
-         "total": 0.0435914290073429
+         "total": 0.005498852878191249
       },
       "RunLengthEncoding": {
          "data/rule198_ic8932_identity.npy": 0.0,
@@ -11543,11 +11543,11 @@
    },
    "rule199_": {
       "LosslessFourierCompression": {
-         "data/rule199_ic8932_reflection.npy": -0.052653857669395704,
+         "data/rule199_ic8932_reflection.npy": 0.010081230276683957,
          "data/rule199_ic8932_identity.npy": 0.0,
          "data/rule199_ic8932_inversion.npy": 0.0,
-         "data/rule199_ic8932_rotation.npy": -0.052653857669395704,
-         "total": 0.10530771533879141
+         "data/rule199_ic8932_rotation.npy": 0.010081230276683957,
+         "total": 0.020162460553367914
       },
       "RunLengthEncoding": {
          "data/rule199_ic8932_reflection.npy": 0.0,
@@ -11602,10 +11602,10 @@
    "rule200_": {
       "LosslessFourierCompression": {
          "data/rule200_ic8932_identity.npy": 0.0,
-         "data/rule200_ic8932_rotation.npy": -0.0004089880800852982,
-         "data/rule200_ic8932_reflection.npy": -0.00022899649373764257,
-         "data/rule200_ic8932_inversion.npy": 0.0,
-         "total": 0.0006379845738229407
+         "data/rule200_ic8932_rotation.npy": -0.000353519348176347,
+         "data/rule200_ic8932_reflection.npy": -0.00015220089697548923,
+         "data/rule200_ic8932_inversion.npy": 0.00015283670736667467,
+         "total": 0.0006585569525185109
       },
       "RunLengthEncoding": {
          "data/rule200_ic8932_identity.npy": 0.0,
@@ -11660,10 +11660,10 @@
    "rule201_": {
       "LosslessFourierCompression": {
          "data/rule201_ic8932_identity.npy": 0.0,
-         "data/rule201_ic8932_reflection.npy": 0.05976614345480429,
-         "data/rule201_ic8932_rotation.npy": 0.05976614345480429,
+         "data/rule201_ic8932_reflection.npy": 0.0009164754796985415,
+         "data/rule201_ic8932_rotation.npy": 0.0009164754796985415,
          "data/rule201_ic8932_inversion.npy": 0.0,
-         "total": 0.11953228690960858
+         "total": 0.001832950959397083
       },
       "RunLengthEncoding": {
          "data/rule201_ic8932_identity.npy": 0.0,
@@ -11719,9 +11719,9 @@
       "LosslessFourierCompression": {
          "data/rule202_ic8932_identity.npy": 0.0,
          "data/rule202_ic8932_inversion.npy": 0.0,
-         "data/rule202_ic8932_rotation.npy": -0.002867857171535717,
-         "data/rule202_ic8932_reflection.npy": -0.002867857171535717,
-         "total": 0.005735714343071434
+         "data/rule202_ic8932_rotation.npy": 0.009012008883702346,
+         "data/rule202_ic8932_reflection.npy": 0.009012008883702346,
+         "total": 0.01802401776740469
       },
       "RunLengthEncoding": {
          "data/rule202_ic8932_identity.npy": 0.0,
@@ -11777,9 +11777,9 @@
       "LosslessFourierCompression": {
          "data/rule203_ic8932_identity.npy": 0.0,
          "data/rule203_ic8932_inversion.npy": 0.0,
-         "data/rule203_ic8932_reflection.npy": -1.501614135782194e-06,
-         "data/rule203_ic8932_rotation.npy": -0.00023683853311172874,
-         "total": 0.00023834014724751092
+         "data/rule203_ic8932_reflection.npy": -0.00015429085245162935,
+         "data/rule203_ic8932_rotation.npy": -0.00038218829686344354,
+         "total": 0.0005364791493150729
       },
       "RunLengthEncoding": {
          "data/rule203_ic8932_identity.npy": 0.0,
@@ -11835,9 +11835,9 @@
       "LosslessFourierCompression": {
          "data/rule204_ic8932_identity.npy": 0.0,
          "data/rule204_ic8932_inversion.npy": 0.0,
-         "data/rule204_ic8932_reflection.npy": -0.0005736850353042335,
-         "data/rule204_ic8932_rotation.npy": -0.000855358348848766,
-         "total": 0.0014290433841529994
+         "data/rule204_ic8932_reflection.npy": 0.0006111046639569062,
+         "data/rule204_ic8932_rotation.npy": 0.0003033652205495542,
+         "total": 0.0009144698845064604
       },
       "RunLengthEncoding": {
          "data/rule204_ic8932_identity.npy": 0.0,
@@ -11891,11 +11891,11 @@
    },
    "rule205_": {
       "LosslessFourierCompression": {
-         "data/rule205_ic8932_reflection.npy": -0.0012609015651672282,
+         "data/rule205_ic8932_reflection.npy": -0.00030355363875349733,
          "data/rule205_ic8932_identity.npy": 0.0,
-         "data/rule205_ic8932_rotation.npy": -0.0015704870936851967,
+         "data/rule205_ic8932_rotation.npy": -0.0006486709836692538,
          "data/rule205_ic8932_inversion.npy": 0.0,
-         "total": 0.0028313886588524247
+         "total": 0.0009522246224227511
       },
       "RunLengthEncoding": {
          "data/rule205_ic8932_reflection.npy": 0.0,
@@ -11951,9 +11951,9 @@
       "LosslessFourierCompression": {
          "data/rule206_ic8932_identity.npy": 0.0,
          "data/rule206_ic8932_inversion.npy": 0.0,
-         "data/rule206_ic8932_reflection.npy": -0.007112285785408579,
-         "data/rule206_ic8932_rotation.npy": -0.007112285785408579,
-         "total": 0.014224571570817158
+         "data/rule206_ic8932_reflection.npy": 0.0021384427859632636,
+         "data/rule206_ic8932_rotation.npy": 0.0021384427859632636,
+         "total": 0.004276885571926527
       },
       "RunLengthEncoding": {
          "data/rule206_ic8932_identity.npy": 0.0,
@@ -12008,10 +12008,10 @@
    "rule207_": {
       "LosslessFourierCompression": {
          "data/rule207_ic8932_identity.npy": 0.0,
-         "data/rule207_ic8932_reflection.npy": -0.00022719925585414026,
+         "data/rule207_ic8932_reflection.npy": 1.9081873405211116e-06,
          "data/rule207_ic8932_inversion.npy": 0.0,
-         "data/rule207_ic8932_rotation.npy": -0.0004863871401947651,
-         "total": 0.0007135863960489054
+         "data/rule207_ic8932_rotation.npy": -0.0001994102638603367,
+         "total": 0.00020131845120085782
       },
       "RunLengthEncoding": {
          "data/rule207_ic8932_identity.npy": 0.0,
@@ -12067,9 +12067,9 @@
       "LosslessFourierCompression": {
          "data/rule208_ic8932_identity.npy": 0.0,
          "data/rule208_ic8932_inversion.npy": 0.0,
-         "data/rule208_ic8932_reflection.npy": 0.061945714905171444,
-         "data/rule208_ic8932_rotation.npy": 0.061945714905171444,
-         "total": 0.12389142981034289
+         "data/rule208_ic8932_reflection.npy": 0.004735123311775793,
+         "data/rule208_ic8932_rotation.npy": 0.004735123311775793,
+         "total": 0.009470246623551585
       },
       "RunLengthEncoding": {
          "data/rule208_ic8932_identity.npy": 0.0,
@@ -12125,9 +12125,9 @@
       "LosslessFourierCompression": {
          "data/rule209_ic8932_inversion.npy": 0.0,
          "data/rule209_ic8932_identity.npy": 0.0,
-         "data/rule209_ic8932_reflection.npy": 0.005561904817523807,
-         "data/rule209_ic8932_rotation.npy": 0.005827254026526504,
-         "total": 0.01138915884405031
+         "data/rule209_ic8932_reflection.npy": 0.004165797634993366,
+         "data/rule209_ic8932_rotation.npy": 0.0043833448448208,
+         "total": 0.008549142479814167
       },
       "RunLengthEncoding": {
          "data/rule209_ic8932_inversion.npy": 0.0,
@@ -12183,9 +12183,9 @@
       "LosslessFourierCompression": {
          "data/rule210_ic8932_inversion.npy": 0.0,
          "data/rule210_ic8932_identity.npy": 0.0,
-         "data/rule210_ic8932_reflection.npy": -0.08752700087527009,
-         "data/rule210_ic8932_rotation.npy": -0.08752700087527009,
-         "total": 0.17505400175054017
+         "data/rule210_ic8932_reflection.npy": -0.0786641453407913,
+         "data/rule210_ic8932_rotation.npy": -0.0786641453407913,
+         "total": 0.1573282906815826
       },
       "RunLengthEncoding": {
          "data/rule210_ic8932_inversion.npy": 0.0,
@@ -12240,10 +12240,10 @@
    "rule211_": {
       "LosslessFourierCompression": {
          "data/rule211_ic8932_inversion.npy": 0.0,
-         "data/rule211_ic8932_reflection.npy": 0.04955657192413714,
+         "data/rule211_ic8932_reflection.npy": 0.005346106964908158,
          "data/rule211_ic8932_identity.npy": 0.0,
-         "data/rule211_ic8932_rotation.npy": 0.04955657192413714,
-         "total": 0.09911314384827428
+         "data/rule211_ic8932_rotation.npy": 0.005346106964908158,
+         "total": 0.010692213929816317
       },
       "RunLengthEncoding": {
          "data/rule211_ic8932_inversion.npy": 0.0,
@@ -12298,10 +12298,10 @@
    "rule212_": {
       "LosslessFourierCompression": {
          "data/rule212_ic8932_identity.npy": 0.0,
-         "data/rule212_ic8932_reflection.npy": 0.14287143000014285,
-         "data/rule212_ic8932_rotation.npy": 0.14297821493740742,
+         "data/rule212_ic8932_reflection.npy": -0.0030857760259210103,
+         "data/rule212_ic8932_rotation.npy": -0.002899721883181659,
          "data/rule212_ic8932_inversion.npy": 0.0,
-         "total": 0.2858496449375503
+         "total": 0.005985497909102669
       },
       "RunLengthEncoding": {
          "data/rule212_ic8932_identity.npy": 0.0,
@@ -12355,11 +12355,11 @@
    },
    "rule213_": {
       "LosslessFourierCompression": {
-         "data/rule213_ic8932_reflection.npy": 0.1424079379320159,
+         "data/rule213_ic8932_reflection.npy": -0.0003085776025921024,
          "data/rule213_ic8932_identity.npy": 0.0,
          "data/rule213_ic8932_inversion.npy": 0.0,
-         "data/rule213_ic8932_rotation.npy": 0.14254235063177273,
-         "total": 0.2849502885637886
+         "data/rule213_ic8932_rotation.npy": -0.0001342312571275643,
+         "total": 0.0004428088597196667
       },
       "RunLengthEncoding": {
          "data/rule213_ic8932_reflection.npy": -0.0015985612948346505,
@@ -12415,9 +12415,9 @@
       "LosslessFourierCompression": {
          "data/rule214_ic8932_inversion.npy": 0.0,
          "data/rule214_ic8932_identity.npy": 0.0,
-         "data/rule214_ic8932_rotation.npy": 0.07215528643583859,
-         "data/rule214_ic8932_reflection.npy": 0.07215528643583859,
-         "total": 0.14431057287167717
+         "data/rule214_ic8932_rotation.npy": -0.020009714640084823,
+         "data/rule214_ic8932_reflection.npy": -0.020009714640084823,
+         "total": 0.04001942928016965
       },
       "RunLengthEncoding": {
          "data/rule214_ic8932_inversion.npy": 0.0,
@@ -12473,9 +12473,9 @@
       "LosslessFourierCompression": {
          "data/rule215_ic8932_inversion.npy": 0.0,
          "data/rule215_ic8932_identity.npy": 0.0,
-         "data/rule215_ic8932_reflection.npy": -0.0005735714343071435,
-         "data/rule215_ic8932_rotation.npy": -0.0005735714343071435,
-         "total": 0.001147142868614287
+         "data/rule215_ic8932_reflection.npy": 0.0009164754796985308,
+         "data/rule215_ic8932_rotation.npy": 0.0009164754796985308,
+         "total": 0.0018329509593970617
       },
       "RunLengthEncoding": {
          "data/rule215_ic8932_inversion.npy": 0.0,
@@ -12531,9 +12531,9 @@
       "LosslessFourierCompression": {
          "data/rule216_ic8932_identity.npy": 0.0,
          "data/rule216_ic8932_inversion.npy": 0.0,
-         "data/rule216_ic8932_reflection.npy": 0.0012618571554757155,
-         "data/rule216_ic8932_rotation.npy": 0.0012618571554757155,
-         "total": 0.002523714310951431
+         "data/rule216_ic8932_reflection.npy": 0.0007637295664154727,
+         "data/rule216_ic8932_rotation.npy": 0.0007637295664154727,
+         "total": 0.0015274591328309454
       },
       "RunLengthEncoding": {
          "data/rule216_ic8932_identity.npy": 0.0,
@@ -12587,11 +12587,11 @@
    },
    "rule217_": {
       "LosslessFourierCompression": {
-         "data/rule217_ic8932_reflection.npy": 0.000342028153033938,
+         "data/rule217_ic8932_reflection.npy": -2.1799215123308534e-06,
          "data/rule217_ic8932_identity.npy": 0.0,
-         "data/rule217_ic8932_rotation.npy": 0.0001130944562229222,
+         "data/rule217_ic8932_rotation.npy": -0.0002308045825555135,
          "data/rule217_ic8932_inversion.npy": 0.0,
-         "total": 0.0004551226092568602
+         "total": 0.00023298450406784434
       },
       "RunLengthEncoding": {
          "data/rule217_ic8932_reflection.npy": 0.0,
@@ -12646,10 +12646,10 @@
    "rule218_": {
       "LosslessFourierCompression": {
          "data/rule218_ic8932_identity.npy": 0.0,
-         "data/rule218_ic8932_rotation.npy": -0.0429031432861743,
-         "data/rule218_ic8932_reflection.npy": -0.0429031432861743,
+         "data/rule218_ic8932_rotation.npy": 0.0004582377398492707,
+         "data/rule218_ic8932_reflection.npy": 0.0004582377398492707,
          "data/rule218_ic8932_inversion.npy": 0.0,
-         "total": 0.0858062865723486
+         "total": 0.0009164754796985415
       },
       "RunLengthEncoding": {
          "data/rule218_ic8932_identity.npy": 0.0,
@@ -12704,10 +12704,10 @@
    "rule219_": {
       "LosslessFourierCompression": {
          "data/rule219_ic8932_identity.npy": 0.0,
-         "data/rule219_ic8932_reflection.npy": -0.00011589619858962,
-         "data/rule219_ic8932_rotation.npy": -0.00031156256924976975,
+         "data/rule219_ic8932_reflection.npy": -0.0001543196683164156,
+         "data/rule219_ic8932_rotation.npy": -0.00038228895087145747,
          "data/rule219_ic8932_inversion.npy": 0.0,
-         "total": 0.00042745876783938975
+         "total": 0.0005366086191878731
       },
       "RunLengthEncoding": {
          "data/rule219_ic8932_identity.npy": 0.0,
@@ -12761,11 +12761,11 @@
    },
    "rule220_": {
       "LosslessFourierCompression": {
-         "data/rule220_ic8932_rotation.npy": -0.0009177142948914214,
-         "data/rule220_ic8932_reflection.npy": -0.0009177142948914214,
+         "data/rule220_ic8932_rotation.npy": 0.00672082018445596,
+         "data/rule220_ic8932_reflection.npy": 0.00672082018445596,
          "data/rule220_ic8932_identity.npy": 0.0,
          "data/rule220_ic8932_inversion.npy": 0.0,
-         "total": 0.0018354285897828428
+         "total": 0.01344164036891192
       },
       "RunLengthEncoding": {
          "data/rule220_ic8932_rotation.npy": 0.06414227195524029,
@@ -12819,11 +12819,11 @@
    },
    "rule221_": {
       "LosslessFourierCompression": {
-         "data/rule221_ic8932_reflection.npy": 0.0010346336295514549,
-         "data/rule221_ic8932_rotation.npy": 0.0007818498866268736,
+         "data/rule221_ic8932_reflection.npy": 1.452993058744619e-06,
+         "data/rule221_ic8932_rotation.npy": -0.00022935158949676887,
          "data/rule221_ic8932_inversion.npy": 0.0,
          "data/rule221_ic8932_identity.npy": 0.0,
-         "total": 0.0018164835161783286
+         "total": 0.0002308045825555135
       },
       "RunLengthEncoding": {
          "data/rule221_ic8932_reflection.npy": 0.0,
@@ -12877,11 +12877,11 @@
    },
    "rule222_": {
       "LosslessFourierCompression": {
-         "data/rule222_ic8932_rotation.npy": -0.0020082437375377356,
+         "data/rule222_ic8932_rotation.npy": -0.007747663505176694,
          "data/rule222_ic8932_inversion.npy": 0.0,
          "data/rule222_ic8932_identity.npy": 0.0,
-         "data/rule222_ic8932_reflection.npy": -0.0026650793917301608,
-         "total": 0.004673323129267897
+         "data/rule222_ic8932_reflection.npy": -0.008485884071282772,
+         "total": 0.016233547576459464
       },
       "RunLengthEncoding": {
          "data/rule222_ic8932_rotation.npy": 0.032171046058547315,
@@ -12937,9 +12937,9 @@
       "LosslessFourierCompression": {
          "data/rule223_ic8932_inversion.npy": 0.0,
          "data/rule223_ic8932_reflection.npy": 0.0,
-         "data/rule223_ic8932_rotation.npy": -0.00036021804453950906,
+         "data/rule223_ic8932_rotation.npy": -0.0004796423854397567,
          "data/rule223_ic8932_identity.npy": 0.0,
-         "total": 0.00036021804453950906
+         "total": 0.0004796423854397567
       },
       "RunLengthEncoding": {
          "data/rule223_ic8932_inversion.npy": 0.0,
@@ -12995,9 +12995,9 @@
       "LosslessFourierCompression": {
          "data/rule224_ic8932_rotation.npy": 0.0,
          "data/rule224_ic8932_identity.npy": 0.0,
-         "data/rule224_ic8932_inversion.npy": -0.011471428686142858,
+         "data/rule224_ic8932_inversion.npy": -0.01527459132830901,
          "data/rule224_ic8932_reflection.npy": 0.0,
-         "total": 0.011471428686142858
+         "total": 0.01527459132830901
       },
       "RunLengthEncoding": {
          "data/rule224_ic8932_rotation.npy": 0.0,
@@ -13051,11 +13051,11 @@
    },
    "rule225_": {
       "LosslessFourierCompression": {
-         "data/rule225_ic8932_rotation.npy": 0.022254571651117164,
-         "data/rule225_ic8932_reflection.npy": 0.022254571651117164,
+         "data/rule225_ic8932_rotation.npy": 0.06674996410471044,
+         "data/rule225_ic8932_reflection.npy": 0.06674996410471044,
          "data/rule225_ic8932_identity.npy": 0.0,
          "data/rule225_ic8932_inversion.npy": 0.0,
-         "total": 0.04450914330223433
+         "total": 0.1334999282094209
       },
       "RunLengthEncoding": {
          "data/rule225_ic8932_rotation.npy": 0.0007992806474173252,
@@ -13110,10 +13110,10 @@
    "rule226_": {
       "LosslessFourierCompression": {
          "data/rule226_ic8932_inversion.npy": 0.0,
-         "data/rule226_ic8932_rotation.npy": -0.001268423293107519,
+         "data/rule226_ic8932_rotation.npy": -0.0009219512195092473,
          "data/rule226_ic8932_identity.npy": 0.0,
-         "data/rule226_ic8932_reflection.npy": -0.0012618571554757155,
-         "total": 0.0025302804485832346
+         "data/rule226_ic8932_reflection.npy": -0.0009164754796985415,
+         "total": 0.0018384266992077887
       },
       "RunLengthEncoding": {
          "data/rule226_ic8932_inversion.npy": 0.0,
@@ -13167,11 +13167,11 @@
    },
    "rule227_": {
       "LosslessFourierCompression": {
-         "data/rule227_ic8932_rotation.npy": 0.08121771509789144,
+         "data/rule227_ic8932_rotation.npy": 0.005346106964908153,
          "data/rule227_ic8932_inversion.npy": 0.0,
-         "data/rule227_ic8932_reflection.npy": 0.08121771509789144,
+         "data/rule227_ic8932_reflection.npy": 0.005346106964908153,
          "data/rule227_ic8932_identity.npy": 0.0,
-         "total": 0.16243543019578288
+         "total": 0.010692213929816306
       },
       "RunLengthEncoding": {
          "data/rule227_ic8932_rotation.npy": -0.001398741132980319,
@@ -13226,10 +13226,10 @@
    "rule228_": {
       "LosslessFourierCompression": {
          "data/rule228_ic8932_inversion.npy": 0.0,
-         "data/rule228_ic8932_rotation.npy": -0.0006875174089035356,
-         "data/rule228_ic8932_reflection.npy": -0.0004564008439439184,
+         "data/rule228_ic8932_rotation.npy": 8.739287592910631e-05,
+         "data/rule228_ic8932_reflection.npy": 0.0003085806008781405,
          "data/rule228_ic8932_identity.npy": 0.0,
-         "total": 0.001143918252847454
+         "total": 0.00039597347680724683
       },
       "RunLengthEncoding": {
          "data/rule228_ic8932_inversion.npy": 0.0,
@@ -13284,10 +13284,10 @@
    "rule229_": {
       "LosslessFourierCompression": {
          "data/rule229_ic8932_inversion.npy": 0.0,
-         "data/rule229_ic8932_reflection.npy": 0.0005735714343071435,
-         "data/rule229_ic8932_rotation.npy": 0.0005735714343071435,
+         "data/rule229_ic8932_reflection.npy": 0.00320766417894489,
+         "data/rule229_ic8932_rotation.npy": 0.00320766417894489,
          "data/rule229_ic8932_identity.npy": 0.0,
-         "total": 0.001147142868614287
+         "total": 0.00641532835788978
       },
       "RunLengthEncoding": {
          "data/rule229_ic8932_inversion.npy": 0.0,
@@ -13342,10 +13342,10 @@
    "rule230_": {
       "LosslessFourierCompression": {
          "data/rule230_ic8932_inversion.npy": 0.0,
-         "data/rule230_ic8932_rotation.npy": -0.048983000489830016,
-         "data/rule230_ic8932_reflection.npy": -0.048983000489830016,
+         "data/rule230_ic8932_rotation.npy": 0.009775738450117775,
+         "data/rule230_ic8932_reflection.npy": 0.009775738450117775,
          "data/rule230_ic8932_identity.npy": 0.0,
-         "total": 0.09796600097966003
+         "total": 0.01955147690023555
       },
       "RunLengthEncoding": {
          "data/rule230_ic8932_inversion.npy": 0.0,
@@ -13400,10 +13400,10 @@
    "rule231_": {
       "LosslessFourierCompression": {
          "data/rule231_ic8932_inversion.npy": 0.0,
-         "data/rule231_ic8932_reflection.npy": -0.0008111111192222173,
-         "data/rule231_ic8932_rotation.npy": -0.00041946032165491806,
+         "data/rule231_ic8932_reflection.npy": -0.004782952840177571,
+         "data/rule231_ic8932_rotation.npy": -0.004434260149248494,
          "data/rule231_ic8932_identity.npy": 0.0,
-         "total": 0.0012305714408771353
+         "total": 0.009217212989426064
       },
       "RunLengthEncoding": {
          "data/rule231_ic8932_inversion.npy": 0.0,
@@ -13457,11 +13457,11 @@
    },
    "rule232_": {
       "LosslessFourierCompression": {
-         "data/rule232_ic8932_rotation.npy": -0.00020276761861892474,
-         "data/rule232_ic8932_reflection.npy": -0.00011995383478899755,
+         "data/rule232_ic8932_rotation.npy": -0.00039814889858610345,
+         "data/rule232_ic8932_reflection.npy": -0.0003166454840467529,
          "data/rule232_ic8932_inversion.npy": 0.0,
          "data/rule232_ic8932_identity.npy": 0.0,
-         "total": 0.0003227214534079223
+         "total": 0.0007147943826328563
       },
       "RunLengthEncoding": {
          "data/rule232_ic8932_rotation.npy": 0.016285343191127986,
@@ -13515,11 +13515,11 @@
    },
    "rule233_": {
       "LosslessFourierCompression": {
-         "data/rule233_ic8932_reflection.npy": 0.00011663859308174847,
-         "data/rule233_ic8932_rotation.npy": -6.456171565063201e-05,
+         "data/rule233_ic8932_reflection.npy": -0.00046218667452425325,
+         "data/rule233_ic8932_rotation.npy": -0.0007115034276084076,
          "data/rule233_ic8932_inversion.npy": 0.0,
          "data/rule233_ic8932_identity.npy": 0.0,
-         "total": 0.0001812003087323805
+         "total": 0.0011736901021326609
       },
       "RunLengthEncoding": {
          "data/rule233_ic8932_reflection.npy": 0.0,
@@ -13574,10 +13574,10 @@
    "rule234_": {
       "LosslessFourierCompression": {
          "data/rule234_ic8932_inversion.npy": 0.0,
-         "data/rule234_ic8932_rotation.npy": -0.0823648579665057,
-         "data/rule234_ic8932_reflection.npy": -0.0823648579665057,
+         "data/rule234_ic8932_rotation.npy": -0.006873566097739061,
+         "data/rule234_ic8932_reflection.npy": -0.006873566097739061,
          "data/rule234_ic8932_identity.npy": 0.0,
-         "total": 0.1647297159330114
+         "total": 0.013747132195478122
       },
       "RunLengthEncoding": {
          "data/rule234_ic8932_inversion.npy": 0.0,
@@ -13632,10 +13632,10 @@
    "rule235_": {
       "LosslessFourierCompression": {
          "data/rule235_ic8932_reflection.npy": 0.0,
-         "data/rule235_ic8932_rotation.npy": 0.005341194308891913,
-         "data/rule235_ic8932_inversion.npy": 0.011471428686142858,
+         "data/rule235_ic8932_rotation.npy": 0.007111979031170334,
+         "data/rule235_ic8932_inversion.npy": 0.01527459132830901,
          "data/rule235_ic8932_identity.npy": 0.0,
-         "total": 0.016812622995034773
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule235_ic8932_reflection.npy": 0.0,
@@ -13689,11 +13689,11 @@
    },
    "rule236_": {
       "LosslessFourierCompression": {
-         "data/rule236_ic8932_rotation.npy": 0.0007971591203780532,
+         "data/rule236_ic8932_rotation.npy": -0.0002190986334997165,
          "data/rule236_ic8932_inversion.npy": 0.0,
-         "data/rule236_ic8932_reflection.npy": 0.0010332469952144133,
+         "data/rule236_ic8932_reflection.npy": 0.0,
          "data/rule236_ic8932_identity.npy": 0.0,
-         "total": 0.0018304061155924665
+         "total": 0.0002190986334997165
       },
       "RunLengthEncoding": {
          "data/rule236_ic8932_rotation.npy": 0.05644919572384855,
@@ -13747,11 +13747,11 @@
    },
    "rule237_": {
       "LosslessFourierCompression": {
-         "data/rule237_ic8932_reflection.npy": -0.00023111957519251713,
-         "data/rule237_ic8932_rotation.npy": -0.000430439914798136,
+         "data/rule237_ic8932_reflection.npy": 8.649685450442422e-07,
+         "data/rule237_ic8932_rotation.npy": -0.00022432435682128837,
          "data/rule237_ic8932_inversion.npy": 0.0,
          "data/rule237_ic8932_identity.npy": 0.0,
-         "total": 0.0006615594899906531
+         "total": 0.0002251893253663326
       },
       "RunLengthEncoding": {
          "data/rule237_ic8932_reflection.npy": 0.0,
@@ -13805,11 +13805,11 @@
    },
    "rule238_": {
       "LosslessFourierCompression": {
-         "data/rule238_ic8932_rotation.npy": 0.00573571434307143,
+         "data/rule238_ic8932_rotation.npy": 0.0009164754796985415,
          "data/rule238_ic8932_identity.npy": 0.0,
          "data/rule238_ic8932_inversion.npy": 0.0,
-         "data/rule238_ic8932_reflection.npy": 0.00573571434307143,
-         "total": 0.01147142868614286
+         "data/rule238_ic8932_reflection.npy": 0.0009164754796985415,
+         "total": 0.001832950959397083
       },
       "RunLengthEncoding": {
          "data/rule238_ic8932_rotation.npy": 0.0001998201618543313,
@@ -13863,11 +13863,11 @@
    },
    "rule239_": {
       "LosslessFourierCompression": {
-         "data/rule239_ic8932_rotation.npy": 0.005341194308891913,
+         "data/rule239_ic8932_rotation.npy": 0.007111979031170334,
          "data/rule239_ic8932_reflection.npy": 0.0,
-         "data/rule239_ic8932_inversion.npy": 0.011471428686142858,
+         "data/rule239_ic8932_inversion.npy": 0.01527459132830901,
          "data/rule239_ic8932_identity.npy": 0.0,
-         "total": 0.016812622995034773
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule239_ic8932_rotation.npy": 0.0,
@@ -13923,9 +13923,9 @@
       "LosslessFourierCompression": {
          "data/rule240_ic8932_identity.npy": 0.0,
          "data/rule240_ic8932_inversion.npy": 0.0,
-         "data/rule240_ic8932_rotation.npy": -0.2199072879133586,
-         "data/rule240_ic8932_reflection.npy": -0.2199072879133586,
-         "total": 0.4398145758267172
+         "data/rule240_ic8932_rotation.npy": 0.0,
+         "data/rule240_ic8932_reflection.npy": 0.0,
+         "total": 0.0
       },
       "RunLengthEncoding": {
          "data/rule240_ic8932_identity.npy": 0.0,
@@ -13980,10 +13980,10 @@
    "rule241_": {
       "LosslessFourierCompression": {
          "data/rule241_ic8932_identity.npy": 0.0,
-         "data/rule241_ic8932_reflection.npy": 0.05116257194019713,
+         "data/rule241_ic8932_reflection.npy": -0.003207664178944895,
          "data/rule241_ic8932_inversion.npy": 0.0,
-         "data/rule241_ic8932_rotation.npy": 0.05116257194019713,
-         "total": 0.10232514388039426
+         "data/rule241_ic8932_rotation.npy": -0.003207664178944895,
+         "total": 0.00641532835788979
       },
       "RunLengthEncoding": {
          "data/rule241_ic8932_identity.npy": 0.0,
@@ -14039,9 +14039,9 @@
       "LosslessFourierCompression": {
          "data/rule242_ic8932_inversion.npy": 0.0,
          "data/rule242_ic8932_identity.npy": 0.0,
-         "data/rule242_ic8932_rotation.npy": -0.011471428686142869,
-         "data/rule242_ic8932_reflection.npy": -0.011471428686142869,
-         "total": 0.022942857372285737
+         "data/rule242_ic8932_rotation.npy": -0.0029021723523787145,
+         "data/rule242_ic8932_reflection.npy": -0.0029021723523787145,
+         "total": 0.005804344704757429
       },
       "RunLengthEncoding": {
          "data/rule242_ic8932_inversion.npy": 0.0,
@@ -14095,11 +14095,11 @@
    },
    "rule243_": {
       "LosslessFourierCompression": {
-         "data/rule243_ic8932_reflection.npy": 0.15589671584468145,
+         "data/rule243_ic8932_reflection.npy": -0.003207664178944895,
          "data/rule243_ic8932_identity.npy": 0.0,
          "data/rule243_ic8932_inversion.npy": 0.0,
-         "data/rule243_ic8932_rotation.npy": 0.15589671584468145,
-         "total": 0.3117934316893629
+         "data/rule243_ic8932_rotation.npy": -0.003207664178944895,
+         "total": 0.00641532835788979
       },
       "RunLengthEncoding": {
          "data/rule243_ic8932_reflection.npy": -0.0005994604855629939,
@@ -14154,10 +14154,10 @@
    "rule244_": {
       "LosslessFourierCompression": {
          "data/rule244_ic8932_identity.npy": 0.0,
-         "data/rule244_ic8932_reflection.npy": 0.011471428686142853,
+         "data/rule244_ic8932_reflection.npy": 0.0010692213929816318,
          "data/rule244_ic8932_inversion.npy": 0.0,
-         "data/rule244_ic8932_rotation.npy": 0.011444777892225543,
-         "total": 0.022916206578368396
+         "data/rule244_ic8932_rotation.npy": 0.0010642599491752479,
+         "total": 0.0021334813421568797
       },
       "RunLengthEncoding": {
          "data/rule244_ic8932_identity.npy": 0.0,
@@ -14211,11 +14211,11 @@
    },
    "rule245_": {
       "LosslessFourierCompression": {
-         "data/rule245_ic8932_reflection.npy": -0.028968254257936515,
+         "data/rule245_ic8932_reflection.npy": 0.001080021609072353,
          "data/rule245_ic8932_identity.npy": 0.0,
          "data/rule245_ic8932_inversion.npy": 0.0,
-         "data/rule245_ic8932_rotation.npy": -0.028510555840661117,
-         "total": 0.057478810098597635
+         "data/rule245_ic8932_rotation.npy": 0.001291397266847943,
+         "total": 0.0023714188759202956
       },
       "RunLengthEncoding": {
          "data/rule245_ic8932_reflection.npy": -0.0007992806474173252,
@@ -14271,9 +14271,9 @@
       "LosslessFourierCompression": {
          "data/rule246_ic8932_inversion.npy": 0.0,
          "data/rule246_ic8932_identity.npy": 0.0,
-         "data/rule246_ic8932_reflection.npy": 0.0160600001606,
-         "data/rule246_ic8932_rotation.npy": 0.0160600001606,
-         "total": 0.0321200003212
+         "data/rule246_ic8932_reflection.npy": -0.000610983653132361,
+         "data/rule246_ic8932_rotation.npy": -0.000610983653132361,
+         "total": 0.001221967306264722
       },
       "RunLengthEncoding": {
          "data/rule246_ic8932_inversion.npy": 0.0,
@@ -14327,11 +14327,11 @@
    },
    "rule247_": {
       "LosslessFourierCompression": {
-         "data/rule247_ic8932_reflection.npy": 0.0019501428766442836,
-         "data/rule247_ic8932_inversion.npy": 0.0,
+         "data/rule247_ic8932_reflection.npy": 0.012983402629062658,
+         "data/rule247_ic8932_inversion.npy": 0.01267791080249648,
          "data/rule247_ic8932_identity.npy": 0.0,
-         "data/rule247_ic8932_rotation.npy": 0.0019501428766442836,
-         "total": 0.0039002857532885672
+         "data/rule247_ic8932_rotation.npy": 0.012983402629062658,
+         "total": 0.038644716060621795
       },
       "RunLengthEncoding": {
          "data/rule247_ic8932_reflection.npy": -0.0001998201618543313,
@@ -14387,9 +14387,9 @@
       "LosslessFourierCompression": {
          "data/rule248_ic8932_identity.npy": 0.0,
          "data/rule248_ic8932_inversion.npy": 0.0,
-         "data/rule248_ic8932_rotation.npy": -0.13272442989867286,
-         "data/rule248_ic8932_reflection.npy": -0.13272442989867286,
-         "total": 0.2654488597973457
+         "data/rule248_ic8932_rotation.npy": 0.000610983653132361,
+         "data/rule248_ic8932_reflection.npy": 0.000610983653132361,
+         "total": 0.001221967306264722
       },
       "RunLengthEncoding": {
          "data/rule248_ic8932_identity.npy": 0.0,
@@ -14444,10 +14444,10 @@
    "rule249_": {
       "LosslessFourierCompression": {
          "data/rule249_ic8932_identity.npy": 0.0,
-         "data/rule249_ic8932_inversion.npy": 0.011471428686142858,
+         "data/rule249_ic8932_inversion.npy": 0.01527459132830901,
          "data/rule249_ic8932_reflection.npy": 0.0,
-         "data/rule249_ic8932_rotation.npy": 0.005341194308891913,
-         "total": 0.016812622995034773
+         "data/rule249_ic8932_rotation.npy": 0.007111979031170334,
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule249_ic8932_identity.npy": 0.0,
@@ -14503,9 +14503,9 @@
       "LosslessFourierCompression": {
          "data/rule250_ic8932_identity.npy": 0.0,
          "data/rule250_ic8932_inversion.npy": 0.0,
-         "data/rule250_ic8932_rotation.npy": -0.01261857155475714,
-         "data/rule250_ic8932_reflection.npy": -0.01261857155475714,
-         "total": 0.02523714310951428
+         "data/rule250_ic8932_rotation.npy": 0.0003054918265661698,
+         "data/rule250_ic8932_reflection.npy": 0.0003054918265661698,
+         "total": 0.0006109836531323396
       },
       "RunLengthEncoding": {
          "data/rule250_ic8932_identity.npy": 0.0,
@@ -14561,9 +14561,9 @@
       "LosslessFourierCompression": {
          "data/rule251_ic8932_reflection.npy": 0.0,
          "data/rule251_ic8932_identity.npy": 0.0,
-         "data/rule251_ic8932_inversion.npy": 0.011471428686142858,
-         "data/rule251_ic8932_rotation.npy": 0.005341194308891913,
-         "total": 0.016812622995034773
+         "data/rule251_ic8932_inversion.npy": 0.01527459132830901,
+         "data/rule251_ic8932_rotation.npy": 0.007111979031170334,
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule251_ic8932_reflection.npy": 0.0,
@@ -14618,10 +14618,10 @@
    "rule252_": {
       "LosslessFourierCompression": {
          "data/rule252_ic8932_identity.npy": 0.0,
-         "data/rule252_ic8932_rotation.npy": 0.0017207143029214264,
-         "data/rule252_ic8932_reflection.npy": 0.0017207143029214264,
+         "data/rule252_ic8932_rotation.npy": 0.004735123311775798,
+         "data/rule252_ic8932_reflection.npy": 0.004735123311775798,
          "data/rule252_ic8932_inversion.npy": 0.0,
-         "total": 0.0034414286058428527
+         "total": 0.009470246623551596
       },
       "RunLengthEncoding": {
          "data/rule252_ic8932_identity.npy": 0.0,
@@ -14677,9 +14677,9 @@
       "LosslessFourierCompression": {
          "data/rule253_ic8932_identity.npy": 0.0,
          "data/rule253_ic8932_reflection.npy": 0.0,
-         "data/rule253_ic8932_rotation.npy": 0.005341194308891913,
-         "data/rule253_ic8932_inversion.npy": 0.011471428686142858,
-         "total": 0.016812622995034773
+         "data/rule253_ic8932_rotation.npy": 0.007111979031170334,
+         "data/rule253_ic8932_inversion.npy": 0.01527459132830901,
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule253_ic8932_identity.npy": 0.0,
@@ -14735,9 +14735,9 @@
       "LosslessFourierCompression": {
          "data/rule254_ic8932_identity.npy": 0.0,
          "data/rule254_ic8932_inversion.npy": 0.0,
-         "data/rule254_ic8932_rotation.npy": 0.00034978865682330545,
-         "data/rule254_ic8932_reflection.npy": -0.00012577154224381154,
-         "total": 0.000475560199067117
+         "data/rule254_ic8932_rotation.npy": -0.006331664514054839,
+         "data/rule254_ic8932_reflection.npy": -0.006955991073896079,
+         "total": 0.01328765558795092
       },
       "RunLengthEncoding": {
          "data/rule254_ic8932_identity.npy": 0.0,
@@ -14791,11 +14791,11 @@
    },
    "rule255_": {
       "LosslessFourierCompression": {
-         "data/rule255_ic8932_inversion.npy": 0.011471428686142858,
+         "data/rule255_ic8932_inversion.npy": 0.01527459132830901,
          "data/rule255_ic8932_identity.npy": 0.0,
          "data/rule255_ic8932_reflection.npy": 0.0,
-         "data/rule255_ic8932_rotation.npy": 0.005341194308891913,
-         "total": 0.016812622995034773
+         "data/rule255_ic8932_rotation.npy": 0.007111979031170334,
+         "total": 0.022386570359479344
       },
       "RunLengthEncoding": {
          "data/rule255_ic8932_inversion.npy": 0.0,
@@ -14850,10 +14850,10 @@
    "averages": {
       "LosslessFourierCompression": {
          "identity": 0.0,
-         "inversion": 0.0011244254204704452,
-         "rotation": 0.03648698172110443,
-         "reflection": 0.03631924437536223,
-         "total": 0.07393065151693705
+         "inversion": 0.0012452380191353978,
+         "rotation": 0.010592717250278947,
+         "reflection": 0.01041027290123816,
+         "total": 0.022248228170652518
       },
       "RunLengthEncoding": {
          "identity": 0.0,
