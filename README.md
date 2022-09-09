@@ -33,7 +33,7 @@ from metrics.lossless_fourier_compression_metric import LosslessFourierCompressi
 
 LosslessFourierCompression(spacetime_evolution=spacetime_evolution,verbose=True)
 ```
-![](images/FourierCompressionRule110.png)
+![](images/rule110_findingFourierFilter.png)
 
 ---
 
